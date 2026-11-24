@@ -1,0 +1,98 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#12345a">
+<title>TNPSC Learning App</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;font-family:Arial,sans-serif;background:#f2f5fa;color:#172b45}
+header{background:#12345a;color:white;padding:22px 18px;border-radius:0 0 22px 22px}
+header h1{margin:0;font-size:25px}
+header p{margin:8px 0 0;color:#dce8f8}
+.container{padding:16px;max-width:650px;margin:auto}
+.welcome{background:white;padding:17px;border-radius:15px;margin-bottom:16px}
+.welcome h2{margin:0 0 8px;color:#12345a}
+.section-title{font-size:19px;font-weight:bold;margin:22px 0 12px}
+.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+.item{background:white;padding:17px 12px;border-radius:15px;text-align:center;box-shadow:0 2px 8px #0000000c;cursor:pointer}
+.item .emoji{font-size:30px}
+.item h3{font-size:15px;margin:10px 0 4px}
+.item p{font-size:12px;color:#66768a;margin:0}
+button{border:0;border-radius:10px;padding:12px;background:#e5edf8;color:#12345a;font-weight:bold;cursor:pointer}
+.primary{background:#e3ad35;color:#172b45;width:100%;margin-top:12px}
+.card{background:white;padding:16px;border-radius:15px;margin-bottom:12px}
+footer{text-align:center;color:#77869a;padding:25px;font-size:12px}
+nav{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
+nav button{flex:1}
+#content{min-height:180px}
+</style>
+</head>
+<body>
+<header>
+<h1>🎓 TNPSC Learning App</h1>
+<p>தமிழ்நாடு அரசுப் பணிக்கான உங்கள் பயணம்!</p>
+<p>Learn • Practice • Succeed</p>
+</header>
+
+<main class="container">
+<div class="welcome">
+<h2>வணக்கம்! Welcome Student 👋</h2>
+<p>Prepare for all TNPSC examinations in Tamil and English.</p>
+<strong>உங்கள் இலக்கை அடைய இன்றே தொடங்குங்கள்!</strong>
+</div>
+
+<div class="section-title">📚 Exam Categories / தேர்வுகள்</div>
+<div class="grid">
+<div class="item" onclick="openSection('Group 1')">
+<div class="emoji">🏆</div><h3>Group 1</h3><p>முதன்மைத் தேர்வுகள்</p>
+</div>
+<div class="item" onclick="openSection('Group 2 & 2A')">
+<div class="emoji">🎯</div><h3>Group 2 & 2A</h3><p>Combined Civil Services</p>
+</div>
+<div class="item" onclick="openSection('Group 3')">
+<div class="emoji">📖</div><h3>Group 3</h3><p>Combined Services</p>
+</div>
+<div class="item" onclick="openSection('Group 4 & VAO')">
+<div class="emoji">📝</div><h3>Group 4 & VAO</h3><p>தொகுதி 4 மற்றும் VAO</p>
+</div>
+</div>
+
+<div class="section-title">📘 Learning Centre / கற்றல் மையம்</div>
+<div class="grid">
+<div class="item" onclick="openSection('Tamil')"><div class="emoji">🔤</div><h3>Tamil</h3><p>தமிழ் மொழி</p></div>
+<div class="item" onclick="openSection('General Studies')"><div class="emoji">🌍</div><h3>General Studies</h3><p>பொது அறிவு</p></div>
+<div class="item" onclick="openSection('Aptitude')"><div class="emoji">🧮</div><h3>Aptitude</h3><p>கணிதத் திறன்</p></div>
+<div class="item" onclick="openSection('Current Affairs')"><div class="emoji">📰</div><h3>Current Affairs</h3><p>நடப்பு நிகழ்வுகள்</p></div>
+</div>
+
+<div class="section-title">🚀 Practice Zone</div>
+<div class="grid">
+<div class="item" onclick="openSection('Daily Quiz')"><div class="emoji">❓</div><h3>Daily Quiz</h3><p>தினசரி வினாடி வினா</p></div>
+<div class="item" onclick="openSection('Mock Test')"><div class="emoji">⏱️</div><h3>Mock Test</h3><p>மாதிரித் தேர்வு</p></div>
+<div class="item" onclick="openSection('Previous Papers')"><div class="emoji">📄</div><h3>Previous Papers</h3><p>முந்தைய வினாத்தாள்கள்</p></div>
+<div class="item" onclick="openSection('My Progress')"><div class="emoji">📊</div><h3>My Progress</h3><p>எனது முன்னேற்றம்</p></div>
+</div>
+
+<div class="section-title">📌 Learning Dashboard</div>
+<div class="card">
+<strong>Welcome to your TNPSC preparation!</strong>
+<p>Complete lessons and practice questions to improve your preparation.</p>
+</div>
+
+<div id="content"></div>
+</main>
+
+<footer>TNPSC Learning App • Learn Today, Lead Tomorrow</footer>
+
+<script>
+function openSection(name){
+document.getElementById('content').innerHTML=
+'<div class="card"><h2>'+name+'</h2><p>இந்தப் பகுதி விரைவில் பாடங்கள் மற்றும் பயிற்சி வினாக்களுடன் உருவாக்கப்படும்.</p><p>Study • Practice • Improve</p><button onclick="document.getElementById(\'content\').innerHTML=\'\'">Back to Home</button></div>';
+document.getElementById('content').scrollIntoView({behavior:'smooth'});
+}
+</script>
+</body>
+</html>
