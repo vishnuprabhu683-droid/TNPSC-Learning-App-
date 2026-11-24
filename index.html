@@ -101,13 +101,20 @@ document.getElementById('content').scrollIntoView({behavior:'smooth'});
 
 <script>
 
+
 const oldOpenSection = openSection;
 
 openSection = function(name) {
   const language =
     localStorage.getItem("tnpscLanguage") || "ta";
 
-  if (name === "Daily Quiz" || name === "Mock Test") {
+  if (name === "Daily Quiz") {
+    setTNPSCLanguage(language);
+    startTNPSCQuiz("All", "practice");
+    return;
+  }
+
+  if (name === "Mock Test") {
     setTNPSCLanguage(language);
     startTNPSCQuiz("All", "mock");
     return;
@@ -119,7 +126,7 @@ openSection = function(name) {
   }
 
   if (name === "General Studies") {
-    openTNPSCStudy("General Studies", language);
+    openTNPSCStudy("Indian Polity", language);
     return;
   }
 
@@ -140,6 +147,7 @@ openSection = function(name) {
 
   oldOpenSection(name);
 };
+
 </script>
 
 <script>
