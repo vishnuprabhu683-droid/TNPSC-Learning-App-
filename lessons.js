@@ -145,9 +145,9 @@ Array.from(area.parentElement.children).forEach(el => {
 
   area.innerHTML = `
     <div class="card">
-      <button onclick="openTNPSCStudy('General Studies','${language}')">
-        ← Back / பின்செல்
-      </button>
+      <button onclick="closeTNPSCStudy()">
+  ← Back / பின்செல்
+</button>
       <h2>${subject}</h2>
       ${lessons.map((lesson,index) => `
         <div style="background:#f2f5fa;padding:15px;border-radius:12px;margin:12px 0">
