@@ -97,26 +97,44 @@ document.getElementById('content').scrollIntoView({behavior:'smooth'});
 
 <script src="questions.js"></script>
 <script src="quiz.js"></script>
+<script src="lessons.js"></script>
 
 <script>
+
 const oldOpenSection = openSection;
 
 openSection = function(name) {
+  const language =
+    localStorage.getItem("tnpscLanguage") || "ta";
+
   if (name === "Daily Quiz" || name === "Mock Test") {
-    setTNPSCLanguage("ta");
+    setTNPSCLanguage(language);
     startTNPSCQuiz("All");
     return;
   }
 
   if (name === "Tamil") {
-    setTNPSCLanguage("ta");
-    startTNPSCQuiz("Tamil");
+    openTNPSCStudy("Tamil Literature", language);
     return;
   }
 
   if (name === "General Studies") {
-    setTNPSCLanguage("ta");
-    startTNPSCQuiz("Indian Polity");
+    openTNPSCStudy("General Studies", language);
+    return;
+  }
+
+  if (name === "Aptitude") {
+    openTNPSCStudy("Aptitude", language);
+    return;
+  }
+
+  if (
+    name === "Group 1" ||
+    name === "Group 2 & 2A" ||
+    name === "Group 3" ||
+    name === "Group 4 & VAO"
+  ) {
+    openTNPSCStudy("General Studies", language);
     return;
   }
 
