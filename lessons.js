@@ -163,3 +163,13 @@ Array.from(area.parentElement.children).forEach(el => {
 
   area.scrollIntoView({behavior:"smooth"});
 }
+function closeTNPSCStudy() {
+  const area = document.getElementById("content");
+
+  Array.from(area.parentElement.children).forEach(el => {
+    el.style.display = "";
+  });
+
+  area.innerHTML = "";
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
