@@ -170,4 +170,346 @@ en:"Thirukkural contains 1330 couplets in 133 chapters.",
 ta:"திருக்குறளில் 133 அதிகாரங்களில் மொத்தம் 1330 குறட்பாக்கள் உள்ளன."
 }
 }
+
+,
+{
+id:11,
+subject:"Tamil",
+question:{
+en:"Which is the oldest extant Tamil grammar book?",
+ta:"தற்போது கிடைக்கப்பெறும் மிகப் பழமையான தமிழ் இலக்கண நூல் எது?"
+},
+options:{
+en:["Thirukkural","Tolkappiyam","Nannool","Silappathikaram"],
+ta:["திருக்குறள்","தொல்காப்பியம்","நன்னூல்","சிலப்பதிகாரம்"]
+},
+answer:1,
+explanation:{
+en:"Tolkappiyam is the oldest extant Tamil grammar work.",
+ta:"தொல்காப்பியம் தற்போது கிடைக்கப்பெறும் மிகப் பழமையான தமிழ் இலக்கண நூலாகும்."
+}
+},
+{
+id:12,
+subject:"Tamil",
+question:{
+en:"Who wrote Silappathikaram?",
+ta:"சிலப்பதிகாரத்தை இயற்றியவர் யார்?"
+},
+options:{
+en:["Sattanar","Ilango Adigal","Kambar","Kapilar"],
+ta:["சீத்தலைச் சாத்தனார்","இளங்கோவடிகள்","கம்பர்","கபிலர்"]
+},
+answer:1,
+explanation:{
+en:"Silappathikaram was written by Ilango Adigal.",
+ta:"சிலப்பதிகாரத்தை இயற்றியவர் இளங்கோவடிகள்."
+}
+},
+{
+id:13,
+subject:"Tamil",
+question:{
+en:"Who wrote Manimekalai?",
+ta:"மணிமேகலையை இயற்றியவர் யார்?"
+},
+options:{
+en:["Ilango Adigal","Thiruvalluvar","Sattanar","Avvaiyar"],
+ta:["இளங்கோவடிகள்","திருவள்ளுவர்","சீத்தலைச் சாத்தனார்","ஔவையார்"]
+},
+answer:2,
+explanation:{
+en:"Manimekalai was written by Sattanar.",
+ta:"மணிமேகலையை இயற்றியவர் சீத்தலைச் சாத்தனார்."
+}
+},
+{
+id:14,
+subject:"Tamil",
+question:{
+en:"How many books are there in the Eighteen Major Works (Pathinenmelkanakku)?",
+ta:"பதினெண்மேல்கணக்கில் எத்தனை நூல்கள் உள்ளன?"
+},
+options:{
+en:["10","12","18","20"],
+ta:["10","12","18","20"]
+},
+answer:2,
+explanation:{
+en:"Pathinenmelkanakku consists of 18 works.",
+ta:"பதினெண்மேல்கணக்கில் 18 நூல்கள் உள்ளன."
+}
+},
+{
+id:15,
+subject:"Tamil",
+question:{
+en:"Which is the first book in the Thirukkural?",
+ta:"திருக்குறளின் முதல் அதிகாரம் எது?"
+},
+options:{
+en:["In Praise of Rain","The Excellence of Renunciation","The Praise of God","Domestic Life"],
+ta:["வான்சிறப்பு","நீத்தார் பெருமை","கடவுள் வாழ்த்து","இல்வாழ்க்கை"]
+},
+answer:2,
+explanation:{
+en:"The first chapter of Thirukkural is In Praise of God (Kadavul Vazhthu).",
+ta:"திருக்குறளின் முதல் அதிகாரம் கடவுள் வாழ்த்து."
+}
+},
+{
+id:16,
+subject:"Tamil",
+question:{
+en:"How many divisions are there in Thirukkural?",
+ta:"திருக்குறளில் எத்தனை பால் உள்ளன?"
+},
+options:{
+en:["Two","Three","Four","Five"],
+ta:["இரண்டு","மூன்று","நான்கு","ஐந்து"]
+},
+answer:1,
+explanation:{
+en:"Thirukkural has three divisions: Aram, Porul and Inbam.",
+ta:"திருக்குறள் அறம், பொருள், இன்பம் என மூன்று பால்களைக் கொண்டது."
+}
+},
+{
+id:17,
+subject:"Tamil",
+question:{
+en:"Who is known as the Father of Tamil prose?",
+ta:"தமிழ் உரைநடையின் தந்தை என்று அழைக்கப்படுபவர் யார்?"
+},
+options:{
+en:["Maraimalai Adigal","U. V. Swaminatha Iyer","Veeramamunivar","Bharathiyar"],
+ta:["மறைமலை அடிகள்","உ.வே. சாமிநாதையர்","வீரமாமுனிவர்","பாரதியார்"]
+},
+answer:2,
+explanation:{
+en:"Veeramamunivar is commonly known as the Father of Tamil prose.",
+ta:"வீரமாமுனிவர் தமிழ் உரைநடையின் தந்தை என்று அழைக்கப்படுகிறார்."
+}
+},
+{
+id:18,
+subject:"Tamil",
+question:{
+en:"Who wrote the Tamil epic Seevaka Chinthamani?",
+ta:"சீவக சிந்தாமணியை இயற்றியவர் யார்?"
+},
+options:{
+en:["Thiruthakkathevar","Kambar","Sattanar","Avvaiyar"],
+ta:["திருத்தக்கதேவர்","கம்பர்","சீத்தலைச் சாத்தனார்","ஔவையார்"]
+},
+answer:0,
+explanation:{
+en:"Seevaka Chinthamani was composed by Thiruthakkathevar.",
+ta:"சீவக சிந்தாமணியை இயற்றியவர் திருத்தக்கதேவர்."
+}
+},
+{
+id:19,
+subject:"Tamil",
+question:{
+en:"Which literary work was written by Kambar?",
+ta:"கம்பர் இயற்றிய நூல் எது?"
+},
+options:{
+en:["Manimekalai","Kamba Ramayanam","Silappathikaram","Naladiyar"],
+ta:["மணிமேகலை","கம்பராமாயணம்","சிலப்பதிகாரம்","நாலடியார்"]
+},
+answer:1,
+explanation:{
+en:"Kambar composed the famous Kamba Ramayanam.",
+ta:"கம்பர் புகழ்பெற்ற கம்பராமாயணத்தை இயற்றினார்."
+}
+},
+{
+id:20,
+subject:"Tamil",
+question:{
+en:"Who wrote Naladiyar?",
+ta:"நாலடியாரை இயற்றியவர்கள் யார்?"
+},
+options:{
+en:["One poet","Jain monks","Kambar","Avvaiyar"],
+ta:["ஒரு புலவர்","சமண முனிவர்கள்","கம்பர்","ஔவையார்"]
+},
+answer:1,
+explanation:{
+en:"Naladiyar is traditionally attributed to Jain ascetics.",
+ta:"நாலடியார் சமண முனிவர்களால் இயற்றப்பட்டதாகக் கருதப்படுகிறது."
+}
+},
+{
+id:21,
+subject:"Tamil",
+question:{
+en:"How many letters are there in the Tamil alphabet according to traditional classification?",
+ta:"மரபு வழித் தமிழ் எழுத்துகளின் மொத்த எண்ணிக்கை எத்தனை?"
+},
+options:{
+en:["216","247","246","248"],
+ta:["216","247","246","248"]
+},
+answer:1,
+explanation:{
+en:"Tamil has 247 letters: 12 vowels, 18 consonants, 216 compound letters and one Aaytham.",
+ta:"தமிழில் 12 உயிரெழுத்துகள், 18 மெய்யெழுத்துகள், 216 உயிர்மெய்யெழுத்துகள், ஒரு ஆய்த எழுத்து என மொத்தம் 247 எழுத்துகள் உள்ளன."
+}
+},
+{
+id:22,
+subject:"Tamil",
+question:{
+en:"How many vowels are there in Tamil?",
+ta:"தமிழில் உயிரெழுத்துகள் எத்தனை?"
+},
+options:{
+en:["10","12","18","30"],
+ta:["10","12","18","30"]
+},
+answer:1,
+explanation:{
+en:"Tamil has 12 vowels.",
+ta:"தமிழில் 12 உயிரெழுத்துகள் உள்ளன."
+}
+},
+{
+id:23,
+subject:"Tamil",
+question:{
+en:"How many consonants are there in Tamil?",
+ta:"தமிழில் மெய்யெழுத்துகள் எத்தனை?"
+},
+options:{
+en:["12","18","216","247"],
+ta:["12","18","216","247"]
+},
+answer:1,
+explanation:{
+en:"Tamil has 18 consonants.",
+ta:"தமிழில் 18 மெய்யெழுத்துகள் உள்ளன."
+}
+},
+{
+id:24,
+subject:"Tamil",
+question:{
+en:"Which of the following is a short vowel in Tamil?",
+ta:"பின்வருவனவற்றுள் குறில் எழுத்து எது?"
+},
+options:{
+en:["ஆ","ஈ","அ","ஊ"],
+ta:["ஆ","ஈ","அ","ஊ"]
+},
+answer:2,
+explanation:{
+en:"அ is a short vowel (Kuril).",
+ta:"அ என்பது குறில் எழுத்தாகும்."
+}
+},
+{
+id:25,
+subject:"Tamil",
+question:{
+en:"Which of the following is a long vowel in Tamil?",
+ta:"பின்வருவனவற்றுள் நெடில் எழுத்து எது?"
+},
+options:{
+en:["அ","இ","உ","ஏ"],
+ta:["அ","இ","உ","ஏ"]
+},
+answer:3,
+explanation:{
+en:"ஏ is a long vowel (Nedil).",
+ta:"ஏ என்பது நெடில் எழுத்தாகும்."
+}
+},
+{
+id:26,
+subject:"Tamil",
+question:{
+en:"What is the other name for Kurinji in the five-fold landscape classification?",
+ta:"ஐந்திணைப் பாகுபாட்டில் குறிஞ்சியின் நிலம் எது?"
+},
+options:{
+en:["Forest","Mountain","Seashore","Farmland"],
+ta:["காடு","மலை","கடற்கரை","வயல்"]
+},
+answer:1,
+explanation:{
+en:"Kurinji represents the mountainous landscape.",
+ta:"குறிஞ்சி என்பது மலை சார்ந்த நிலத்தைக் குறிக்கும்."
+}
+},
+{
+id:27,
+subject:"Tamil",
+question:{
+en:"Which landscape is associated with the seashore?",
+ta:"கடலும் கடல் சார்ந்த நிலமும் குறிக்கும் திணை எது?"
+},
+options:{
+en:["Mullai","Marutham","Neithal","Paalai"],
+ta:["முல்லை","மருதம்","நெய்தல்","பாலை"]
+},
+answer:2,
+explanation:{
+en:"Neithal represents the seashore landscape.",
+ta:"நெய்தல் என்பது கடலும் கடல் சார்ந்த நிலத்தையும் குறிக்கும்."
+}
+},
+{
+id:28,
+subject:"Tamil",
+question:{
+en:"Who is popularly known as Mahakavi Bharathiyar?",
+ta:"மகாகவி என்று போற்றப்படுபவர் யார்?"
+},
+options:{
+en:["Bharathidasan","Subramania Bharathiyar","Kavimani","Namakkal Kavignar"],
+ta:["பாரதிதாசன்","சுப்பிரமணிய பாரதியார்","கவிமணி","நாமக்கல் கவிஞர்"]
+},
+answer:1,
+explanation:{
+en:"Subramania Bharathiyar is popularly known as Mahakavi.",
+ta:"சுப்பிரமணிய பாரதியார் மகாகவி என்று போற்றப்படுகிறார்."
+}
+},
+{
+id:29,
+subject:"Tamil",
+question:{
+en:"Who founded the Pure Tamil Movement?",
+ta:"தனித்தமிழ் இயக்கத்தைத் தொடங்கியவர் யார்?"
+},
+options:{
+en:["Periyar","Maraimalai Adigal","Bharathiyar","U. V. Swaminatha Iyer"],
+ta:["பெரியார்","மறைமலை அடிகள்","பாரதியார்","உ.வே. சாமிநாதையர்"]
+},
+answer:1,
+explanation:{
+en:"Maraimalai Adigal founded the Pure Tamil Movement.",
+ta:"தனித்தமிழ் இயக்கத்தைத் தொடங்கியவர் மறைமலை அடிகள்."
+}
+},
+{
+id:30,
+subject:"Tamil",
+question:{
+en:"Who is known as the Tamil Thatha?",
+ta:"தமிழ்த் தாத்தா என்று அழைக்கப்படுபவர் யார்?"
+},
+options:{
+en:["U. V. Swaminatha Iyer","Maraimalai Adigal","Kambar","Bharathidasan"],
+ta:["உ.வே. சாமிநாதையர்","மறைமலை அடிகள்","கம்பர்","பாரதிதாசன்"]
+},
+answer:0,
+explanation:{
+en:"U. V. Swaminatha Iyer is known as Tamil Thatha for his work in preserving ancient Tamil literature.",
+ta:"பழந்தமிழ் இலக்கியங்களைப் பதிப்பித்து பாதுகாத்த பணிக்காக உ.வே. சாமிநாதையர் தமிழ்த் தாத்தா என்று அழைக்கப்படுகிறார்."
+}
+}
 ];
