@@ -102,15 +102,6 @@ document.getElementById('content').scrollIntoView({behavior:'smooth'});
 <script src="progress.js"></script>
 
 <script>
-
-if (name === "Previous Papers") {
-  openTNPSCPreviousPapers();
-  return;
-}
-if (name === "My Progress") {
-  openTNPSCProgress();
-  return;
-}
 const oldOpenSection = openSection;
 
 openSection = function(name) {
@@ -154,66 +145,18 @@ openSection = function(name) {
     return;
   }
 
-  oldOpenSection(name);
-};
-
-</script>
-
-<script>
-(function() {
-  const header = document.querySelector("header");
-
-  const languageBar = document.createElement("div");
-  languageBar.style.cssText =
-    "display:flex;gap:10px;margin-top:15px;";
-
-  languageBar.innerHTML = `
-    <button id="tnpscTamil"
-      style="background:#e3ad35;color:#12345a">
-      தமிழ்
-    </button>
-    <button id="tnpscEnglish"
-      style="background:white;color:#12345a">
-      English
-    </button>
-  `;
-
-  header.appendChild(languageBar);
-
-  function selectLanguage(lang) {
-    setTNPSCLanguage(lang);
-
-    document.getElementById("tnpscTamil").style.background =
-      lang === "ta" ? "#e3ad35" : "white";
-
-    document.getElementById("tnpscEnglish").style.background =
-      lang === "en" ? "#e3ad35" : "white";
-
-    if (typeof quizQuestions !== "undefined" &&
-        quizQuestions.length > 0) {
-      showTNPSCQuestion();
-    }
-
-    localStorage.setItem("tnpscLanguage", lang);
+  if (name === "Previous Papers") {
+    openTNPSCPreviousPapers();
+    return;
   }
 
-  document.getElementById("tnpscTamil").onclick =
-    () => selectLanguage("ta");
+  if (name === "My Progress") {
+    openTNPSCProgress();
+    return;
+  }
 
-  document.getElementById("tnpscEnglish").onclick =
-    () => selectLanguage("en");
-
-  const savedLanguage =
-    localStorage.getItem("tnpscLanguage") || "ta";
-
-  selectLanguage(savedLanguage);
-})();
+  oldOpenSection(name);
+};
 </script>
-</body>
-</html>
-
-</body>
-</html>
-
 </body>
 </html>
