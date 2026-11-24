@@ -94,5 +94,37 @@ document.getElementById('content').innerHTML=
 document.getElementById('content').scrollIntoView({behavior:'smooth'});
 }
 </script>
+
+<script src="questions.js"></script>
+<script src="quiz.js"></script>
+
+<script>
+const oldOpenSection = openSection;
+
+openSection = function(name) {
+  if (name === "Daily Quiz" || name === "Mock Test") {
+    setTNPSCLanguage("ta");
+    startTNPSCQuiz("All");
+    return;
+  }
+
+  if (name === "Tamil") {
+    setTNPSCLanguage("ta");
+    startTNPSCQuiz("Tamil");
+    return;
+  }
+
+  if (name === "General Studies") {
+    setTNPSCLanguage("ta");
+    startTNPSCQuiz("Indian Polity");
+    return;
+  }
+
+  oldOpenSection(name);
+};
+</script>
+</body>
+</html>
+
 </body>
 </html>
