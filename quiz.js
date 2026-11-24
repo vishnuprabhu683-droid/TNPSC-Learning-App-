@@ -172,6 +172,7 @@ function finishTNPSCExam() {
 
   const total = quizQuestions.length;
   const percentage = Math.round((quizScore / total) * 100);
+saveTNPSCResult(quizScore, total);
   const ta = quizLanguage === "ta";
 
   try {
