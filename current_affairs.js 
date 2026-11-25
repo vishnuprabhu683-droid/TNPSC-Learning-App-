@@ -223,3 +223,729 @@ const tnpscCurrentAffairsLessons = [
   }
 
 ];
+
+const january2025Batch2 = [
+
+{
+title:"January 2025 – 11. BHARATPOL Portal",
+en:"The CBI-developed BHARATPOL portal was launched by Union Home Minister Amit Shah on 7 January 2025. It improves coordination between Indian law-enforcement agencies and INTERPOL.",
+ta:"சிபிஐ உருவாக்கிய BHARATPOL இணையதளத்தை மத்திய உள்துறை அமைச்சர் அமித் ஷா 2025 ஜனவரி 7 அன்று தொடங்கி வைத்தார். இது இந்திய காவல்துறைக்கும் INTERPOL அமைப்புக்கும் இடையிலான ஒருங்கிணைப்பை மேம்படுத்துகிறது.",
+points:["Launch: 7 January 2025","Agency: CBI","Purpose: INTERPOL coordination"],
+mcqs:[{q:"BHARATPOL was developed by which agency?",options:["CBI","RBI","ISRO","NITI Aayog"],answer:"CBI"}]
+},
+
+{
+title:"January 2025 – 12. Organic Fish Cluster in Sikkim",
+en:"India's first organic fisheries cluster was launched in Sikkim to promote sustainable aquaculture, organic fish production and better opportunities for fish farmers.",
+ta:"நிலையான மீன் வளர்ப்பு மற்றும் இயற்கை மீன் உற்பத்தியை ஊக்குவிக்க இந்தியாவின் முதல் இயற்கை மீன்வளத் தொகுப்பு சிக்கிமில் தொடங்கப்பட்டது.",
+points:["State: Sikkim","Sector: Fisheries","Focus: Organic aquaculture"],
+mcqs:[{q:"India's first organic fisheries cluster was launched in which state?",options:["Sikkim","Kerala","Assam","Punjab"],answer:"Sikkim"}]
+},
+
+{
+title:"January 2025 – 13. e-Shram Portal in 22 Languages",
+en:"The e-Shram portal was made accessible in all 22 languages listed in the Eighth Schedule of the Constitution. It supports registration and welfare access for unorganised workers.",
+ta:"அரசியலமைப்பின் எட்டாவது அட்டவணையில் உள்ள 22 மொழிகளிலும் e-Shram இணையதளம் பயன்படுத்தும் வசதி விரிவுபடுத்தப்பட்டது. அமைப்புசாரா தொழிலாளர்களின் பதிவு மற்றும் நலத்திட்ட அணுகலை இது எளிதாக்குகிறது.",
+points:["Portal: e-Shram","Languages: 22","Beneficiaries: Unorganised workers"],
+mcqs:[{q:"How many scheduled languages are supported by the expanded e-Shram portal?",options:["18","20","22","24"],answer:"22"}]
+},
+
+{
+title:"January 2025 – 14. Cashless Road Accident Treatment",
+en:"The Union Government announced a cashless treatment framework for eligible road accident victims. The announced coverage was up to ₹1.5 lakh per victim for treatment up to seven days, subject to conditions.",
+ta:"சாலை விபத்தில் பாதிக்கப்பட்ட தகுதியுடையவர்களுக்கு பணமில்லா மருத்துவச் சிகிச்சை வழங்கும் திட்டத்தை மத்திய அரசு அறிவித்தது. அறிவிக்கப்பட்ட வரம்பு ஒருவருக்கு அதிகபட்சம் ₹1.5 லட்சம் வரை ஏழு நாட்களுக்கான சிகிச்சையாகும்.",
+points:["Announced: January 2025","Coverage announced: Up to ₹1.5 lakh","Maximum period: 7 days"],
+mcqs:[{q:"What was the announced maximum cashless treatment coverage?",options:["₹50,000","₹1 lakh","₹1.5 lakh","₹5 lakh"],answer:"₹1.5 lakh"}]
+},
+
+{
+title:"January 2025 – 15. Z-Morh Tunnel",
+en:"Prime Minister Narendra Modi inaugurated the Z-Morh Tunnel in Jammu and Kashmir on 13 January 2025. The tunnel improves all-weather connectivity to Sonamarg and supports the Srinagar-Leh corridor.",
+ta:"பிரதமர் நரேந்திர மோடி 2025 ஜனவரி 13 அன்று ஜம்மு காஷ்மீரில் சட்-மோர் சுரங்கப்பாதையைத் திறந்து வைத்தார். இது சோன்மார்க் பகுதிக்கான அனைத்து காலநிலைப் போக்குவரத்து வசதியையும் மேம்படுத்துகிறது.",
+points:["Location: Ganderbal, Jammu and Kashmir","Inauguration: 13 January 2025","Connects: Sonamarg"],
+mcqs:[{q:"Z-Morh Tunnel is located in which Union Territory?",options:["Ladakh","Jammu and Kashmir","Delhi","Puducherry"],answer:"Jammu and Kashmir"}]
+},
+
+{
+title:"January 2025 – 16. Grameen Bharat Mahotsav",
+en:"Prime Minister Narendra Modi inaugurated Grameen Bharat Mahotsav 2025 on 4 January at Bharat Mandapam, New Delhi. The event was organised from 4 to 9 January to showcase rural entrepreneurship and culture.",
+ta:"கிராமப்புறத் தொழில்முனைவு மற்றும் பண்பாட்டை வெளிப்படுத்தும் Grameen Bharat Mahotsav 2025 நிகழ்வை பிரதமர் நரேந்திர மோடி ஜனவரி 4 அன்று புதுதில்லியில் தொடங்கி வைத்தார். இந்நிகழ்வு ஜனவரி 4 முதல் 9 வரை நடைபெற்றது.",
+points:["Dates: 4–9 January 2025","Venue: Bharat Mandapam, New Delhi","Focus: Rural development"],
+mcqs:[{q:"Grameen Bharat Mahotsav 2025 was inaugurated in which city?",options:["Mumbai","New Delhi","Chennai","Jaipur"],answer:"New Delhi"}]
+},
+
+{
+title:"January 2025 – 17. Government of India Calendar 2025",
+en:"Union Minister Ashwini Vaishnaw unveiled the Government of India Calendar 2025 on 7 January. Its theme was 'Janbhagidari se Jankalyan', highlighting public participation in public welfare.",
+ta:"மத்திய அமைச்சர் அஸ்வினி வைஷ்ணவ் 2025 ஜனவரி 7 அன்று இந்திய அரசின் 2025ஆம் ஆண்டுக்கான நாட்காட்டியை வெளியிட்டார். இதன் கருப்பொருள் 'ஜன்பாகிதாரி சே ஜன் கல்யாண்' என்பதாகும்.",
+points:["Released: 7 January 2025","Minister: Ashwini Vaishnaw","Theme: Janbhagidari se Jankalyan"],
+mcqs:[{q:"What was the theme of the Government of India Calendar 2025?",options:["Digital India","Janbhagidari se Jankalyan","Make in India","Sabka Saath"],answer:"Janbhagidari se Jankalyan"}]
+},
+
+{
+title:"January 2025 – 18. Faral Sakhi Initiative",
+en:"The Faral Sakhi initiative was highlighted as a programme supporting women entrepreneurs involved in traditional snack production. It aims to strengthen livelihoods and promote local food enterprises.",
+ta:"பாரம்பரிய சிற்றுண்டி தயாரிப்பில் ஈடுபடும் பெண்தொழில்முனைவோரை ஊக்குவிக்கும் Faral Sakhi முயற்சி அறிமுகப்படுத்தப்பட்டது. பெண்களின் வாழ்வாதாரத்தையும் உள்ளூர் உணவுத் தொழில்களையும் மேம்படுத்துவது இதன் நோக்கமாகும்.",
+points:["Initiative: Faral Sakhi","Focus: Women entrepreneurship","Sector: Traditional food production"],
+mcqs:[{q:"Faral Sakhi is associated with which area?",options:["Space research","Traditional snack production","Banking","Sports"],answer:"Traditional snack production"}]
+},
+
+{
+title:"January 2025 – 19. Panchayat Se Parliament 2.0",
+en:"Panchayat Se Parliament 2.0 was organised to empower women representatives from Panchayati Raj institutions and strengthen their understanding of parliamentary processes and democratic institutions.",
+ta:"Panchayat Se Parliament 2.0 நிகழ்ச்சி ஊராட்சி அமைப்புகளில் உள்ள பெண்கள் பிரதிநிதிகளின் திறனை மேம்படுத்தவும் நாடாளுமன்ற நடைமுறைகள் குறித்த புரிதலை வளர்க்கவும் ஏற்பாடு செய்யப்பட்டது.",
+points:["Programme: Panchayat Se Parliament 2.0","Focus: Women representatives","Subject: Democratic participation"],
+mcqs:[{q:"Panchayat Se Parliament 2.0 primarily seeks to empower whom?",options:["Women elected representatives","Industrialists","Athletes","Foreign tourists"],answer:"Women elected representatives"}]
+},
+
+{
+title:"January 2025 – 20. Namo Bharat RRTS",
+en:"The Namo Bharat Regional Rapid Transit System was part of the national push for faster regional transport in the National Capital Region. The system is designed to improve high-speed connectivity between urban centres.",
+ta:"தேசிய தலைநகர் பிராந்தியத்தில் வேகமான போக்குவரத்தை மேம்படுத்த Namo Bharat பிராந்திய விரைவு போக்குவரத்து அமைப்பு உருவாக்கப்படுகிறது. நகரங்களுக்கு இடையிலான பயண நேரத்தைக் குறைப்பது இதன் நோக்கமாகும்.",
+points:["Transport: Regional Rapid Transit System","Brand: Namo Bharat","Region: National Capital Region"],
+mcqs:[{q:"Namo Bharat is associated with which transport system?",options:["Metro freight","Regional Rapid Transit","Inland waterways","Air taxis"],answer:"Regional Rapid Transit"}]
+},
+
+{
+title:"January 2025 – 21. Indigenous Conductive Ink Technology",
+en:"Indigenous conductive ink technology developed in India was transferred to startups in Punjab and Telangana. The technology can support printed electronics and related manufacturing applications.",
+ta:"இந்தியாவில் உருவாக்கப்பட்ட உள்நாட்டு மின்கடத்தும் மை தொழில்நுட்பம் பஞ்சாப் மற்றும் தெலங்கானா மாநிலங்களைச் சேர்ந்த ஸ்டார்ட்அப் நிறுவனங்களுக்கு மாற்றப்பட்டது. அச்சிடப்பட்ட மின்னணு சாதனங்கள் தயாரிப்பில் இது பயன்படலாம்.",
+points:["Technology: Conductive ink","Recipients: Startups","States: Punjab and Telangana"],
+mcqs:[{q:"Conductive ink technology is related to which field?",options:["Printed electronics","Traditional farming","Marine fishing","Textile dyeing"],answer:"Printed electronics"}]
+},
+
+{
+title:"January 2025 – 22. Odisha Implements Ayushman Bharat PM-JAY",
+en:"Odisha became the 34th state or Union Territory to implement the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana framework. The programme aims to improve access to hospital treatment for eligible families.",
+ta:"ஆயுஷ்மான் பாரத் பிரதான் மந்திரி ஜன் ஆரோக்ய யோஜனா திட்டத்தைச் செயல்படுத்திய 34வது மாநிலம் அல்லது யூனியன் பிரதேசமாக ஒடிசா ஆனது. தகுதியுடைய குடும்பங்களுக்கு மருத்துவமனைச் சிகிச்சை கிடைப்பதை மேம்படுத்துவது இதன் நோக்கமாகும்.",
+points:["State: Odisha","Scheme: Ayushman Bharat PM-JAY","Milestone: 34th state/UT"],
+mcqs:[{q:"Which state became the 34th to implement the PM-JAY framework?",options:["Odisha","Tamil Nadu","Goa","Bihar"],answer:"Odisha"}]
+},
+
+{
+title:"January 2025 – 23. C-DOT and IIT Mandi Agreement",
+en:"The Centre for Development of Telematics and IIT Mandi signed an agreement to develop a wideband spectrum sensor for dynamic spectrum access. The project supports advanced telecommunications research.",
+ta:"தொலைத்தொடர்பு மேம்பாட்டு மையமான C-DOT மற்றும் IIT மண்டி ஆகியவை Dynamic Spectrum Access பயன்பாட்டிற்கான Wideband Spectrum Sensor உருவாக்க ஒப்பந்தம் செய்தன. இது தொலைத்தொடர்பு ஆராய்ச்சியை மேம்படுத்தும்.",
+points:["Organisations: C-DOT and IIT Mandi","Technology: Wideband spectrum sensor","Field: Telecommunications"],
+mcqs:[{q:"C-DOT signed the spectrum sensor development agreement with which institution?",options:["IIT Madras","IIT Mandi","IIT Bombay","IISc"],answer:"IIT Mandi"}]
+},
+
+{
+title:"January 2025 – 24. National Turmeric Board",
+en:"Union Commerce and Industry Minister Piyush Goyal launched the National Turmeric Board in January 2025. The board is intended to support turmeric farmers, improve value addition, expand exports and promote research.",
+ta:"மத்திய வர்த்தக மற்றும் தொழில்துறை அமைச்சர் பியூஷ் கோயல் 2025 ஜனவரியில் தேசிய மஞ்சள் வாரியத்தைத் தொடங்கி வைத்தார். மஞ்சள் விவசாயிகளுக்கு ஆதரவு, மதிப்புக் கூட்டல், ஏற்றுமதி மற்றும் ஆராய்ச்சியை மேம்படுத்துவது இதன் நோக்கமாகும்.",
+points:["Board: National Turmeric Board","Minister: Piyush Goyal","Sector: Agriculture and exports"],
+mcqs:[{q:"The National Turmeric Board is associated with which crop?",options:["Pepper","Turmeric","Cotton","Tea"],answer:"Turmeric"}]
+},
+
+{
+title:"January 2025 – 25. Humanitarian Assistance to Cuba",
+en:"India sent humanitarian assistance to Cuba following the impact of Hurricane Rafael. The assistance reflected India's humanitarian outreach and cooperation with countries affected by natural disasters.",
+ta:"ஹரிக்கேன் ரஃபேல் புயலால் பாதிக்கப்பட்ட கியூபாவிற்கு இந்தியா மனிதாபிமான உதவிகளை அனுப்பியது. இயற்கைப் பேரிடர்களால் பாதிக்கப்பட்ட நாடுகளுக்கு உதவும் இந்தியாவின் அணுகுமுறையை இது எடுத்துக்காட்டுகிறது.",
+points:["Country assisted: Cuba","Disaster: Hurricane Rafael","Nature: Humanitarian assistance"],
+mcqs:[{q:"India sent humanitarian assistance after Hurricane Rafael to which country?",options:["Cuba","Japan","Nepal","Kenya"],answer:"Cuba"}]
+},
+
+{
+title:"January 2025 – 26. India Joins UN Panel on Data",
+en:"India joined a United Nations panel dealing with data for official statistics. The work is connected with improving the quality, availability and use of statistical information for public policy.",
+ta:"அதிகாரப்பூர்வ புள்ளிவிவரங்களுக்கான தரவுகள் தொடர்பான ஐக்கிய நாடுகள் குழுவில் இந்தியா இணைந்தது. பொதுக் கொள்கை முடிவுகளுக்குத் தேவையான தரவுகளின் தரம் மற்றும் பயன்பாட்டை மேம்படுத்துவது இதன் நோக்கமாகும்.",
+points:["Organisation: United Nations","Subject: Data for official statistics","Focus: Statistical systems"],
+mcqs:[{q:"India joined a UN panel dealing with which subject?",options:["Space tourism","Data for official statistics","Ocean sports","Film production"],answer:"Data for official statistics"}]
+},
+
+{
+title:"January 2025 – 27. AWBI and NALSAR MoU",
+en:"The Animal Welfare Board of India and NALSAR University of Law signed an MoU to support training and capacity-building for animal welfare representatives.",
+ta:"இந்திய விலங்கு நல வாரியம் மற்றும் NALSAR சட்டப் பல்கலைக்கழகம் விலங்கு நலப் பிரதிநிதிகளுக்குப் பயிற்சி வழங்குவதற்கான புரிந்துணர்வு ஒப்பந்தத்தில் கையெழுத்திட்டன.",
+points:["Organisations: AWBI and NALSAR","Area: Animal welfare","Purpose: Training and capacity-building"],
+mcqs:[{q:"The AWBI-NALSAR agreement is related to which subject?",options:["Animal welfare","Space science","Banking","Railways"],answer:"Animal welfare"}]
+},
+
+{
+title:"January 2025 – 28. Agricultural and Food Exports Target",
+en:"India announced an ambition to increase exports from food and beverages, agriculture and marine sectors, targeting a combined export value of 100 billion US dollars within five years.",
+ta:"உணவு மற்றும் பானங்கள், வேளாண்மை மற்றும் கடல்சார் துறைகளின் ஏற்றுமதியை ஐந்து ஆண்டுகளில் 100 பில்லியன் அமெரிக்க டாலராக உயர்த்த இந்தியா இலக்கு நிர்ணயித்தது.",
+points:["Target: 100 billion US dollars","Period: Five years","Sectors: Food, agriculture and marine products"],
+mcqs:[{q:"What export target was highlighted for food, agriculture and marine sectors?",options:["$25 billion","$50 billion","$100 billion","$200 billion"],answer:"$100 billion"}]
+},
+
+{
+title:"January 2025 – 29. Watershed Development Projects",
+en:"The Union Government approved 56 new watershed development projects worth about ₹700 crore. Watershed development supports soil and water conservation, groundwater recharge and rural livelihoods.",
+ta:"சுமார் ₹700 கோடி மதிப்பிலான 56 புதிய நீர்ப்பிடிப்புப் பகுதி மேம்பாட்டுத் திட்டங்களுக்கு மத்திய அரசு ஒப்புதல் அளித்தது. மண் மற்றும் நீர் பாதுகாப்பு, நிலத்தடி நீர் செறிவூட்டல் மற்றும் கிராமப்புற வாழ்வாதாரம் ஆகியவற்றை இது ஆதரிக்கிறது.",
+points:["Projects: 56","Value: About ₹700 crore","Focus: Soil and water conservation"],
+mcqs:[{q:"How many new watershed projects were approved?",options:["26","36","46","56"],answer:"56"}]
+},
+
+{
+title:"January 2025 – 30. DAP Fertiliser Subsidy",
+en:"The Union Cabinet extended special support for Di-Ammonium Phosphate fertiliser to protect farmers from international price fluctuations and maintain its availability at affordable rates.",
+ta:"சர்வதேச விலை மாற்றங்களால் விவசாயிகள் பாதிக்கப்படாமல் இருக்கவும் DAP உரம் நியாயமான விலையில் கிடைக்கவும் மத்திய அமைச்சரவை சிறப்பு ஆதரவை நீட்டித்தது.",
+points:["Fertiliser: DAP","Full form: Di-Ammonium Phosphate","Beneficiaries: Farmers"],
+mcqs:[{q:"DAP stands for what?",options:["Di-Ammonium Phosphate","Direct Agriculture Policy","Dual Ammonia Product","District Agriculture Programme"],answer:"Di-Ammonium Phosphate"}]
+},
+
+{
+title:"January 2025 – 31. Pradhan Mantri Fasal Bima Yojana Extension",
+en:"The Union Cabinet extended the Pradhan Mantri Fasal Bima Yojana and the Restructured Weather Based Crop Insurance Scheme for the period up to 2025–26. These schemes protect farmers against specified crop losses and weather-related risks.",
+ta:"பிரதான் மந்திரி ஃபசல் பீமா யோஜனா மற்றும் மறுசீரமைக்கப்பட்ட வானிலை அடிப்படையிலான பயிர் காப்பீட்டுத் திட்டம் 2025–26 வரை நீட்டிக்கப்பட்டது. பயிர் இழப்பு மற்றும் வானிலை அபாயங்களிலிருந்து விவசாயிகளைப் பாதுகாப்பதே இதன் நோக்கமாகும்.",
+points:["Scheme: PM Fasal Bima Yojana","Extension: Up to 2025–26","Purpose: Crop insurance"],
+mcqs:[{q:"PM Fasal Bima Yojana is primarily a scheme for which sector?",options:["Agriculture","Tourism","Banking","Education"],answer:"Agriculture"}]
+},
+
+{
+title:"January 2025 – 32. Third Launch Pad at Sriharikota",
+en:"The Union Cabinet approved the establishment of a third launch pad at the Satish Dhawan Space Centre, Sriharikota. It is intended to support future launch vehicles and India's expanding space programme.",
+ta:"ஸ்ரீஹரிகோட்டாவில் உள்ள சதீஷ் தவான் விண்வெளி மையத்தில் மூன்றாவது ஏவுதளத்தை அமைக்க மத்திய அமைச்சரவை ஒப்புதல் அளித்தது. எதிர்கால ஏவுகலன்கள் மற்றும் இந்திய விண்வெளித் திட்டத்தின் வளர்ச்சிக்கு இது உதவும்.",
+points:["Location: Sriharikota","Project: Third launch pad","Organisation: ISRO"],
+mcqs:[{q:"The third launch pad was approved at which space centre?",options:["Thumba","Sriharikota","Bengaluru","Ahmedabad"],answer:"Sriharikota"}]
+},
+
+{
+title:"January 2025 – 33. SVAMITVA Property Cards",
+en:"Prime Minister Narendra Modi distributed property cards to property owners under the SVAMITVA scheme. The scheme uses drone technology to survey inhabited rural areas and provide property records.",
+ta:"SVAMITVA திட்டத்தின் கீழ் பிரதமர் நரேந்திர மோடி கிராமப்புறச் சொத்து உரிமையாளர்களுக்கு சொத்து அட்டைகளை வழங்கினார். ட்ரோன் தொழில்நுட்பம் மூலம் கிராமப்புற குடியிருப்புப் பகுதிகளை அளவிட்டு சொத்து ஆவணங்கள் வழங்கப்படுகின்றன.",
+points:["Scheme: SVAMITVA","Technology: Drones","Purpose: Rural property records"],
+mcqs:[{q:"Which technology is used extensively in the SVAMITVA survey?",options:["Drones","Submarines","Radar satellites only","Biometrics only"],answer:"Drones"}]
+},
+
+{
+title:"January 2025 – 34. World Bank Growth Forecast",
+en:"The World Bank's January 2025 Global Economic Prospects report discussed India's economic outlook and projected continued growth, while noting global economic challenges and risks.",
+ta:"உலக வங்கியின் 2025 ஜனவரி Global Economic Prospects அறிக்கை இந்தியாவின் பொருளாதார வளர்ச்சி வாய்ப்புகளை ஆய்வு செய்தது. உலகப் பொருளாதார சவால்கள் மற்றும் அபாயங்களையும் அது எடுத்துரைத்தது.",
+points:["Institution: World Bank","Report: Global Economic Prospects","Release: January 2025"],
+mcqs:[{q:"Which institution publishes the Global Economic Prospects report?",options:["World Bank","WTO","IMF only","UNESCO"],answer:"World Bank"}]
+},
+
+{
+title:"January 2025 – 35. Exercise La Perouse",
+en:"The fourth edition of the multilateral maritime exercise La Perouse was conducted in January 2025. It brought together participating navies to improve maritime cooperation and interoperability in the Indo-Pacific.",
+ta:"La Perouse பல்நாட்டு கடற்படைப் பயிற்சியின் நான்காவது பதிப்பு 2025 ஜனவரியில் நடைபெற்றது. இந்தோ-பசிபிக் பிராந்தியத்தில் கடல்சார் ஒத்துழைப்பு மற்றும் ஒருங்கிணைந்த செயல்திறனை மேம்படுத்துவது இதன் நோக்கமாகும்.",
+points:["Exercise: La Perouse","Edition: Fourth","Field: Maritime cooperation"],
+mcqs:[{q:"La Perouse is associated with which field?",options:["Maritime exercise","Mountain climbing","Space exploration","Agricultural research"],answer:"Maritime exercise"}]
+},
+
+{
+title:"January 2025 – 36. US Sanctions Relief for Indian Institutions",
+en:"The United States announced the removal of sanctions on certain Indian entities, including the Indira Gandhi Centre for Atomic Research and other institutions, in January 2025. The development was significant for India-US technology cooperation.",
+ta:"இந்திரா காந்தி அணு ஆராய்ச்சி மையம் உள்ளிட்ட சில இந்திய அமைப்புகள் மீதான தடைகளை நீக்குவதாக அமெரிக்கா 2025 ஜனவரியில் அறிவித்தது. இந்தியா–அமெரிக்க தொழில்நுட்ப ஒத்துழைப்புக்கு இது முக்கியமானதாக அமைந்தது.",
+points:["Country: United States","Area: Technology cooperation","Institution: IGCAR among the reported entities"],
+mcqs:[{q:"The sanctions relief announcement came from which country?",options:["United States","France","Japan","Germany"],answer:"United States"}]
+},
+
+{
+title:"January 2025 – 37. Bharat Mobility Global Expo",
+en:"The Bharat Mobility Global Expo 2025 was organised in January to showcase India's automotive and mobility ecosystem, including electric vehicles, components, transport technologies and innovation.",
+ta:"இந்தியாவின் வாகன மற்றும் போக்குவரத்துத் துறையின் வளர்ச்சியை வெளிப்படுத்த Bharat Mobility Global Expo 2025 ஜனவரியில் நடைபெற்றது. மின்சார வாகனங்கள், உதிரிபாகங்கள் மற்றும் போக்குவரத்துத் தொழில்நுட்பங்கள் இதில் இடம்பெற்றன.",
+points:["Event: Bharat Mobility Global Expo","Sector: Automobile and mobility","Focus: EVs and transport innovation"],
+mcqs:[{q:"Bharat Mobility Global Expo is associated with which sector?",options:["Automobile and mobility","Textiles","Banking","Agriculture"],answer:"Automobile and mobility"}]
+},
+
+{
+title:"January 2025 – 38. Indian Army Day",
+en:"India observed Army Day on 15 January 2025. The day commemorates General K. M. Cariappa taking over as the first Indian Commander-in-Chief of the Indian Army in 1949.",
+ta:"இந்தியா 2025 ஜனவரி 15 அன்று ராணுவ தினத்தைக் கடைப்பிடித்தது. 1949ஆம் ஆண்டு கே.எம். கரியப்பா இந்திய ராணுவத்தின் முதல் இந்தியத் தலைமைத் தளபதியாகப் பொறுப்பேற்றதை நினைவுகூரும் நாளாக இது அமைந்துள்ளது.",
+points:["Date: 15 January","First Indian Commander-in-Chief: K. M. Cariappa","Year: 1949"],
+mcqs:[{q:"Indian Army Day is observed on which date?",options:["15 January","26 January","4 December","8 October"],answer:"15 January"}]
+},
+
+{
+title:"January 2025 – 39. National Startup Day",
+en:"National Startup Day is observed on 16 January to recognise India's startup ecosystem and promote innovation and entrepreneurship. The date marks the launch of the Startup India initiative in 2016.",
+ta:"இந்தியாவின் ஸ்டார்ட்அப் சூழல், புதுமை மற்றும் தொழில்முனைவை ஊக்குவிக்கும் வகையில் ஜனவரி 16 தேசிய ஸ்டார்ட்அப் தினமாகக் கடைப்பிடிக்கப்படுகிறது. 2016ஆம் ஆண்டு Startup India திட்டம் தொடங்கப்பட்ட நாளை இது நினைவுகூருகிறது.",
+points:["Date: 16 January","Initiative: Startup India","Launch year: 2016"],
+mcqs:[{q:"National Startup Day is observed on which date?",options:["12 January","16 January","24 January","30 January"],answer:"16 January"}]
+},
+
+{
+title:"January 2025 – 40. National Voters' Day",
+en:"National Voters' Day was observed on 25 January 2025. It marks the foundation day of the Election Commission of India, established on 25 January 1950, and promotes voter awareness and participation.",
+ta:"இந்தியத் தேர்தல் ஆணையம் 1950 ஜனவரி 25 அன்று நிறுவப்பட்டதை நினைவுகூரும் வகையில் ஜனவரி 25 தேசிய வாக்காளர் தினமாகக் கடைப்பிடிக்கப்படுகிறது. வாக்காளர் விழிப்புணர்வு மற்றும் தேர்தல் பங்கேற்பை ஊக்குவிப்பதே இதன் நோக்கமாகும்.",
+points:["Date: 25 January","Election Commission established: 25 January 1950","Focus: Voter awareness"],
+mcqs:[{q:"National Voters' Day is observed on which date?",options:["24 January","25 January","26 January","30 January"],answer:"25 January"}]
+},
+
+{
+title:"January 2025 – 41. National Girl Child Day",
+en:"National Girl Child Day was observed on 24 January 2025 to promote awareness about the rights, education, health and empowerment of girls in India.",
+ta:"பெண் குழந்தைகளின் உரிமைகள், கல்வி, சுகாதாரம் மற்றும் முன்னேற்றம் குறித்த விழிப்புணர்வை ஏற்படுத்த ஜனவரி 24 தேசிய பெண் குழந்தைகள் தினமாகக் கடைப்பிடிக்கப்படுகிறது.",
+points:["Date: 24 January","Focus: Girl child rights","Themes: Education, health and empowerment"],
+mcqs:[{q:"National Girl Child Day is observed on which date?",options:["12 January","24 January","25 January","8 March"],answer:"24 January"}]
+},
+
+{
+title:"January 2025 – 42. Parakram Diwas",
+en:"Parakram Diwas was observed on 23 January to mark the birth anniversary of Netaji Subhas Chandra Bose. The day honours his contribution to India's freedom struggle.",
+ta:"நேதாஜி சுபாஷ் சந்திரபோஸின் பிறந்தநாளை நினைவுகூரும் வகையில் ஜனவரி 23 பராக்கிரம தினமாகக் கடைப்பிடிக்கப்படுகிறது. இந்திய விடுதலைப் போராட்டத்தில் அவரது பங்களிப்பை இந்நாள் போற்றுகிறது.",
+points:["Date: 23 January","Leader: Subhas Chandra Bose","Purpose: Honour freedom struggle contribution"],
+mcqs:[{q:"Parakram Diwas commemorates whose birth anniversary?",options:["Mahatma Gandhi","Subhas Chandra Bose","Jawaharlal Nehru","Sardar Patel"],answer:"Subhas Chandra Bose"}]
+},
+
+{
+title:"January 2025 – 43. National Tourism Day",
+en:"National Tourism Day was observed on 25 January to highlight the importance of tourism in India's economy, cultural exchange, employment and heritage conservation.",
+ta:"இந்தியப் பொருளாதாரம், பண்பாட்டுப் பரிமாற்றம், வேலைவாய்ப்பு மற்றும் பாரம்பரியப் பாதுகாப்பில் சுற்றுலாவின் முக்கியத்துவத்தை எடுத்துரைக்க ஜனவரி 25 தேசிய சுற்றுலா தினமாகக் கடைப்பிடிக்கப்படுகிறது.",
+points:["Date: 25 January","Sector: Tourism","Focus: Heritage and employment"],
+mcqs:[{q:"National Tourism Day is observed on which date?",options:["21 January","23 January","25 January","27 September"],answer:"25 January"}]
+},
+
+{
+title:"January 2025 – 44. Republic Day Awards for Police and Security Personnel",
+en:"On the occasion of Republic Day 2025, gallantry and service medals were awarded to personnel from police, fire services, home guards, civil defence and correctional services.",
+ta:"2025 குடியரசு தினத்தை முன்னிட்டு காவல்துறை, தீயணைப்புத் துறை, ஊர்க்காவல் படை, குடிமைப் பாதுகாப்பு மற்றும் சிறைத்துறை பணியாளர்களுக்கு வீரதீர மற்றும் சேவைப் பதக்கங்கள் வழங்கப்பட்டன.",
+points:["Occasion: Republic Day 2025","Recipients: Police and other services","Awards: Gallantry and service medals"],
+mcqs:[{q:"Republic Day service medals are awarded to personnel from which sector?",options:["Police and allied services","Only private companies","Only universities","Only sports clubs"],answer:"Police and allied services"}]
+},
+
+{
+title:"January 2025 – 45. Disaster Mitigation Funding",
+en:"A High-Level Committee chaired by the Union Home Minister approved disaster mitigation assistance worth ₹3,027.86 crore for various states in January 2025.",
+ta:"மத்திய உள்துறை அமைச்சர் தலைமையிலான உயர்நிலைக் குழு 2025 ஜனவரியில் பல்வேறு மாநிலங்களுக்கான பேரிடர் தணிப்பு உதவியாக ₹3,027.86 கோடிக்கு ஒப்புதல் அளித்தது.",
+points:["Amount: ₹3,027.86 crore","Committee: High-Level Committee","Purpose: Disaster mitigation"],
+mcqs:[{q:"The January 2025 disaster mitigation approval was approximately how much?",options:["₹302 crore","₹1,000 crore","₹3,027.86 crore","₹10,000 crore"],answer:"₹3,027.86 crore"}]
+},
+
+{
+title:"January 2025 – 46. New Criminal Laws Implementation Review",
+en:"The Ministry of Home Affairs continued reviewing the implementation of India's new criminal laws with state governments and relevant institutions during January 2025.",
+ta:"இந்தியாவின் புதிய குற்றவியல் சட்டங்களைச் செயல்படுத்துவது தொடர்பாக மத்திய உள்துறை அமைச்சகம் 2025 ஜனவரியில் மாநில அரசுகள் மற்றும் தொடர்புடைய அமைப்புகளுடன் ஆய்வுக் கூட்டங்களை நடத்தியது.",
+points:["Ministry: Home Affairs","Focus: New criminal laws","Activity: State-level implementation review"],
+mcqs:[{q:"Which ministry coordinated reviews on the implementation of new criminal laws?",options:["Home Affairs","Finance","Education","Agriculture"],answer:"Home Affairs"}]
+},
+
+{
+title:"January 2025 – 47. 25th All India Conference of Directors of FPBs",
+en:"The 25th All India Conference of Directors of Finger Print Bureaux was held on 30 and 31 January 2025. The conference discussed forensic identification and related institutional work.",
+ta:"விரல் ரேகைப் பணியகங்களின் இயக்குநர்களுக்கான 25வது அகில இந்திய மாநாடு 2025 ஜனவரி 30 மற்றும் 31 ஆகிய தேதிகளில் நடைபெற்றது. தடயவியல் அடையாளம் காணுதல் தொடர்பான பணிகள் இதில் விவாதிக்கப்பட்டன.",
+points:["Edition: 25th","Dates: 30–31 January 2025","Subject: Fingerprint bureaux"],
+mcqs:[{q:"The All India Conference of Directors of FPBs is related to which field?",options:["Forensic identification","Agriculture","Banking","Space science"],answer:"Forensic identification"}]
+},
+
+{
+title:"January 2025 – 48. Cell Broadcast Solution for Telecom Networks",
+en:"A proposal for an indigenous cell broadcast solution for India's telecom network was approved in January 2025. Cell broadcast technology can support the rapid dissemination of public alerts.",
+ta:"இந்தியத் தொலைத்தொடர்பு வலையமைப்பிற்கான உள்நாட்டு Cell Broadcast தீர்வுக்கு 2025 ஜனவரியில் ஒப்புதல் அளிக்கப்பட்டது. அவசர எச்சரிக்கைகளை விரைவாக மக்களிடம் கொண்டு சேர்க்க இத்தொழில்நுட்பம் உதவும்.",
+points:["Technology: Cell broadcast","Purpose: Public alerts","Focus: Indigenous telecom solution"],
+mcqs:[{q:"Cell broadcast technology is useful for which purpose?",options:["Public emergency alerts","Crop harvesting","Tax collection","University admissions"],answer:"Public emergency alerts"}]
+},
+
+{
+title:"January 2025 – 49. Himachal Pradesh Land Holdings Amendment",
+en:"The President of India gave assent to the Himachal Pradesh Ceiling on Land Holdings (Amendment) Bill, 2023 on 13 January 2025.",
+ta:"இமாச்சலப் பிரதேச நில உச்சவரம்பு திருத்த மசோதா 2023க்கு இந்தியக் குடியரசுத் தலைவர் 2025 ஜனவரி 13 அன்று ஒப்புதல் அளித்தார்.",
+points:["State: Himachal Pradesh","Bill: Ceiling on Land Holdings Amendment","Assent: 13 January 2025"],
+mcqs:[{q:"The land holdings amendment bill was related to which state?",options:["Himachal Pradesh","Punjab","Uttarakhand","Haryana"],answer:"Himachal Pradesh"}]
+},
+
+{
+title:"January 2025 – 50. Republic Day 2025 Parade",
+en:"The 76th Republic Day parade was held at Kartavya Path, New Delhi, on 26 January 2025. It showcased India's cultural diversity, military capabilities and development achievements.",
+ta:"இந்தியாவின் 76வது குடியரசு தின அணிவகுப்பு 2025 ஜனவரி 26 அன்று புதுதில்லி கர்தவ்ய பாதையில் நடைபெற்றது. இந்தியாவின் பண்பாட்டு பன்முகத்தன்மை, ராணுவ வலிமை மற்றும் வளர்ச்சிச் சாதனைகள் இதில் வெளிப்படுத்தப்பட்டன.",
+points:["Date: 26 January 2025","Venue: Kartavya Path","Edition: 76th"],
+mcqs:[{q:"Where was the 2025 Republic Day parade held?",options:["Red Fort","Kartavya Path","India Gate lawns","Rashtrapati Bhavan"],answer:"Kartavya Path"}]
+},
+
+{
+title:"January 2025 – 51. Indonesia and BRICS",
+en:"Indonesia became a full member of BRICS in January 2025, expanding the grouping's representation in Southeast Asia.",
+ta:"இந்தோனேசியா 2025 ஜனவரியில் BRICS அமைப்பின் முழு உறுப்பினராக இணைந்தது. இதன் மூலம் தென்கிழக்கு ஆசியாவில் BRICS அமைப்பின் பிரதிநிதித்துவம் விரிவடைந்தது.",
+points:["Country: Indonesia","Organisation: BRICS","Development: Full membership"],
+mcqs:[{q:"Which Southeast Asian country became a full BRICS member in January 2025?",options:["Thailand","Indonesia","Vietnam","Malaysia"],answer:"Indonesia"}]
+},
+
+{
+title:"January 2025 – 52. Croatia Presidential Election",
+en:"Croatia held its presidential election in January 2025. Zoran Milanović secured re-election, continuing as the country's president.",
+ta:"குரோஷியா 2025 ஜனவரியில் குடியரசுத் தலைவர் தேர்தலை நடத்தியது. சோரான் மிலானோவிச் மீண்டும் வெற்றி பெற்று அதிபராகத் தொடர்ந்தார்.",
+points:["Country: Croatia","Re-elected President: Zoran Milanović","Election: January 2025"],
+mcqs:[{q:"Who was re-elected President of Croatia in January 2025?",options:["Zoran Milanović","Emmanuel Macron","Olaf Scholz","Andrzej Duda"],answer:"Zoran Milanović"}]
+},
+
+{
+title:"January 2025 – 53. Donald Trump Begins Second Presidential Term",
+en:"Donald Trump was inaugurated as the 47th President of the United States on 20 January 2025, beginning his second, non-consecutive presidential term.",
+ta:"டொனால்ட் டிரம்ப் 2025 ஜனவரி 20 அன்று அமெரிக்காவின் 47வது குடியரசுத் தலைவராகப் பதவியேற்றார். இதன் மூலம் அவரது இரண்டாவது, தொடர்ச்சியற்ற பதவிக்காலம் தொடங்கியது.",
+points:["Date: 20 January 2025","President: Donald Trump","Position: 47th US President"],
+mcqs:[{q:"Donald Trump became the 47th President of which country?",options:["Canada","United States","United Kingdom","Australia"],answer:"United States"}]
+},
+
+{
+title:"January 2025 – 54. World Economic Forum Annual Meeting",
+en:"The World Economic Forum Annual Meeting 2025 was held in Davos, Switzerland, from 20 to 24 January. Discussions covered global cooperation, economic growth, technology and sustainability.",
+ta:"உலகப் பொருளாதார மன்றத்தின் 2025 ஆண்டு கூட்டம் ஜனவரி 20 முதல் 24 வரை சுவிட்சர்லாந்தின் டாவோஸில் நடைபெற்றது. உலக ஒத்துழைப்பு, பொருளாதார வளர்ச்சி, தொழில்நுட்பம் மற்றும் நிலைத்தன்மை குறித்து விவாதிக்கப்பட்டது.",
+points:["Venue: Davos, Switzerland","Dates: 20–24 January 2025","Organisation: World Economic Forum"],
+mcqs:[{q:"The World Economic Forum Annual Meeting is held at which location?",options:["Davos","Geneva","Paris","Rome"],answer:"Davos"}]
+},
+
+{
+title:"January 2025 – 55. World Economic Forum Theme",
+en:"The 2025 World Economic Forum meeting used the theme 'Collaboration for the Intelligent Age', highlighting cooperation in a period of rapid technological change.",
+ta:"2025 உலகப் பொருளாதார மன்றக் கூட்டத்தின் கருப்பொருள் 'Collaboration for the Intelligent Age' ஆகும். வேகமாக மாறும் தொழில்நுட்ப உலகில் ஒத்துழைப்பின் அவசியத்தை இது வலியுறுத்தியது.",
+points:["Theme: Collaboration for the Intelligent Age","Event: WEF Annual Meeting 2025","Location: Davos"],
+mcqs:[{q:"What was the theme of the 2025 WEF Annual Meeting?",options:["One Earth","Collaboration for the Intelligent Age","Green Future","Digital Peace"],answer:"Collaboration for the Intelligent Age"}]
+},
+
+{
+title:"January 2025 – 56. Australian Open 2025 Men's Singles",
+en:"Jannik Sinner won the men's singles title at the Australian Open 2025, defeating Alexander Zverev in the final.",
+ta:"2025 ஆஸ்திரேலிய ஓபன் டென்னிஸ் ஆண்கள் ஒற்றையர் பிரிவில் ஜானிக் சின்னர் சாம்பியன் பட்டம் வென்றார். இறுதிப் போட்டியில் அலெக்சாண்டர் ஸ்வெரெவைத் தோற்கடித்தார்.",
+points:["Tournament: Australian Open 2025","Men's champion: Jannik Sinner","Runner-up: Alexander Zverev"],
+mcqs:[{q:"Who won the men's singles title at Australian Open 2025?",options:["Carlos Alcaraz","Jannik Sinner","Novak Djokovic","Alexander Zverev"],answer:"Jannik Sinner"}]
+},
+
+{
+title:"January 2025 – 57. Australian Open 2025 Women's Singles",
+en:"Madison Keys won the women's singles title at the Australian Open 2025, defeating Aryna Sabalenka in the final.",
+ta:"2025 ஆஸ்திரேலிய ஓபன் டென்னிஸ் பெண்கள் ஒற்றையர் பிரிவில் மேடிசன் கீஸ் பட்டம் வென்றார். இறுதிப் போட்டியில் அரினா சபலென்காவைத் தோற்கடித்தார்.",
+points:["Tournament: Australian Open 2025","Women's champion: Madison Keys","Runner-up: Aryna Sabalenka"],
+mcqs:[{q:"Who won the women's singles title at Australian Open 2025?",options:["Iga Świątek","Aryna Sabalenka","Madison Keys","Coco Gauff"],answer:"Madison Keys"}]
+},
+
+{
+title:"January 2025 – 58. Kho Kho World Cup 2025",
+en:"The inaugural Kho Kho World Cup was held in New Delhi in January 2025. India won both the men's and women's titles, marking a major milestone for the indigenous sport.",
+ta:"முதல் Kho Kho உலகக் கோப்பை 2025 ஜனவரியில் புதுதில்லியில் நடைபெற்றது. ஆண்கள் மற்றும் பெண்கள் இரு பிரிவுகளிலும் இந்தியா சாம்பியன் பட்டம் வென்றது.",
+points:["Event: First Kho Kho World Cup","Venue: New Delhi","India won: Men's and women's titles"],
+mcqs:[{q:"Which country won both titles at the inaugural Kho Kho World Cup?",options:["Nepal","India","Bangladesh","Sri Lanka"],answer:"India"}]
+},
+
+{
+title:"January 2025 – 59. Kho Kho World Cup Women's Final",
+en:"India defeated Nepal in the women's final of the inaugural Kho Kho World Cup 2025 to win the championship.",
+ta:"முதல் Kho Kho உலகக் கோப்பை 2025 பெண்கள் இறுதிப் போட்டியில் நேபாளத்தை வீழ்த்தி இந்தியா சாம்பியன் பட்டம் வென்றது.",
+points:["Sport: Kho Kho","Category: Women's final","Winner: India","Runner-up: Nepal"],
+mcqs:[{q:"Which team did India defeat in the women's Kho Kho World Cup final?",options:["Nepal","Iran","Sri Lanka","Bangladesh"],answer:"Nepal"}]
+},
+
+{
+title:"January 2025 – 60. Kho Kho World Cup Men's Final",
+en:"India defeated Nepal in the men's final of the inaugural Kho Kho World Cup 2025 and secured the first men's world title.",
+ta:"முதல் Kho Kho உலகக் கோப்பை 2025 ஆண்கள் இறுதிப் போட்டியில் நேபாளத்தை வீழ்த்தி இந்தியா முதல் உலக சாம்பியன் பட்டத்தைப் பெற்றது.",
+points:["Sport: Kho Kho","Category: Men's final","Winner: India","Runner-up: Nepal"],
+mcqs:[{q:"Which country was the runner-up in the men's Kho Kho World Cup final?",options:["Nepal","Bangladesh","Pakistan","Sri Lanka"],answer:"Nepal"}]
+},
+
+{
+title:"January 2025 – 61. ICC Champions Trophy Indian Squad",
+en:"The Board of Control for Cricket in India announced India's squad for the 2025 ICC Champions Trophy in January. Rohit Sharma was named captain.",
+ta:"2025 ஐசிசி சாம்பியன்ஸ் டிராபிக்கான இந்திய அணியை இந்திய கிரிக்கெட் கட்டுப்பாட்டு வாரியம் ஜனவரியில் அறிவித்தது. ரோஹித் சர்மா அணித் தலைவராக நியமிக்கப்பட்டார்.",
+points:["Tournament: ICC Champions Trophy 2025","Captain: Rohit Sharma","Board: BCCI"],
+mcqs:[{q:"Who was named captain of India's Champions Trophy 2025 squad?",options:["Virat Kohli","Rohit Sharma","Jasprit Bumrah","Hardik Pandya"],answer:"Rohit Sharma"}]
+},
+
+{
+title:"January 2025 – 62. National Youth Day",
+en:"National Youth Day was observed on 12 January to commemorate the birth anniversary of Swami Vivekananda. The day promotes youth participation, leadership and national development.",
+ta:"சுவாமி விவேகானந்தரின் பிறந்தநாளை நினைவுகூரும் வகையில் ஜனவரி 12 தேசிய இளைஞர் தினமாகக் கடைப்பிடிக்கப்படுகிறது. இளைஞர்களின் தலைமைத்துவம் மற்றும் நாட்டின் வளர்ச்சியில் அவர்களின் பங்கேற்பை ஊக்குவிக்கிறது.",
+points:["Date: 12 January","Person: Swami Vivekananda","Focus: Youth development"],
+mcqs:[{q:"National Youth Day commemorates whose birth anniversary?",options:["Mahatma Gandhi","Swami Vivekananda","Rabindranath Tagore","B. R. Ambedkar"],answer:"Swami Vivekananda"}]
+},
+
+{
+title:"January 2025 – 63. World Hindi Day",
+en:"World Hindi Day was observed on 10 January 2025. It commemorates the first World Hindi Conference held in Nagpur in 1975 and promotes Hindi internationally.",
+ta:"உலக இந்தி தினம் 2025 ஜனவரி 10 அன்று கடைப்பிடிக்கப்பட்டது. 1975ஆம் ஆண்டு நாக்பூரில் நடைபெற்ற முதல் உலக இந்தி மாநாட்டை நினைவுகூரும் நாளாக இது அமைந்துள்ளது.",
+points:["Date: 10 January","First World Hindi Conference: 1975","Venue of first conference: Nagpur"],
+mcqs:[{q:"World Hindi Day is observed on which date?",options:["10 January","14 September","21 February","5 June"],answer:"10 January"}]
+},
+
+{
+title:"January 2025 – 64. National Road Safety Month",
+en:"Road Safety Month activities were conducted across India in January to promote safe driving, helmet and seat-belt use, responsible road behaviour and accident prevention.",
+ta:"பாதுகாப்பான வாகன ஓட்டுதல், தலைக்கவசம் மற்றும் சீட் பெல்ட் பயன்பாடு, சாலை ஒழுங்கு மற்றும் விபத்து தடுப்பு குறித்து விழிப்புணர்வு ஏற்படுத்த ஜனவரியில் சாலைப் பாதுகாப்பு மாத நிகழ்ச்சிகள் நடத்தப்பட்டன.",
+points:["Month: January","Focus: Road safety awareness","Purpose: Accident prevention"],
+mcqs:[{q:"Road Safety Month focuses mainly on which issue?",options:["Road accident prevention","Forest conservation","Banking literacy","Water sports"],answer:"Road accident prevention"}]
+},
+
+{
+title:"January 2025 – 65. World Braille Day",
+en:"World Braille Day was observed on 4 January. It recognises the importance of Braille as a communication system for blind and partially sighted people.",
+ta:"பார்வையற்ற மற்றும் குறைந்த பார்வையுடையோர் பயன்படுத்தும் பிரெயில் எழுத்துமுறையின் முக்கியத்துவத்தை எடுத்துரைக்க ஜனவரி 4 உலக பிரெயில் தினமாகக் கடைப்பிடிக்கப்படுகிறது.",
+points:["Date: 4 January","System: Braille","Purpose: Accessibility and inclusion"],
+mcqs:[{q:"World Braille Day is observed on which date?",options:["4 January","4 February","8 March","3 December"],answer:"4 January"}]
+},
+
+{
+title:"January 2025 – 66. National Disaster Response Force Raising Day",
+en:"The National Disaster Response Force marked its Raising Day in January. The NDRF plays a key role in disaster response, rescue, relief and emergency preparedness in India.",
+ta:"தேசிய பேரிடர் மீட்புப் படையின் தொடக்க நாள் ஜனவரியில் அனுசரிக்கப்பட்டது. பேரிடர் மீட்பு, நிவாரணம் மற்றும் அவசரநிலைத் தயார்நிலையில் NDRF முக்கியப் பங்கு வகிக்கிறது.",
+points:["Organisation: NDRF","Role: Disaster response and rescue","Ministry: Home Affairs"],
+mcqs:[{q:"NDRF is primarily responsible for which activity?",options:["Disaster response","Monetary policy","Space launches","Election management"],answer:"Disaster response"}]
+},
+
+{
+title:"January 2025 – 67. Indian Coast Guard Foundation Day Preparations",
+en:"January activities highlighted the role of India's maritime security agencies in coastal surveillance, search and rescue, pollution response and protection of offshore assets.",
+ta:"கடலோர கண்காணிப்பு, தேடுதல் மற்றும் மீட்பு, கடல் மாசு தடுப்பு மற்றும் கடல்சார் சொத்துக்களின் பாதுகாப்பில் இந்திய கடலோர பாதுகாப்பு அமைப்புகளின் பங்கு ஜனவரி மாத நிகழ்வுகளில் வலியுறுத்தப்பட்டது.",
+points:["Focus: Maritime security","Activities: Coastal surveillance and rescue","Agency: Indian Coast Guard"],
+mcqs:[{q:"The Indian Coast Guard is primarily associated with which area?",options:["Maritime security","Space research","Income tax","Railway safety"],answer:"Maritime security"}]
+},
+
+{
+title:"January 2025 – 68. Indian Ocean Naval Symposium Cooperation",
+en:"India continued maritime engagement with partner countries in the Indian Ocean region during January 2025. Such cooperation supports maritime security, information sharing and regional stability.",
+ta:"இந்தியப் பெருங்கடல் பிராந்தியத்தில் கூட்டாளி நாடுகளுடன் இந்தியா கடல்சார் ஒத்துழைப்பைத் தொடர்ந்து முன்னெடுத்தது. கடல்சார் பாதுகாப்பு, தகவல் பகிர்வு மற்றும் பிராந்திய நிலைத்தன்மைக்கு இது உதவுகிறது.",
+points:["Region: Indian Ocean","Focus: Maritime cooperation","Objectives: Security and information sharing"],
+mcqs:[{q:"Indian Ocean maritime cooperation mainly supports which objective?",options:["Regional maritime security","Desert agriculture","Polar tourism","Space mining"],answer:"Regional maritime security"}]
+},
+
+{
+title:"January 2025 – 69. India-France Strategic Cooperation",
+en:"India and France continued cooperation in defence, space, technology and clean energy. The relationship is supported by a strategic partnership established in 1998.",
+ta:"இந்தியா மற்றும் பிரான்ஸ் பாதுகாப்பு, விண்வெளி, தொழில்நுட்பம் மற்றும் தூய்மையான ஆற்றல் துறைகளில் ஒத்துழைப்பைத் தொடர்ந்து முன்னெடுத்தன. 1998ஆம் ஆண்டு நிறுவப்பட்ட மூலோபாயக் கூட்டாண்மை இந்த உறவுக்கு அடிப்படையாக உள்ளது.",
+points:["Countries: India and France","Partnership: Strategic","Established: 1998"],
+mcqs:[{q:"India and France established their strategic partnership in which year?",options:["1991","1998","2005","2014"],answer:"1998"}]
+},
+
+{
+title:"January 2025 – 70. India-Singapore Cooperation",
+en:"India and Singapore continued cooperation in areas including digital technology, skills, trade, logistics and education. Singapore remains an important partner in India's Act East policy.",
+ta:"டிஜிட்டல் தொழில்நுட்பம், திறன் மேம்பாடு, வர்த்தகம், தளவாடம் மற்றும் கல்வி உள்ளிட்ட துறைகளில் இந்தியா–சிங்கப்பூர் ஒத்துழைப்பு தொடர்ந்தது. இந்தியாவின் கிழக்கு நோக்கிய கொள்கையில் சிங்கப்பூர் முக்கியப் பங்காளியாக உள்ளது.",
+points:["Countries: India and Singapore","Policy connection: Act East","Areas: Digital technology and trade"],
+mcqs:[{q:"Singapore is an important partner in which Indian policy?",options:["Act East Policy","Look West Policy","Green Revolution","Blue Revolution"],answer:"Act East Policy"}]
+},
+
+{
+title:"January 2025 – 71. India-Nepal Development Cooperation",
+en:"India continued development cooperation with Nepal in connectivity, infrastructure, education and energy. The relationship reflects close geographical, cultural and economic links between the two countries.",
+ta:"இணைப்பு வசதிகள், உள்கட்டமைப்பு, கல்வி மற்றும் ஆற்றல் துறைகளில் நேபாளத்துடன் இந்தியாவின் வளர்ச்சி ஒத்துழைப்பு தொடர்ந்தது. இரு நாடுகளின் புவியியல், பண்பாட்டு மற்றும் பொருளாதார உறவுகள் இதற்கு அடிப்படையாக உள்ளன.",
+points:["Countries: India and Nepal","Areas: Infrastructure and energy","Relationship: Neighbourhood cooperation"],
+mcqs:[{q:"Nepal is part of India's which foreign policy priority?",options:["Neighbourhood First","Arctic Policy","Pacific Pivot","European Union"],answer:"Neighbourhood First"}]
+},
+
+{
+title:"January 2025 – 72. India-Bhutan Hydropower Cooperation",
+en:"Hydropower cooperation remained an important part of India-Bhutan relations. The two countries work together on hydropower generation, electricity trade and infrastructure.",
+ta:"இந்தியா–பூடான் உறவில் நீர்மின் ஒத்துழைப்பு முக்கிய இடம் பெற்றுள்ளது. நீர்மின் உற்பத்தி, மின்சார வர்த்தகம் மற்றும் உள்கட்டமைப்பில் இரு நாடுகளும் இணைந்து செயல்படுகின்றன.",
+points:["Countries: India and Bhutan","Sector: Hydropower","Focus: Electricity and infrastructure"],
+mcqs:[{q:"India-Bhutan cooperation is especially important in which energy sector?",options:["Hydropower","Coal gasification","Nuclear fusion","Tidal aviation"],answer:"Hydropower"}]
+},
+
+{
+title:"January 2025 – 73. India-Africa Partnership",
+en:"India continued engagement with African countries through development cooperation, capacity building, trade and technology partnerships. Africa remains an important region in India's Global South outreach.",
+ta:"வளர்ச்சி ஒத்துழைப்பு, திறன் மேம்பாடு, வர்த்தகம் மற்றும் தொழில்நுட்பக் கூட்டாண்மை மூலம் ஆப்பிரிக்க நாடுகளுடன் இந்தியா உறவைத் தொடர்ந்து வலுப்படுத்தியது. உலக தெற்கிற்கான இந்திய அணுகுமுறையில் ஆப்பிரிக்கா முக்கியமானது.",
+points:["Region: Africa","Focus: Development partnership","Concept: Global South"],
+mcqs:[{q:"India's development engagement with African countries is part of its outreach to which grouping?",options:["Global South","Arctic Council","G7","NATO"],answer:"Global South"}]
+},
+
+{
+title:"January 2025 – 74. International Education Cooperation",
+en:"International education cooperation remained an important area for India, including academic exchanges, research partnerships and skill development with partner countries.",
+ta:"கல்வி பரிமாற்றம், ஆராய்ச்சிக் கூட்டாண்மை மற்றும் திறன் மேம்பாடு உள்ளிட்ட சர்வதேசக் கல்வி ஒத்துழைப்பை இந்தியா தொடர்ந்து முன்னெடுத்தது.",
+points:["Sector: Education","Focus: Academic exchange","Related areas: Research and skills"],
+mcqs:[{q:"Academic exchange is mainly associated with which sector?",options:["Education","Mining","Defence procurement","Road transport"],answer:"Education"}]
+},
+
+{
+title:"January 2025 – 75. Global Renewable Energy Transition",
+en:"Renewable energy transition remained a major global policy issue in January 2025. Countries continued to focus on solar, wind, storage and clean-energy investment to reduce emissions.",
+ta:"2025 ஜனவரியிலும் புதுப்பிக்கத்தக்க ஆற்றலுக்கான மாற்றம் உலகளாவிய முக்கியக் கொள்கை விவாதமாக இருந்தது. கார்பன் வெளியீட்டைக் குறைக்க சூரிய, காற்றாலை மற்றும் ஆற்றல் சேமிப்பு முதலீடுகள் வலியுறுத்தப்பட்டன.",
+points:["Energy sources: Solar and wind","Focus: Clean energy","Objective: Emission reduction"],
+mcqs:[{q:"Which of the following is a renewable energy source?",options:["Solar","Coal","Petroleum","Natural gas"],answer:"Solar"}]
+},
+
+{
+title:"January 2025 – 76. Green Hydrogen Development",
+en:"Green hydrogen remained a priority under India's clean-energy strategy. It is produced using renewable electricity to split water and can support low-carbon industrial applications.",
+ta:"இந்தியாவின் தூய்மையான ஆற்றல் திட்டத்தில் பசுமை ஹைட்ரஜன் முக்கிய முன்னுரிமையாகத் தொடர்ந்தது. புதுப்பிக்கத்தக்க மின்சாரத்தைப் பயன்படுத்தி நீரைப் பிரித்து இதை உற்பத்தி செய்யலாம்.",
+points:["Energy: Green hydrogen","Production: Renewable electricity","Use: Low-carbon industry"],
+mcqs:[{q:"Green hydrogen is generally produced using which energy source?",options:["Renewable electricity","Coal combustion","Diesel generators","Petroleum refining only"],answer:"Renewable electricity"}]
+},
+
+{
+title:"January 2025 – 77. Climate Resilience",
+en:"Climate resilience and adaptation were important themes in policy discussions during January 2025. Measures include early-warning systems, resilient infrastructure and protection of vulnerable communities.",
+ta:"2025 ஜனவரி கொள்கை விவாதங்களில் காலநிலைத் தாங்குதிறன் மற்றும் தழுவல் முக்கியத்துவம் பெற்றன. முன் எச்சரிக்கை அமைப்புகள், பேரிடர் தாங்கும் உள்கட்டமைப்பு மற்றும் பாதிக்கப்படக்கூடிய மக்களின் பாதுகாப்பு ஆகியவை இதில் அடங்கும்.",
+points:["Theme: Climate resilience","Measures: Early warning and resilient infrastructure","Focus: Adaptation"],
+mcqs:[{q:"Climate resilience mainly refers to the ability to do what?",options:["Prepare for and recover from climate impacts","Increase fossil fuel use","Stop all rainfall","Eliminate seasons"],answer:"Prepare for and recover from climate impacts"}]
+},
+
+{
+title:"January 2025 – 78. Wetland Conservation",
+en:"Wetland conservation remained an important environmental priority. Wetlands support biodiversity, water purification, flood regulation and livelihoods.",
+ta:"சதுப்புநிலப் பாதுகாப்பு முக்கிய சுற்றுச்சூழல் முன்னுரிமையாகத் தொடர்ந்தது. உயிரினப் பன்மை, நீர் சுத்திகரிப்பு, வெள்ளக் கட்டுப்பாடு மற்றும் வாழ்வாதாரத்திற்கு சதுப்புநிலங்கள் உதவுகின்றன.",
+points:["Ecosystem: Wetlands","Benefits: Biodiversity and flood regulation","Focus: Conservation"],
+mcqs:[{q:"Which ecosystem helps regulate floods and supports biodiversity?",options:["Wetlands","Deserts only","Urban roads","Industrial zones"],answer:"Wetlands"}]
+},
+
+{
+title:"January 2025 – 79. Biodiversity Conservation",
+en:"Biodiversity conservation continued to be a major environmental concern in India. Protected areas, habitat restoration and community participation are important tools for conserving species.",
+ta:"இந்தியாவில் உயிரினப் பன்மைப் பாதுகாப்பு முக்கிய சுற்றுச்சூழல் கவலையாகத் தொடர்ந்தது. பாதுகாக்கப்பட்ட பகுதிகள், வாழிட மறுசீரமைப்பு மற்றும் சமூகப் பங்கேற்பு ஆகியவை உயிரினங்களைப் பாதுகாக்க உதவுகின்றன.",
+points:["Focus: Biodiversity","Methods: Protected areas and habitat restoration","Role: Community participation"],
+mcqs:[{q:"Which is an important method of biodiversity conservation?",options:["Habitat restoration","Deforestation","Illegal wildlife trade","Wetland filling"],answer:"Habitat restoration"}]
+},
+
+{
+title:"January 2025 – 80. Air Pollution Management",
+en:"Air pollution management remained a major public-health and environmental issue. Monitoring, cleaner fuels, public transport and control of industrial emissions are important responses.",
+ta:"காற்று மாசுபாட்டைக் கட்டுப்படுத்துவது பொது சுகாதாரம் மற்றும் சுற்றுச்சூழலின் முக்கியப் பிரச்சினையாகத் தொடர்ந்தது. கண்காணிப்பு, தூய்மையான எரிபொருள், பொதுப் போக்குவரத்து மற்றும் தொழிற்சாலை வெளியீட்டுக் கட்டுப்பாடு ஆகியவை முக்கிய நடவடிக்கைகள்.",
+points:["Issue: Air pollution","Measures: Monitoring and cleaner fuels","Impact: Public health"],
+mcqs:[{q:"Which measure can help reduce urban air pollution?",options:["Cleaner public transport","More open burning","Uncontrolled emissions","Removing green spaces"],answer:"Cleaner public transport"}]
+},
+
+{
+title:"January 2025 – 81. National Science and Technology Policy",
+en:"Science and technology development remained a key priority for India, with emphasis on research, innovation, indigenous technologies and industry-academia partnerships.",
+ta:"ஆராய்ச்சி, புதுமை, உள்நாட்டு தொழில்நுட்பம் மற்றும் தொழில்துறை–கல்வி நிறுவனக் கூட்டாண்மை ஆகியவற்றுக்கு முக்கியத்துவம் அளித்து அறிவியல் மற்றும் தொழில்நுட்ப வளர்ச்சியை இந்தியா முன்னெடுத்தது.",
+points:["Focus: Research and innovation","Technology: Indigenous development","Partnership: Industry and academia"],
+mcqs:[{q:"Industry-academia partnership primarily promotes what?",options:["Research and innovation","Unemployment","Import dependence","Deforestation"],answer:"Research and innovation"}]
+},
+
+{
+title:"January 2025 – 82. Artificial Intelligence Development",
+en:"Artificial intelligence remained a major area of technology policy and investment. Applications include healthcare, education, agriculture, language technologies and public services.",
+ta:"செயற்கை நுண்ணறிவு தொழில்நுட்பம் கொள்கை மற்றும் முதலீட்டில் முக்கிய இடம் பெற்றது. மருத்துவம், கல்வி, வேளாண்மை, மொழித் தொழில்நுட்பம் மற்றும் பொதுச் சேவைகளில் இது பயன்படுகிறது.",
+points:["Technology: Artificial Intelligence","Applications: Health, education and agriculture","Focus: Innovation"],
+mcqs:[{q:"AI stands for what?",options:["Artificial Intelligence","Automated Internet","Advanced Industry","Applied Information"],answer:"Artificial Intelligence"}]
+},
+
+{
+title:"January 2025 – 83. Digital Public Infrastructure",
+en:"India continued to promote digital public infrastructure, including digital identity, payments and data-sharing platforms. Such systems aim to improve access to services and financial inclusion.",
+ta:"டிஜிட்டல் அடையாளம், பணப்பரிவர்த்தனை மற்றும் தரவுப் பகிர்வு தளங்கள் உள்ளிட்ட டிஜிட்டல் பொது உள்கட்டமைப்பை இந்தியா தொடர்ந்து மேம்படுத்தியது. சேவைகளுக்கான அணுகல் மற்றும் நிதி உள்ளடக்கத்தை உயர்த்துவது இதன் நோக்கமாகும்.",
+points:["Concept: Digital public infrastructure","Examples: Digital identity and payments","Purpose: Inclusion and service delivery"],
+mcqs:[{q:"Digital public infrastructure can improve which area?",options:["Financial inclusion","Deforestation","Ocean salinity","Earthquakes"],answer:"Financial inclusion"}]
+},
+
+{
+title:"January 2025 – 84. Financial Inclusion",
+en:"Financial inclusion remained a priority through access to bank accounts, digital payments, insurance and affordable credit for underserved communities.",
+ta:"வங்கிக் கணக்குகள், டிஜிட்டல் பணப்பரிவர்த்தனை, காப்பீடு மற்றும் குறைந்த செலவிலான கடன் வசதிகளை வழங்குவதன் மூலம் நிதி உள்ளடக்கம் முக்கிய முன்னுரிமையாகத் தொடர்ந்தது.",
+points:["Focus: Financial inclusion","Services: Banking, insurance and credit","Beneficiaries: Underserved communities"],
+mcqs:[{q:"Financial inclusion aims to improve access to which services?",options:["Banking and financial services","Only luxury goods","Space tourism","Private aviation"],answer:"Banking and financial services"}]
+},
+
+{
+title:"January 2025 – 85. MSME Development",
+en:"Micro, Small and Medium Enterprises remained important to India's employment, manufacturing and exports. Policy discussions focused on credit, technology adoption and market access.",
+ta:"இந்தியாவின் வேலைவாய்ப்பு, உற்பத்தி மற்றும் ஏற்றுமதியில் குறு, சிறு மற்றும் நடுத்தரத் தொழில்கள் முக்கியப் பங்கு வகிக்கின்றன. கடன் வசதி, தொழில்நுட்பப் பயன்பாடு மற்றும் சந்தை அணுகல் ஆகியவை முக்கிய அம்சங்களாகும்.",
+points:["Sector: MSME","Importance: Employment and manufacturing","Needs: Credit and technology"],
+mcqs:[{q:"MSME stands for what?",options:["Micro, Small and Medium Enterprises","Major State Manufacturing Enterprises","Modern Service Market Economy","Medium Scale Mining Enterprises"],answer:"Micro, Small and Medium Enterprises"}]
+},
+
+{
+title:"January 2025 – 86. Startup India Ecosystem",
+en:"Startup India continued to support entrepreneurship through innovation, incubation, funding access and simplified regulatory processes.",
+ta:"புதுமை, தொழில் தொடக்க மையங்கள், நிதி அணுகல் மற்றும் எளிமைப்படுத்தப்பட்ட ஒழுங்குமுறை நடைமுறைகள் மூலம் Startup India திட்டம் தொழில்முனைவை ஆதரித்தது.",
+points:["Programme: Startup India","Launch year: 2016","Focus: Entrepreneurship"],
+mcqs:[{q:"Startup India was launched in which year?",options:["2014","2015","2016","2018"],answer:"2016"}]
+},
+
+{
+title:"January 2025 – 87. Skill India",
+en:"Skill development remained a major priority to improve employability and prepare young people for emerging industries and new technologies.",
+ta:"வேலைவாய்ப்புத் திறனை மேம்படுத்தவும் புதிய தொழில்துறைகள் மற்றும் தொழில்நுட்பங்களுக்கு இளைஞர்களைத் தயார்படுத்தவும் திறன் மேம்பாடு முக்கிய முன்னுரிமையாகத் தொடர்ந்தது.",
+points:["Focus: Skill development","Beneficiaries: Youth and workers","Objective: Employability"],
+mcqs:[{q:"Skill development programmes primarily aim to improve what?",options:["Employability","Deforestation","Inflation","Ocean currents"],answer:"Employability"}]
+},
+
+{
+title:"January 2025 – 88. Women's Economic Empowerment",
+en:"Women's economic empowerment remained an important policy objective through self-help groups, entrepreneurship, access to finance and skill development.",
+ta:"சுயஉதவிக் குழுக்கள், தொழில்முனைவு, நிதி அணுகல் மற்றும் திறன் மேம்பாடு மூலம் பெண்களின் பொருளாதார முன்னேற்றம் முக்கிய கொள்கை நோக்கமாகத் தொடர்ந்தது.",
+points:["Focus: Women's empowerment","Tools: SHGs and entrepreneurship","Objective: Economic independence"],
+mcqs:[{q:"SHGs are commonly used to support which objective?",options:["Women's economic empowerment","Space exploration","Military recruitment","Wildlife trafficking"],answer:"Women's economic empowerment"}]
+},
+
+{
+title:"January 2025 – 89. Rural Livelihood Development",
+en:"Rural livelihood development continued through support for agriculture, allied activities, local enterprises and self-help groups. The objective is to improve household income and resilience.",
+ta:"வேளாண்மை, சார்பு தொழில்கள், உள்ளூர் நிறுவனங்கள் மற்றும் சுயஉதவிக் குழுக்களுக்கு ஆதரவளிப்பதன் மூலம் கிராமப்புற வாழ்வாதார மேம்பாடு தொடர்ந்தது. குடும்ப வருமானம் மற்றும் தாங்குதிறனை உயர்த்துவதே நோக்கமாகும்.",
+points:["Focus: Rural livelihoods","Areas: Agriculture and local enterprises","Objective: Income improvement"],
+mcqs:[{q:"Rural livelihood programmes primarily seek to improve what?",options:["Household income","Ocean trade only","Space launches","Urban traffic"],answer:"Household income"}]
+},
+
+{
+title:"January 2025 – 90. Republic Day Padma Awards",
+en:"The Padma Awards 2025 list was announced on 25 January. The list included Padma Vibhushan, Padma Bhushan and Padma Shri awards for distinguished contributions in various fields.",
+ta:"2025ஆம் ஆண்டுக்கான பத்ம விருதுப் பட்டியல் ஜனவரி 25 அன்று அறிவிக்கப்பட்டது. பல்வேறு துறைகளில் சிறப்பான பங்களிப்புகளைச் செய்தவர்களுக்கு பத்ம விபூஷண், பத்ம பூஷண் மற்றும் பத்ம ஸ்ரீ விருதுகள் அறிவிக்கப்பட்டன.",
+points:["Announcement: 25 January 2025","Categories: Vibhushan, Bhushan and Shri","Nature: Civilian honours"],
+mcqs:[{q:"Which is the highest category among the three Padma Awards?",options:["Padma Shri","Padma Bhushan","Padma Vibhushan","Bharat Ratna"],answer:"Padma Vibhushan"}]
+},
+
+{
+title:"January 2025 – 91. Jeevan Raksha Padak Series",
+en:"The Government announced Jeevan Raksha Padak awards for individuals who displayed courage in saving human lives. The awards recognise acts of bravery in life-saving situations.",
+ta:"மனித உயிர்களைக் காப்பாற்றும் போது துணிச்சலுடன் செயல்பட்டவர்களுக்கு ஜீவன் ரக்ஷா பதக்க விருதுகள் அறிவிக்கப்பட்டன. உயிர் காக்கும் வீரச் செயல்களை இவ்விருதுகள் அங்கீகரிக்கின்றன.",
+points:["Award: Jeevan Raksha Padak","Purpose: Recognise life-saving bravery","Awarded by: Government of India"],
+mcqs:[{q:"Jeevan Raksha Padak recognises which type of service?",options:["Saving human lives","Scientific publishing","Sports coaching","Tax collection"],answer:"Saving human lives"}]
+},
+
+{
+title:"January 2025 – 92. Gallantry and Distinguished Service Medals",
+en:"Republic Day 2025 honours included medals for gallantry and distinguished service to personnel in police, fire, correctional and other security-related services.",
+ta:"2025 குடியரசு தினத்தை முன்னிட்டு காவல்துறை, தீயணைப்புத் துறை, சிறைத்துறை மற்றும் பாதுகாப்புத் தொடர்புடைய பணியாளர்களுக்கு வீரதீர மற்றும் சிறப்புச் சேவைப் பதக்கங்கள் வழங்கப்பட்டன.",
+points:["Occasion: Republic Day 2025","Honours: Gallantry and distinguished service","Recipients: Uniformed services"],
+mcqs:[{q:"Gallantry medals primarily recognise what?",options:["Bravery","Academic marks","Trade volume","Agricultural yield"],answer:"Bravery"}]
+},
+
+{
+title:"January 2025 – 93. INCOIS Subhash Chandra Bose Aapda Prabandhan Puraskar",
+en:"The Indian National Centre for Ocean Information Services was recognised with the Subhash Chandra Bose Aapda Prabandhan Puraskar 2025 for its contribution to disaster management.",
+ta:"பேரிடர் மேலாண்மையில் செய்த பங்களிப்புக்காக இந்திய தேசிய கடல் தகவல் சேவை மையமான INCOIS-க்கு 2025ஆம் ஆண்டின் சுபாஷ் சந்திரபோஸ் ஆப்தா பிரபந்தன் புரஸ்கார் வழங்கப்பட்டது.",
+points:["Institution: INCOIS","Award: Subhash Chandra Bose Aapda Prabandhan Puraskar","Year: 2025"],
+mcqs:[{q:"INCOIS received recognition in 2025 for work in which field?",options:["Disaster management","Film production","Banking","Textile exports"],answer:"Disaster management"}]
+},
+
+{
+title:"January 2025 – 94. National Turmeric Board and Farmers",
+en:"The National Turmeric Board was established to improve coordination across turmeric production, research, processing, value addition and export promotion.",
+ta:"மஞ்சள் உற்பத்தி, ஆராய்ச்சி, பதப்படுத்துதல், மதிப்புக் கூட்டல் மற்றும் ஏற்றுமதி ஊக்குவிப்பு ஆகியவற்றை ஒருங்கிணைக்க தேசிய மஞ்சள் வாரியம் உருவாக்கப்பட்டது.",
+points:["Crop: Turmeric","Focus: Research and exports","Beneficiaries: Turmeric farmers"],
+mcqs:[{q:"The National Turmeric Board aims to support which group?",options:["Turmeric farmers","Coal miners","Airline pilots","Software auditors"],answer:"Turmeric farmers"}]
+},
+
+{
+title:"January 2025 – 95. Economic Survey and GDP",
+en:"The Economic Survey 2024–25 estimated India's real GDP growth at 6.4% for 2024–25 and projected growth of 6.3% to 6.8% for 2025–26.",
+ta:"2024–25 பொருளாதார ஆய்வறிக்கை இந்தியாவின் உண்மையான மொத்த உள்நாட்டு உற்பத்தி வளர்ச்சியை 2024–25ஆம் ஆண்டிற்கு 6.4 சதவீதமாக மதிப்பிட்டது. 2025–26ஆம் ஆண்டிற்கு 6.3 முதல் 6.8 சதவீத வளர்ச்சி கணிக்கப்பட்டது.",
+points:["FY25 estimate: 6.4%","FY26 projection: 6.3%–6.8%","Document: Economic Survey"],
+mcqs:[{q:"What was the Economic Survey's FY25 real GDP growth estimate?",options:["5.4%","6.4%","7.4%","8.4%"],answer:"6.4%"}]
+},
+
+{
+title:"January 2025 – 96. Union Budget Session Announcement",
+en:"The Budget Session of Parliament was scheduled to begin on 31 January 2025, with the Union Budget to be presented on 1 February 2025.",
+ta:"நாடாளுமன்றத்தின் பட்ஜெட் கூட்டத்தொடர் 2025 ஜனவரி 31 அன்று தொடங்க திட்டமிடப்பட்டது. மத்திய பட்ஜெட் பிப்ரவரி 1 அன்று சமர்ப்பிக்கப்பட இருந்தது.",
+points:["Session opening: 31 January 2025","Budget date: 1 February 2025","Institution: Parliament"],
+mcqs:[{q:"When was the Union Budget 2025–26 presented?",options:["26 January","31 January","1 February","5 February"],answer:"1 February"}]
+},
+
+{
+title:"January 2025 – 97. President's Address to Parliament",
+en:"President Droupadi Murmu addressed the joint sitting of Parliament on 31 January 2025. The address outlined the government's achievements, priorities and policy direction.",
+ta:"குடியரசுத் தலைவர் திரௌபதி முர்மு 2025 ஜனவரி 31 அன்று நாடாளுமன்றத்தின் இரு அவைகளின் கூட்டுக் கூட்டத்தில் உரையாற்றினார். அரசின் சாதனைகள் மற்றும் கொள்கை முன்னுரிமைகள் இதில் எடுத்துரைக்கப்பட்டன.",
+points:["Date: 31 January 2025","President: Droupadi Murmu","Occasion: Joint sitting of Parliament"],
+mcqs:[{q:"Who delivered the President's Address to Parliament in January 2025?",options:["Droupadi Murmu","Nirmala Sitharaman","Amit Shah","Jagdeep Dhankhar"],answer:"Droupadi Murmu"}]
+},
+
+{
+title:"January 2025 – 98. Supreme Court on Domicile-Based Reservation",
+en:"The Supreme Court reiterated constitutional principles concerning equality and reservation, including scrutiny of domicile-based reservation in public employment and education.",
+ta:"பொது வேலைவாய்ப்பு மற்றும் கல்வியில் மாநில இருப்பிட அடிப்படையிலான இடஒதுக்கீடு தொடர்பாக சமத்துவம் மற்றும் இடஒதுக்கீட்டின் அரசியலமைப்புச் சட்டக் கொள்கைகளை உச்சநீதிமன்றம் ஆய்வு செய்தது.",
+points:["Institution: Supreme Court of India","Subject: Domicile-based reservation","Constitutional theme: Equality"],
+mcqs:[{q:"Domicile-based reservation concerns which issue?",options:["Reservation linked to place of residence","Foreign trade tariffs","Forest boundaries","Bank interest"],answer:"Reservation linked to place of residence"}]
+},
+
+{
+title:"January 2025 – 99. Draft Digital Personal Data Protection Rules",
+en:"The Union Government released draft Digital Personal Data Protection Rules in January 2025 for public consultation. The rules seek to operationalise India's Digital Personal Data Protection Act.",
+ta:"டிஜிட்டல் தனிநபர் தரவுப் பாதுகாப்புச் சட்டத்தை நடைமுறைப்படுத்துவதற்கான வரைவு விதிகளை மத்திய அரசு 2025 ஜனவரியில் பொதுமக்கள் கருத்துக்காக வெளியிட்டது.",
+points:["Rules: Draft DPDP Rules","Year: 2025","Purpose: Personal data protection"],
+mcqs:[{q:"Draft DPDP Rules relate to which subject?",options:["Personal data protection","Forest conservation","Railway fares","Agricultural exports"],answer:"Personal data protection"}]
+},
+
+{
+title:"January 2025 – 100. Draft UGC Regulations",
+en:"The University Grants Commission released draft regulations in January 2025 concerning the appointment and qualifications of teachers and academic staff in universities and colleges. The proposals generated national discussion on higher education governance.",
+ta:"பல்கலைக்கழகங்கள் மற்றும் கல்லூரிகளில் ஆசிரியர்கள் மற்றும் கல்விப் பணியாளர்களின் நியமனம் மற்றும் தகுதிகள் தொடர்பான வரைவு விதிகளை பல்கலைக்கழக மானியக் குழு 2025 ஜனவரியில் வெளியிட்டது. உயர்கல்வி நிர்வாகம் குறித்த தேசிய அளவிலான விவாதம் இதனால் உருவானது.",
+points:["Institution: UGC","Subject: Teacher appointment and qualifications","Sector: Higher education"],
+mcqs:[{q:"UGC draft regulations concern which sector?",options:["Higher education","Agriculture","Defence","Road transport"],answer:"Higher education"}]
+}
+
+];
+
+tnpscCurrentAffairsLessons.push(...january2025Batch2);
