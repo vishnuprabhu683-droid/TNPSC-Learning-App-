@@ -2471,3 +2471,973 @@ TNPSC முக்கிய குறிப்புகள்:
   }
 
 );
+
+tnpscHistoryLessons.push(
+
+{
+title: "16. Haryanka Dynasty – Bimbisara and Ajatashatru / ஹரியங்க வம்சம் – பிம்பிசாரர் மற்றும் அஜாதசத்ரு",
+en: `The Haryanka dynasty played an important role in the rise of Magadha as a powerful kingdom in ancient India. Magadha was located mainly in present-day Bihar. Its fertile plains, rivers, forests and mineral resources supported its growth.
+
+BIMBISARA:
+- An important early ruler of the Haryanka dynasty.
+- Ruled during the 6th century BCE.
+- Made Rajagriha (Rajgir) his capital.
+- Expanded Magadha through military campaigns and matrimonial alliances.
+- Married Kosaladevi, sister of King Prasenajit of Kosala.
+- Received Kashi as part of the marriage arrangement.
+- Established matrimonial relations with the Licchavis of Vaishali and the Madra region.
+- Maintained relations with Gautama Buddha and Mahavira.
+- Buddhist tradition associates him with the donation of Veluvana monastery to Buddha.
+
+AJATASHATRU:
+- Son and successor of Bimbisara.
+- Ruled during the 5th century BCE.
+- Expanded Magadha through warfare.
+- Fought against Kosala and the Vajji confederacy.
+- Strengthened the military power of Magadha.
+- Traditional accounts associate him with war machines called Rathamusala and Mahashilakantaka.
+- Fortified Pataligrama, which later developed into Pataliputra.
+- Traditionally associated with the First Buddhist Council at Rajagriha.
+
+WAR WITH VAJJI:
+- The Vajji confederacy was a powerful republican organisation.
+- Vaishali was its important centre.
+- Ajatashatru fought a prolonged war against the Vajjis.
+- Magadha eventually established its supremacy over the region.
+
+IMPORTANCE:
+- Bimbisara laid the foundation for Magadha's expansion.
+- Ajatashatru strengthened its military and political position.
+- Rajagriha and Pataligrama became important centres.
+- Their period was significant in Jain and Buddhist history.
+
+TNPSC FACTS:
+- Dynasty – Haryanka.
+- Bimbisara – Important early ruler.
+- Capital – Rajagriha.
+- Ajatashatru – Son of Bimbisara.
+- Vajji war – Associated with Ajatashatru.
+- First Buddhist Council – Rajagriha.`,
+ta: `பண்டைய இந்தியாவில் மகதம் வலிமையான அரசாக உருவெடுப்பதில் ஹரியங்க வம்சம் முக்கியப் பங்கு வகித்தது. மகதம் இன்றைய பீகார் மாநிலப் பகுதிகளில் அமைந்திருந்தது. வளமான நிலம், ஆறுகள், காடுகள் மற்றும் கனிம வளங்கள் அதன் வளர்ச்சிக்கு உதவின.
+
+பிம்பிசாரர்:
+- ஹரியங்க வம்சத்தின் முக்கியமான தொடக்ககால மன்னர்.
+- கி.மு. 6ஆம் நூற்றாண்டில் ஆட்சி செய்தார்.
+- ராஜகிரகம் (ராஜ்கிர்) தலைநகரமாக இருந்தது.
+- போர் மற்றும் திருமண உறவுகள் மூலம் மகதத்தை விரிவுபடுத்தினார்.
+- கோசல மன்னர் பிரசேனஜித்தின் சகோதரி கோசலதேவியை மணந்தார்.
+- திருமண உறவின் மூலம் காசிப் பகுதியைப் பெற்றதாகக் கூறப்படுகிறது.
+- வைசாலியின் லிச்சாவியர்கள் மற்றும் மத்ரப் பகுதியுடன் திருமண உறவுகளை ஏற்படுத்தினார்.
+- கௌதம புத்தர் மற்றும் மகாவீரருடன் தொடர்புடையவராகக் குறிப்பிடப்படுகிறார்.
+- வேலுவன மடாலயத்தை புத்தருக்கு வழங்கியதாக பௌத்த மரபு கூறுகிறது.
+
+அஜாதசத்ரு:
+- பிம்பிசாரரின் மகன் மற்றும் வாரிசு.
+- கி.மு. 5ஆம் நூற்றாண்டில் ஆட்சி செய்தார்.
+- போர்களின் மூலம் மகதத்தின் எல்லைகளை விரிவுபடுத்தினார்.
+- கோசலம் மற்றும் வஜ்ஜிக் கூட்டமைப்புடன் போர் புரிந்தார்.
+- மகதத்தின் படை வலிமையை உயர்த்தினார்.
+- ரதமுசலம், மகாசிலாகண்டகம் போன்ற போர்க் கருவிகளைப் பயன்படுத்தியதாக மரபுக் குறிப்புகள் கூறுகின்றன.
+- பாடலிகிராமத்தைப் பலப்படுத்தினார். பின்னர் அது பாடலிபுத்திரமாக வளர்ந்தது.
+- ராஜகிரகத்தில் நடைபெற்ற முதல் பௌத்த மாநாட்டுடன் தொடர்புபடுத்தப்படுகிறார்.
+
+வஜ்ஜிக் கூட்டமைப்புடனான போர்:
+- வஜ்ஜிக் கூட்டமைப்பு வலிமையான குடியரசு அமைப்பாக இருந்தது.
+- வைசாலி அதன் முக்கிய மையமாக விளங்கியது.
+- அஜாதசத்ரு வஜ்ஜியர்களுடன் நீண்டகாலப் போர் புரிந்தார்.
+- இறுதியில் மகதம் அப்பகுதியில் தனது ஆதிக்கத்தை நிலைநாட்டியது.
+
+முக்கியத்துவம்:
+- பிம்பிசாரர் மகதத்தின் விரிவாக்கத்திற்கு அடித்தளமிட்டார்.
+- அஜாதசத்ரு அதன் படை மற்றும் அரசியல் வலிமையை உயர்த்தினார்.
+- ராஜகிரகம் மற்றும் பாடலிகிராமம் முக்கிய மையங்களாக வளர்ந்தன.
+- இக்காலம் சமண மற்றும் பௌத்த வரலாற்றில் முக்கியமானது.
+
+TNPSC குறிப்புகள்:
+- வம்சம் – ஹரியங்கம்.
+- பிம்பிசாரர் – முக்கிய தொடக்ககால மன்னர்.
+- தலைநகரம் – ராஜகிரகம்.
+- அஜாதசத்ரு – பிம்பிசாரரின் மகன்.
+- வஜ்ஜிப் போர் – அஜாதசத்ருவுடன் தொடர்புடையது.
+- முதல் பௌத்த மாநாடு – ராஜகிரகம்.`,
+points:["Bimbisara – Haryanka dynasty","Capital – Rajagriha","Ajatashatru – Son of Bimbisara","Ajatashatru fought Vajji","First Buddhist Council – Rajagriha","பிம்பிசாரர் – ஹரியங்க வம்சம்","தலைநகரம் – ராஜகிரகம்","அஜாதசத்ரு – பிம்பிசாரரின் மகன்"]
+},
+
+{
+title: "17. Shishunaga Dynasty and Kalasoka / சிசுநாக வம்சம் மற்றும் காலசோகர்",
+en: `The Shishunaga dynasty succeeded the Haryanka dynasty in Magadha. It continued the expansion of the kingdom and strengthened Magadha's position in northern India.
+
+SHISHUNAGA:
+- Traditionally regarded as the founder of the dynasty.
+- Came to power after the decline of the Haryanka dynasty.
+- Some traditions describe him as a minister who became king.
+- Strengthened Magadha's political influence.
+- Traditionally associated with the annexation of Avanti.
+- The annexation reduced the power of a major rival of Magadha.
+
+KALASOKA:
+- An important ruler of the Shishunaga dynasty.
+- Also associated with the name Kakavarna in some traditions.
+- Traditionally associated with the Second Buddhist Council at Vaishali.
+- The council discussed disagreements about monastic discipline.
+- Vaishali was an important political and religious centre.
+
+IMPORTANCE:
+- Magadha continued to expand under the Shishunagas.
+- Avanti's incorporation strengthened Magadha.
+- The dynasty formed a link between the Haryanka and Nanda dynasties.
+- Buddhist traditions are important sources for this period.
+
+TNPSC FACTS:
+- Founder – Shishunaga.
+- Important ruler – Kalasoka.
+- Second Buddhist Council – Vaishali.
+- Shishunaga dynasty succeeded Haryanka dynasty.
+- Avanti – Traditionally associated with Shishunaga's expansion.`,
+ta: `மகதத்தில் ஹரியங்க வம்சத்திற்குப் பிறகு சிசுநாக வம்சம் ஆட்சிக்கு வந்தது. இவ்வம்சம் மகதத்தின் விரிவாக்கத்தைத் தொடர்ந்து மேற்கொண்டு வட இந்தியாவில் அதன் ஆதிக்கத்தை வலுப்படுத்தியது.
+
+சிசுநாகர்:
+- சிசுநாக வம்சத்தை நிறுவியவராகக் கருதப்படுகிறார்.
+- ஹரியங்க வம்சத்தின் வீழ்ச்சிக்குப் பிறகு ஆட்சிக்கு வந்தார்.
+- சில மரபுகளின்படி அமைச்சராக இருந்து மன்னரானார்.
+- மகதத்தின் அரசியல் செல்வாக்கை உயர்த்தினார்.
+- அவந்தி நாட்டை இணைத்துக் கொண்டதாக மரபு குறிப்பிடுகிறது.
+- அவந்தி இணைக்கப்பட்டதால் மகதத்தின் முக்கியப் போட்டியாளர் வலிமை இழந்தது.
+
+காலசோகர்:
+- சிசுநாக வம்சத்தின் முக்கிய மன்னர்.
+- சில மரபுகளில் காகவர்ணர் என்றும் அழைக்கப்படுகிறார்.
+- வைசாலியில் நடைபெற்ற இரண்டாவது பௌத்த மாநாட்டுடன் தொடர்புடையவர்.
+- துறவிகளின் ஒழுக்க விதிகள் தொடர்பான கருத்து வேறுபாடுகள் மாநாட்டில் விவாதிக்கப்பட்டன.
+- வைசாலி முக்கிய அரசியல் மற்றும் சமய மையமாக விளங்கியது.
+
+முக்கியத்துவம்:
+- சிசுநாகர்களின் ஆட்சியில் மகதத்தின் விரிவாக்கம் தொடர்ந்தது.
+- அவந்தி இணைக்கப்பட்டதால் மகதத்தின் வலிமை அதிகரித்தது.
+- ஹரியங்க மற்றும் நந்த வம்சங்களுக்கு இடையிலான இணைப்பாக இவ்வம்சம் விளங்கியது.
+- பௌத்த மரபுகள் இக்கால வரலாற்றிற்கான முக்கிய ஆதாரங்களாக உள்ளன.
+
+TNPSC குறிப்புகள்:
+- நிறுவியவர் – சிசுநாகர்.
+- முக்கிய மன்னர் – காலசோகர்.
+- இரண்டாவது பௌத்த மாநாடு – வைசாலி.
+- ஹரியங்க வம்சத்திற்குப் பிறகு வந்தது – சிசுநாக வம்சம்.
+- அவந்தி – சிசுநாகர் காலத்தில் மகதத்துடன் இணைக்கப்பட்டதாக மரபு கூறுகிறது.`,
+points:["Shishunaga – Founder","Kalasoka – Important ruler","Second Buddhist Council – Vaishali","Shishunaga succeeded Haryanka","Avanti – Associated with expansion","சிசுநாகர் – நிறுவியவர்","காலசோகர் – முக்கிய மன்னர்","இரண்டாவது பௌத்த மாநாடு – வைசாலி"]
+},
+
+{
+title: "18. Nanda Dynasty – Mahapadma Nanda and Dhana Nanda / நந்த வம்சம் – மகாபத்ம நந்தர் மற்றும் தனநந்தர்",
+en: `The Nanda dynasty ruled Magadha before the Mauryan Empire. It became famous for its wealth, large army and extensive political authority.
+
+MAHAPADMA NANDA:
+- Traditionally regarded as the founder of the Nanda dynasty.
+- Expanded the power of Magadha.
+- Puranic traditions describe him as the destroyer of several Kshatriya ruling families.
+- Established Nanda authority over different regions.
+- Developed a powerful centralised kingdom.
+
+NANDA ECONOMY AND ARMY:
+- Agriculture and trade supported the kingdom's wealth.
+- The state collected substantial taxes and revenue.
+- Greek accounts describe the Nanda kingdom as possessing a very large army.
+- The army included infantry, cavalry, chariots and elephants.
+- Pataliputra was the principal political centre.
+
+DHANA NANDA:
+- Traditionally regarded as the last Nanda ruler.
+- Ruled when Alexander's invasion reached north-western India.
+- Greek sources describe a powerful ruler in the Gangetic region, commonly identified with the Nanda king.
+- His wealth and military strength were widely reported.
+- Chandragupta Maurya, supported by Chanakya, overthrew the Nanda dynasty.
+- Details of the overthrow differ among historical traditions.
+
+IMPORTANCE:
+- The Nandas established a powerful state before the Mauryas.
+- Their administrative and financial resources helped create conditions for the Mauryan Empire.
+- Magadha became the dominant power in northern India.
+
+TNPSC FACTS:
+- Founder – Mahapadma Nanda.
+- Last ruler – Dhana Nanda.
+- Capital – Pataliputra.
+- Nandas preceded the Mauryas.
+- Chandragupta Maurya overthrew the Nandas.
+- Chanakya is traditionally associated with Chandragupta's rise.`,
+ta: `மௌரியப் பேரரசு உருவாகுவதற்கு முன்பு மகதத்தை நந்த வம்சம் ஆட்சி செய்தது. செல்வம், பெரிய படை மற்றும் விரிவான அரசியல் ஆதிக்கம் ஆகியவற்றால் இவ்வம்சம் புகழ்பெற்றது.
+
+மகாபத்ம நந்தர்:
+- நந்த வம்சத்தை நிறுவியவராகப் பாரம்பரியமாகக் கருதப்படுகிறார்.
+- மகதத்தின் அதிகாரத்தை விரிவுபடுத்தினார்.
+- பல சத்திரிய அரச குடும்பங்களை அழித்தவர் என்று புராண மரபுகள் குறிப்பிடுகின்றன.
+- பல்வேறு பகுதிகளில் நந்தர்களின் ஆதிக்கத்தை நிலைநாட்டினார்.
+- வலிமையான மையப்படுத்தப்பட்ட அரசை உருவாக்கினார்.
+
+நந்தர்களின் பொருளாதாரம் மற்றும் படை:
+- வேளாண்மை மற்றும் வணிகம் அரசின் செல்வத்திற்கு ஆதாரமாக இருந்தன.
+- அரசு அதிக அளவில் வரி மற்றும் வருவாயைச் சேகரித்தது.
+- நந்தர்களிடம் மிகப்பெரிய படை இருந்ததாக கிரேக்கக் குறிப்புகள் தெரிவிக்கின்றன.
+- காலாட்படை, குதிரைப்படை, தேர்ப்படை மற்றும் யானைப்படை இருந்தன.
+- பாடலிபுத்திரம் முக்கிய அரசியல் மையமாக விளங்கியது.
+
+தனநந்தர்:
+- நந்த வம்சத்தின் கடைசி மன்னராகப் பாரம்பரியமாகக் கருதப்படுகிறார்.
+- அலெக்சாண்டரின் படையெடுப்பு வடமேற்கு இந்தியாவை அடைந்த காலத்தில் ஆட்சி செய்தார்.
+- கங்கைச் சமவெளியில் வலிமையான மன்னர் ஒருவர் இருந்ததாக கிரேக்கக் குறிப்புகள் தெரிவிக்கின்றன.
+- அவரது செல்வமும் படை வலிமையும் புகழ்பெற்றிருந்தன.
+- சாணக்கியரின் ஆதரவுடன் சந்திரகுப்த மௌரியர் நந்த வம்சத்தை வீழ்த்தினார்.
+- நந்தர்களின் வீழ்ச்சி பற்றிய விவரங்கள் வெவ்வேறு வரலாற்று மரபுகளில் மாறுபடுகின்றன.
+
+முக்கியத்துவம்:
+- மௌரியர்களுக்கு முன்பு நந்தர்கள் வலிமையான அரசை உருவாக்கினர்.
+- அவர்களின் நிர்வாக மற்றும் நிதி வளங்கள் மௌரியப் பேரரசு உருவாக உதவின.
+- வட இந்தியாவில் மகதம் ஆதிக்கம் பெற்றது.
+
+TNPSC குறிப்புகள்:
+- நிறுவியவர் – மகாபத்ம நந்தர்.
+- கடைசி மன்னர் – தனநந்தர்.
+- தலைநகரம் – பாடலிபுத்திரம்.
+- நந்தர்களுக்குப் பிறகு வந்தவர்கள் – மௌரியர்கள்.
+- நந்தர்களை வீழ்த்தியவர் – சந்திரகுப்த மௌரியர்.
+- சாணக்கியர் – சந்திரகுப்தரின் எழுச்சியுடன் தொடர்புடையவர்.`,
+points:["Mahapadma Nanda – Founder","Dhana Nanda – Last ruler","Capital – Pataliputra","Chandragupta overthrew Nandas","Chanakya supported Chandragupta","மகாபத்ம நந்தர் – நிறுவியவர்","தனநந்தர் – கடைசி மன்னர்","தலைநகரம் – பாடலிபுத்திரம்"]
+},
+
+{
+title: "19. Rise of the Mauryan Empire / மௌரியப் பேரரசின் தோற்றம்",
+en: `The Mauryan Empire was the first major empire to unite a large part of the Indian subcontinent under one central authority. It emerged in the late 4th century BCE.
+
+BACKGROUND:
+- Magadha had become the most powerful kingdom in northern India.
+- The Nanda dynasty controlled a large territory and possessed considerable wealth.
+- Alexander's invasion weakened or changed political conditions in parts of the north-west.
+- The political situation created opportunities for a new power to emerge.
+
+CHANDRAGUPTA AND CHANAKYA:
+- Chandragupta Maurya founded the Mauryan Empire.
+- Chanakya, also known as Kautilya or Vishnugupta, is traditionally associated with his rise.
+- Chanakya is traditionally credited with guiding Chandragupta against the Nandas.
+- Chandragupta established control over Magadha.
+- The Mauryan Empire is generally dated from about 322/321 BCE.
+
+EXPANSION:
+- Chandragupta consolidated power in northern India.
+- He extended Mauryan authority towards the north-west.
+- He confronted Seleucus I Nicator, one of Alexander's successors.
+- A treaty was concluded around 305 BCE.
+- Seleucus ceded territories in the north-west to Chandragupta.
+- The agreement included a diplomatic marriage alliance according to classical accounts.
+- Megasthenes later served as Seleucus's ambassador at Chandragupta's court.
+
+SOURCES:
+- Arthashastra, traditionally attributed to Kautilya.
+- Indica, written by Megasthenes, known through later quotations.
+- Jain and Buddhist literary traditions.
+- Ashokan inscriptions, which provide later evidence about the Mauryan state.
+- Archaeological remains and coins.
+
+IMPORTANCE:
+- Established a large centralised empire.
+- Strengthened political unity across much of northern India.
+- Developed organised administration and military institutions.
+- Created the foundation for Ashoka's later expansion.
+
+TNPSC FACTS:
+- Founder – Chandragupta Maurya.
+- Adviser – Chanakya/Kautilya.
+- Approximate beginning – 322/321 BCE.
+- Capital – Pataliputra.
+- Greek ambassador – Megasthenes.
+- Seleucus treaty – Around 305 BCE.`,
+ta: `இந்தியத் துணைக்கண்டத்தின் பெரும்பகுதியை ஒரே மைய ஆட்சியின் கீழ் கொண்டுவந்த முதல் பெரிய பேரரசாக மௌரியப் பேரரசு விளங்கியது. இது கி.மு. 4ஆம் நூற்றாண்டின் இறுதியில் உருவானது.
+
+வரலாற்றுப் பின்னணி:
+- வட இந்தியாவில் மகதம் வலிமையான அரசாக வளர்ந்திருந்தது.
+- நந்தர்கள் பெரிய நிலப்பரப்பையும் செல்வத்தையும் கட்டுப்பாட்டில் வைத்திருந்தனர்.
+- அலெக்சாண்டரின் படையெடுப்பு வடமேற்குப் பகுதிகளின் அரசியல் சூழலில் மாற்றங்களை ஏற்படுத்தியது.
+- இந்தச் சூழல் புதிய பேரரசு உருவாக வழிவகுத்தது.
+
+சந்திரகுப்தர் மற்றும் சாணக்கியர்:
+- சந்திரகுப்த மௌரியர் மௌரியப் பேரரசை நிறுவினார்.
+- சாணக்கியர், கௌடில்யர் அல்லது விஷ்ணுகுப்தர் என்றும் அழைக்கப்படுகிறார்.
+- நந்தர்களை எதிர்த்து சந்திரகுப்தர் எழுச்சி பெற சாணக்கியர் வழிகாட்டியதாக மரபு கூறுகிறது.
+- சந்திரகுப்தர் மகதத்தின் மீது தனது கட்டுப்பாட்டை நிறுவினார்.
+- மௌரியப் பேரரசின் தொடக்கம் பொதுவாக கி.மு. 322/321 எனக் கணிக்கப்படுகிறது.
+
+பேரரசின் விரிவாக்கம்:
+- சந்திரகுப்தர் வட இந்தியாவில் தனது ஆட்சியை உறுதிப்படுத்தினார்.
+- வடமேற்குப் பகுதிகளிலும் மௌரிய ஆதிக்கத்தை விரிவுபடுத்தினார்.
+- அலெக்சாண்டரின் வாரிசுகளில் ஒருவரான முதலாம் செலூகஸ் நிகேட்டரை எதிர்கொண்டார்.
+- கி.மு. 305 அளவில் ஒப்பந்தம் ஏற்பட்டது.
+- வடமேற்குப் பகுதிகளில் சில நிலங்களை செலூகஸ் சந்திரகுப்தரிடம் ஒப்படைத்தார்.
+- கிரேக்க மரபுக் குறிப்புகளின்படி தூதரகத் திருமண உறவும் ஏற்பட்டது.
+- மெகஸ்தனிஸ் செலூகஸின் தூதராகச் சந்திரகுப்தரின் அரசவையில் பணியாற்றினார்.
+
+வரலாற்று ஆதாரங்கள்:
+- கௌடில்யருடன் தொடர்புபடுத்தப்படும் அர்த்தசாஸ்திரம்.
+- மெகஸ்தனிஸ் எழுதிய இண்டிகா நூல்; அதன் பகுதிகள் பிற்கால எழுத்தாளர்களின் மேற்கோள்கள் மூலம் அறியப்படுகின்றன.
+- சமண மற்றும் பௌத்த இலக்கிய மரபுகள்.
+- மௌரிய அரசைப் பற்றிய பின்னாளைய ஆதாரங்களான அசோகரின் கல்வெட்டுகள்.
+- தொல்லியல் சான்றுகள் மற்றும் நாணயங்கள்.
+
+முக்கியத்துவம்:
+- பெரிய மையப்படுத்தப்பட்ட பேரரசு உருவானது.
+- வட இந்தியாவின் பெரும்பகுதியில் அரசியல் ஒற்றுமை வலுப்பெற்றது.
+- ஒழுங்கமைக்கப்பட்ட நிர்வாகமும் படை அமைப்பும் வளர்ந்தன.
+- அசோகரின் பிற்கால விரிவாக்கத்திற்கு அடித்தளம் அமைந்தது.
+
+TNPSC குறிப்புகள்:
+- நிறுவியவர் – சந்திரகுப்த மௌரியர்.
+- ஆலோசகர் – சாணக்கியர் / கௌடில்யர்.
+- தொடக்கம் – கி.மு. 322/321 அளவில்.
+- தலைநகரம் – பாடலிபுத்திரம்.
+- கிரேக்கத் தூதர் – மெகஸ்தனிஸ்.
+- செலூகஸ் ஒப்பந்தம் – கி.மு. 305 அளவில்.`,
+points:["Chandragupta Maurya – Founder","Chanakya – Kautilya","Capital – Pataliputra","Megasthenes – Greek ambassador","Seleucus treaty – c.305 BCE","மௌரியப் பேரரசு – சந்திரகுப்தர்","சாணக்கியர் – கௌடில்யர்","மெகஸ்தனிஸ் – கிரேக்கத் தூதர்"]
+},
+
+{
+title: "20. Chandragupta Maurya – Conquests and Achievements / சந்திரகுப்த மௌரியர் – வெற்றிகள் மற்றும் சாதனைகள்",
+en: `Chandragupta Maurya was the founder of the Mauryan Empire and one of the most influential rulers in ancient Indian history.
+
+EARLY RISE:
+- Chandragupta came to power after overthrowing the Nanda dynasty.
+- Chanakya is traditionally credited with guiding his political and military rise.
+- He established Pataliputra as the imperial capital.
+- He consolidated control over Magadha and expanded into northern India.
+
+CONFLICT WITH SELEUCUS:
+- Seleucus I Nicator was a successor of Alexander in western Asia.
+- Chandragupta confronted Seleucus around 305 BCE.
+- A treaty resulted in the transfer of territories in the north-west to the Mauryan Empire.
+- Classical accounts mention the exchange of 500 war elephants.
+- Megasthenes was sent as an ambassador to Chandragupta's court.
+
+ADMINISTRATION:
+- Maintained a strong central government.
+- Appointed officials for revenue, justice, military and provincial administration.
+- Maintained a large army.
+- Used an organised system of taxation and supervision.
+- Pataliputra was the centre of imperial administration.
+
+JAIN TRADITION:
+- Jain traditions associate Chandragupta's later life with the Jain teacher Bhadrabahu.
+- According to tradition, he travelled to Shravanabelagola in Karnataka.
+- He is traditionally said to have practised Sallekhana.
+- These details are based mainly on Jain literary traditions.
+
+ABDICATION AND DEATH:
+- Chandragupta was succeeded by his son Bindusara.
+- His reign laid the foundation for the later expansion under Ashoka.
+
+TNPSC FACTS:
+- Founder of Mauryan Empire – Chandragupta.
+- Adviser – Chanakya.
+- Capital – Pataliputra.
+- Greek ambassador – Megasthenes.
+- Opponent – Seleucus I Nicator.
+- Jain tradition – Bhadrabahu and Shravanabelagola.
+- Successor – Bindusara.`,
+ta: `சந்திரகுப்த மௌரியர் மௌரியப் பேரரசை நிறுவியவர். பண்டைய இந்திய வரலாற்றில் மிகவும் செல்வாக்கு மிக்க மன்னர்களில் ஒருவராக விளங்கினார்.
+
+தொடக்க எழுச்சி:
+- நந்த வம்சத்தை வீழ்த்தி ஆட்சிக்கு வந்தார்.
+- இவரது அரசியல் மற்றும் படை எழுச்சிக்கு சாணக்கியர் வழிகாட்டியதாக மரபு கூறுகிறது.
+- பாடலிபுத்திரத்தைப் பேரரசின் தலைநகரமாக அமைத்தார்.
+- மகதத்தின் மீது தனது கட்டுப்பாட்டை உறுதிப்படுத்தி வட இந்தியாவில் ஆட்சியை விரிவுபடுத்தினார்.
+
+செலூகஸுடனான மோதல்:
+- முதலாம் செலூகஸ் நிகேட்டர் மேற்கு ஆசியாவில் அலெக்சாண்டரின் வாரிசுகளில் ஒருவராக இருந்தார்.
+- கி.மு. 305 அளவில் சந்திரகுப்தர் செலூகஸை எதிர்கொண்டார்.
+- ஒப்பந்தத்தின் மூலம் வடமேற்குப் பகுதிகளில் சில நிலங்கள் மௌரியப் பேரரசுடன் இணைந்தன.
+- 500 போர் யானைகள் வழங்கப்பட்டதாக கிரேக்க மரபுக் குறிப்புகள் தெரிவிக்கின்றன.
+- மெகஸ்தனிஸ் சந்திரகுப்தரின் அரசவைக்கு தூதராக அனுப்பப்பட்டார்.
+
+நிர்வாகம்:
+- வலிமையான மத்திய அரசை அமைத்தார்.
+- வருவாய், நீதி, படை மற்றும் மாகாண நிர்வாகத்திற்குப் பொறுப்பான அதிகாரிகளை நியமித்தார்.
+- பெரிய படையைப் பராமரித்தார்.
+- வரி வசூல் மற்றும் கண்காணிப்பு முறைகளை ஒழுங்குபடுத்தினார்.
+- பாடலிபுத்திரம் பேரரசின் நிர்வாக மையமாக இருந்தது.
+
+சமண மரபு:
+- சந்திரகுப்தரின் இறுதிக்கால வாழ்க்கையைச் சமண மரபுகள் பத்திரபாகுவுடன் தொடர்புபடுத்துகின்றன.
+- கர்நாடகத்தின் சிரவணபெலகோலாவுக்குச் சென்றதாக மரபு கூறுகிறது.
+- சல்லேகனை என்ற சமண விரதத்தை மேற்கொண்டதாகவும் கூறப்படுகிறது.
+- இத்தகவல்கள் பெரும்பாலும் சமண இலக்கிய மரபுகளை அடிப்படையாகக் கொண்டவை.
+
+ஆட்சியின் முடிவு:
+- சந்திரகுப்தருக்குப் பிறகு அவரது மகன் பிந்துசாரர் ஆட்சிக்கு வந்தார்.
+- அசோகரின் விரிவாக்கத்திற்கு அடித்தளமிட்டார்.
+
+TNPSC குறிப்புகள்:
+- மௌரியப் பேரரசை நிறுவியவர் – சந்திரகுப்தர்.
+- ஆலோசகர் – சாணக்கியர்.
+- தலைநகரம் – பாடலிபுத்திரம்.
+- கிரேக்கத் தூதர் – மெகஸ்தனிஸ்.
+- எதிரி – முதலாம் செலூகஸ் நிகேட்டர்.
+- சமண மரபு – பத்திரபாகு, சிரவணபெலகோலா.
+- வாரிசு – பிந்துசாரர்.`,
+points:["Founder – Chandragupta Maurya","Chanakya – Adviser","Megasthenes – Ambassador","Seleucus I – Treaty","Successor – Bindusara","Shravanabelagola – Jain tradition","சந்திரகுப்தர் – மௌரிய நிறுவனர்","சாணக்கியர் – ஆலோசகர்","பிந்துசாரர் – வாரிசு"]
+},
+
+{
+title: "21. Bindusara – Second Mauryan Emperor / பிந்துசாரர் – இரண்டாவது மௌரியப் பேரரசர்",
+en: `Bindusara was the son of Chandragupta Maurya and the second emperor of the Mauryan dynasty. He continued the expansion and consolidation of the empire.
+
+IMPORTANT FACTS:
+- Succeeded Chandragupta Maurya.
+- Ruled approximately from 297 to 273 BCE, according to commonly used historical chronologies.
+- Greek writers referred to him as Amitrochates, generally associated with the Sanskrit title Amitraghata, meaning destroyer of enemies.
+- Maintained diplomatic contacts with Hellenistic kingdoms.
+- Pataliputra remained the imperial capital.
+
+FOREIGN RELATIONS:
+- Greek sources mention diplomatic exchanges between Bindusara and rulers in the Hellenistic world.
+- Antiochus I of the Seleucid Empire is associated with diplomatic contact.
+- Classical accounts mention requests for items such as figs, wine and a philosopher, although these details come through later writers.
+
+ADMINISTRATION AND EXPANSION:
+- Continued the Mauryan administrative system.
+- Maintained control over a large empire.
+- Traditionally associated with the expansion of Mauryan influence into parts of the Deccan.
+- Provincial centres helped administer distant territories.
+
+ASHOKA:
+- Bindusara was the father of Ashoka.
+- Ashoka later became the most famous Mauryan emperor.
+- Ashoka's rise followed a succession struggle according to some literary traditions.
+
+IMPORTANCE:
+- Maintained the empire built by Chandragupta.
+- Preserved diplomatic connections with western kingdoms.
+- Provided continuity between Chandragupta and Ashoka.
+
+TNPSC FACTS:
+- Second Mauryan emperor – Bindusara.
+- Father – Chandragupta Maurya.
+- Son – Ashoka.
+- Title – Amitraghata.
+- Greek form – Amitrochates.
+- Capital – Pataliputra.`,
+ta: `பிந்துசாரர் சந்திரகுப்த மௌரியரின் மகனும் மௌரிய வம்சத்தின் இரண்டாவது பேரரசரும் ஆவார். பேரரசின் விரிவாக்கத்தையும் ஒருங்கிணைப்பையும் தொடர்ந்து மேற்கொண்டார்.
+
+முக்கிய தகவல்கள்:
+- சந்திரகுப்த மௌரியருக்குப் பிறகு ஆட்சிக்கு வந்தார்.
+- பொதுவாகப் பயன்படுத்தப்படும் காலக்கணிப்பின்படி கி.மு. 297 முதல் 273 வரை ஆட்சி செய்ததாகக் கருதப்படுகிறது.
+- கிரேக்க எழுத்தாளர்கள் இவரை அமித்ரோகேட்ஸ் என்று குறிப்பிட்டனர். இது எதிரிகளை அழிப்பவர் என்று பொருள்படும் அமித்ரகாதா என்ற பட்டத்துடன் தொடர்புடையது.
+- ஹெலனிய அரசுகளுடன் தூதரகத் தொடர்புகளைப் பேணினார்.
+- பாடலிபுத்திரம் தலைநகரமாகத் தொடர்ந்தது.
+
+வெளிநாட்டுத் தொடர்புகள்:
+- பிந்துசாரருக்கும் ஹெலனிய உலகின் மன்னர்களுக்கும் இடையே தூதரகத் தொடர்புகள் இருந்ததாக கிரேக்க ஆதாரங்கள் தெரிவிக்கின்றன.
+- செலூகஸ் பேரரசின் முதலாம் அந்தியோகஸ் தொடர்புடையவராகக் குறிப்பிடப்படுகிறார்.
+- அத்திப்பழம், மது மற்றும் தத்துவஞானி போன்றவற்றைக் கேட்டதாகப் பிற்கால கிரேக்கக் குறிப்புகள் தெரிவிக்கின்றன.
+
+நிர்வாகம் மற்றும் விரிவாக்கம்:
+- மௌரிய நிர்வாக முறையைத் தொடர்ந்து பராமரித்தார்.
+- பரந்த பேரரசின் கட்டுப்பாட்டைத் தக்கவைத்தார்.
+- தக்காணத்தின் சில பகுதிகளில் மௌரிய ஆதிக்கத்தை விரிவுபடுத்தியதாக மரபு கூறுகிறது.
+- தொலைதூரப் பகுதிகளை நிர்வகிக்க மாகாண மையங்கள் உதவின.
+
+அசோகர்:
+- பிந்துசாரரின் மகன் அசோகர்.
+- பின்னர் புகழ்பெற்ற மௌரியப் பேரரசராக அசோகர் விளங்கினார்.
+- சில இலக்கிய மரபுகளின்படி வாரிசுரிமைப் போட்டிக்குப் பிறகு அசோகர் ஆட்சிக்கு வந்தார்.
+
+முக்கியத்துவம்:
+- சந்திரகுப்தர் உருவாக்கிய பேரரசைப் பாதுகாத்தார்.
+- மேற்கு ஆசிய அரசுகளுடனான தூதரகத் தொடர்புகளைத் தொடர்ந்தார்.
+- சந்திரகுப்தருக்கும் அசோகருக்கும் இடையிலான ஆட்சித் தொடர்ச்சியை உறுதிப்படுத்தினார்.
+
+TNPSC குறிப்புகள்:
+- இரண்டாவது மௌரியப் பேரரசர் – பிந்துசாரர்.
+- தந்தை – சந்திரகுப்த மௌரியர்.
+- மகன் – அசோகர்.
+- பட்டம் – அமித்ரகாதா.
+- கிரேக்கப் பெயர் – அமித்ரோகேட்ஸ்.
+- தலைநகரம் – பாடலிபுத்திரம்.`,
+points:["Second Mauryan emperor – Bindusara","Father – Chandragupta","Son – Ashoka","Title – Amitraghata","Greek name – Amitrochates","Capital – Pataliputra","பிந்துசாரர் – இரண்டாவது மௌரிய மன்னர்","அசோகர் – பிந்துசாரரின் மகன்"]
+},
+
+{
+title: "22. Ashoka – Early Life and Kalinga War / அசோகர் – தொடக்க வாழ்க்கை மற்றும் கலிங்கப் போர்",
+en: `Ashoka was the most famous ruler of the Mauryan Empire. His reign is one of the most important periods in ancient Indian history.
+
+EARLY LIFE:
+- Son of Bindusara.
+- Grandson of Chandragupta Maurya.
+- Became Mauryan emperor around 268 BCE according to commonly used chronology.
+- Pataliputra was his capital.
+- The early years of his reign involved the consolidation of imperial authority.
+- Buddhist and other literary traditions describe different accounts of his early career.
+
+KALINGA:
+- Kalinga was an important region on the eastern coast, mainly in present-day Odisha.
+- It was strategically important because of its trade routes and access to the coast.
+- Ashoka invaded Kalinga around 261 BCE, in the eighth year of his reign according to his Major Rock Edict XIII.
+- The war caused enormous destruction and loss of life.
+- Ashoka's own inscription records approximately 100,000 deaths, 150,000 deportations and many more deaths from subsequent causes.
+- These figures are the numbers stated in the inscription and should be understood as ancient royal claims.
+
+ASHOKA'S CHANGE:
+- The suffering caused by the war deeply affected Ashoka.
+- He expressed remorse in Major Rock Edict XIII.
+- He increasingly promoted Dhamma and moral conduct.
+- He emphasised compassion, restraint, respect and non-violence.
+- He did not abandon kingship or all military and administrative responsibilities.
+- His policy increasingly favoured moral conquest, known as Dhamma Vijaya.
+
+BUDDHISM:
+- Buddhist traditions associate Ashoka with the promotion of Buddhism.
+- He supported Buddhist institutions and religious activities.
+- Buddhist tradition connects him with the Third Buddhist Council at Pataliputra.
+- Missionary activities are traditionally associated with his reign.
+- Mahinda and Sanghamitta are linked with the spread of Buddhism in Sri Lanka.
+
+IMPORTANCE:
+- The Kalinga War marked a major turning point in Ashoka's rule.
+- His inscriptions provide direct evidence of his policies.
+- His ideas influenced political and ethical thought beyond India.
+
+TNPSC FACTS:
+- Father – Bindusara.
+- Grandfather – Chandragupta Maurya.
+- Capital – Pataliputra.
+- Kalinga War – Around 261 BCE.
+- Major Rock Edict XIII – Kalinga War and remorse.
+- Dhamma Vijaya – Moral conquest.
+- Third Buddhist Council – Traditionally associated with Ashoka.`,
+ta: `மௌரியப் பேரரசின் புகழ்பெற்ற மன்னராக அசோகர் விளங்கினார். பண்டைய இந்திய வரலாற்றில் இவரது ஆட்சிக்காலம் மிகவும் முக்கியமானதாகும்.
+
+தொடக்க வாழ்க்கை:
+- பிந்துசாரரின் மகன்.
+- சந்திரகுப்த மௌரியரின் பேரன்.
+- பொதுவாக ஏற்றுக்கொள்ளப்படும் காலக்கணிப்பின்படி கி.மு. 268 அளவில் பேரரசரானார்.
+- பாடலிபுத்திரம் தலைநகரமாக இருந்தது.
+- தொடக்கத்தில் பேரரசின் அதிகாரத்தை ஒருங்கிணைத்தார்.
+- இவரது இளமை மற்றும் ஆட்சிப் பொறுப்பேற்பு குறித்து பௌத்தம் உள்ளிட்ட இலக்கிய மரபுகளில் வெவ்வேறு செய்திகள் காணப்படுகின்றன.
+
+கலிங்கம்:
+- கலிங்கம் கிழக்குக் கடற்கரையில் அமைந்த முக்கியப் பகுதியாகும். இன்றைய ஒடிசாவின் பெரும்பகுதியுடன் தொடர்புடையது.
+- வணிகப் பாதைகள் மற்றும் கடற்கரை அணுகல் காரணமாக இது முக்கியத்துவம் பெற்றிருந்தது.
+- அசோகர் தனது ஆட்சியின் எட்டாவது ஆண்டில், சுமார் கி.மு. 261ஆம் ஆண்டு கலிங்கத்தின் மீது படையெடுத்தார்.
+- இப்போரில் பெரும் அழிவும் உயிரிழப்பும் ஏற்பட்டன.
+- முதன்மைப் பாறைக் கல்வெட்டு XIII-இல் சுமார் ஒரு இலட்சம் பேர் கொல்லப்பட்டதாகவும், ஒன்றரை இலட்சம் பேர் நாடுகடத்தப்பட்டதாகவும் மேலும் பலர் பின்னர் உயிரிழந்ததாகவும் அசோகர் பதிவு செய்துள்ளார்.
+- இவை கல்வெட்டில் கூறப்பட்ட பழங்கால அரசரின் கணக்குகள் என்பதை நினைவில் கொள்ள வேண்டும்.
+
+அசோகரின் மனமாற்றம்:
+- போரினால் ஏற்பட்ட துன்பங்கள் அசோகரை ஆழமாகப் பாதித்தன.
+- முதன்மைப் பாறைக் கல்வெட்டு XIII-இல் தனது வருத்தத்தை வெளிப்படுத்தினார்.
+- அறநெறி மற்றும் தம்மத்தை அதிகமாகப் பரப்பத் தொடங்கினார்.
+- கருணை, கட்டுப்பாடு, மரியாதை மற்றும் அகிம்சையை வலியுறுத்தினார்.
+- மன்னர் பதவியையும் அனைத்து நிர்வாகப் பொறுப்புகளையும் கைவிடவில்லை.
+- அறநெறி வழியிலான வெற்றியான தம்ம விஜயத்திற்கு முக்கியத்துவம் அளித்தார்.
+
+பௌத்தம்:
+- பௌத்த மரபுகள் அசோகரைப் பௌத்த சமயத்தின் முக்கிய ஆதரவாளராகக் குறிப்பிடுகின்றன.
+- பௌத்த அமைப்புகள் மற்றும் சமயப் பணிகளுக்கு ஆதரவு அளித்தார்.
+- பாடலிபுத்திரத்தில் நடைபெற்ற மூன்றாவது பௌத்த மாநாட்டுடன் தொடர்புபடுத்தப்படுகிறார்.
+- இவரது ஆட்சியில் சமயப் பரப்புப் பணிகள் நடைபெற்றதாக மரபு கூறுகிறது.
+- மகிந்தர் மற்றும் சங்கமித்திரை இலங்கையில் பௌத்தம் பரவியதுடன் தொடர்புடையவர்கள்.
+
+முக்கியத்துவம்:
+- கலிங்கப் போர் அசோகரின் ஆட்சியில் முக்கியத் திருப்புமுனையாக அமைந்தது.
+- அவரது கல்வெட்டுகள் அரசுக் கொள்கைகளுக்கான நேரடி ஆதாரங்களாக உள்ளன.
+- அவரது அறநெறிக் கருத்துகள் இந்தியாவைத் தாண்டியும் தாக்கத்தை ஏற்படுத்தின.
+
+TNPSC குறிப்புகள்:
+- தந்தை – பிந்துசாரர்.
+- தாத்தா – சந்திரகுப்த மௌரியர்.
+- தலைநகரம் – பாடலிபுத்திரம்.
+- கலிங்கப் போர் – கி.மு. 261 அளவில்.
+- முதன்மைப் பாறைக் கல்வெட்டு XIII – கலிங்கப் போர் மற்றும் வருத்தம்.
+- தம்ம விஜயம் – அறநெறி வழியிலான வெற்றி.
+- மூன்றாவது பௌத்த மாநாடு – அசோகருடன் தொடர்புடையது.`,
+points:["Ashoka – Son of Bindusara","Kalinga War – c.261 BCE","Major Rock Edict XIII – Kalinga","Dhamma Vijaya – Moral conquest","Capital – Pataliputra","Third Buddhist Council – Pataliputra tradition","அசோகர் – பிந்துசாரரின் மகன்","கலிங்கப் போர் – கி.மு. 261","கல்வெட்டு XIII – கலிங்கப் போர்","தம்ம விஜயம் – அறநெறி வெற்றி"]
+},
+
+{
+title: "23. Ashoka's Dhamma and Inscriptions / அசோகரின் தம்மக் கொள்கை மற்றும் கல்வெட்டுகள்",
+en: `Ashoka used inscriptions to communicate his policies and moral ideas to the people. His inscriptions are among the most important sources for ancient Indian history.
+
+MEANING OF DHAMMA:
+- Dhamma was a practical code of ethical conduct.
+- It was not simply a new religion.
+- It emphasised respect for parents and elders.
+- It encouraged kindness towards servants and workers.
+- It promoted compassion towards animals and human beings.
+- It encouraged respect among different religious communities.
+- It opposed unnecessary violence and harsh treatment.
+- It promoted truthfulness, moderation and self-control.
+
+DHAMMA MAHAMATTAS:
+- Ashoka appointed special officers known as Dhamma Mahamattas.
+- They were responsible for promoting Dhamma and public welfare.
+- They helped address the needs of different communities.
+- They formed part of Ashoka's administrative outreach.
+
+PUBLIC WELFARE:
+- Ashoka ordered the planting of trees along roads.
+- Wells and facilities for travellers were encouraged.
+- Medical treatment for humans and animals was promoted.
+- He encouraged humane treatment of prisoners.
+- He instructed officials to work for public welfare.
+
+ASHOKAN INSCRIPTIONS:
+1. Major Rock Edicts – Important royal messages engraved on rocks.
+2. Minor Rock Edicts – Shorter inscriptions with personal and religious messages.
+3. Pillar Edicts – Messages engraved on stone pillars.
+4. Cave inscriptions – Records associated with caves and religious donations.
+
+IMPORTANT INSCRIPTIONS:
+- Major Rock Edict XIII – Kalinga War and Ashoka's remorse.
+- Major Rock Edict XII – Respect and tolerance among religious sects.
+- Major Rock Edict I – Restrictions on animal sacrifice and killing.
+- Bhabru/Bairat inscription – Ashoka's respect for Buddhist teachings.
+- Separate Kalinga Edicts – Administrative and moral instructions for Kalinga.
+
+LANGUAGES AND SCRIPTS:
+- Most inscriptions in the heartland were written in Prakrit using Brahmi script.
+- In the north-west, some inscriptions used Kharosthi.
+- Greek and Aramaic were used in certain north-western inscriptions.
+- Brahmi was generally written from left to right.
+- Kharosthi was written from right to left.
+
+DISCOVERY AND DECIPHERMENT:
+- James Prinsep deciphered the Brahmi and Kharosthi scripts in the 1830s.
+- His work made it possible to read many Ashokan inscriptions.
+- The title Devanampiya Piyadasi appears in several inscriptions.
+- Ashoka was identified with this ruler through historical and inscriptional evidence.
+
+TNPSC FACTS:
+- Dhamma Mahamattas – Officers appointed by Ashoka.
+- Major Rock Edict XIII – Kalinga.
+- Major Rock Edict XII – Religious tolerance.
+- James Prinsep – Decipherment of Brahmi.
+- Brahmi – Left to right.
+- Kharosthi – Right to left.
+- Devanampiya Piyadasi – Ashoka.`,
+ta: `அசோகர் தனது அரசுக் கொள்கைகளையும் அறநெறிக் கருத்துகளையும் மக்களிடம் கொண்டு செல்ல கல்வெட்டுகளைப் பயன்படுத்தினார். பண்டைய இந்திய வரலாற்றின் முக்கிய ஆதாரங்களில் அவரது கல்வெட்டுகளும் அடங்கும்.
+
+தம்மத்தின் பொருள்:
+- தம்மம் என்பது நடைமுறை அறநெறி வாழ்க்கை முறையாகும்.
+- இது ஒரு புதிய மதம் மட்டுமல்ல.
+- பெற்றோர் மற்றும் பெரியவர்களை மதித்தல்.
+- பணியாளர்கள் மற்றும் தொழிலாளர்களிடம் அன்பாக நடத்தல்.
+- மனிதர்கள் மற்றும் விலங்குகளிடம் கருணை காட்டுதல்.
+- பல்வேறு சமயத்தினரிடையே மரியாதையை வளர்த்தல்.
+- தேவையற்ற வன்முறை மற்றும் கொடுமைகளைத் தவிர்த்தல்.
+- உண்மை, அளவோடு வாழ்தல் மற்றும் சுயக்கட்டுப்பாடு ஆகியவற்றை வலியுறுத்துதல்.
+
+தம்ம மகாமாத்திரர்கள்:
+- தம்மத்தைப் பரப்ப அசோகர் சிறப்பு அதிகாரிகளை நியமித்தார்.
+- அவர்கள் தம்ம மகாமாத்திரர்கள் என அழைக்கப்பட்டனர்.
+- பொதுநலம் மற்றும் அறநெறி வளர்ச்சிக்குப் பொறுப்பாக இருந்தனர்.
+- பல்வேறு சமூகங்களின் தேவைகளை கவனித்தனர்.
+
+பொதுநலப் பணிகள்:
+- சாலைகளின் ஓரங்களில் மரங்கள் நட உத்தரவிட்டார்.
+- கிணறுகள் மற்றும் பயணிகளுக்கான வசதிகளை ஏற்படுத்த ஊக்குவித்தார்.
+- மனிதர்கள் மற்றும் விலங்குகளுக்கான மருத்துவ உதவியை ஆதரித்தார்.
+- கைதிகளை மனிதாபிமானத்துடன் நடத்த வலியுறுத்தினார்.
+- அதிகாரிகள் பொதுநலனுக்காகப் பணியாற்ற வேண்டும் என அறிவுறுத்தினார்.
+
+அசோகரின் கல்வெட்டுகள்:
+1. பெரும் பாறைக் கல்வெட்டுகள் – பாறைகளில் பொறிக்கப்பட்ட முக்கிய அரசுச் செய்திகள்.
+2. சிறிய பாறைக் கல்வெட்டுகள் – சுருக்கமான தனிப்பட்ட மற்றும் சமயச் செய்திகள்.
+3. தூண் கல்வெட்டுகள் – கல் தூண்களில் பொறிக்கப்பட்ட செய்திகள்.
+4. குகைக் கல்வெட்டுகள் – குகைகள் மற்றும் சமயக் கொடைகள் தொடர்பான பதிவுகள்.
+
+முக்கிய கல்வெட்டுகள்:
+- முதன்மைப் பாறைக் கல்வெட்டு XIII – கலிங்கப் போர் மற்றும் அசோகரின் வருத்தம்.
+- முதன்மைப் பாறைக் கல்வெட்டு XII – சமய சகிப்புத்தன்மை.
+- முதன்மைப் பாறைக் கல்வெட்டு I – விலங்குப் பலி மற்றும் கொலைகளைக் கட்டுப்படுத்துதல்.
+- பாப்ரு / பைராட் கல்வெட்டு – பௌத்த போதனைகளுக்கு அசோகர் அளித்த மதிப்பு.
+- கலிங்கத்தின் தனிக் கல்வெட்டுகள் – நிர்வாக மற்றும் அறநெறி அறிவுறுத்தல்கள்.
+
+மொழிகள் மற்றும் எழுத்துமுறைகள்:
+- மத்திய இந்தியப் பகுதிகளில் பெரும்பாலான கல்வெட்டுகள் பிராகிருத மொழியில் பிராமி எழுத்தில் எழுதப்பட்டன.
+- வடமேற்குப் பகுதியில் சில கல்வெட்டுகள் கரோஷ்டி எழுத்தைப் பயன்படுத்தின.
+- சில வடமேற்குக் கல்வெட்டுகளில் கிரேக்கம் மற்றும் அரமேயம் பயன்படுத்தப்பட்டன.
+- பிராமி பொதுவாக இடமிருந்து வலமாக எழுதப்பட்டது.
+- கரோஷ்டி வலமிருந்து இடமாக எழுதப்பட்டது.
+
+கண்டுபிடிப்பு மற்றும் வாசித்தறிதல்:
+- ஜேம்ஸ் பிரின்செப் 1830களில் பிராமி மற்றும் கரோஷ்டி எழுத்துகளை வாசித்தறிந்தார்.
+- இதன் மூலம் அசோகரின் பல கல்வெட்டுகளைப் புரிந்துகொள்ள முடிந்தது.
+- தேவநம்பிய பியதசி என்ற பட்டம் பல கல்வெட்டுகளில் காணப்படுகிறது.
+- வரலாற்று மற்றும் கல்வெட்டு ஆதாரங்கள் மூலம் இம்மன்னர் அசோகர் என அடையாளம் காணப்பட்டார்.
+
+TNPSC குறிப்புகள்:
+- தம்ம மகாமாத்திரர்கள் – அசோகரால் நியமிக்கப்பட்ட அதிகாரிகள்.
+- கல்வெட்டு XIII – கலிங்கம்.
+- கல்வெட்டு XII – சமய சகிப்புத்தன்மை.
+- ஜேம்ஸ் பிரின்செப் – பிராமி எழுத்து வாசித்தறிதல்.
+- பிராமி – இடமிருந்து வலம்.
+- கரோஷ்டி – வலமிருந்து இடம்.
+- தேவநம்பிய பியதசி – அசோகர்.`,
+points:["Dhamma Mahamattas – Ashoka's officers","Rock Edict XIII – Kalinga","Rock Edict XII – Religious tolerance","James Prinsep – Brahmi decipherment","Brahmi – Left to right","Kharosthi – Right to left","தம்ம மகாமாத்திரர்கள் – அதிகாரிகள்","கல்வெட்டு XIII – கலிங்கம்","ஜேம்ஸ் பிரின்செப் – பிராமி எழுத்து"]
+},
+
+{
+title: "24. Mauryan Administration and Government / மௌரிய நிர்வாகம் மற்றும் ஆட்சிமுறை",
+en: `The Mauryan Empire developed a highly organised administrative system to govern its large territory. The king was the central authority, supported by ministers, officials and provincial governors.
+
+KING:
+- The emperor was the highest political and administrative authority.
+- He supervised administration, military affairs, justice and revenue.
+- The king was expected to protect the people and maintain order.
+
+COUNCIL OF MINISTERS:
+- The king was assisted by ministers and advisers.
+- The Arthashastra describes a council of ministers and various administrative officers.
+- Officials supervised departments and reported to the central government.
+
+PROVINCIAL ADMINISTRATION:
+- The empire was divided into major administrative regions.
+- Important provincial centres included Taxila, Ujjain, Tosali and Suvarnagiri.
+- Royal princes or trusted officials could be appointed as provincial governors.
+- Provinces were divided into smaller administrative units.
+
+LOCAL ADMINISTRATION:
+- Villages were important units of administration.
+- Village officials maintained local records and helped collect revenue.
+- Urban administration involved trade, crafts, public order and taxation.
+- Megasthenes describes committees associated with the administration of Pataliputra.
+
+REVENUE:
+- Land revenue was an important source of income.
+- Taxes were collected from agriculture, trade, forests, mines and occupations.
+- The state maintained records and supervised economic activity.
+- The Arthashastra describes detailed systems of taxation and state control.
+
+MILITARY:
+- The Mauryan Empire maintained a large army.
+- It included infantry, cavalry, chariots and elephants.
+- Military organisation was essential for defending and expanding the empire.
+- Forts and strategic roads supported military movement.
+
+ESPIONAGE:
+- The Arthashastra describes the use of spies and intelligence networks.
+- Information was collected about officials, political opponents and public conditions.
+- Intelligence helped the ruler maintain control.
+
+JUSTICE:
+- The king was the highest authority in the judicial system.
+- Officials handled disputes and legal matters.
+- Punishments and fines were used to maintain order.
+- Ashoka later promoted more humane treatment and moral responsibility.
+
+IMPORTANT SOURCES:
+- Arthashastra – Traditionally attributed to Kautilya.
+- Indica – Megasthenes.
+- Ashokan inscriptions.
+- Buddhist and Jain literary traditions.
+
+TNPSC FACTS:
+- Capital – Pataliputra.
+- Important provincial centres – Taxila, Ujjain, Tosali, Suvarnagiri.
+- Arthashastra – Kautilya.
+- Indica – Megasthenes.
+- Centralised administration – Major feature of Mauryan rule.`,
+ta: `மௌரியப் பேரரசு தனது பரந்த நிலப்பரப்பை நிர்வகிக்க ஒழுங்கமைக்கப்பட்ட நிர்வாக முறையை உருவாக்கியது. மன்னர் மத்திய அதிகாரியாக இருந்தார். அமைச்சர்கள், அதிகாரிகள் மற்றும் மாகாண ஆளுநர்கள் அவருக்கு உதவினர்.
+
+மன்னர்:
+- பேரரசின் மிக உயர்ந்த அரசியல் மற்றும் நிர்வாக அதிகாரியாக இருந்தார்.
+- நிர்வாகம், படை, நீதி மற்றும் வருவாயைக் கண்காணித்தார்.
+- மக்களைப் பாதுகாத்து நாட்டில் ஒழுங்கை நிலைநாட்டுவது மன்னரின் கடமையாகக் கருதப்பட்டது.
+
+அமைச்சர்கள் குழு:
+- மன்னருக்கு அமைச்சர்களும் ஆலோசகர்களும் உதவினர்.
+- அர்த்தசாஸ்திரம் அமைச்சர்கள் குழு மற்றும் பல்வேறு நிர்வாக அதிகாரிகளைப் பற்றி விளக்குகிறது.
+- அதிகாரிகள் துறைகளை நிர்வகித்து மத்திய அரசுக்குத் தகவல் அளித்தனர்.
+
+மாகாண நிர்வாகம்:
+- பேரரசு பெரிய நிர்வாகப் பகுதிகளாகப் பிரிக்கப்பட்டிருந்தது.
+- தட்சசீலம், உஜ்ஜயினி, தோசலி மற்றும் சுவர்ணகிரி முக்கிய மாகாண மையங்களாக இருந்தன.
+- அரச குடும்பத்தைச் சேர்ந்த இளவரசர்கள் அல்லது நம்பகமான அதிகாரிகள் ஆளுநர்களாக நியமிக்கப்பட்டனர்.
+- மாகாணங்கள் சிறிய நிர்வாகப் பிரிவுகளாகப் பிரிக்கப்பட்டன.
+
+உள்ளாட்சி நிர்வாகம்:
+- கிராமங்கள் நிர்வாகத்தின் முக்கிய அலகுகளாக இருந்தன.
+- கிராம அதிகாரிகள் பதிவுகளைப் பராமரித்து வரி வசூலுக்கு உதவினர்.
+- நகர நிர்வாகத்தில் வணிகம், கைவினை, பொது ஒழுங்கு மற்றும் வரி வசூல் இடம்பெற்றன.
+- பாடலிபுத்திரத்தின் நிர்வாகத்தில் குழுக்கள் செயல்பட்டதாக மெகஸ்தனிஸ் குறிப்பிட்டுள்ளார்.
+
+வருவாய்:
+- நிலவரி முக்கிய வருவாய் ஆதாரமாக இருந்தது.
+- வேளாண்மை, வணிகம், காடுகள், சுரங்கங்கள் மற்றும் தொழில்களிலிருந்து வரிகள் வசூலிக்கப்பட்டன.
+- அரசு பொருளாதார நடவடிக்கைகளைப் பதிவு செய்து கண்காணித்தது.
+- வரி மற்றும் அரசுக் கட்டுப்பாட்டு முறைகள் பற்றி அர்த்தசாஸ்திரம் விரிவாகக் கூறுகிறது.
+
+படை:
+- மௌரியப் பேரரசு பெரிய படையைப் பராமரித்தது.
+- காலாட்படை, குதிரைப்படை, தேர்ப்படை மற்றும் யானைப்படை இருந்தன.
+- பேரரசைப் பாதுகாக்கவும் விரிவுபடுத்தவும் படை முக்கியமானதாக இருந்தது.
+- கோட்டைகள் மற்றும் முக்கியச் சாலைகள் படை நகர்வுக்கு உதவின.
+
+ஒற்றர் அமைப்பு:
+- ஒற்றர்கள் மற்றும் உளவுத்துறை பற்றிய விவரங்களை அர்த்தசாஸ்திரம் கூறுகிறது.
+- அதிகாரிகள், அரசியல் எதிரிகள் மற்றும் பொதுமக்களின் நிலை பற்றிய தகவல்கள் சேகரிக்கப்பட்டன.
+- ஆட்சியைப் பாதுகாக்க உளவுத்துறை உதவியது.
+
+நீதி:
+- மன்னர் நீதித்துறையின் உயர்ந்த அதிகாரியாக இருந்தார்.
+- அதிகாரிகள் வழக்குகள் மற்றும் பிரச்சினைகளைக் கையாண்டனர்.
+- அபராதம் மற்றும் தண்டனைகள் மூலம் ஒழுங்கு நிலைநாட்டப்பட்டது.
+- பின்னர் அசோகர் மனிதாபிமானமான அணுகுமுறையையும் அறநெறிப் பொறுப்பையும் வலியுறுத்தினார்.
+
+முக்கிய ஆதாரங்கள்:
+- அர்த்தசாஸ்திரம் – கௌடில்யருடன் தொடர்புடையது.
+- இண்டிகா – மெகஸ்தனிஸ்.
+- அசோகரின் கல்வெட்டுகள்.
+- பௌத்த மற்றும் சமண இலக்கியங்கள்.
+
+TNPSC குறிப்புகள்:
+- தலைநகரம் – பாடலிபுத்திரம்.
+- மாகாண மையங்கள் – தட்சசீலம், உஜ்ஜயினி, தோசலி, சுவர்ணகிரி.
+- அர்த்தசாஸ்திரம் – கௌடில்யர்.
+- இண்டிகா – மெகஸ்தனிஸ்.
+- மையப்படுத்தப்பட்ட நிர்வாகம் – மௌரிய ஆட்சியின் முக்கிய அம்சம்.`,
+points:["Capital – Pataliputra","Provincial centres – Taxila, Ujjain, Tosali, Suvarnagiri","Arthashastra – Kautilya","Indica – Megasthenes","Land revenue – Major income","மௌரிய தலைநகரம் – பாடலிபுத்திரம்","அர்த்தசாஸ்திரம் – கௌடில்யர்","இண்டிகா – மெகஸ்தனிஸ்","நிலவரி – முக்கிய வருவாய்"]
+},
+
+{
+title: "25. Mauryan Economy, Society, Art and Architecture / மௌரியப் பொருளாதாரம், சமூகம், கலை மற்றும் கட்டடக்கலை",
+en: `The Mauryan period witnessed developments in agriculture, trade, crafts, urban life, sculpture and architecture. The growth of the empire encouraged economic connections across different regions.
+
+AGRICULTURE:
+- Agriculture was the foundation of the economy.
+- The fertile Gangetic plains supported intensive cultivation.
+- Rice, wheat, barley and other crops were cultivated in different regions.
+- Irrigation and water management supported farming.
+- Land revenue was an important source of state income.
+
+TRADE AND COMMERCE:
+- Internal trade connected towns, villages and provincial centres.
+- Long-distance trade connected India with Central Asia and western regions.
+- Important routes linked Pataliputra with north-western and southern regions.
+- Rivers were used for transportation.
+- Trade included textiles, metals, spices, precious stones and other goods.
+- Punch-marked coins were among the important forms of currency used during this period.
+
+CRAFTS AND INDUSTRIES:
+- Weaving, metalworking, pottery, carpentry and jewellery-making developed.
+- Artisans produced goods for local and long-distance markets.
+- Mining and forest resources supported industries.
+- State supervision of some economic activities is described in the Arthashastra.
+
+SOCIETY:
+- Society included farmers, traders, artisans, soldiers, officials and religious communities.
+- Urban centres grew as administrative and commercial centres.
+- Buddhism and Jainism continued to influence religious life.
+- Ashoka promoted respect among different religious traditions.
+- Megasthenes described Indian society, though his classification should be read critically.
+
+MAURYAN ART:
+1. Pillars:
+   - Ashokan pillars were made from carefully polished stone.
+   - Many pillars carried inscriptions.
+   - The Sarnath Lion Capital is one of the finest examples of Mauryan sculpture.
+   - The Lion Capital is now India's National Emblem.
+
+2. Stupas:
+   - Stupas were important Buddhist monuments.
+   - Ashoka is traditionally associated with the construction or enlargement of many stupas.
+   - The Great Stupa at Sanchi became one of the most famous Buddhist monuments.
+
+3. Rock-cut architecture:
+   - The Barabar caves in Bihar are among the earliest surviving examples of Indian rock-cut architecture.
+   - Some caves were donated to the Ajivikas during Ashoka's period.
+   - Their polished interiors demonstrate advanced stone-working skills.
+
+4. Sculpture:
+   - Mauryan sculpture is known for polished stone surfaces.
+   - Animal capitals and monumental pillars show royal artistic patronage.
+
+CULTURAL IMPORTANCE:
+- Buddhism received major royal support under Ashoka.
+- Buddhist ideas spread through missions and trade routes.
+- Pali and Prakrit traditions developed alongside other literary languages.
+- Monuments and inscriptions became important tools of communication.
+
+TNPSC FACTS:
+- Economy – Agriculture and trade.
+- Currency – Punch-marked coins.
+- Sarnath Lion Capital – National Emblem of India.
+- Sanchi – Famous Buddhist stupa.
+- Barabar caves – Early rock-cut caves.
+- Ashoka – Patron of Buddhism.
+- Mauryan pillars – Polished stone.`,
+ta: `மௌரியர் காலத்தில் வேளாண்மை, வணிகம், கைவினைத் தொழில்கள், நகர வாழ்க்கை, சிற்பம் மற்றும் கட்டடக்கலை ஆகியவை வளர்ச்சி பெற்றன. பேரரசின் விரிவாக்கம் பல்வேறு பகுதிகளுக்கிடையிலான பொருளாதாரத் தொடர்புகளை அதிகரித்தது.
+
+வேளாண்மை:
+- பொருளாதாரத்தின் அடிப்படையாக வேளாண்மை இருந்தது.
+- கங்கைச் சமவெளியின் வளமான நிலம் அதிக அளவிலான விவசாயத்திற்கு உதவியது.
+- நெல், கோதுமை, பார்லி உள்ளிட்ட பயிர்கள் பல்வேறு பகுதிகளில் பயிரிடப்பட்டன.
+- பாசனம் மற்றும் நீர் மேலாண்மை விவசாய வளர்ச்சிக்கு உதவின.
+- நிலவரி அரசின் முக்கிய வருவாய் ஆதாரமாக இருந்தது.
+
+வணிகம்:
+- உள்நாட்டு வணிகம் நகரங்கள், கிராமங்கள் மற்றும் மாகாண மையங்களை இணைத்தது.
+- நீண்டதூர வணிகம் இந்தியாவை மத்திய ஆசியா மற்றும் மேற்கு ஆசியப் பகுதிகளுடன் இணைத்தது.
+- பாடலிபுத்திரத்திலிருந்து வடமேற்கு மற்றும் தெற்குப் பகுதிகளுக்குச் செல்லும் வணிகப் பாதைகள் இருந்தன.
+- ஆறுகள் போக்குவரத்திற்குப் பயன்படுத்தப்பட்டன.
+- துணிகள், உலோகங்கள், மசாலாப் பொருட்கள், விலைமதிப்புள்ள கற்கள் உள்ளிட்ட பொருட்கள் வணிகம் செய்யப்பட்டன.
+- முத்திரை குத்தப்பட்ட நாணயங்கள் அக்காலத்தில் பயன்படுத்தப்பட்ட முக்கிய நாணய வகைகளில் ஒன்றாகும்.
+
+கைவினை மற்றும் தொழில்கள்:
+- நெசவு, உலோக வேலை, மண்பாண்டம், தச்சுத் தொழில் மற்றும் நகை தயாரிப்பு வளர்ச்சி பெற்றன.
+- கைவினைஞர்கள் உள்ளூர் மற்றும் நீண்டதூர சந்தைகளுக்குப் பொருட்களைத் தயாரித்தனர்.
+- சுரங்கங்கள் மற்றும் வன வளங்கள் தொழில்களுக்கு உதவின.
+- சில பொருளாதார நடவடிக்கைகளின் மீது அரசுக் கண்காணிப்பு இருந்ததாக அர்த்தசாஸ்திரம் கூறுகிறது.
+
+சமூகம்:
+- விவசாயிகள், வணிகர்கள், கைவினைஞர்கள், வீரர்கள், அதிகாரிகள் மற்றும் சமயக் குழுக்கள் சமூகத்தில் இடம்பெற்றனர்.
+- நகரங்கள் நிர்வாக மற்றும் வணிக மையங்களாக வளர்ந்தன.
+- பௌத்தமும் சமணமும் சமய வாழ்க்கையில் செல்வாக்கு செலுத்தின.
+- பல்வேறு சமய மரபுகளிடையே மரியாதையை அசோகர் ஊக்குவித்தார்.
+- மெகஸ்தனிஸ் இந்தியச் சமூகத்தைப் பற்றி விவரித்துள்ளார். அவரது வகைப்படுத்தலை வரலாற்று விமர்சனத்துடன் அணுக வேண்டும்.
+
+மௌரியக் கலை:
+
+1. தூண்கள்:
+   - அசோகத் தூண்கள் நன்கு மெருகூட்டப்பட்ட கற்களால் செய்யப்பட்டன.
+   - பல தூண்களில் கல்வெட்டுகள் பொறிக்கப்பட்டன.
+   - சாரநாத் சிங்கத் தலைச்சிற்பம் மௌரியச் சிற்பக்கலையின் சிறந்த எடுத்துக்காட்டாகும்.
+   - இது இந்தியாவின் தேசியச் சின்னமாக ஏற்றுக்கொள்ளப்பட்டுள்ளது.
+
+2. ஸ்தூபிகள்:
+   - ஸ்தூபிகள் முக்கியமான பௌத்த நினைவுச் சின்னங்களாகும்.
+   - பல ஸ்தூபிகளின் கட்டுமானம் அல்லது விரிவாக்கத்துடன் அசோகர் தொடர்புபடுத்தப்படுகிறார்.
+   - சாஞ்சியின் பெரிய ஸ்தூபி புகழ்பெற்ற பௌத்த நினைவுச் சின்னமாகும்.
+
+3. பாறைக் குடைவரைக் கட்டடக்கலை:
+   - பீகாரிலுள்ள பராபர் குகைகள் இந்தியாவின் தொடக்ககாலப் பாறைக் குடைவரைகளில் அடங்கும்.
+   - அசோகர் காலத்தில் சில குகைகள் ஆஜீவிகர்களுக்கு வழங்கப்பட்டன.
+   - அவற்றின் மெருகூட்டப்பட்ட உட்புறம் சிறந்த கல் வேலைப்பாட்டைக் காட்டுகிறது.
+
+4. சிற்பக்கலை:
+   - மௌரியச் சிற்பங்கள் மெருகூட்டப்பட்ட கற்களுக்குப் புகழ்பெற்றவை.
+   - விலங்குச் சிற்பங்கள் மற்றும் பிரம்மாண்டத் தூண்கள் அரச ஆதரவை வெளிப்படுத்துகின்றன.
+
+பண்பாட்டு முக்கியத்துவம்:
+- அசோகரின் ஆட்சியில் பௌத்தம் அரச ஆதரவைப் பெற்றது.
+- சமயப் பரப்புப் பணிகள் மற்றும் வணிகப் பாதைகள் மூலம் பௌத்தம் பரவியது.
+- பாலி மற்றும் பிராகிருத மொழி மரபுகள் பிற இலக்கிய மொழிகளுடன் வளர்ச்சி பெற்றன.
+- நினைவுச் சின்னங்களும் கல்வெட்டுகளும் தகவல் பரப்புவதற்கான முக்கிய வழிகளாக இருந்தன.
+
+TNPSC குறிப்புகள்:
+- பொருளாதாரம் – வேளாண்மை மற்றும் வணிகம்.
+- நாணயம் – முத்திரை குத்தப்பட்ட நாணயங்கள்.
+- சாரநாத் சிங்கத் தலைச்சிற்பம் – இந்திய தேசியச் சின்னம்.
+- சாஞ்சி – புகழ்பெற்ற பௌத்த ஸ்தூபி.
+- பராபர் குகைகள் – தொடக்ககாலக் குடைவரைகள்.
+- அசோகர் – பௌத்த சமய ஆதரவாளர்.
+- மௌரியத் தூண்கள் – மெருகூட்டப்பட்ட கற்கள்.`,
+points:["Agriculture – Economic foundation","Punch-marked coins – Currency","Sarnath Lion Capital – National Emblem","Sanchi – Buddhist stupa","Barabar caves – Rock-cut architecture","Mauryan pillars – Polished stone","வேளாண்மை – பொருளாதார அடித்தளம்","சாரநாத் சிங்கத் தலைச்சிற்பம் – தேசியச் சின்னம்","சாஞ்சி – பௌத்த ஸ்தூபி","பராபர் குகைகள் – குடைவரைக் கலை"]
+}
+
+);
+
