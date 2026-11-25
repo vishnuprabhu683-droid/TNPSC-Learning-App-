@@ -356,3 +356,393 @@ TNPSC தேர்வு முக்கியத்துவம்:
     ]
   }
 ];
+
+tnpscHistoryLessons.push(
+
+  {
+    title: "4. Indus Valley Civilisation – Town Planning and Architecture / சிந்துவெளி நாகரிகம் – நகர அமைப்பும் கட்டிடக்கலையும்",
+
+    en: `The Indus Valley Civilisation is famous for its advanced urban planning. Its cities demonstrate organised construction, public facilities, sanitation and water management.
+
+1. Planned Cities:
+Harappan cities were constructed according to carefully planned layouts. Streets generally crossed one another at right angles, creating rectangular blocks. Many settlements had an elevated western section and a lower town, although layouts differed between sites.
+
+2. Streets:
+- Main roads were relatively wide.
+- Smaller streets connected residential areas.
+- Streets were often arranged in a grid pattern.
+- Buildings were generally aligned with the planned streets.
+
+3. Drainage System:
+One of the most remarkable features was the drainage system.
+- Wastewater flowed through drains connected to houses.
+- Many drains were built with bricks.
+- Some drains were covered with removable slabs.
+- Inspection openings helped in cleaning and maintenance.
+- Wastewater management indicates attention to public hygiene.
+
+4. Houses:
+- Houses were commonly built with baked or mud bricks.
+- Many houses had courtyards.
+- Rooms were arranged around open spaces.
+- Bathrooms and household drains were common at several sites.
+- Some houses had private wells.
+- Doors often opened into side lanes rather than major streets.
+
+5. Great Bath:
+The Great Bath at Mohenjo-daro is one of the most famous structures.
+- It was constructed using carefully arranged bricks.
+- The tank had steps leading down into it.
+- Bitumen was used to make the structure waterproof.
+- It may have been used for ritual bathing or other community purposes.
+
+6. Granaries and Public Buildings:
+Large structures at Harappa and Mohenjo-daro have been interpreted as granaries or public buildings. Their exact functions remain debated by archaeologists.
+
+7. Water Management:
+Dholavira is especially famous for its reservoirs, channels and water conservation arrangements. Its system demonstrates adaptation to a dry environment.
+
+8. Bricks and Construction:
+Harappans used standardised brick proportions in many settlements. Both baked and mud bricks were used according to building requirements.
+
+9. Importance:
+The town planning of the Harappans shows knowledge of construction, drainage, sanitation and community organisation.
+
+TNPSC revision:
+Great Bath — Mohenjo-daro.
+Advanced reservoirs — Dholavira.
+Grid-pattern streets and covered drains — characteristic Harappan urban features.`,
+
+    ta: `சிந்துவெளி நாகரிகம் அதன் மேம்பட்ட நகரத் திட்டமிடலுக்குப் புகழ்பெற்றது. ஒழுங்கமைக்கப்பட்ட கட்டிடங்கள், பொதுவசதிகள், சுகாதாரம் மற்றும் நீர் மேலாண்மை ஆகியவற்றை இந்நகரங்கள் எடுத்துக்காட்டுகின்றன.
+
+1. திட்டமிடப்பட்ட நகரங்கள்:
+ஹரப்பா நகரங்கள் முன்கூட்டியே திட்டமிடப்பட்ட அமைப்பில் கட்டப்பட்டிருந்தன. தெருக்கள் பெரும்பாலும் ஒன்றுக்கொன்று செங்குத்தாகச் சந்தித்து செவ்வகப் பகுதிகளை உருவாக்கின. பல குடியிருப்புகளில் உயரமான பகுதி மற்றும் கீழ்நகரம் காணப்பட்டன. இருப்பினும் நகர அமைப்பு ஒவ்வொரு இடத்திலும் ஒரே மாதிரியாக இருக்கவில்லை.
+
+2. தெருக்கள்:
+- முக்கியச் சாலைகள் அகலமாக இருந்தன.
+- சிறிய தெருக்கள் குடியிருப்புப் பகுதிகளை இணைத்தன.
+- பல இடங்களில் தெருக்கள் கட்ட அமைப்பில் அமைந்திருந்தன.
+- கட்டிடங்கள் திட்டமிடப்பட்ட தெருக்களுக்கு ஏற்ப அமைக்கப்பட்டன.
+
+3. கழிவுநீர் வடிகால் அமைப்பு:
+இந்நாகரிகத்தின் குறிப்பிடத்தக்க சிறப்பம்சங்களில் ஒன்று கழிவுநீர் வடிகால் அமைப்பாகும்.
+- வீடுகளிலிருந்து வெளியேறும் கழிவுநீர் வடிகால்களுடன் இணைக்கப்பட்டது.
+- பல வடிகால்கள் செங்கற்களால் கட்டப்பட்டன.
+- சில வடிகால்கள் அகற்றக்கூடிய மூடிகளால் மூடப்பட்டிருந்தன.
+- சுத்தம் செய்வதற்கான ஆய்வுத் திறப்புகள் காணப்பட்டன.
+- பொதுச் சுகாதாரத்திற்கு முக்கியத்துவம் அளிக்கப்பட்டதை இது காட்டுகிறது.
+
+4. வீடுகள்:
+- வீடுகள் சுட்ட செங்கற்கள் அல்லது சுடாத செங்கற்களால் கட்டப்பட்டன.
+- பல வீடுகளில் முற்றங்கள் இருந்தன.
+- அறைகள் திறந்த வெளிப்பகுதியைச் சுற்றி அமைக்கப்பட்டன.
+- பல இடங்களில் குளியலறைகளும் வீட்டு வடிகால்களும் இருந்தன.
+- சில வீடுகளில் தனிக் கிணறுகள் இருந்தன.
+- பல வீடுகளின் கதவுகள் முக்கியச் சாலைகளுக்குப் பதிலாக சிறிய தெருக்களை நோக்கி அமைந்திருந்தன.
+
+5. பெரிய குளம்:
+மொகஞ்சதாரோவில் உள்ள பெரிய குளம் மிகவும் புகழ்பெற்ற கட்டமைப்பாகும்.
+- இது திட்டமிட்டு அமைக்கப்பட்ட செங்கற்களால் கட்டப்பட்டது.
+- குளத்திற்குள் இறங்குவதற்குப் படிக்கட்டுகள் இருந்தன.
+- நீர் கசியாமல் இருக்க பிற்றுமன் பயன்படுத்தப்பட்டது.
+- இது சடங்கு நீராடல் அல்லது சமூகப் பயன்பாட்டிற்காக இருந்திருக்கலாம்.
+
+6. தானியக் களஞ்சியங்கள் மற்றும் பொதுக் கட்டிடங்கள்:
+ஹரப்பா மற்றும் மொகஞ்சதாரோவில் பெரிய கட்டிடங்கள் கண்டுபிடிக்கப்பட்டுள்ளன. அவை தானியக் களஞ்சியங்கள் அல்லது பொதுக் கட்டிடங்களாக இருந்திருக்கலாம். அவற்றின் சரியான பயன்பாடு குறித்து தொல்லியல் அறிஞர்களிடையே விவாதம் உள்ளது.
+
+7. நீர் மேலாண்மை:
+தோலாவிரா அதன் நீர்த்தேக்கங்கள், கால்வாய்கள் மற்றும் நீர் சேமிப்பு முறைகளுக்குப் புகழ்பெற்றது. வறண்ட சூழலுக்கு ஏற்ப மக்கள் தங்கள் வாழ்க்கையை அமைத்துக் கொண்டதை இது காட்டுகிறது.
+
+8. செங்கல் மற்றும் கட்டுமானம்:
+பல ஹரப்பா குடியிருப்புகளில் ஒரே விகிதத்திலான செங்கற்கள் பயன்படுத்தப்பட்டன. கட்டிடத்தின் தேவைக்கு ஏற்ப சுட்ட மற்றும் சுடாத செங்கற்கள் பயன்படுத்தப்பட்டன.
+
+9. முக்கியத்துவம்:
+ஹரப்பா நகர அமைப்பு கட்டுமானம், வடிகால், சுகாதாரம் மற்றும் சமூக ஒழுங்கமைப்பில் அவர்களின் திறமையை வெளிப்படுத்துகிறது.
+
+TNPSC மறுபார்வை:
+பெரிய குளம் — மொகஞ்சதாரோ.
+மேம்பட்ட நீர்த்தேக்கங்கள் — தோலாவிரா.
+கட்டமைக்கப்பட்ட தெருக்கள் மற்றும் மூடப்பட்ட வடிகால்கள் — ஹரப்பா நகரங்களின் சிறப்பம்சங்கள்.`,
+
+    points: [
+      "Great Bath — Mohenjo-daro",
+      "Reservoirs and water management — Dholavira",
+      "Covered drainage — Harappan cities",
+      "Grid-pattern streets — urban planning",
+      "Bitumen — waterproofing of the Great Bath"
+    ]
+  },
+
+  {
+    title: "5. Indus Valley Civilisation – Economy, Society and Religion / சிந்துவெளி நாகரிகம் – பொருளாதாரம், சமூகம் மற்றும் மதம்",
+
+    en: `The Harappan civilisation had a developed economy supported by agriculture, animal husbandry, crafts and trade. Archaeological remains provide information about its social and religious practices.
+
+1. Agriculture:
+Agriculture was an important economic activity.
+- Wheat and barley were major crops.
+- Peas, sesame and other crops were also cultivated.
+- Evidence of rice has been found at some sites, though its importance varied.
+- Cotton was used for textile production.
+- Irrigation and seasonal river conditions supported farming.
+
+2. Agricultural Technology:
+Wooden ploughs and other farming tools may have been used. Kalibangan provides evidence of a ploughed field. Storage facilities indicate the importance of agricultural production.
+
+3. Animal Husbandry:
+Harappans domesticated several animals:
+- Cattle
+- Sheep
+- Goats
+- Buffaloes
+- Dogs
+- Pigs
+The horse's role in the Mature Harappan civilisation remains debated because clear evidence is limited.
+
+4. Crafts and Occupations:
+Important crafts included:
+- Pottery making
+- Bead manufacturing
+- Shell working
+- Metalworking
+- Weaving
+- Jewellery making
+- Seal production
+Craft specialists produced goods for local use and trade.
+
+5. Metals:
+Copper and bronze were used to make tools, weapons and ornaments. Gold and silver were used mainly for ornaments. Iron was not a characteristic metal of the Mature Harappan period.
+
+6. Society:
+Harappan society included farmers, artisans, traders and other occupational groups. Standardised weights, buildings and craft production suggest organised economic activity. However, the exact political and social structure is not fully known.
+
+7. Religious Practices:
+Religious beliefs are reconstructed from figurines, seals and other objects.
+- Female figurines have sometimes been interpreted as mother-goddess representations.
+- A famous seal depicts a seated horned figure, sometimes associated with a proto-Shiva interpretation. This identification is debated.
+- Trees and animals may have had symbolic or religious significance.
+- Fire-related structures have been identified at some sites, including Kalibangan.
+- Ritual bathing may have been associated with the Great Bath.
+
+8. Burial Practices:
+Burial sites provide information about beliefs and social customs. Harappan burial practices varied across regions. Grave goods were sometimes placed with the dead.
+
+9. Weights and Measures:
+Standardised stone weights were used in trade and economic activities. This suggests common systems of measurement across many settlements.
+
+10. Important Point:
+The Harappan script has not been deciphered. Therefore, many details about their religion, language and government remain uncertain.
+
+TNPSC focus:
+Agriculture, cotton, animal domestication, crafts, weights and measures, and the interpretation of religious objects are important topics.`,
+
+    ta: `ஹரப்பா நாகரிகத்தின் பொருளாதாரம் வேளாண்மை, கால்நடை வளர்ப்பு, கைவினைத் தொழில்கள் மற்றும் வணிகத்தை அடிப்படையாகக் கொண்டிருந்தது. தொல்லியல் சான்றுகள் அவர்களின் சமூக மற்றும் மத நடைமுறைகளைப் பற்றிய தகவல்களை வழங்குகின்றன.
+
+1. வேளாண்மை:
+வேளாண்மை முக்கியமான பொருளாதாரத் தொழிலாக இருந்தது.
+- கோதுமை மற்றும் பார்லி முக்கியப் பயிர்களாக இருந்தன.
+- பட்டாணி, எள் மற்றும் பிற பயிர்களும் பயிரிடப்பட்டன.
+- சில இடங்களில் நெல் சாகுபடிக்கான சான்றுகள் கிடைத்துள்ளன. ஆனால் அதன் முக்கியத்துவம் எல்லாப் பகுதிகளிலும் ஒரே மாதிரியாக இல்லை.
+- பருத்தி துணி தயாரிப்பிற்குப் பயன்படுத்தப்பட்டது.
+- ஆறுகளின் பருவநிலை மற்றும் நீர் ஆதாரங்கள் வேளாண்மைக்கு உதவின.
+
+2. வேளாண் தொழில்நுட்பம்:
+மரத்தால் செய்யப்பட்ட கலப்பைகள் மற்றும் பிற விவசாயக் கருவிகள் பயன்படுத்தப்பட்டிருக்கலாம். காலிபங்கனில் உழவு செய்யப்பட்ட வயலுக்கான சான்று கிடைத்துள்ளது. தானிய சேமிப்பு வசதிகள் வேளாண்மையின் முக்கியத்துவத்தை எடுத்துக்காட்டுகின்றன.
+
+3. கால்நடை வளர்ப்பு:
+ஹரப்பா மக்கள் பல விலங்குகளை வளர்த்தனர்:
+- மாடுகள்
+- செம்மறி ஆடுகள்
+- வெள்ளாடுகள்
+- எருமைகள்
+- நாய்கள்
+- பன்றிகள்
+முதிர்ச்சியடைந்த ஹரப்பா நாகரிகத்தில் குதிரையின் பங்கு குறித்து தெளிவான சான்றுகள் குறைவாக இருப்பதால் விவாதம் நிலவுகிறது.
+
+4. கைவினைத் தொழில்கள்:
+முக்கியமான தொழில்கள்:
+- மண்பாண்டம் செய்தல்
+- மணிகள் தயாரித்தல்
+- சிப்பி வேலைப்பாடு
+- உலோக வேலைப்பாடு
+- நெசவு
+- நகைகள் தயாரித்தல்
+- முத்திரைகள் தயாரித்தல்
+உள்ளூர் பயன்பாட்டிற்கும் வணிகத்திற்கும் கைவினைப் பொருட்கள் தயாரிக்கப்பட்டன.
+
+5. உலோகங்கள்:
+செம்பு மற்றும் வெண்கலம் கருவிகள், ஆயுதங்கள் மற்றும் அணிகலன்கள் தயாரிக்கப் பயன்படுத்தப்பட்டன. தங்கம் மற்றும் வெள்ளி பெரும்பாலும் அணிகலன்களுக்குப் பயன்படுத்தப்பட்டன. முதிர்ச்சியடைந்த ஹரப்பா காலத்தில் இரும்பு முக்கிய உலோகமாக இருக்கவில்லை.
+
+6. சமூகம்:
+ஹரப்பா சமூகத்தில் விவசாயிகள், கைவினைஞர்கள், வணிகர்கள் மற்றும் பல்வேறு தொழில்களைச் சேர்ந்த மக்கள் இருந்தனர். ஒரே மாதிரியான எடைகள், கட்டிடங்கள் மற்றும் கைவினைப் பொருள் உற்பத்தி ஒழுங்கமைக்கப்பட்ட பொருளாதாரத்தை எடுத்துக்காட்டுகின்றன. ஆனால் அவர்களின் அரசியல் மற்றும் சமூக அமைப்பின் முழு விவரங்கள் இன்னும் உறுதியாகத் தெரியவில்லை.
+
+7. மத நம்பிக்கைகள்:
+சிற்பங்கள், முத்திரைகள் மற்றும் பிற பொருட்களின் அடிப்படையில் மத நம்பிக்கைகள் ஆராயப்படுகின்றன.
+- பெண் உருவச் சிலைகள் சில நேரங்களில் தாய்த் தெய்வ வழிபாட்டுடன் தொடர்புபடுத்தப்படுகின்றன.
+- கொம்புகளுடன் அமர்ந்துள்ள உருவம் பொறிக்கப்பட்ட புகழ்பெற்ற முத்திரை சில ஆய்வாளர்களால் ஆதிசிவன் உருவத்துடன் தொடர்புபடுத்தப்படுகிறது. இந்த அடையாளம் குறித்து விவாதம் உள்ளது.
+- மரங்களும் விலங்குகளும் குறியீட்டு அல்லது மத முக்கியத்துவம் பெற்றிருக்கலாம்.
+- காலிபங்கன் உள்ளிட்ட சில இடங்களில் தீ தொடர்பான கட்டமைப்புகள் கண்டுபிடிக்கப்பட்டுள்ளன.
+- பெரிய குளம் சடங்கு நீராடலுக்குப் பயன்படுத்தப்பட்டிருக்கலாம்.
+
+8. அடக்க முறைகள்:
+இடுகாடுகள் மக்களின் நம்பிக்கைகள் மற்றும் சமூகப் பழக்கங்களைப் பற்றி விளக்குகின்றன. ஹரப்பா நாகரிகத்தின் அடக்க முறைகள் பகுதிக்கு ஏற்ப மாறுபட்டன. சில கல்லறைகளில் இறந்தவர்களுடன் பொருட்களும் வைக்கப்பட்டன.
+
+9. எடைகள் மற்றும் அளவைகள்:
+வணிகம் மற்றும் பொருளாதார நடவடிக்கைகளில் ஒரே தரப்படுத்தப்பட்ட கல் எடைகள் பயன்படுத்தப்பட்டன. இது பல குடியிருப்புகளுக்கு இடையே பொதுவான அளவீட்டு முறைகள் இருந்ததைக் காட்டுகிறது.
+
+10. முக்கியக் குறிப்பு:
+ஹரப்பா எழுத்து முறை இன்னும் முழுமையாகப் புரிந்துகொள்ளப்படவில்லை. எனவே அவர்களின் மதம், மொழி மற்றும் அரசாங்கம் பற்றிய பல விவரங்கள் உறுதியாகத் தெரியவில்லை.
+
+TNPSC தேர்வு முக்கியத்துவம்:
+வேளாண்மை, பருத்தி, கால்நடை வளர்ப்பு, கைவினைத் தொழில்கள், எடைகள் மற்றும் அளவைகள், மதச் சின்னங்களின் விளக்கம் ஆகியவை முக்கியமான தலைப்புகளாகும்.`,
+
+    points: [
+      "Major crops — Wheat and barley",
+      "Cotton — Harappan textile production",
+      "Kalibangan — Ploughed field",
+      "Copper and bronze — Important metals",
+      "Standardised weights — Trade and measurement",
+      "Harappan script — Undeciphered"
+    ]
+  },
+
+  {
+    title: "6. Indus Valley Civilisation – Art, Crafts, Trade and Decline / சிந்துவெளி நாகரிகம் – கலை, கைவினை, வணிகம் மற்றும் வீழ்ச்சி",
+
+    en: `The Harappan civilisation developed specialised crafts and extensive trade networks. Its artistic objects reveal technical skill, while archaeological evidence helps explain its commercial contacts and gradual transformation.
+
+1. Sculpture:
+Harappan artists produced bronze, stone and terracotta objects.
+- The bronze Dancing Girl from Mohenjo-daro is a famous example of lost-wax metal casting.
+- A bearded male stone sculpture from Mohenjo-daro is popularly called the Priest-King.
+- Terracotta human and animal figurines were widely produced.
+
+2. Seals:
+Seals were generally made of steatite.
+- Many seals contain animal figures.
+- The unicorn-like animal is frequently represented.
+- Some seals contain short inscriptions in the undeciphered Harappan script.
+- Seals may have been used in trade, identification or administrative activities.
+
+3. Pottery:
+Harappan pottery was commonly made on a wheel.
+- Red pottery with black painted designs was common.
+- Geometric patterns and animal motifs were used.
+- Pottery served domestic and other purposes.
+
+4. Bead Making:
+Bead production was an important craft.
+- Carnelian, agate, lapis lazuli and other materials were used.
+- Chanhudaro was an important craft and bead-making centre.
+- Lothal also provides evidence of specialised craft production.
+
+5. Metalwork:
+Copper and bronze objects included tools, vessels, weapons and ornaments. Gold and silver ornaments demonstrate skilled craftsmanship.
+
+6. Trade within India:
+Goods moved between settlements through land and river routes. Standardised weights and seals helped commercial activities. Raw materials were transported from different regions.
+
+7. Overseas Trade:
+Harappans maintained trade contacts with Mesopotamia and regions of the Persian Gulf.
+Mesopotamian records refer to a place called Meluhha, which many scholars associate with the Indus region.
+Harappan seals and objects found outside the civilisation provide evidence of these connections.
+
+8. Transport:
+Bullock carts were used for land transport. Boats were probably used for river and coastal movement. Terracotta models provide evidence about transport technology.
+
+9. Decline and Transformation:
+The decline of the urban phase occurred gradually, especially after approximately 1900 BCE.
+Possible factors include:
+- Changes in monsoon patterns.
+- Shifting river courses.
+- Flooding in certain regions.
+- Environmental stress.
+- Changes in trade networks.
+- Movement of populations towards smaller settlements.
+The civilisation did not simply disappear everywhere at the same time. Regional cultures continued and changed.
+
+10. Historical Significance:
+The Harappan civilisation demonstrates early urban planning, craft specialisation, trade, standardised measurements and water management in South Asia.
+
+TNPSC revision:
+Dancing Girl — Mohenjo-daro.
+Chanhudaro — Craft production.
+Meluhha — Name associated with the Indus region in Mesopotamian records.
+Steatite — Common seal material.
+Urban decline — Gradual transformation after approximately 1900 BCE.`,
+
+    ta: `ஹரப்பா நாகரிகத்தில் பல்வேறு கைவினைத் தொழில்களும் விரிவான வணிகத் தொடர்புகளும் வளர்ச்சி பெற்றிருந்தன. அவர்களின் கலைப் பொருட்கள் தொழில்நுட்பத் திறமையை வெளிப்படுத்துகின்றன. தொல்லியல் சான்றுகள் வணிகத் தொடர்புகளையும் நாகரிகத்தின் படிப்படியான மாற்றத்தையும் விளக்குகின்றன.
+
+1. சிற்பக்கலை:
+ஹரப்பா கலைஞர்கள் வெண்கலம், கல் மற்றும் சுடுமண் பொருட்களை உருவாக்கினர்.
+- மொகஞ்சதாரோவில் கண்டுபிடிக்கப்பட்ட வெண்கல நடனப் பெண் சிலை மெழுகு வார்ப்பு முறைக்குச் சிறந்த எடுத்துக்காட்டாகும்.
+- மொகஞ்சதாரோவில் கிடைத்த தாடியுடைய ஆண் கற்சிற்பம் பொதுவாக பூசாரி அரசன் என்று அழைக்கப்படுகிறது.
+- மனிதர்கள் மற்றும் விலங்குகளின் சுடுமண் உருவங்கள் அதிக அளவில் தயாரிக்கப்பட்டன.
+
+2. முத்திரைகள்:
+முத்திரைகள் பொதுவாக ஸ்டியட்டைட் எனப்படும் மென்மையான கல்லால் செய்யப்பட்டன.
+- பல முத்திரைகளில் விலங்குகளின் உருவங்கள் காணப்படுகின்றன.
+- ஒற்றைக்கொம்பு போன்ற விலங்கு அடிக்கடி சித்தரிக்கப்பட்டுள்ளது.
+- சில முத்திரைகளில் இன்னும் புரிந்துகொள்ளப்படாத ஹரப்பா எழுத்துகள் உள்ளன.
+- வணிகம், அடையாளம் அல்லது நிர்வாகப் பயன்பாட்டிற்காக முத்திரைகள் பயன்படுத்தப்பட்டிருக்கலாம்.
+
+3. மண்பாண்டங்கள்:
+ஹரப்பா மக்கள் சக்கரத்தின் உதவியுடன் மண்பாண்டங்களைத் தயாரித்தனர்.
+- கருப்பு நிற ஓவியங்களுடன் கூடிய சிவப்பு மண்பாண்டங்கள் பொதுவாகக் காணப்பட்டன.
+- வடிவியல் அலங்காரங்களும் விலங்கு உருவங்களும் பயன்படுத்தப்பட்டன.
+- வீட்டு உபயோகம் உள்ளிட்ட பல தேவைகளுக்கு மண்பாண்டங்கள் பயன்பட்டன.
+
+4. மணிகள் தயாரித்தல்:
+மணிகள் தயாரித்தல் முக்கியமான கைவினைத் தொழிலாக இருந்தது.
+- கார்னீலியன், அகேட், லாபிஸ் லாசுலி போன்ற கற்கள் பயன்படுத்தப்பட்டன.
+- சன்ஹுதாரோ முக்கியமான கைவினை மற்றும் மணி தயாரிப்பு மையமாக இருந்தது.
+- லோத்தலிலும் சிறப்புத் தொழில் உற்பத்திக்கான சான்றுகள் கிடைத்துள்ளன.
+
+5. உலோக வேலைப்பாடு:
+செம்பு மற்றும் வெண்கலத்தால் கருவிகள், பாத்திரங்கள், ஆயுதங்கள் மற்றும் அணிகலன்கள் செய்யப்பட்டன. தங்கம் மற்றும் வெள்ளி அணிகலன்கள் அவர்களின் கைவினைத் திறமையை எடுத்துக்காட்டுகின்றன.
+
+6. உள்நாட்டு வணிகம்:
+நில மற்றும் நதிப் பாதைகள் வழியாக பல குடியிருப்புகளுக்கு இடையே பொருட்கள் பரிமாறப்பட்டன. தரப்படுத்தப்பட்ட எடைகளும் முத்திரைகளும் வணிகத்திற்கு உதவின. பல்வேறு பகுதிகளிலிருந்து மூலப்பொருட்கள் கொண்டு வரப்பட்டன.
+
+7. வெளிநாட்டு வணிகம்:
+ஹரப்பா மக்கள் மெசபடோமியா மற்றும் பாரசீக வளைகுடாப் பகுதிகளுடன் வணிகத் தொடர்புகளை வைத்திருந்தனர்.
+மெசபடோமிய பதிவுகளில் மெலுகா என்ற இடம் குறிப்பிடப்படுகிறது. பல அறிஞர்கள் இதனை சிந்துவெளிப் பகுதியுடன் தொடர்புபடுத்துகின்றனர்.
+ஹரப்பா முத்திரைகள் மற்றும் பொருட்கள் வெளிநாட்டுப் பகுதிகளில் கிடைத்திருப்பது இத்தொடர்புகளுக்குச் சான்றாகும்.
+
+8. போக்குவரத்து:
+நிலப் போக்குவரத்திற்கு மாட்டு வண்டிகள் பயன்படுத்தப்பட்டன. நதி மற்றும் கடற்கரைப் போக்குவரத்திற்கு படகுகள் பயன்படுத்தப்பட்டிருக்கலாம். சுடுமண் மாதிரிகள் போக்குவரத்து முறைகள் பற்றிய தகவல்களை வழங்குகின்றன.
+
+9. வீழ்ச்சியும் மாற்றமும்:
+கி.மு. 1900க்குப் பிறகு நகர நாகரிகத்தின் வீழ்ச்சி படிப்படியாக நிகழ்ந்தது.
+சாத்தியமான காரணங்கள்:
+- பருவமழை முறைகளில் ஏற்பட்ட மாற்றங்கள்.
+- ஆறுகளின் போக்கில் ஏற்பட்ட மாற்றங்கள்.
+- சில பகுதிகளில் ஏற்பட்ட வெள்ளப்பெருக்கு.
+- சுற்றுச்சூழல் அழுத்தங்கள்.
+- வணிகத் தொடர்புகளில் ஏற்பட்ட மாற்றங்கள்.
+- மக்கள் சிறிய குடியிருப்புகளை நோக்கி இடம்பெயர்ந்தது.
+இந்நாகரிகம் ஒரே நேரத்தில் எல்லாப் பகுதிகளிலும் மறைந்துவிடவில்லை. பல பிராந்தியப் பண்பாடுகள் தொடர்ந்து மாற்றமடைந்தன.
+
+10. வரலாற்று முக்கியத்துவம்:
+தெற்காசியாவில் ஆரம்பகால நகரத் திட்டமிடல், கைவினைத் தொழில், வணிகம், தரப்படுத்தப்பட்ட அளவீடுகள் மற்றும் நீர் மேலாண்மை ஆகியவற்றின் வளர்ச்சியை ஹரப்பா நாகரிகம் எடுத்துக்காட்டுகிறது.
+
+TNPSC மறுபார்வை:
+நடனப் பெண் சிலை — மொகஞ்சதாரோ.
+சன்ஹுதாரோ — கைவினைப் பொருள் உற்பத்தி.
+மெலுகா — மெசபடோமிய பதிவுகளில் சிந்துவெளியுடன் தொடர்புபடுத்தப்படும் பெயர்.
+ஸ்டியட்டைட் — முத்திரைகள் தயாரிக்கப் பயன்படுத்தப்பட்ட கல்.
+நகர வீழ்ச்சி — கி.மு. 1900க்குப் பிறகு படிப்படியான மாற்றம்.`,
+
+    points: [
+      "Dancing Girl — Mohenjo-daro",
+      "Priest-King sculpture — Mohenjo-daro",
+      "Chanhudaro — Bead and craft production",
+      "Steatite — Common seal material",
+      "Meluhha — Indus region association",
+      "Mesopotamia — Overseas trade partner",
+      "Urban transformation — After approximately 1900 BCE"
+    ]
+  }
+
+);
+
