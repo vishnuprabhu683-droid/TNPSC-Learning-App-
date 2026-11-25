@@ -1,0 +1,225 @@
+
+const tnpscCurrentAffairsLessons = [
+
+  // JANUARY 2025 – NEWS 1
+  {
+    title: "January 2025 – 1. Kanyakumari Glass Bridge / கன்னியாகுமரி கண்ணாடி பாலம்",
+    en: `Tamil Nadu inaugurated India's first glass bridge constructed over the sea at Kanyakumari on 30 December 2024. It connects the Vivekananda Rock Memorial and the Thiruvalluvar Statue. The bridge is approximately 77 metres long and 10 metres wide. It was inaugurated by Chief Minister M. K. Stalin as part of the silver jubilee celebrations of the Thiruvalluvar Statue. The project is an important tourism and infrastructure development for Tamil Nadu. The bridge allows visitors to walk between the two landmarks while viewing the sea beneath the glass structure.`,
+    ta: `இந்தியாவின் முதல் கடலுக்கு மேலே அமைக்கப்பட்ட கண்ணாடிப் பாலம் 30 டிசம்பர் 2024 அன்று கன்னியாகுமரியில் திறந்து வைக்கப்பட்டது. இது விவேகானந்தர் பாறை நினைவிடம் மற்றும் திருவள்ளுவர் சிலை ஆகியவற்றை இணைக்கிறது. இப்பாலம் சுமார் 77 மீட்டர் நீளமும் 10 மீட்டர் அகலமும் கொண்டது. திருவள்ளுவர் சிலையின் வெள்ளி விழா கொண்டாட்டத்தின் ஒரு பகுதியாக தமிழ்நாடு முதலமைச்சர் மு.க. ஸ்டாலின் இதனைத் திறந்து வைத்தார். இது தமிழ்நாட்டின் சுற்றுலா மற்றும் உள்கட்டமைப்பு வளர்ச்சியில் முக்கியமான திட்டமாகும்.`,
+    points: [
+      "Location: Kanyakumari, Tamil Nadu",
+      "Inauguration: 30 December 2024",
+      "Length: 77 metres; Width: 10 metres",
+      "Connects Vivekananda Rock Memorial and Thiruvalluvar Statue",
+      "Chief Minister: M. K. Stalin"
+    ],
+    mcqs: [
+      {
+        q: "Where is India's first glass bridge over the sea located?",
+        options: ["Chennai", "Kanyakumari", "Rameswaram", "Mahabalipuram"],
+        answer: "Kanyakumari"
+      }
+    ]
+  },
+
+  // JANUARY 2025 – NEWS 2
+  {
+    title: "January 2025 – 2. 18th Pravasi Bharatiya Divas / 18வது பிரவாசி பாரதிய திவஸ்",
+    en: `The 18th Pravasi Bharatiya Divas Convention was held from 8 to 10 January 2025 in Bhubaneswar, Odisha. The theme was “Diaspora's Contribution to a Viksit Bharat”. Prime Minister Narendra Modi inaugurated the convention on 9 January 2025. The Chief Guest was Christine Carla Kangaloo, President of Trinidad and Tobago, who addressed the convention virtually. Pravasi Bharatiya Divas is observed on 9 January to recognise the contribution of overseas Indians. This date marks Mahatma Gandhi's return to India from South Africa on 9 January 1915. The convention is organised by the Ministry of External Affairs.`,
+    ta: `18வது பிரவாசி பாரதிய திவஸ் மாநாடு 2025 ஜனவரி 8 முதல் 10 வரை ஒடிசாவின் புவனேஸ்வரில் நடைபெற்றது. இதன் கருப்பொருள் “வளர்ச்சியடைந்த இந்தியாவை உருவாக்குவதில் வெளிநாடு வாழ் இந்தியர்களின் பங்களிப்பு” என்பதாகும். பிரதமர் நரேந்திர மோடி ஜனவரி 9 அன்று மாநாட்டைத் தொடங்கி வைத்தார். டிரினிடாட் மற்றும் டொபாகோ நாட்டின் குடியரசுத் தலைவர் கிறிஸ்டின் கார்லா கங்காலூ சிறப்பு விருந்தினராகக் கலந்து கொண்டு காணொலி மூலம் உரையாற்றினார். வெளிநாடு வாழ் இந்தியர்களின் பங்களிப்பை அங்கீகரிக்கும் வகையில் ஒவ்வொரு ஆண்டும் ஜனவரி 9 அன்று பிரவாசி பாரதிய திவஸ் அனுசரிக்கப்படுகிறது. 1915 ஜனவரி 9 அன்று மகாத்மா காந்தி தென்னாப்பிரிக்காவிலிருந்து இந்தியா திரும்பிய நாளை இது நினைவுகூருகிறது. இந்த மாநாட்டை வெளியுறவு அமைச்சகம் ஏற்பாடு செய்கிறது.`,
+    points: [
+      "Edition: 18th",
+      "Dates: 8–10 January 2025",
+      "Venue: Bhubaneswar, Odisha",
+      "Theme: Diaspora's Contribution to a Viksit Bharat",
+      "Inaugurated by: Prime Minister Narendra Modi",
+      "Chief Guest: Christine Carla Kangaloo",
+      "Organising Ministry: Ministry of External Affairs",
+      "Pravasi Bharatiya Divas: 9 January"
+    ],
+    mcqs: [
+      {
+        q: "Where was the 18th Pravasi Bharatiya Divas held?",
+        options: ["New Delhi", "Bhubaneswar", "Chennai", "Mumbai"],
+        answer: "Bhubaneswar"
+      }
+    ]
+  },
+
+  // JANUARY 2025 – NEWS 3
+  {
+    title: "January 2025 – 3. Maha Kumbh Mela / மகா கும்பமேளா 2025",
+    en: `The Maha Kumbh Mela 2025 commenced on 13 January 2025 at Prayagraj in Uttar Pradesh and concluded on 26 February 2025. The first major bathing day was Paush Purnima. The sacred gathering takes place at the Triveni Sangam, the confluence traditionally identified as the Ganga, Yamuna and the mythical Saraswati. The event is associated with religious traditions, pilgrimage, culture and India's heritage. Important bathing dates included Makar Sankranti, Mauni Amavasya, Basant Panchami, Magh Purnima and Maha Shivaratri. The event required extensive arrangements for transport, sanitation, health services, safety and crowd management.`,
+    ta: `மகா கும்பமேளா 2025, உத்தரப் பிரதேச மாநிலத்தின் பிரயாக்ராஜில் 2025 ஜனவரி 13 அன்று தொடங்கி பிப்ரவரி 26 அன்று நிறைவடைந்தது. பௌஷ பூர்ணிமா முதல் முக்கிய நீராடல் நாளாக அமைந்தது. கங்கை, யமுனை மற்றும் புராணங்களில் குறிப்பிடப்படும் சரஸ்வதி ஆகிய மூன்று நதிகள் சங்கமிப்பதாகக் கருதப்படும் திரிவேணி சங்கமத்தில் இந்நிகழ்வு நடைபெற்றது. இது இந்தியாவின் ஆன்மிகம், பண்பாடு, பாரம்பரியம் மற்றும் யாத்திரை மரபுகளுடன் தொடர்புடையது. மகர சங்கராந்தி, மௌனி அமாவாசை, வசந்த பஞ்சமி, மாக பூர்ணிமா மற்றும் மகா சிவராத்திரி ஆகியவை முக்கிய நீராடல் நாட்களாகும். போக்குவரத்து, சுகாதாரம், தூய்மை, பாதுகாப்பு மற்றும் மக்கள் கூட்ட மேலாண்மை ஆகியவற்றுக்குப் பெரிய அளவில் ஏற்பாடுகள் செய்யப்பட்டன.`,
+    points: [
+      "Location: Prayagraj, Uttar Pradesh",
+      "Dates: 13 January – 26 February 2025",
+      "First major bathing day: Paush Purnima",
+      "Sacred location: Triveni Sangam",
+      "Rivers: Ganga, Yamuna and traditionally believed Saraswati",
+      "Important bathing day: Mauni Amavasya"
+    ],
+    mcqs: [
+      {
+        q: "Maha Kumbh Mela 2025 was held at which city?",
+        options: ["Haridwar", "Ujjain", "Prayagraj", "Nashik"],
+        answer: "Prayagraj"
+      }
+    ]
+  },
+
+  // JANUARY 2025 – NEWS 4
+  {
+    title: "January 2025 – 4. IMD Completes 150 Years / இந்திய வானிலை ஆய்வுத் துறை 150 ஆண்டுகள்",
+    en: `The India Meteorological Department (IMD) completed 150 years of service on 15 January 2025. It was established in 1875 by the Government of India. IMD functions under the Ministry of Earth Sciences and is responsible for weather observations, forecasting, warnings and meteorological services. Its work is important for agriculture, aviation, disaster management, fisheries and public safety. Weather warnings for cyclones, heavy rainfall, heatwaves and other extreme events help governments and citizens prepare for natural hazards.`,
+    ta: `இந்திய வானிலை ஆய்வுத் துறை (IMD) 2025 ஜனவரி 15 அன்று தனது 150 ஆண்டுகால சேவையை நிறைவு செய்தது. இத்துறை 1875ஆம் ஆண்டு இந்திய அரசால் நிறுவப்பட்டது. இது புவி அறிவியல் அமைச்சகத்தின் கீழ் செயல்படுகிறது. வானிலை கண்காணிப்பு, முன்னறிவிப்பு, எச்சரிக்கை மற்றும் வானிலை சார்ந்த சேவைகளை வழங்குவது இதன் முக்கியப் பணிகளாகும். விவசாயம், விமானப் போக்குவரத்து, பேரிடர் மேலாண்மை, மீன்வளம் மற்றும் பொதுமக்கள் பாதுகாப்பு ஆகிய துறைகளுக்கு IMD சேவைகள் முக்கியமானவை. புயல், கனமழை, வெப்ப அலை போன்ற இயற்கை அபாயங்கள் குறித்து முன்கூட்டியே எச்சரிக்கை வழங்குகிறது.`,
+    points: [
+      "Full form: India Meteorological Department",
+      "Established: 1875",
+      "150th anniversary: 15 January 2025",
+      "Ministry: Ministry of Earth Sciences",
+      "Main functions: Weather observation, forecasting and warnings"
+    ],
+    mcqs: [
+      {
+        q: "In which year was the India Meteorological Department established?",
+        options: ["1857", "1875", "1905", "1947"],
+        answer: "1875"
+      }
+    ]
+  },
+
+  // JANUARY 2025 – NEWS 5
+  {
+    title: "January 2025 – 5. ISRO SpaDeX Docking Success / இஸ்ரோ ஸ்பேடெக்ஸ் விண்வெளி இணைப்பு வெற்றி",
+    en: `On 16 January 2025, the Indian Space Research Organisation (ISRO) successfully docked its two SpaDeX satellites, SDX-01 and SDX-02, in space. SpaDeX stands for Space Docking Experiment. The mission was launched aboard PSLV-C60 on 30 December 2024. Space docking technology enables two spacecraft to approach and connect in orbit. It is important for future missions involving space stations, satellite servicing, human spaceflight and complex space exploration. With this achievement, India became the fourth country to demonstrate space docking capability, after the United States, Russia and China.`,
+    ta: `இந்திய விண்வெளி ஆய்வு நிறுவனம் (இஸ்ரோ) 2025 ஜனவரி 16 அன்று SDX-01 மற்றும் SDX-02 ஆகிய இரண்டு ஸ்பேடெக்ஸ் செயற்கைக்கோள்களையும் விண்வெளியில் வெற்றிகரமாக இணைத்தது. SpaDeX என்பதன் விரிவாக்கம் Space Docking Experiment ஆகும். இந்தத் திட்டம் 2024 டிசம்பர் 30 அன்று PSLV-C60 ஏவுகலன் மூலம் விண்ணில் செலுத்தப்பட்டது. விண்வெளி இணைப்பு தொழில்நுட்பம் என்பது சுற்றுப்பாதையில் இருக்கும் இரண்டு விண்கலங்களை ஒன்றுடன் ஒன்று இணைக்கும் திறனாகும். எதிர்கால விண்வெளி நிலையங்கள், செயற்கைக்கோள் பராமரிப்பு, மனித விண்வெளிப் பயணம் மற்றும் சிக்கலான விண்வெளி ஆய்வுகளுக்கு இது மிகவும் அவசியமானது. இந்தச் சாதனையின் மூலம் விண்வெளி இணைப்புத் திறனைப் பெற்ற நான்காவது நாடாக இந்தியா ஆனது.`,
+    points: [
+      "Organisation: ISRO",
+      "Mission: SpaDeX – Space Docking Experiment",
+      "Docking success: 16 January 2025",
+      "Satellites: SDX-01 and SDX-02",
+      "Launch vehicle: PSLV-C60",
+      "Launch date: 30 December 2024",
+      "India became the fourth country to demonstrate space docking capability"
+    ],
+    mcqs: [
+      {
+        q: "Which organisation successfully conducted the SpaDeX docking experiment?",
+        options: ["NASA", "ESA", "ISRO", "JAXA"],
+        answer: "ISRO"
+      }
+    ]
+  },
+
+  // JANUARY 2025 – NEWS 6
+  {
+    title: "January 2025 – 6. GSLV-F15 and NVS-02 / ஜிஎஸ்எல்வி-F15 மற்றும் என்விஎஸ்-02",
+    en: `On 29 January 2025, ISRO successfully launched the NVS-02 navigation satellite using the GSLV-F15 rocket from the Satish Dhawan Space Centre, Sriharikota. This was the 100th launch from India's spaceport at Sriharikota. NVS-02 is part of the Navigation with Indian Constellation (NavIC) system, India's independent regional satellite navigation system. NavIC provides positioning, navigation and timing services. The mission was significant for strengthening India's navigation infrastructure and demonstrating the continuing capabilities of its launch vehicles.`,
+    ta: `2025 ஜனவரி 29 அன்று ஸ்ரீஹரிகோட்டாவில் உள்ள சதீஷ் தவான் விண்வெளி மையத்திலிருந்து GSLV-F15 ஏவுகலன் மூலம் NVS-02 வழிகாட்டுதல் செயற்கைக்கோளை இஸ்ரோ வெற்றிகரமாக விண்ணில் செலுத்தியது. இது ஸ்ரீஹரிகோட்டா விண்வெளி ஏவுதளத்திலிருந்து மேற்கொள்ளப்பட்ட 100வது ஏவுதல் ஆகும். NVS-02 செயற்கைக்கோள் இந்தியாவின் NavIC எனப்படும் இந்திய பிராந்திய வழிகாட்டுதல் செயற்கைக்கோள் அமைப்பின் ஒரு பகுதியாகும். NavIC இடம் கண்டறிதல், வழிகாட்டுதல் மற்றும் நேரச் சேவைகளை வழங்குகிறது. இந்தியாவின் சொந்த வழிகாட்டுதல் உள்கட்டமைப்பை வலுப்படுத்துவதில் இந்தத் திட்டம் முக்கியமானதாகும்.`,
+    points: [
+      "Launch date: 29 January 2025",
+      "Launch vehicle: GSLV-F15",
+      "Satellite: NVS-02",
+      "Launch centre: Satish Dhawan Space Centre, Sriharikota",
+      "Milestone: 100th launch from Sriharikota",
+      "NavIC: Navigation with Indian Constellation"
+    ],
+    mcqs: [
+      {
+        q: "NVS-02 is associated with which Indian system?",
+        options: ["Gaganyaan", "NavIC", "Chandrayaan", "Aditya-L1"],
+        answer: "NavIC"
+      }
+    ]
+  },
+
+  // JANUARY 2025 – NEWS 7
+  {
+    title: "January 2025 – 7. Economic Survey 2024–25 / பொருளாதார ஆய்வறிக்கை 2024–25",
+    en: `The Economic Survey 2024–25 was presented in Parliament on 31 January 2025 by Union Finance Minister Nirmala Sitharaman. It reviewed the performance of the Indian economy and discussed major economic challenges and policy priorities. The Survey estimated India's real GDP growth at 6.4% for 2024–25. It projected real GDP growth of 6.3% to 6.8% for 2025–26. The Economic Survey is prepared by the Department of Economic Affairs under the Ministry of Finance, with inputs from various government departments. It is an important document for understanding the economy before the Union Budget.`,
+    ta: `2024–25ஆம் ஆண்டுக்கான பொருளாதார ஆய்வறிக்கை 2025 ஜனவரி 31 அன்று நாடாளுமன்றத்தில் மத்திய நிதியமைச்சர் நிர்மலா சீதாராமனால் சமர்ப்பிக்கப்பட்டது. இந்தியப் பொருளாதாரத்தின் செயல்திறன், முக்கியப் பொருளாதாரச் சவால்கள் மற்றும் அரசின் கொள்கை முன்னுரிமைகள் இதில் ஆய்வு செய்யப்பட்டன. 2024–25 நிதியாண்டிற்கான இந்தியாவின் உண்மையான மொத்த உள்நாட்டு உற்பத்தி வளர்ச்சி 6.4 சதவீதமாக மதிப்பிடப்பட்டது. 2025–26 நிதியாண்டிற்கான வளர்ச்சி 6.3 முதல் 6.8 சதவீதம் வரை இருக்கும் என கணிக்கப்பட்டது. பொருளாதார ஆய்வறிக்கை நிதி அமைச்சகத்தின் பொருளாதார விவகாரங்கள் துறையால் தயாரிக்கப்படுகிறது. மத்திய பட்ஜெட்டுக்கு முன் நாட்டின் பொருளாதார நிலையைப் புரிந்துகொள்ள இது உதவுகிறது.`,
+    points: [
+      "Presented: 31 January 2025",
+      "Presented by: Nirmala Sitharaman",
+      "FY 2024–25 real GDP growth estimate: 6.4%",
+      "FY 2025–26 growth projection: 6.3%–6.8%",
+      "Prepared by: Department of Economic Affairs",
+      "Ministry: Ministry of Finance"
+    ],
+    mcqs: [
+      {
+        q: "Who presented the Economic Survey 2024–25?",
+        options: ["Piyush Goyal", "Nirmala Sitharaman", "Amit Shah", "S. Jaishankar"],
+        answer: "Nirmala Sitharaman"
+      }
+    ]
+  },
+
+  // JANUARY 2025 – NEWS 8
+  {
+    title: "January 2025 – 8. Eighth Central Pay Commission Announcement / எட்டாவது மத்திய ஊதியக் குழு அறிவிப்பு",
+    en: `In January 2025, the Union Government announced the formation of the Eighth Central Pay Commission to examine the salary structure and related benefits of central government employees. The announcement was made public on 16 January 2025. Pay Commissions review matters such as salaries, allowances and pensions and make recommendations to the Union Government. Their recommendations are relevant to central government employees and pensioners. The January announcement should be distinguished from the later formal approval of the Commission's Terms of Reference in October 2025.`,
+    ta: `மத்திய அரசு ஊழியர்களின் ஊதிய அமைப்பு மற்றும் தொடர்புடைய சலுகைகளை ஆய்வு செய்வதற்காக எட்டாவது மத்திய ஊதியக் குழுவை அமைப்பது குறித்து 2025 ஜனவரியில் மத்திய அரசு அறிவித்தது. இந்த அறிவிப்பு ஜனவரி 16, 2025 அன்று வெளியிடப்பட்டது. ஊதியக் குழுக்கள் அரசு ஊழியர்களின் சம்பளம், படிகள் மற்றும் ஓய்வூதியம் போன்ற அம்சங்களை ஆய்வு செய்து மத்திய அரசுக்குப் பரிந்துரைகளை வழங்குகின்றன. இதன் பரிந்துரைகள் மத்திய அரசு ஊழியர்கள் மற்றும் ஓய்வூதியதாரர்களுக்கு முக்கியமானவை. ஜனவரி மாத அறிவிப்பையும், அக்டோபர் 2025இல் அதன் பணிவரம்பு விதிமுறைகளுக்கு வழங்கப்பட்ட முறையான அமைச்சரவை ஒப்புதலையும் தனித்தனியாகப் புரிந்துகொள்ள வேண்டும்.`,
+    points: [
+      "Announcement: 16 January 2025",
+      "Commission: Eighth Central Pay Commission",
+      "Purpose: Review salaries, allowances and pension-related matters",
+      "Beneficiaries: Central government employees and pensioners",
+      "Terms of Reference approved later: October 2025"
+    ],
+    mcqs: [
+      {
+        q: "The Eighth Central Pay Commission is mainly related to which subject?",
+        options: ["Agricultural prices", "Government employee pay and benefits", "Bank interest rates", "School curriculum"],
+        answer: "Government employee pay and benefits"
+      }
+    ]
+  },
+
+  // JANUARY 2025 – NEWS 9
+  {
+    title: "January 2025 – 9. 76th Republic Day / 76வது குடியரசு தினம்",
+    en: `India celebrated its 76th Republic Day on 26 January 2025 at Kartavya Path, New Delhi. President Droupadi Murmu led the celebrations. Indonesian President Prabowo Subianto was the Chief Guest. The celebrations highlighted India's constitutional values, cultural diversity, development and military capabilities. The year 2025 also marked 75 years since the Constitution of India came into effect on 26 January 1950. The Republic Day parade included tableaux representing different states and organisations, along with cultural performances and displays by the armed forces.`,
+    ta: `இந்தியா தனது 76வது குடியரசு தினத்தை 2025 ஜனவரி 26 அன்று புதுதில்லி கர்தவ்ய பாதையில் கொண்டாடியது. குடியரசுத் தலைவர் திரௌபதி முர்மு விழாவிற்குத் தலைமை தாங்கினார். இந்தோனேசியக் குடியரசுத் தலைவர் பிரபோவோ சுபியாண்டோ சிறப்பு விருந்தினராகக் கலந்து கொண்டார். இந்திய அரசியலமைப்பின் மதிப்புகள், பண்பாட்டு பன்முகத்தன்மை, வளர்ச்சி மற்றும் ராணுவ வலிமை ஆகியவை கொண்டாட்டங்களில் வெளிப்படுத்தப்பட்டன. 1950 ஜனவரி 26 அன்று இந்திய அரசியலமைப்பு நடைமுறைக்கு வந்ததன் 75வது ஆண்டையும் 2025 குறித்தது. குடியரசு தின அணிவகுப்பில் மாநிலங்கள் மற்றும் பல்வேறு அமைப்புகளின் அலங்கார ஊர்திகள், கலை நிகழ்ச்சிகள் மற்றும் முப்படைகளின் அணிவகுப்புகள் இடம்பெற்றன.`,
+    points: [
+      "Date: 26 January 2025",
+      "Edition: 76th Republic Day",
+      "Venue: Kartavya Path, New Delhi",
+      "President: Droupadi Murmu",
+      "Chief Guest: Prabowo Subianto, President of Indonesia",
+      "Constitution came into effect: 26 January 1950"
+    ],
+    mcqs: [
+      {
+        q: "Who was the Chief Guest at India's 76th Republic Day celebrations?",
+        options: ["Joe Biden", "Prabowo Subianto", "Emmanuel Macron", "Christine Lagarde"],
+        answer: "Prabowo Subianto"
+      }
+    ]
+  },
+
+  // JANUARY 2025 – NEWS 10
+  {
+    title: "January 2025 – 10. Padma Awards 2025 / பத்ம விருதுகள் 2025",
+    en: `The Padma Awards for 2025 were announced on 25 January 2025, on the eve of Republic Day. The President approved 139 Padma Awards, including one duo case counted as a single award. The list included 7 Padma Vibhushan, 19 Padma Bhushan and 113 Padma Shri awards. Padma Vibhushan is given for exceptional and distinguished service, Padma Bhushan for distinguished service of a high order, and Padma Shri for distinguished service in any field. The awards recognise contributions in areas such as art, literature, education, medicine, science, social work, public affairs and sports. They are among India's highest civilian honours.`,
+    ta: `2025ஆம் ஆண்டுக்கான பத்ம விருதுகள் குடியரசு தினத்திற்கு முந்தைய நாளான 2025 ஜனவரி 25 அன்று அறிவிக்கப்பட்டன. குடியரசுத் தலைவர் மொத்தம் 139 பத்ம விருதுகளை வழங்க ஒப்புதல் அளித்தார். இதில் ஒரு இரட்டையர் விருது ஒரே விருதாகக் கணக்கிடப்பட்டது. பட்டியலில் 7 பத்ம விபூஷண், 19 பத்ம பூஷண் மற்றும் 113 பத்ம ஸ்ரீ விருதுகள் இடம்பெற்றன. மிக உயர்ந்த மற்றும் சிறப்பான சேவைக்காக பத்ம விபூஷண், உயர்நிலை சிறப்பான சேவைக்காக பத்ம பூஷண், பல்வேறு துறைகளில் சிறப்பான சேவைக்காக பத்ம ஸ்ரீ வழங்கப்படுகிறது. கலை, இலக்கியம், கல்வி, மருத்துவம், அறிவியல், சமூகப்பணி, பொது விவகாரங்கள் மற்றும் விளையாட்டு உள்ளிட்ட துறைகளில் பங்களித்தவர்களுக்கு இவ்விருதுகள் வழங்கப்படுகின்றன. இவை இந்தியாவின் உயரிய குடிமக்கள் விருதுகளில் அடங்கும்.`,
+    points: [
+      "Announcement date: 25 January 2025",
+      "Total awards: 139, including one duo case",
+      "Padma Vibhushan: 7",
+      "Padma Bhushan: 19",
+      "Padma Shri: 113",
+      "Padma Awards are among India's highest civilian honours",
+      "Awarded in multiple fields including art, medicine, literature and sports"
+    ],
+    mcqs: [
+      {
+        q: "How many Padma Awards were approved for 2025?",
+        options: ["120", "129", "139", "150"],
+        answer: "139"
+      }
+    ]
+  }
+
+];
