@@ -121,11 +121,17 @@ const tnpscLessons = {
 };
 
 function openTNPSCStudy(subject, language = "ta") {
-  const area = document.getElementById("content");
-Array.from(area.parentElement.children).forEach(el => {
-  if (el !== area) el.style.display = "none";
+  
+const area = document.getElementById("content");
+
+if (!area) return;
+
+document.querySelectorAll("main > *:not(#content)").forEach(el => {
+  el.style.setProperty("display", "none", "important");
 });
-  const lessons = tnpscLessons[subject];
+
+const lessons = tnpscLessons[subject];
+
 
   if (!area) return;
 
