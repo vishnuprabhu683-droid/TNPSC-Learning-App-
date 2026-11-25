@@ -4408,3 +4408,953 @@ points:[
 
 );
 
+tnpscHistoryLessons.push(
+
+{
+title: "Page 36: Gupta Empire – Rise and Founders / குப்தப் பேரரசு – தோற்றமும் நிறுவனர்களும்",
+en: `The Gupta Empire was one of the most important political powers in ancient India. Its rise marked a major period of political consolidation, economic growth and cultural development in northern India.
+
+1. Origin:
+- The Gupta dynasty emerged in northern India during the early centuries CE.
+- The exact date and geographical extent of its earliest kingdom are debated.
+- Sri Gupta is generally regarded as the founder of the dynasty.
+- Ghatotkacha succeeded Sri Gupta.
+- Both rulers used the title Maharaja.
+
+2. Chandragupta I:
+- Chandragupta I was the first major imperial ruler of the Gupta dynasty.
+- He assumed the title Maharajadhiraja, meaning King of Kings.
+- His marriage to Kumaradevi of the Licchavi family strengthened his political position.
+- Gupta gold coins celebrated the Gupta-Licchavi connection.
+
+3. Expansion:
+- The Gupta kingdom gradually expanded through military campaigns, marriage alliances and political relationships.
+- The Ganga valley became an important centre of Gupta power.
+- Pataliputra was an important political centre.
+
+4. Historical Importance:
+- The Guptas encouraged Sanskrit literature, science, mathematics, art and architecture.
+- Their period witnessed the development of Hindu temple architecture and classical sculpture.
+- The empire became a major power in northern India.
+
+TNPSC Important Facts:
+- Founder – Sri Gupta.
+- Successor – Ghatotkacha.
+- First major imperial ruler – Chandragupta I.
+- Title – Maharajadhiraja.
+- Kumaradevi – Licchavi princess.`,
+ta: `குப்தப் பேரரசு பண்டைய இந்தியாவின் முக்கியமான அரசியல் சக்திகளில் ஒன்றாகும். வட இந்தியாவில் அரசியல் ஒருங்கிணைப்பு, பொருளாதார வளர்ச்சி மற்றும் பண்பாட்டு முன்னேற்றம் ஆகியவற்றில் இவ்வம்சம் முக்கியப் பங்கு வகித்தது.
+
+1. தோற்றம்:
+- குப்த வம்சம் கி.பி. தொடக்க நூற்றாண்டுகளில் வட இந்தியாவில் உருவானது.
+- ஆரம்பகால அரசின் துல்லியமான காலமும் எல்லைகளும் குறித்து அறிஞர்களிடையே விவாதங்கள் உள்ளன.
+- ஸ்ரீகுப்தர் இவ்வம்சத்தின் நிறுவனராகப் பொதுவாகக் கருதப்படுகிறார்.
+- ஸ்ரீகுப்தருக்குப் பிறகு கடோத்கஜர் ஆட்சி செய்தார்.
+- இருவரும் மகாராஜா என்ற பட்டத்தைப் பயன்படுத்தினர்.
+
+2. முதலாம் சந்திரகுப்தர்:
+- முதலாம் சந்திரகுப்தர் குப்த வம்சத்தின் முதல் முக்கியப் பேரரசராக விளங்கினார்.
+- மகாராஜாதிராஜா என்ற பட்டத்தை ஏற்றார்.
+- லிச்சாவி குடும்பத்தைச் சேர்ந்த குமாரதேவியை மணந்தது அவரது அரசியல் செல்வாக்கை வலுப்படுத்தியது.
+- குப்தர் மற்றும் லிச்சாவி தொடர்பைத் தங்க நாணயங்கள் எடுத்துக்காட்டுகின்றன.
+
+3. விரிவாக்கம்:
+- போர்கள், திருமணக் கூட்டணிகள் மற்றும் அரசியல் உறவுகள் மூலம் குப்த அரசு விரிவடைந்தது.
+- கங்கைச் சமவெளி முக்கிய அதிகார மையமாக மாறியது.
+- பாடலிபுத்திரம் முக்கிய அரசியல் மையமாக விளங்கியது.
+
+4. வரலாற்று முக்கியத்துவம்:
+- சமஸ்கிருத இலக்கியம், அறிவியல், கணிதம், கலை மற்றும் கட்டடக்கலைக்கு குப்தர்கள் ஆதரவளித்தனர்.
+- இந்துக் கோயில் கட்டடக்கலை மற்றும் சிற்பக்கலை வளர்ச்சி பெற்றன.
+- வட இந்தியாவின் முக்கிய பேரரசாக குப்த அரசு உருவானது.
+
+TNPSC முக்கிய குறிப்புகள்:
+- நிறுவனர் – ஸ்ரீகுப்தர்.
+- அவருக்குப் பின் – கடோத்கஜர்.
+- முதல் முக்கியப் பேரரசர் – முதலாம் சந்திரகுப்தர்.
+- பட்டம் – மகாராஜாதிராஜா.
+- குமாரதேவி – லிச்சாவி இளவரசி.`,
+points:["Sri Gupta – Founder","Ghatotkacha – Successor","Chandragupta I – Maharajadhiraja","Kumaradevi – Licchavi alliance","குப்த வம்ச நிறுவனர் – ஸ்ரீகுப்தர்","முதலாம் சந்திரகுப்தர் – மகாராஜாதிராஜா"]
+},
+
+{
+title: "Page 37: Samudragupta – Conquests and Achievements / சமுத்திரகுப்தர் – படையெடுப்புகளும் சாதனைகளும்",
+en: `Samudragupta was one of the greatest rulers of the Gupta dynasty. His military campaigns greatly expanded Gupta influence across northern and parts of southern India.
+
+1. Accession:
+- Samudragupta succeeded Chandragupta I.
+- He was selected as successor, according to the account in the Allahabad Pillar inscription.
+- He was an ambitious military leader and an accomplished patron of culture.
+
+2. Allahabad Pillar Inscription:
+- The inscription is also called the Prayaga Prashasti.
+- It was composed by Harisena, an important court poet and official.
+- It describes Samudragupta's military achievements, political relationships and qualities.
+- The pillar was originally associated with Ashoka and later carried Gupta records.
+
+3. Military Campaigns:
+- He defeated several rulers of northern India and incorporated territories into his kingdom.
+- In the southern campaign, he defeated a number of rulers but generally reinstated them after accepting their submission.
+- Some frontier kingdoms and forest chiefs acknowledged his authority.
+- Several foreign and neighbouring rulers maintained diplomatic relations with him.
+
+4. Ashvamedha:
+- Samudragupta performed the Ashvamedha sacrifice to proclaim imperial authority.
+- Special gold coins commemorated this event.
+
+5. Cultural Achievements:
+- He was also known for his interest in music.
+- Some coins depict him playing a veena.
+- He supported learning and religious institutions.
+
+6. Historical Assessment:
+- Historian V. A. Smith described him as the Napoleon of India because of his military campaigns.
+- This is a historical comparison, not an official title.
+
+TNPSC Important Facts:
+- Allahabad Pillar inscription – Prayaga Prashasti.
+- Author – Harisena.
+- Southern campaign – Defeated rulers and reinstated many.
+- Ashvamedha – Imperial claim.
+- Veena coins – Musical interest.`,
+ta: `சமுத்திரகுப்தர் குப்த வம்சத்தின் மிகச் சிறந்த மன்னர்களில் ஒருவர். இவரது படையெடுப்புகள் வட இந்தியாவிலும் தென்னிந்தியாவின் சில பகுதிகளிலும் குப்தர்களின் செல்வாக்கை விரிவுபடுத்தின.
+
+1. ஆட்சிப் பொறுப்பு:
+- முதலாம் சந்திரகுப்தருக்குப் பிறகு சமுத்திரகுப்தர் ஆட்சிக்கு வந்தார்.
+- அலகாபாத் தூண் கல்வெட்டின்படி அவர் வாரிசாகத் தேர்ந்தெடுக்கப்பட்டார்.
+- சிறந்த படைத்தலைவராகவும் கலைகளின் ஆதரவாளராகவும் விளங்கினார்.
+
+2. அலகாபாத் தூண் கல்வெட்டு:
+- இது பிரயாக பிரசஸ்தி என்றும் அழைக்கப்படுகிறது.
+- ஹரிசேனர் இதனை இயற்றினார். அவர் அரசவைக் கவிஞராகவும் அதிகாரியாகவும் இருந்தார்.
+- சமுத்திரகுப்தரின் படை வெற்றிகள், அரசியல் உறவுகள் மற்றும் பண்புகளை இக்கல்வெட்டு விவரிக்கிறது.
+- இத்தூண் முதலில் அசோகருடன் தொடர்புடையது; பின்னர் குப்தர் காலக் குறிப்புகளும் பொறிக்கப்பட்டன.
+
+3. படையெடுப்புகள்:
+- வட இந்தியாவின் பல மன்னர்களைத் தோற்கடித்து அவர்களின் பகுதிகளைத் தனது பேரரசுடன் இணைத்தார்.
+- தென்னிந்தியப் படையெடுப்பில் பல மன்னர்களை வென்றார். அவர்களில் பலரை அடிபணிந்த பின்னர் மீண்டும் ஆட்சி செய்ய அனுமதித்தார்.
+- எல்லைப் பகுதிகளின் அரசுகளும் காட்டு நிலத் தலைவர்களும் அவரது அதிகாரத்தை ஏற்றுக்கொண்டனர்.
+- அண்டை மற்றும் வெளிநாட்டு அரசுகளுடன் தூதரக உறவுகளும் இருந்தன.
+
+4. அசுவமேதம்:
+- பேரரசு அதிகாரத்தை வெளிப்படுத்த அசுவமேத யாகம் நடத்தினார்.
+- இதனை நினைவுகூரும் வகையில் சிறப்பு தங்க நாணயங்கள் வெளியிடப்பட்டன.
+
+5. பண்பாட்டுச் சாதனைகள்:
+- இசையில் ஆர்வம் கொண்டிருந்தார்.
+- சில தங்க நாணயங்களில் வீணை வாசிக்கும் உருவம் காணப்படுகிறது.
+- கல்வி மற்றும் சமய நிறுவனங்களுக்கு ஆதரவளித்தார்.
+
+6. வரலாற்றுப் பார்வை:
+- வரலாற்றாசிரியர் வி.ஏ. ஸ்மித் இவரை இந்தியாவின் நெப்போலியன் என்று ஒப்பிட்டார்.
+- இது ஒரு வரலாற்று ஒப்பீடு; அதிகாரப்பூர்வப் பட்டம் அல்ல.
+
+TNPSC முக்கிய குறிப்புகள்:
+- அலகாபாத் தூண் கல்வெட்டு – பிரயாக பிரசஸ்தி.
+- ஆசிரியர் – ஹரிசேனர்.
+- தென்னிந்தியப் படையெடுப்பு – பல மன்னர்களை வென்று மீண்டும் ஆட்சி செய்ய அனுமதித்தார்.
+- அசுவமேதம் – பேரரசு அதிகாரத்தின் அடையாளம்.
+- வீணை நாணயங்கள் – இசை ஆர்வம்.`,
+points:["Samudragupta – Great Gupta ruler","Prayaga Prashasti – Allahabad Pillar","Harisena – Inscription author","Ashvamedha – Samudragupta","Veena coins – Music","சமுத்திரகுப்தர் – சிறந்த குப்த மன்னர்","ஹரிசேனர் – பிரயாக பிரசஸ்தி ஆசிரியர்","வீணை நாணயங்கள் – இசை"]
+},
+
+{
+title: "Page 38: Chandragupta II – Vikramaditya / இரண்டாம் சந்திரகுப்தர் – விக்கிரமாதித்தன்",
+en: `Chandragupta II was one of the most successful Gupta emperors. His reign witnessed political expansion, prosperity, international trade and cultural achievements.
+
+1. Accession:
+- Chandragupta II succeeded Samudragupta.
+- He is popularly associated with the title Vikramaditya.
+- He strengthened the empire through military victories and diplomatic alliances.
+
+2. Western Campaign:
+- He defeated the Western Kshatrapas, also known as Shakas.
+- This victory extended Gupta authority towards western India and important trade routes.
+- The conquest helped improve access to western coastal trade.
+
+3. Marriage Alliances:
+- Gupta marriage alliances strengthened political relations with neighbouring royal families.
+- His daughter Prabhavatigupta married into the Vakataka dynasty.
+- She later exercised considerable political influence as a regent in the Vakataka kingdom.
+
+4. Fa-Hien:
+- The Chinese Buddhist traveller Fa-Hien visited India during Chandragupta II's reign.
+- He travelled to study Buddhist texts and religious institutions.
+- His account provides information about society, administration and religious life.
+- He described parts of northern India as prosperous and reported relatively mild punishments in the regions he visited.
+
+5. Art and Culture:
+- Sanskrit literature and learning received royal support.
+- Chandragupta II's period is associated with the flourishing of classical Sanskrit culture.
+- The famous poet Kalidasa is traditionally associated with the Gupta age, although exact court connections are debated.
+
+6. Historical Importance:
+- Gupta influence reached a high point during his reign.
+- Trade, urban centres and artistic activity developed.
+
+TNPSC Important Facts:
+- Title – Vikramaditya.
+- Defeated – Western Kshatrapas.
+- Chinese traveller – Fa-Hien.
+- Daughter – Prabhavatigupta.
+- Vakataka alliance – Marriage diplomacy.`,
+ta: `இரண்டாம் சந்திரகுப்தர் குப்தப் பேரரசின் வெற்றிகரமான மன்னர்களில் ஒருவர். இவரது ஆட்சியில் அரசியல் விரிவாக்கம், செழிப்பு, வெளிநாட்டு வணிகம் மற்றும் பண்பாட்டு வளர்ச்சி ஏற்பட்டன.
+
+1. ஆட்சிப் பொறுப்பு:
+- சமுத்திரகுப்தருக்குப் பிறகு இரண்டாம் சந்திரகுப்தர் ஆட்சிக்கு வந்தார்.
+- விக்கிரமாதித்தன் என்ற பட்டத்துடன் தொடர்புபடுத்தப்படுகிறார்.
+- போர் வெற்றிகள் மற்றும் அரசியல் கூட்டணிகள் மூலம் பேரரசை வலுப்படுத்தினார்.
+
+2. மேற்கு இந்தியப் படையெடுப்பு:
+- மேற்கு சத்ரபர்கள் அல்லது சாகர்களைத் தோற்கடித்தார்.
+- இதன் மூலம் மேற்கு இந்தியா மற்றும் முக்கிய வணிகப் பாதைகளில் குப்தர்களின் அதிகாரம் விரிவடைந்தது.
+- மேற்கு கடற்கரை வணிகத்தை அணுகுவதற்கு இவ்வெற்றி உதவியது.
+
+3. திருமணக் கூட்டணிகள்:
+- அண்டை அரச குடும்பங்களுடன் திருமண உறவுகள் ஏற்படுத்தப்பட்டன.
+- இவரது மகள் பிரபாவதிகுப்தா வாகாடக அரச குடும்பத்தில் திருமணம் செய்துகொண்டார்.
+- பின்னர் வாகாடக அரசில் ஆட்சிப் பிரதிநிதியாக முக்கிய அரசியல் செல்வாக்கைப் பெற்றார்.
+
+4. பாஹியான்:
+- சீன பௌத்தப் பயணி பாஹியான் இரண்டாம் சந்திரகுப்தர் காலத்தில் இந்தியாவிற்கு வந்தார்.
+- பௌத்த நூல்கள் மற்றும் சமய நிறுவனங்களைப் படிப்பதே அவரது பயண நோக்கமாக இருந்தது.
+- அவரது பயணக் குறிப்பு அக்காலச் சமூகம், நிர்வாகம் மற்றும் சமய வாழ்க்கையை விளக்குகிறது.
+- அவர் சென்ற வட இந்தியப் பகுதிகளின் செழிப்பையும் ஒப்பீட்டளவில் மென்மையான தண்டனை முறைகளையும் குறிப்பிட்டார்.
+
+5. கலை மற்றும் பண்பாடு:
+- சமஸ்கிருத இலக்கியமும் கல்வியும் ஆதரிக்கப்பட்டன.
+- செம்மையான சமஸ்கிருதப் பண்பாடு வளர்ச்சி பெற்ற காலமாக இது கருதப்படுகிறது.
+- காளிதாசர் குப்தர் காலத்துடன் மரபாகத் தொடர்புபடுத்தப்படுகிறார்; அவரது அரசவைத் தொடர்பின் துல்லியம் விவாதத்திற்குரியது.
+
+6. வரலாற்று முக்கியத்துவம்:
+- இவரது ஆட்சியில் குப்தர்களின் செல்வாக்கு உச்சநிலையை அடைந்தது.
+- வணிகம், நகரங்கள் மற்றும் கலைச் செயல்பாடுகள் வளர்ந்தன.
+
+TNPSC முக்கிய குறிப்புகள்:
+- பட்டம் – விக்கிரமாதித்தன்.
+- வென்றவர்கள் – மேற்கு சத்ரபர்கள்.
+- சீனப் பயணி – பாஹியான்.
+- மகள் – பிரபாவதிகுப்தா.
+- வாகாடக உறவு – திருமணக் கூட்டணி.`,
+points:["Chandragupta II – Vikramaditya","Western Kshatrapas – Defeated","Fa-Hien – Chinese traveller","Prabhavatigupta – Vakataka connection","Kalidasa – Gupta-age literary tradition","பாஹியான் – சீனப் பயணி","விக்கிரமாதித்தன் – இரண்டாம் சந்திரகுப்தர்"]
+},
+
+{
+title: "Page 39: Gupta Administration, Economy and Society / குப்தர் நிர்வாகம், பொருளாதாரம் மற்றும் சமூகம்",
+en: `The Gupta Empire developed a system of administration that combined royal authority with provincial and local institutions. Its economy depended on agriculture, crafts, trade and taxation.
+
+1. King:
+- The king was the highest political and military authority.
+- Gupta rulers used titles such as Maharajadhiraja and Parameshvara.
+- Ministers and senior officials assisted the ruler.
+
+2. Provincial Administration:
+- The empire was divided into provinces often called Bhuktis.
+- Provinces were administered by officials such as Uparikas.
+- Provinces were divided into districts known as Vishayas.
+- District administration involved officials and local bodies.
+
+3. Local Administration:
+- Village communities formed the basic administrative units.
+- Village headmen and local officers handled daily matters.
+- Guilds of merchants and artisans participated in economic and civic life.
+
+4. Army:
+- The army included infantry, cavalry, chariots and elephants.
+- Feudatory rulers and subordinate chiefs could provide military support.
+- Land grants and local political powers gradually became significant.
+
+5. Economy:
+- Agriculture was the main source of wealth.
+- Land revenue was an important source of state income.
+- Crafts such as textiles, metalwork, pottery and jewellery making flourished.
+- Gold coins, often called dinars in historical accounts, were issued by Gupta rulers.
+- Inland and overseas trade continued.
+
+6. Society:
+- Sanskrit became an important language of administration, literature and elite culture.
+- Varna and jati-based social distinctions were present.
+- Religious traditions included Brahmanical Hinduism, Buddhism and Jainism.
+- Land grants to Brahmins and religious institutions influenced rural society.
+
+7. Limitations:
+- Social inequalities existed.
+- The position of women varied by social group and context.
+- Land grants sometimes transferred revenue and administrative privileges to recipients.
+
+TNPSC Important Facts:
+- Province – Bhukti.
+- District – Vishaya.
+- Provincial officer – Uparika.
+- Main occupation – Agriculture.
+- Gupta gold coins – Dinars.`,
+ta: `குப்தப் பேரரசில் மன்னரின் அதிகாரத்துடன் மாகாண மற்றும் உள்ளாட்சி அமைப்புகளும் இணைந்து செயல்பட்டன. வேளாண்மை, கைவினை, வணிகம் மற்றும் வரிவசூல் ஆகியவை பொருளாதாரத்தின் அடிப்படையாக இருந்தன.
+
+1. மன்னர்:
+- மன்னர் அரசியல் மற்றும் இராணுவ அதிகாரத்தின் தலைவராக இருந்தார்.
+- மகாராஜாதிராஜா, பரமேஸ்வரர் போன்ற பட்டங்களைப் பயன்படுத்தினர்.
+- அமைச்சர்களும் உயர் அதிகாரிகளும் மன்னருக்கு உதவினர்.
+
+2. மாகாண நிர்வாகம்:
+- பேரரசு புக்தி எனப்படும் மாகாணங்களாகப் பிரிக்கப்பட்டது.
+- உபரிகர் போன்ற அதிகாரிகள் மாகாணங்களை நிர்வகித்தனர்.
+- மாகாணங்கள் விஷயம் எனப்படும் மாவட்டங்களாகப் பிரிக்கப்பட்டன.
+- மாவட்ட நிர்வாகத்தில் அதிகாரிகளும் உள்ளூர் அமைப்புகளும் பங்கேற்றன.
+
+3. உள்ளாட்சி நிர்வாகம்:
+- கிராமங்கள் அடிப்படை நிர்வாக அலகுகளாக இருந்தன.
+- கிராமத் தலைவர்களும் உள்ளூர் அதிகாரிகளும் அன்றாட நிர்வாகத்தை மேற்கொண்டனர்.
+- வணிகர் மற்றும் கைவினைஞர் சங்கங்கள் பொருளாதார மற்றும் நகர வாழ்க்கையில் பங்கேற்றன.
+
+4. படை:
+- காலாட்படை, குதிரைப்படை, தேர்ப்படை மற்றும் யானைப்படை ஆகியவை இருந்தன.
+- சிற்றரசர்களும் கீழ்நிலைத் தலைவர்களும் இராணுவ உதவி வழங்கினர்.
+- நில மானியங்களும் உள்ளூர் அரசியல் அதிகாரங்களும் முக்கியத்துவம் பெற்றன.
+
+5. பொருளாதாரம்:
+- வேளாண்மை செல்வத்தின் முக்கிய ஆதாரமாக இருந்தது.
+- நிலவரி அரசின் முக்கிய வருவாயாக இருந்தது.
+- நெசவு, உலோக வேலை, மண்பாண்டம் மற்றும் நகைத் தயாரிப்பு வளர்ந்தன.
+- குப்தர்கள் பல தங்க நாணயங்களை வெளியிட்டனர். அவை தினார் எனக் குறிப்பிடப்படுகின்றன.
+- உள்நாட்டு மற்றும் வெளிநாட்டு வணிகம் தொடர்ந்தது.
+
+6. சமூகம்:
+- சமஸ்கிருதம் நிர்வாகம், இலக்கியம் மற்றும் உயர்குடிப் பண்பாட்டின் முக்கிய மொழியாக விளங்கியது.
+- வர்ணம் மற்றும் சாதி அடிப்படையிலான சமூக வேறுபாடுகள் காணப்பட்டன.
+- பிராமணிய இந்து மரபுகள், பௌத்தம் மற்றும் சமணம் ஆகியவை நிலவின.
+- பிராமணர்களுக்கும் சமய நிறுவனங்களுக்கும் நில மானியங்கள் வழங்கப்பட்டன.
+
+7. வரம்புகள்:
+- சமூக ஏற்றத்தாழ்வுகள் இருந்தன.
+- பெண்களின் நிலை சமூகக் குழு மற்றும் சூழலுக்கு ஏற்ப மாறுபட்டது.
+- நில மானியங்கள் மூலம் சிலருக்கு வருவாய் மற்றும் நிர்வாக உரிமைகள் வழங்கப்பட்டன.
+
+TNPSC முக்கிய குறிப்புகள்:
+- மாகாணம் – புக்தி.
+- மாவட்டம் – விஷயம்.
+- மாகாண அதிகாரி – உபரிகர்.
+- முக்கியத் தொழில் – வேளாண்மை.
+- குப்தர் தங்க நாணயங்கள் – தினார்.`,
+points:["Bhukti – Province","Vishaya – District","Uparika – Provincial officer","Agriculture – Main economic base","Gupta gold coins – Dinars","புக்தி – மாகாணம்","விஷயம் – மாவட்டம்","உபரிகர் – மாகாண அதிகாரி"]
+},
+
+{
+title: "Page 40: Gupta Art, Science, Literature and Golden Age / குப்தர் கலை, அறிவியல், இலக்கியம் மற்றும் பொற்காலம்",
+en: `The Gupta period is remembered for major achievements in literature, mathematics, astronomy, sculpture, painting and architecture. Some historians describe it as a Golden Age, particularly for classical cultural achievements.
+
+1. Literature:
+- Sanskrit literature flourished.
+- Kalidasa is traditionally associated with this period.
+- His famous works include Abhijnanasakuntalam, Meghaduta and Raghuvamsha.
+- Vishakhadatta wrote Mudrarakshasa.
+- The Puranic literary tradition developed further.
+
+2. Mathematics:
+- Aryabhata was a major mathematician and astronomer of the Gupta age.
+- His work Aryabhatiya was composed around 499 CE.
+- He explained mathematical and astronomical concepts, including methods for calculating planetary movements.
+- The decimal place-value system and the development of zero took shape over a long period; they should not be attributed to a single person alone.
+
+3. Astronomy:
+- Aryabhata explained that the apparent daily movement of stars was connected with Earth's rotation.
+- He gave scientific explanations for solar and lunar eclipses.
+- Varahamihira became an important astronomer and scholar in the broader Gupta and post-Gupta period.
+
+4. Medicine:
+- Medical knowledge developed through traditions associated with Ayurveda.
+- Texts attributed to Charaka and Sushruta were studied and transmitted over many centuries.
+- Dhanvantari is remembered in Indian medical tradition.
+
+5. Art and Sculpture:
+- Gupta sculpture is known for balanced proportions and refined expressions.
+- Sarnath became an important centre of Buddha sculpture.
+- Ajanta paintings developed through several phases, including important activity during the Vakataka period.
+
+6. Architecture:
+- Early structural Hindu temples developed.
+- The Dashavatara temple at Deogarh is an important example.
+- Brick and stone temples reflected evolving architectural traditions.
+
+7. Meaning of Golden Age:
+- The expression refers to achievements in classical culture, art, science and literature.
+- It does not mean that all communities enjoyed equal prosperity or social conditions.
+
+TNPSC Important Facts:
+- Aryabhata – Aryabhatiya.
+- Kalidasa – Sanskrit literature.
+- Vishakhadatta – Mudrarakshasa.
+- Deogarh – Dashavatara temple.
+- Sarnath – Gupta Buddha sculpture.`,
+ta: `குப்தர் காலம் இலக்கியம், கணிதம், வானியல், சிற்பம், ஓவியம் மற்றும் கட்டடக்கலை ஆகிய துறைகளில் குறிப்பிடத்தக்க சாதனைகளுக்காக நினைவுகூரப்படுகிறது. செம்மையான பண்பாட்டு வளர்ச்சியின் அடிப்படையில் சில வரலாற்றாசிரியர்கள் இதனைப் பொற்காலம் எனக் குறிப்பிடுகின்றனர்.
+
+1. இலக்கியம்:
+- சமஸ்கிருத இலக்கியம் வளர்ச்சி பெற்றது.
+- காளிதாசர் இக்காலத்துடன் மரபாகத் தொடர்புபடுத்தப்படுகிறார்.
+- அபிஞ்ஞான சகுந்தலம், மேகதூதம், ரகுவம்சம் ஆகியவை அவரது புகழ்பெற்ற படைப்புகள்.
+- விசாகதத்தர் முத்ராராட்சசம் என்ற நூலை இயற்றினார்.
+- புராண இலக்கிய மரபு மேலும் வளர்ச்சி பெற்றது.
+
+2. கணிதம்:
+- ஆரியபட்டர் குப்தர் காலத்தின் முக்கிய கணிதவியலாளர் மற்றும் வானியலாளர்.
+- அவரது ஆரியபட்டீயம் சுமார் கி.பி. 499-இல் இயற்றப்பட்டது.
+- கணிதம் மற்றும் கோள்களின் இயக்கம் தொடர்பான கருத்துகளை விளக்கினார்.
+- தசம இடமதிப்பு முறை மற்றும் பூஜ்ஜியத்தின் வளர்ச்சி நீண்டகால வரலாற்றுச் செயல்முறையாகும்; இதனை ஒரே நபருக்குச் சொந்தமானதாகக் கூற முடியாது.
+
+3. வானியல்:
+- விண்மீன்களின் தினசரி தோற்ற இயக்கம் பூமியின் சுழற்சியுடன் தொடர்புடையது என்று ஆரியபட்டர் விளக்கினார்.
+- சூரிய மற்றும் சந்திர கிரகணங்களுக்கு அறிவியல் விளக்கங்களை அளித்தார்.
+- வராகமிகிரர் குப்தர் மற்றும் பிற்காலக் காலங்களில் முக்கிய வானியலாளராக விளங்கினார்.
+
+4. மருத்துவம்:
+- ஆயுர்வேத மரபுகள் மூலம் மருத்துவ அறிவு வளர்ச்சி பெற்றது.
+- சரகர் மற்றும் சுசுருதர் பெயர்களுடன் தொடர்புடைய மருத்துவ நூல்கள் பல நூற்றாண்டுகளாகப் பயிலப்பட்டன.
+- தன்வந்திரி இந்திய மருத்துவ மரபில் நினைவுகூரப்படுகிறார்.
+
+5. கலை மற்றும் சிற்பம்:
+- குப்தர் சிற்பங்கள் சமச்சீரான உடல் அமைப்புக்கும் நுட்பமான முகபாவங்களுக்கும் பெயர் பெற்றவை.
+- சாரநாத் புத்தர் சிற்பங்களின் முக்கிய மையமாக விளங்கியது.
+- வாகாடகர் காலத்திலும் அஜந்தா ஓவியங்கள் முக்கிய வளர்ச்சியைப் பெற்றன.
+
+6. கட்டடக்கலை:
+- கட்டமைக்கப்பட்ட இந்துக் கோயில்கள் வளர்ச்சி பெற்றன.
+- தேவ்கரில் உள்ள தசாவதாரக் கோயில் முக்கிய எடுத்துக்காட்டாகும்.
+- செங்கல் மற்றும் கல் கோயில் மரபுகள் வளர்ந்தன.
+
+7. பொற்காலம் என்பதன் பொருள்:
+- செம்மையான கலை, அறிவியல், இலக்கிய மற்றும் பண்பாட்டு சாதனைகளைக் குறிக்கிறது.
+- எல்லா சமூகத்தினரும் சமமான செழிப்பைப் பெற்றனர் என்று இதற்குப் பொருள் அல்ல.
+
+TNPSC முக்கிய குறிப்புகள்:
+- ஆரியபட்டர் – ஆரியபட்டீயம்.
+- காளிதாசர் – சமஸ்கிருத இலக்கியம்.
+- விசாகதத்தர் – முத்ராராட்சசம்.
+- தேவ்கர் – தசாவதாரக் கோயில்.
+- சாரநாத் – குப்தர் கால புத்தர் சிற்பங்கள்.`,
+points:["Aryabhata – Aryabhatiya","Kalidasa – Sanskrit poet","Vishakhadatta – Mudrarakshasa","Deogarh – Dashavatara temple","Sarnath – Buddha sculptures","Ajanta – Paintings","ஆரியபட்டர் – ஆரியபட்டீயம்","காளிதாசர் – சமஸ்கிருதப் புலவர்","தேவ்கர் – தசாவதாரக் கோயில்"]
+},
+
+{
+title: "Page 41: Vakataka Dynasty and Prabhavatigupta / வாகாடக வம்சமும் பிரபாவதிகுப்தாவும்",
+en: `The Vakatakas were an important dynasty that ruled parts of the Deccan and central India during the Gupta period. They maintained political and cultural relations with the Guptas.
+
+1. Origin:
+- The Vakataka dynasty emerged in the Deccan during the third century CE.
+- Vindhyashakti is generally regarded as its founder.
+- Pravarasena I was an important early ruler who expanded Vakataka power.
+
+2. Branches:
+- The dynasty later developed into different branches.
+- The Nandivardhana-Pravarapura branch became prominent.
+- The Vatsagulma branch also played an important role.
+
+3. Gupta Relations:
+- Chandragupta II's daughter Prabhavatigupta married Rudrasena II of the Vakataka dynasty.
+- After Rudrasena II's death, Prabhavatigupta acted as regent for her sons.
+- Her copper-plate grants provide important evidence about Vakataka administration and land grants.
+
+4. Important Rulers:
+- Vindhyashakti – Founder.
+- Pravarasena I – Powerful early ruler.
+- Rudrasena II – Husband of Prabhavatigupta.
+- Harishena – Important ruler of the Vatsagulma branch.
+
+5. Art and Religion:
+- The Vakatakas supported religious institutions.
+- Ajanta caves received important patronage during the Vakataka period, particularly under the Vatsagulma branch.
+- Buddhist monasteries and paintings developed.
+
+6. Historical Importance:
+- Vakataka-Gupta marriage relations strengthened political links between northern and central India.
+- Their inscriptions help historians understand land grants, royal authority and religious patronage.
+
+TNPSC Important Facts:
+- Founder – Vindhyashakti.
+- Prabhavatigupta – Daughter of Chandragupta II.
+- Husband – Rudrasena II.
+- Ajanta – Important Vakataka patronage.`,
+ta: `வாகாடகர்கள் குப்தர் காலத்தில் தக்காணம் மற்றும் மத்திய இந்தியாவின் சில பகுதிகளை ஆட்சி செய்த முக்கிய வம்சத்தினர் ஆவர். குப்தர்களுடன் அரசியல் மற்றும் பண்பாட்டு உறவுகளைப் பேணினர்.
+
+1. தோற்றம்:
+- கி.பி. மூன்றாம் நூற்றாண்டில் தக்காணத்தில் வாகாடக வம்சம் உருவானது.
+- விந்தியசக்தி இவ்வம்சத்தின் நிறுவனராகக் கருதப்படுகிறார்.
+- முதலாம் பிரவரசேனர் ஆரம்பகாலத்தில் வாகாடக அதிகாரத்தை விரிவுபடுத்திய முக்கிய மன்னர்.
+
+2. கிளைகள்:
+- பின்னர் இவ்வம்சம் பல கிளைகளாகப் பிரிந்தது.
+- நந்திவர்த்தனம் – பிரவரபுரம் கிளை முக்கியத்துவம் பெற்றது.
+- வத்சகுல்ம கிளையும் முக்கியப் பங்கு வகித்தது.
+
+3. குப்தர்களுடனான உறவு:
+- இரண்டாம் சந்திரகுப்தரின் மகள் பிரபாவதிகுப்தா வாகாடக மன்னர் இரண்டாம் ருத்ரசேனரை மணந்தார்.
+- இரண்டாம் ருத்ரசேனரின் மறைவுக்குப் பிறகு தனது மகன்களுக்காக ஆட்சிப் பிரதிநிதியாகச் செயல்பட்டார்.
+- அவரது செப்பேடுகள் வாகாடக நிர்வாகம் மற்றும் நில மானியங்கள் பற்றிய முக்கிய ஆதாரங்களாக உள்ளன.
+
+4. முக்கிய மன்னர்கள்:
+- விந்தியசக்தி – நிறுவனர்.
+- முதலாம் பிரவரசேனர் – வலிமையான தொடக்ககால மன்னர்.
+- இரண்டாம் ருத்ரசேனர் – பிரபாவதிகுப்தாவின் கணவர்.
+- ஹரிசேனர் – வத்சகுல்ம கிளையின் முக்கிய மன்னர்.
+
+5. கலை மற்றும் சமயம்:
+- வாகாடகர்கள் சமய நிறுவனங்களுக்கு ஆதரவளித்தனர்.
+- குறிப்பாக வத்சகுல்ம கிளையின் காலத்தில் அஜந்தா குகைகள் முக்கிய ஆதரவைப் பெற்றன.
+- பௌத்த மடங்களும் ஓவியங்களும் வளர்ச்சி பெற்றன.
+
+6. வரலாற்று முக்கியத்துவம்:
+- வாகாடக – குப்த திருமண உறவுகள் வட மற்றும் மத்திய இந்திய அரசியல் தொடர்புகளை வலுப்படுத்தின.
+- கல்வெட்டுகள் நில மானியங்கள், அரச அதிகாரம் மற்றும் சமய ஆதரவு பற்றிய தகவல்களை வழங்குகின்றன.
+
+TNPSC முக்கிய குறிப்புகள்:
+- நிறுவனர் – விந்தியசக்தி.
+- பிரபாவதிகுப்தா – இரண்டாம் சந்திரகுப்தரின் மகள்.
+- கணவர் – இரண்டாம் ருத்ரசேனர்.
+- அஜந்தா – வாகாடகர் கால ஆதரவு.`,
+points:["Vindhyashakti – Vakataka founder","Prabhavatigupta – Gupta princess","Rudrasena II – Vakataka ruler","Ajanta – Vakataka patronage","விந்தியசக்தி – வாகாடக நிறுவனர்","பிரபாவதிகுப்தா – குப்த இளவரசி","அஜந்தா – வாகாடகர் ஆதரவு"]
+},
+
+{
+title: "Page 42: Harshavardhana and Pushyabhuti Dynasty / ஹர்ஷவர்த்தனரும் புஷ்யபூதி வம்சமும்",
+en: `Harshavardhana was an important ruler of northern India in the seventh century CE. He established a large kingdom after the decline of Gupta political power.
+
+1. Pushyabhuti Dynasty:
+- The dynasty is also known as the Vardhana dynasty.
+- Its early centre was Thanesar in present-day Haryana.
+- Prabhakaravardhana was an important early ruler.
+- Rajyavardhana succeeded him.
+
+2. Harsha's Rise:
+- Harsha came to power around 606 CE after the death of his brother Rajyavardhana.
+- He gradually expanded his authority across northern India.
+- Kannauj became an important political centre.
+
+3. Conflict with Pulakeshin II:
+- Harsha attempted to extend his power towards the Deccan.
+- He was checked by the Chalukya ruler Pulakeshin II.
+- The Narmada region became an important boundary between their spheres of influence.
+
+4. Administration:
+- Harsha personally supervised important matters of government.
+- His kingdom included provinces and local administrative units.
+- Officials, ministers and subordinate rulers helped administer the kingdom.
+
+5. Religious Policy:
+- Harsha initially followed Shaiva traditions and later became an important supporter of Buddhism.
+- He also respected other religious traditions.
+- He organised religious assemblies and charitable activities.
+
+6. Literary Sources:
+- Banabhatta wrote Harshacharita, a biography of Harsha.
+- The Chinese traveller Xuanzang visited India during his reign.
+- Xuanzang's account provides information about education, religion and political conditions.
+- Harsha is traditionally associated with Sanskrit plays Ratnavali, Nagananda and Priyadarsika.
+
+7. Decline:
+- Harsha died around 647 CE.
+- He left no powerful successor, and his empire fragmented.
+
+TNPSC Important Facts:
+- Dynasty – Pushyabhuti or Vardhana.
+- Capital – Kannauj.
+- Biography – Harshacharita.
+- Author – Banabhatta.
+- Chinese traveller – Xuanzang.
+- Opponent – Pulakeshin II.`,
+ta: `ஹர்ஷவர்த்தனர் கி.பி. ஏழாம் நூற்றாண்டில் வட இந்தியாவை ஆட்சி செய்த முக்கிய மன்னர் ஆவார். குப்த அரசியல் அதிகாரம் குறைந்த பின்னர் பெரிய அரசை உருவாக்கினார்.
+
+1. புஷ்யபூதி வம்சம்:
+- இவ்வம்சம் வர்த்தன வம்சம் என்றும் அழைக்கப்படுகிறது.
+- இன்றைய ஹரியானாவில் உள்ள தானேசர் ஆரம்பகால மையமாக இருந்தது.
+- பிரபாகரவர்த்தனர் முக்கியமான தொடக்ககால மன்னர்.
+- அவருக்குப் பிறகு இராஜ்யவர்த்தனர் ஆட்சி செய்தார்.
+
+2. ஹர்ஷரின் எழுச்சி:
+- தனது சகோதரர் இராஜ்யவர்த்தனரின் மறைவுக்குப் பிறகு சுமார் கி.பி. 606-இல் ஹர்ஷர் ஆட்சிக்கு வந்தார்.
+- வட இந்தியாவின் பல பகுதிகளில் தனது அதிகாரத்தை விரிவுபடுத்தினார்.
+- கன்னோசி முக்கிய அரசியல் மையமாக விளங்கியது.
+
+3. இரண்டாம் புலிகேசியுடன் மோதல்:
+- தக்காணத்தை நோக்கி ஹர்ஷர் தனது அதிகாரத்தை விரிவுபடுத்த முயன்றார்.
+- சாளுக்கிய மன்னர் இரண்டாம் புலிகேசி அவரைத் தடுத்தார்.
+- நர்மதைப் பகுதி இரு அரசுகளின் செல்வாக்குப் பகுதிகளுக்கிடையிலான முக்கிய எல்லையாக அமைந்தது.
+
+4. நிர்வாகம்:
+- அரசின் முக்கிய நிர்வாக நடவடிக்கைகளை ஹர்ஷர் நேரடியாகக் கண்காணித்தார்.
+- அரசு மாகாணங்கள் மற்றும் உள்ளூர் நிர்வாகப் பிரிவுகளைக் கொண்டிருந்தது.
+- அமைச்சர்கள், அதிகாரிகள் மற்றும் சிற்றரசர்கள் நிர்வாகத்திற்கு உதவினர்.
+
+5. சமயக் கொள்கை:
+- ஆரம்பத்தில் சைவ மரபைப் பின்பற்றிய ஹர்ஷர் பின்னர் பௌத்தத்திற்கு முக்கிய ஆதரவாளரானார்.
+- பிற சமய மரபுகளையும் மதித்தார்.
+- சமயக் கூட்டங்களையும் அறப்பணிகளையும் ஏற்பாடு செய்தார்.
+
+6. இலக்கிய ஆதாரங்கள்:
+- பாணபட்டர் ஹர்ஷசரிதம் என்ற வாழ்க்கை வரலாற்று நூலை எழுதினார்.
+- சீனப் பயணி யுவான் சுவாங் இவரது காலத்தில் இந்தியாவிற்கு வந்தார்.
+- கல்வி, சமயம் மற்றும் அரசியல் நிலைமைகள் பற்றிய தகவல்களை அவரது பயணக் குறிப்பு வழங்குகிறது.
+- ரத்னாவளி, நாகானந்தம், பிரியதர்சிகா ஆகிய சமஸ்கிருத நாடகங்கள் ஹர்ஷருடன் மரபாகத் தொடர்புபடுத்தப்படுகின்றன.
+
+7. வீழ்ச்சி:
+- ஹர்ஷர் சுமார் கி.பி. 647-இல் மறைந்தார்.
+- வலிமையான வாரிசு இல்லாததால் பேரரசு சிதறியது.
+
+TNPSC முக்கிய குறிப்புகள்:
+- வம்சம் – புஷ்யபூதி அல்லது வர்த்தன வம்சம்.
+- தலைநகரம் – கன்னோசி.
+- வாழ்க்கை வரலாறு – ஹர்ஷசரிதம்.
+- ஆசிரியர் – பாணபட்டர்.
+- சீனப் பயணி – யுவான் சுவாங்.
+- எதிரி – இரண்டாம் புலிகேசி.`,
+points:["Harsha – Seventh century ruler","Pushyabhuti – Dynasty","Kannauj – Political centre","Harshacharita – Banabhatta","Xuanzang – Chinese traveller","Pulakeshin II – Checked Harsha","ஹர்ஷர் – கி.பி. ஏழாம் நூற்றாண்டு","பாணபட்டர் – ஹர்ஷசரிதம்","யுவான் சுவாங் – சீனப் பயணி"]
+},
+
+{
+title: "Page 43: Regional Kingdoms after the Guptas / குப்தர்களுக்குப் பிந்தைய பிராந்திய அரசுகள்",
+en: `After the decline of the Gupta Empire, several regional kingdoms emerged across northern, central and western India. These kingdoms competed for political authority and controlled important trade and agricultural regions.
+
+1. Maukhari Dynasty:
+- The Maukharis became influential in parts of northern India.
+- Kannauj became an important centre of their power.
+- They were involved in political conflicts with other northern dynasties.
+
+2. Later Guptas:
+- The Later Gupta rulers controlled parts of Magadha and neighbouring regions.
+- Their power was different from that of the earlier imperial Guptas.
+- They participated in the political struggles of northern India.
+
+3. Maitrakas of Valabhi:
+- The Maitrakas ruled parts of Gujarat and western India.
+- Valabhi was their important capital.
+- Valabhi developed as a centre of learning and Buddhist scholarship.
+
+4. Pushyabhutis:
+- The Pushyabhuti or Vardhana dynasty rose at Thanesar.
+- Harshavardhana later built a large northern Indian kingdom.
+
+5. Political Developments:
+- Regional rulers used marriage alliances, warfare and land grants to strengthen authority.
+- Control over Kannauj became a major political objective.
+- These developments prepared the background for the tripartite struggle among the Palas, Pratiharas and Rashtrakutas.
+
+6. Historical Importance:
+- Political power became more regional after the Guptas.
+- Land grants and local authorities gained importance.
+- Religious institutions and regional cultural centres received royal patronage.
+
+TNPSC Important Facts:
+- Maukharis – Kannauj.
+- Maitrakas – Valabhi.
+- Valabhi – Learning centre.
+- Pushyabhutis – Thanesar.
+- Later struggle for Kannauj – Pala, Pratihara and Rashtrakuta powers.`,
+ta: `குப்தப் பேரரசின் வீழ்ச்சிக்குப் பிறகு வட, மத்திய மற்றும் மேற்கு இந்தியாவில் பல பிராந்திய அரசுகள் உருவாயின. இவை அரசியல் அதிகாரத்திற்காகப் போட்டியிட்டு முக்கிய வேளாண் மற்றும் வணிகப் பகுதிகளைக் கட்டுப்படுத்தின.
+
+1. மௌகரி வம்சம்:
+- வட இந்தியாவின் சில பகுதிகளில் மௌகரிகள் செல்வாக்குப் பெற்றனர்.
+- கன்னோசி இவர்களின் முக்கிய அதிகார மையமாக விளங்கியது.
+- பிற வட இந்திய வம்சங்களுடன் அரசியல் மோதல்களில் ஈடுபட்டனர்.
+
+2. பிற்கால குப்தர்கள்:
+- பிற்கால குப்த மன்னர்கள் மகதம் மற்றும் அண்டைப் பகுதிகளை ஆட்சி செய்தனர்.
+- இவர்களின் ஆட்சி முந்தைய பேரரசுக் குப்தர்களின் ஆட்சியிலிருந்து வேறுபட்டது.
+- வட இந்திய அரசியல் போட்டிகளில் பங்கேற்றனர்.
+
+3. வல்லபியின் மைத்ரகர்கள்:
+- குஜராத் மற்றும் மேற்கு இந்தியாவின் சில பகுதிகளை மைத்ரகர்கள் ஆட்சி செய்தனர்.
+- வல்லபி இவர்களின் முக்கியத் தலைநகரமாக இருந்தது.
+- வல்லபி கல்வி மற்றும் பௌத்த அறிஞர்களின் மையமாக வளர்ந்தது.
+
+4. புஷ்யபூதிகள்:
+- தானேசரில் புஷ்யபூதி அல்லது வர்த்தன வம்சம் எழுச்சி பெற்றது.
+- ஹர்ஷவர்த்தனர் பின்னர் வட இந்தியாவில் பெரிய அரசை உருவாக்கினார்.
+
+5. அரசியல் வளர்ச்சிகள்:
+- திருமணக் கூட்டணிகள், போர்கள் மற்றும் நில மானியங்கள் மூலம் மன்னர்கள் அதிகாரத்தை வலுப்படுத்தினர்.
+- கன்னோசியைக் கைப்பற்றுவது முக்கிய அரசியல் நோக்கமாக மாறியது.
+- பாலர்கள், பிரதிகாரர்கள் மற்றும் ராஷ்டிரகூடர்களின் முத்தரப்புப் போராட்டத்திற்கு இந்நிகழ்வுகள் பின்னணியாக அமைந்தன.
+
+6. வரலாற்று முக்கியத்துவம்:
+- குப்தர்களுக்குப் பிறகு அரசியல் அதிகாரம் பல பிராந்தியங்களாகப் பிரிந்தது.
+- நில மானியங்களும் உள்ளூர் அதிகாரிகளும் முக்கியத்துவம் பெற்றனர்.
+- சமய நிறுவனங்களும் பிராந்தியப் பண்பாட்டு மையங்களும் அரச ஆதரவைப் பெற்றன.
+
+TNPSC முக்கிய குறிப்புகள்:
+- மௌகரிகள் – கன்னோசி.
+- மைத்ரகர்கள் – வல்லபி.
+- வல்லபி – கல்வி மையம்.
+- புஷ்யபூதிகள் – தானேசர்.
+- கன்னோசிக்கான பிற்காலப் போட்டி – பாலர், பிரதிகாரர், ராஷ்டிரகூடர்.`,
+points:["Maukharis – Kannauj","Maitrakas – Valabhi","Valabhi – Learning centre","Pushyabhutis – Thanesar","Tripartite struggle – Palas, Pratiharas, Rashtrakutas","மௌகரிகள் – கன்னோசி","மைத்ரகர்கள் – வல்லபி","புஷ்யபூதிகள் – தானேசர்"]
+},
+
+{
+title: "Page 44: Pallava Dynasty – Origin and Political History / பல்லவர் வம்சம் – தோற்றமும் அரசியல் வரலாறும்",
+en: `The Pallavas were a major South Indian dynasty that ruled northern Tamil Nadu and adjoining regions for several centuries. They played an important role in temple architecture, sculpture and Tamil cultural history.
+
+1. Early History:
+- Pallava power developed in the eastern Deccan and northern Tamil region.
+- Early Pallava inscriptions were issued in Prakrit and Sanskrit.
+- Kanchipuram became their principal capital.
+- Their political history includes early, middle and imperial phases.
+
+2. Important Rulers:
+- Sivaskandavarman – An important early Pallava ruler.
+- Simhavishnu – Strengthened Pallava power in the Tamil region.
+- Mahendravarman I – Promoted rock-cut architecture and was a scholar.
+- Narasimhavarman I – Famous for defeating Pulakeshin II.
+- Narasimhavarman II, also known as Rajasimha – Associated with major structural temples.
+
+3. Simhavishnu:
+- Expanded Pallava authority southward.
+- His reign marked an important stage in the rise of imperial Pallava power.
+
+4. Conflict with Chalukyas:
+- The Pallavas and Chalukyas fought several wars.
+- Narasimhavarman I defeated Pulakeshin II and captured Vatapi according to Pallava records.
+- He received the title Vatapikonda.
+
+5. Administration:
+- The king was the central authority.
+- Provinces, local officials and village institutions supported administration.
+- Agriculture and irrigation were important to the economy.
+
+6. Religion and Culture:
+- Hindu traditions, especially Shaivism and Vaishnavism, received royal support.
+- Jainism and Buddhism also existed in the region.
+- Bhakti literature developed during the Pallava period.
+
+TNPSC Important Facts:
+- Capital – Kanchipuram.
+- Simhavishnu – Important Pallava ruler.
+- Mahendravarman I – Rock-cut architecture.
+- Narasimhavarman I – Vatapikonda.
+- Rajasimha – Kailasanatha temple at Kanchipuram.`,
+ta: `பல்லவர்கள் தென்னிந்தியாவின் முக்கிய வம்சத்தினராக விளங்கினர். வட தமிழகத்தையும் அருகிலுள்ள பகுதிகளையும் பல நூற்றாண்டுகளாக ஆட்சி செய்தனர். கோயில் கட்டடக்கலை, சிற்பம் மற்றும் தமிழ் பண்பாட்டு வரலாற்றில் முக்கியப் பங்களிப்பு செய்தனர்.
+
+1. தொடக்ககால வரலாறு:
+- கிழக்குத் தக்காணம் மற்றும் வட தமிழகப் பகுதிகளில் பல்லவர் அதிகாரம் வளர்ந்தது.
+- ஆரம்பகால பல்லவர் கல்வெட்டுகள் பிராகிருதம் மற்றும் சமஸ்கிருதத்தில் வெளியிடப்பட்டன.
+- காஞ்சிபுரம் இவர்களின் முக்கியத் தலைநகரமாக இருந்தது.
+- இவர்களின் வரலாற்றை தொடக்க, இடைக்கால மற்றும் பேரரசுக் கட்டங்களாகப் பார்க்கலாம்.
+
+2. முக்கிய மன்னர்கள்:
+- சிவஸ்கந்தவர்மன் – முக்கிய தொடக்ககால பல்லவ மன்னர்.
+- சிம்மவிஷ்ணு – தமிழகத்தில் பல்லவர் அதிகாரத்தை வலுப்படுத்தினார்.
+- முதலாம் மகேந்திரவர்மன் – குடைவரைக் கோயில் கட்டடக்கலையை ஊக்குவித்தார்; அறிஞராகவும் விளங்கினார்.
+- முதலாம் நரசிம்மவர்மன் – இரண்டாம் புலிகேசியைத் தோற்கடித்தவர்.
+- இரண்டாம் நரசிம்மவர்மன் அல்லது இராஜசிம்மன் – கட்டுமானக் கோயில்களுடன் தொடர்புடையவர்.
+
+3. சிம்மவிஷ்ணு:
+- பல்லவர் அதிகாரத்தைத் தெற்கே விரிவுபடுத்தினார்.
+- இவரது ஆட்சி பேரரசுப் பல்லவர் எழுச்சியில் முக்கிய கட்டமாக அமைந்தது.
+
+4. சாளுக்கியர்களுடனான போர்:
+- பல்லவர்களும் சாளுக்கியர்களும் பல போர்களில் ஈடுபட்டனர்.
+- முதலாம் நரசிம்மவர்மன் இரண்டாம் புலிகேசியைத் தோற்கடித்து வாதாபியைக் கைப்பற்றியதாகப் பல்லவர் பதிவுகள் கூறுகின்றன.
+- இதனால் வாதாபிகொண்டன் என்ற பட்டம் பெற்றார்.
+
+5. நிர்வாகம்:
+- மன்னர் மைய அதிகாரமாக இருந்தார்.
+- மாகாணங்கள், உள்ளூர் அதிகாரிகள் மற்றும் கிராம அமைப்புகள் நிர்வாகத்திற்கு உதவின.
+- வேளாண்மையும் நீர்ப்பாசனமும் பொருளாதாரத்தில் முக்கியத்துவம் பெற்றன.
+
+6. சமயமும் பண்பாடும்:
+- சைவம் மற்றும் வைணவம் உள்ளிட்ட இந்து மரபுகளுக்கு அரச ஆதரவு கிடைத்தது.
+- சமணமும் பௌத்தமும் இப்பகுதியில் நிலவின.
+- பக்தி இலக்கியம் பல்லவர் காலத்தில் வளர்ச்சி பெற்றது.
+
+TNPSC முக்கிய குறிப்புகள்:
+- தலைநகரம் – காஞ்சிபுரம்.
+- சிம்மவிஷ்ணு – முக்கிய பல்லவ மன்னர்.
+- முதலாம் மகேந்திரவர்மன் – குடைவரைக் கட்டடக்கலை.
+- முதலாம் நரசிம்மவர்மன் – வாதாபிகொண்டன்.
+- இராஜசிம்மன் – காஞ்சி கைலாசநாதர் கோயில்.`,
+points:["Pallava capital – Kanchipuram","Simhavishnu – Expansion","Mahendravarman I – Rock-cut temples","Narasimhavarman I – Vatapikonda","Rajasimha – Kailasanatha temple","பல்லவர் தலைநகரம் – காஞ்சிபுரம்","முதலாம் மகேந்திரவர்மன் – குடைவரைக் கோயில்கள்","முதலாம் நரசிம்மவர்மன் – வாதாபிகொண்டன்"]
+},
+
+{
+title: "Page 45: Chalukya Dynasty – Badami Chalukyas / சாளுக்கியர் வம்சம் – பாதாமி சாளுக்கியர்கள்",
+en: `The Badami Chalukyas were a powerful dynasty of the Deccan. They played a major role in the political history and temple architecture of southern and central India.
+
+1. Foundation:
+- Pulakeshin I established the early Chalukya kingdom at Vatapi, modern Badami.
+- The dynasty rose to prominence during the sixth century CE.
+- Badami became its capital.
+
+2. Important Rulers:
+- Pulakeshin I – Founder of the Badami branch.
+- Kirtivarman I – Expanded the kingdom.
+- Mangalesha – Continued Chalukya expansion.
+- Pulakeshin II – The most famous ruler of the dynasty.
+- Vikramaditya I – Restored Chalukya power after Pallava attacks.
+- Vikramaditya II – Known for campaigns against Kanchipuram.
+
+3. Pulakeshin II:
+- Ruled during the early seventh century.
+- His achievements are recorded in the Aihole inscription composed by Ravikirti.
+- He checked Harshavardhana's southward expansion near the Narmada.
+- He fought the Pallavas under Narasimhavarman I.
+- Pallava records state that Narasimhavarman I captured Vatapi.
+
+4. Administration:
+- The kingdom was divided into administrative units.
+- Feudatory chiefs and local authorities assisted the king.
+- Agriculture, trade and craft production supported the economy.
+
+5. Art and Architecture:
+- Badami, Aihole and Pattadakal became major temple-building centres.
+- Both northern Nagara and southern Dravida architectural features were experimented with.
+- Pattadakal later became a UNESCO World Heritage Site.
+
+6. Religion:
+- Hindu, Jain and Buddhist traditions were present.
+- Chalukya rulers supported temples and religious institutions.
+
+TNPSC Important Facts:
+- Capital – Vatapi or Badami.
+- Pulakeshin II – Famous Chalukya ruler.
+- Aihole inscription – Ravikirti.
+- Harsha – Checked near Narmada.
+- Pattadakal – Temple architecture.`,
+ta: `பாதாமி சாளுக்கியர்கள் தக்காணத்தின் வலிமையான அரச வம்சமாக விளங்கினர். தென்னிந்திய மற்றும் மத்திய இந்திய அரசியல் வரலாறு, கோயில் கட்டடக்கலை ஆகியவற்றில் முக்கியப் பங்கு வகித்தனர்.
+
+1. தோற்றம்:
+- முதலாம் புலிகேசி வாதாபி எனப்படும் இன்றைய பாதாமியை மையமாகக் கொண்டு தொடக்ககால சாளுக்கிய அரசை நிறுவினார்.
+- கி.பி. ஆறாம் நூற்றாண்டில் இவ்வம்சம் செல்வாக்குப் பெற்றது.
+- பாதாமி தலைநகரமாக விளங்கியது.
+
+2. முக்கிய மன்னர்கள்:
+- முதலாம் புலிகேசி – பாதாமி கிளையின் நிறுவனர்.
+- முதலாம் கீர்த்திவர்மன் – அரசை விரிவுபடுத்தினார்.
+- மங்களேசர் – சாளுக்கிய விரிவாக்கத்தைத் தொடர்ந்தார்.
+- இரண்டாம் புலிகேசி – புகழ்பெற்ற சாளுக்கிய மன்னர்.
+- முதலாம் விக்கிரமாதித்தன் – பல்லவர் தாக்குதலுக்குப் பிறகு சாளுக்கிய அதிகாரத்தை மீட்டார்.
+- இரண்டாம் விக்கிரமாதித்தன் – காஞ்சிக்கு எதிரான படையெடுப்புகளுக்குப் புகழ்பெற்றவர்.
+
+3. இரண்டாம் புலிகேசி:
+- கி.பி. ஏழாம் நூற்றாண்டின் தொடக்கத்தில் ஆட்சி செய்தார்.
+- ரவிகீர்த்தி இயற்றிய ஐஹோளே கல்வெட்டு இவரது சாதனைகளைப் பதிவு செய்கிறது.
+- நர்மதை அருகே ஹர்ஷவர்த்தனரின் தெற்கு விரிவாக்கத்தைத் தடுத்தார்.
+- முதலாம் நரசிம்மவர்மன் தலைமையிலான பல்லவர்களுடன் போர் செய்தார்.
+- முதலாம் நரசிம்மவர்மன் வாதாபியைக் கைப்பற்றியதாகப் பல்லவர் பதிவுகள் கூறுகின்றன.
+
+4. நிர்வாகம்:
+- அரசு பல நிர்வாகப் பிரிவுகளாகப் பிரிக்கப்பட்டது.
+- சிற்றரசர்களும் உள்ளூர் அதிகாரிகளும் மன்னருக்கு உதவினர்.
+- வேளாண்மை, வணிகம் மற்றும் கைவினைத் தொழில்கள் பொருளாதாரத்தை ஆதரித்தன.
+
+5. கலை மற்றும் கட்டடக்கலை:
+- பாதாமி, ஐஹோளே மற்றும் பட்டடக்கல் முக்கியக் கோயில் கட்டடக்கலை மையங்களாக விளங்கின.
+- நாகர மற்றும் திராவிடக் கட்டடக்கலை அம்சங்கள் இரண்டும் பரிசோதிக்கப்பட்டன.
+- பட்டடக்கல் பின்னர் யுனெஸ்கோ உலகப் பாரம்பரியத் தளமாக அறிவிக்கப்பட்டது.
+
+6. சமயம்:
+- இந்து, சமண மற்றும் பௌத்த மரபுகள் நிலவின.
+- சாளுக்கிய மன்னர்கள் கோயில்களுக்கும் சமய நிறுவனங்களுக்கும் ஆதரவளித்தனர்.
+
+TNPSC முக்கிய குறிப்புகள்:
+- தலைநகரம் – வாதாபி அல்லது பாதாமி.
+- இரண்டாம் புலிகேசி – புகழ்பெற்ற சாளுக்கிய மன்னர்.
+- ஐஹோளே கல்வெட்டு – ரவிகீர்த்தி.
+- ஹர்ஷரைத் தடுத்த பகுதி – நர்மதை.
+- பட்டடக்கல் – கோயில் கட்டடக்கலை.`,
+points:["Capital – Vatapi/Badami","Pulakeshin II – Famous ruler","Aihole inscription – Ravikirti","Pattadakal – Temple architecture","Harsha – Narmada frontier","பாதாமி – சாளுக்கிய தலைநகரம்","ரவிகீர்த்தி – ஐஹோளே கல்வெட்டு","பட்டடக்கல் – கோயில் கலை"]
+},
+
+{
+title: "Page 46: Rashtrakuta Dynasty / ராஷ்டிரகூட வம்சம்",
+en: `The Rashtrakutas were a major Deccan dynasty that became powerful during the eighth century CE. They controlled extensive territories and played a leading role in the tripartite struggle for Kannauj.
+
+1. Rise:
+- Dantidurga established Rashtrakuta imperial power in the Deccan.
+- He overthrew the Badami Chalukya authority.
+- Manyakheta, modern Malkhed in Karnataka, became an important capital.
+
+2. Important Rulers:
+- Dantidurga – Founder of imperial power.
+- Krishna I – Associated with the construction of the Kailasa temple at Ellora.
+- Dhruva Dharavarsha – Expanded northward.
+- Govinda III – Powerful military ruler.
+- Amoghavarsha I – Known for cultural patronage and literature.
+- Indra III – Participated in northern campaigns.
+
+3. Tripartite Struggle:
+- The Rashtrakutas, Palas and Gurjara-Pratiharas competed for control of Kannauj.
+- Kannauj was important because of its political prestige and strategic position in northern India.
+- The struggle continued over several generations.
+
+4. Administration:
+- The empire was divided into provinces and smaller administrative units.
+- Local chiefs and feudatories helped govern the territories.
+- Land revenue was an important source of income.
+
+5. Religion and Culture:
+- Rashtrakuta rulers supported Shaivism, Vaishnavism and Jainism.
+- Amoghavarsha I was associated with the Kannada literary work Kavirajamarga.
+- Sanskrit and Kannada literature developed.
+
+6. Architecture:
+- The Kailasa temple at Ellora was commissioned under Krishna I.
+- It is a remarkable monolithic rock-cut temple.
+- Ellora also contains Buddhist and Jain monuments from different periods.
+
+7. Decline:
+- Rashtrakuta power weakened during the tenth century.
+- The Later Western Chalukyas eventually replaced them as a major Deccan power.
+
+TNPSC Important Facts:
+- Founder – Dantidurga.
+- Capital – Manyakheta.
+- Kailasa temple – Krishna I.
+- Kavirajamarga – Amoghavarsha I.
+- Tripartite struggle – Palas, Pratiharas and Rashtrakutas.`,
+ta: `ராஷ்டிரகூடர்கள் கி.பி. எட்டாம் நூற்றாண்டில் வலிமை பெற்ற தக்காண அரச வம்சத்தினர் ஆவர். பரந்த பகுதிகளை ஆட்சி செய்ததுடன் கன்னோசியைக் கைப்பற்றுவதற்கான முத்தரப்புப் போராட்டத்திலும் முக்கியப் பங்கு வகித்தனர்.
+
+1. எழுச்சி:
+- தந்திதுர்கர் தக்காணத்தில் ராஷ்டிரகூடப் பேரரசு அதிகாரத்தை நிறுவினார்.
+- பாதாமி சாளுக்கியர்களின் அதிகாரத்தை முடிவுக்குக் கொண்டுவந்தார்.
+- கர்நாடகத்தின் இன்றைய மால்கேட் எனப்படும் மான்யகேடம் முக்கியத் தலைநகரமாக விளங்கியது.
+
+2. முக்கிய மன்னர்கள்:
+- தந்திதுர்கர் – பேரரசு அதிகாரத்தை நிறுவியவர்.
+- முதலாம் கிருஷ்ணர் – எல்லோரா கைலாசநாதர் கோயிலுடன் தொடர்புடையவர்.
+- துருவ தராவர்ஷர் – வடக்கே அதிகாரத்தை விரிவுபடுத்தினார்.
+- மூன்றாம் கோவிந்தர் – வலிமையான படைத்தலைவர்.
+- முதலாம் அமோகவர்ஷர் – இலக்கிய மற்றும் பண்பாட்டு ஆதரவாளர்.
+- மூன்றாம் இந்திரர் – வட இந்தியப் படையெடுப்புகளில் பங்கேற்றார்.
+
+3. முத்தரப்புப் போராட்டம்:
+- ராஷ்டிரகூடர்கள், பாலர்கள் மற்றும் குர்ஜர பிரதிகாரர்கள் கன்னோசியைக் கைப்பற்றப் போட்டியிட்டனர்.
+- அரசியல் பெருமை மற்றும் வட இந்தியாவின் முக்கிய இடம் காரணமாக கன்னோசி முக்கியத்துவம் பெற்றது.
+- பல தலைமுறைகளாக இப்போராட்டம் தொடர்ந்தது.
+
+4. நிர்வாகம்:
+- பேரரசு மாகாணங்கள் மற்றும் சிறிய நிர்வாகப் பிரிவுகளாகப் பிரிக்கப்பட்டது.
+- உள்ளூர் தலைவர்களும் சிற்றரசர்களும் நிர்வாகத்திற்கு உதவினர்.
+- நிலவரி முக்கிய வருவாயாக இருந்தது.
+
+5. சமயமும் பண்பாடும்:
+- சைவம், வைணவம் மற்றும் சமணத்திற்கு ராஷ்டிரகூட மன்னர்கள் ஆதரவளித்தனர்.
+- முதலாம் அமோகவர்ஷர் கன்னட இலக்கிய நூலான கவிராஜமார்க்கத்துடன் தொடர்புடையவர்.
+- சமஸ்கிருதம் மற்றும் கன்னட இலக்கியங்கள் வளர்ச்சி பெற்றன.
+
+6. கட்டடக்கலை:
+- எல்லோரா கைலாசநாதர் கோயில் முதலாம் கிருஷ்ணரின் காலத்தில் உருவாக்கப்பட்டது.
+- இது ஒரே பாறையைக் குடைந்து அமைக்கப்பட்ட சிறப்புமிக்க கோயிலாகும்.
+- எல்லோராவில் பல்வேறு காலங்களைச் சேர்ந்த பௌத்த மற்றும் சமண நினைவுச் சின்னங்களும் உள்ளன.
+
+7. வீழ்ச்சி:
+- பத்தாம் நூற்றாண்டில் ராஷ்டிரகூட அதிகாரம் பலவீனமடைந்தது.
+- பின்னர் மேலைச் சாளுக்கியர்கள் தக்காணத்தின் முக்கிய சக்தியாக உருவெடுத்தனர்.
+
+TNPSC முக்கிய குறிப்புகள்:
+- நிறுவனர் – தந்திதுர்கர்.
+- தலைநகரம் – மான்யகேடம்.
+- கைலாசநாதர் கோயில் – முதலாம் கிருஷ்ணர்.
+- கவிராஜமார்க்கம் – முதலாம் அமோகவர்ஷர்.
+- முத்தரப்புப் போராட்டம் – பாலர், பிரதிகாரர், ராஷ்டிரகூடர்.`,
+points:["Dantidurga – Rashtrakuta founder","Manyakheta – Capital","Krishna I – Kailasa temple","Amoghavarsha I – Kavirajamarga","Tripartite struggle – Three dynasties","தந்திதுர்கர் – ராஷ்டிரகூட நிறுவனர்","மான்யகேடம் – தலைநகரம்","முதலாம் கிருஷ்ணர் – எல்லோரா கைலாசநாதர் கோயில்","அமோகவர்ஷர் – கவிராஜமார்க்கம்"]
+}
+
+);
+
+
