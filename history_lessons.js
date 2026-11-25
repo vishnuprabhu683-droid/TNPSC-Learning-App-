@@ -746,3 +746,518 @@ TNPSC மறுபார்வை:
 
 );
 
+tnpscHistoryLessons.push(
+
+  {
+    title: "7. Early Vedic Period – Rig Vedic Age / தொடக்க வேதகாலம் – ரிக் வேத காலம்",
+
+    en: `The Early Vedic Period is generally associated with the composition of the Rig Veda. It provides information about the political, social, economic and religious life of the early Indo-Aryan communities.
+
+1. Period:
+The Early Vedic Period is generally dated to approximately 1500 BCE–1000 BCE. These dates are approximate and represent a broad historical framework.
+
+2. Main Source:
+The Rig Veda is the principal literary source for this period.
+- It is the oldest of the four Vedas.
+- It contains 10 Mandalas.
+- It contains 1,028 hymns in the commonly accepted arrangement.
+- The hymns are dedicated to various deities.
+- The language is Vedic Sanskrit.
+
+3. Geographical Area:
+Early Vedic communities were mainly associated with the north-western Indian subcontinent.
+The Sapta Sindhu region, meaning the land of seven rivers, is frequently mentioned.
+The Saraswati and Indus river systems were important in the geographical setting of the Rig Vedic world.
+
+4. Political Organisation:
+The basic unit of society was the family.
+- Grama referred to a village or settlement.
+- Vis referred to a larger tribal or clan unit.
+- Jana referred to a tribe or people.
+- The king was called Rajan.
+The Rajan was generally a tribal leader rather than an absolute monarch.
+
+5. Important Assemblies:
+Two important popular assemblies were Sabha and Samiti.
+- Sabha was an assembly of selected or important members.
+- Samiti was a broader tribal assembly.
+- Vidatha was another important gathering associated with social, religious and military activities.
+The exact functions of these institutions changed over time and are interpreted through Vedic references.
+
+6. Social Organisation:
+Society was largely organised around families and kinship.
+- The family was generally patriarchal.
+- Women participated in certain religious and intellectual activities.
+- Some women are associated with Vedic hymns.
+- Social divisions existed, but the rigid caste hierarchy of later periods was not yet fully developed.
+
+7. Economic Life:
+Pastoralism was an important feature.
+- Cattle were a major measure of wealth.
+- Cows were highly valued.
+- Agriculture was also practised.
+- Barley was an important crop.
+- Hunting, crafts and exchange supported the economy.
+
+8. Religion:
+Early Vedic religion was mainly based on the worship of natural forces.
+Important deities:
+- Indra — associated with rain, thunder and warfare.
+- Agni — fire deity and messenger between humans and gods.
+- Varuna — associated with cosmic order.
+- Soma — associated with the sacred drink and deity.
+- Surya — the Sun.
+- Ushas — the dawn.
+
+9. Religious Practices:
+Yajnas or sacrifices were important religious activities. Hymns and offerings were used to seek prosperity, rain, protection and victory.
+
+10. Historical Importance:
+The Rig Vedic period provides important evidence about early political institutions, pastoral economy, Vedic religion and the development of Indo-Aryan society.
+
+TNPSC revision:
+Oldest Veda — Rig Veda.
+King — Rajan.
+Assemblies — Sabha and Samiti.
+Important deity — Indra.
+Important economic activity — Cattle rearing.`,
+
+    ta: `தொடக்க வேதகாலம் ரிக் வேதத்தின் உருவாக்கத்துடன் தொடர்புடையது. அக்கால மக்களின் அரசியல், சமூக, பொருளாதார மற்றும் மத வாழ்க்கையைப் பற்றி ரிக் வேதம் தகவல்களை வழங்குகிறது.
+
+1. காலம்:
+தொடக்க வேதகாலம் பொதுவாக கி.மு. 1500 முதல் கி.மு. 1000 வரை எனக் கணிக்கப்படுகிறது. இவை தோராயமான காலக் கணிப்புகளாகும்.
+
+2. முக்கிய ஆதாரம்:
+ரிக் வேதம் இக்காலத்தின் முக்கியமான இலக்கிய ஆதாரமாகும்.
+- நான்கு வேதங்களில் ரிக் வேதமே பழமையானது.
+- இதில் 10 மண்டலங்கள் உள்ளன.
+- பொதுவாக ஏற்றுக்கொள்ளப்பட்ட தொகுப்பில் 1,028 பாடல்கள் உள்ளன.
+- பல்வேறு தெய்வங்களைப் போற்றும் பாடல்கள் இதில் இடம்பெற்றுள்ளன.
+- இது வேதகால சமஸ்கிருத மொழியில் அமைந்துள்ளது.
+
+3. புவியியல் பகுதி:
+தொடக்க வேதகால மக்கள் பெரும்பாலும் இந்தியத் துணைக்கண்டத்தின் வடமேற்குப் பகுதிகளுடன் தொடர்புடையவர்கள்.
+ஏழு நதிகளின் நிலம் என்று பொருள்படும் சப்த சிந்து பகுதி குறிப்பிடத்தக்கது.
+சரஸ்வதி மற்றும் சிந்து நதி அமைப்புகள் ரிக் வேத காலத்தின் புவியியல் பின்னணியில் முக்கிய இடம் பெற்றன.
+
+4. அரசியல் அமைப்பு:
+குடும்பம் சமூகத்தின் அடிப்படை அலகாக இருந்தது.
+- கிராமம் என்பது குடியிருப்பு அல்லது கிராமத்தைக் குறித்தது.
+- விஷ் என்பது பெரிய குல அல்லது மக்கள் குழுவைக் குறித்தது.
+- ஜனம் என்பது ஒரு பழங்குடி அல்லது மக்கள் குழுவைக் குறித்தது.
+- மன்னர் ராஜன் என்று அழைக்கப்பட்டார்.
+ராஜன் முழுமையான அதிகாரம் கொண்ட பேரரசராக இல்லாமல் பெரும்பாலும் பழங்குடித் தலைவராகச் செயல்பட்டார்.
+
+5. முக்கிய சபைகள்:
+சபா மற்றும் சமிதி ஆகியவை முக்கியமான மக்கள் சபைகளாக இருந்தன.
+- சபா என்பது தேர்ந்தெடுக்கப்பட்ட அல்லது முக்கிய உறுப்பினர்களைக் கொண்ட சபையாக இருந்தது.
+- சமிதி என்பது பரந்த மக்கள் அல்லது பழங்குடி சபையாக இருந்தது.
+- விததா என்பது சமூக, மத மற்றும் ராணுவ நடவடிக்கைகளுடன் தொடர்புடைய மற்றொரு முக்கியக் கூட்டமாகும்.
+இந்த அமைப்புகளின் சரியான செயல்பாடுகள் காலப்போக்கில் மாறியிருக்கலாம்.
+
+6. சமூக அமைப்பு:
+சமூகம் பெரும்பாலும் குடும்பம் மற்றும் உறவுமுறை அடிப்படையில் அமைந்திருந்தது.
+- குடும்ப அமைப்பு பொதுவாக ஆணாதிக்க முறையைக் கொண்டிருந்தது.
+- பெண்கள் சில மத மற்றும் அறிவுசார் நடவடிக்கைகளில் பங்கேற்றனர்.
+- சில பெண்கள் வேதப் பாடல்களுடன் தொடர்புடையவர்களாக அறியப்படுகின்றனர்.
+- சமூகப் பிரிவுகள் இருந்தாலும் பிற்காலத்தில் காணப்பட்ட கடுமையான சாதி அமைப்பு முழுமையாக உருவாகவில்லை.
+
+7. பொருளாதார வாழ்க்கை:
+கால்நடை வளர்ப்பு முக்கியமான பொருளாதார அம்சமாக இருந்தது.
+- கால்நடைகள் செல்வத்தின் முக்கிய அளவுகோலாக இருந்தன.
+- பசுக்கள் உயர்வாக மதிக்கப்பட்டன.
+- வேளாண்மையும் மேற்கொள்ளப்பட்டது.
+- பார்லி முக்கியமான பயிராக இருந்தது.
+- வேட்டையாடுதல், கைவினைத் தொழில்கள் மற்றும் பொருள் பரிமாற்றம் பொருளாதாரத்திற்கு உதவின.
+
+8. மதம்:
+தொடக்க வேதகால மதம் இயற்கை சக்திகளை வழிபடுவதை அடிப்படையாகக் கொண்டிருந்தது.
+முக்கிய தெய்வங்கள்:
+- இந்திரன் — மழை, இடி மற்றும் போருடன் தொடர்புடையவர்.
+- அக்னி — நெருப்பின் தெய்வம்; மனிதர்களுக்கும் தெய்வங்களுக்கும் இடையிலான தூதுவர்.
+- வருணன் — அண்ட ஒழுங்குடன் தொடர்புடையவர்.
+- சோமன் — புனித பானம் மற்றும் தெய்வத்துடன் தொடர்புடையவர்.
+- சூரியன் — சூரியக் கடவுள்.
+- உஷஸ் — விடியலின் தெய்வம்.
+
+9. மதச் சடங்குகள்:
+யாகங்கள் முக்கியமான மதச் செயல்பாடுகளாக இருந்தன. செல்வம், மழை, பாதுகாப்பு மற்றும் வெற்றியை வேண்டி வேதப் பாடல்களும் காணிக்கைகளும் பயன்படுத்தப்பட்டன.
+
+10. வரலாற்று முக்கியத்துவம்:
+ரிக் வேத காலம் தொடக்ககால அரசியல் அமைப்புகள், கால்நடை சார்ந்த பொருளாதாரம், வேத மதம் மற்றும் இந்தோ-ஆரிய சமூக வளர்ச்சி ஆகியவற்றைப் புரிந்துகொள்ள உதவுகிறது.
+
+TNPSC மறுபார்வை:
+பழமையான வேதம் — ரிக் வேதம்.
+மன்னர் — ராஜன்.
+முக்கிய சபைகள் — சபா, சமிதி.
+முக்கிய தெய்வம் — இந்திரன்.
+முக்கியத் தொழில் — கால்நடை வளர்ப்பு.`,
+
+    points: [
+      "Early Vedic Period — approximately 1500–1000 BCE",
+      "Oldest Veda — Rig Veda",
+      "Rig Veda — 10 Mandalas and 1,028 hymns",
+      "King — Rajan",
+      "Assemblies — Sabha and Samiti",
+      "Important deity — Indra",
+      "Wealth — Cattle"
+    ]
+  },
+
+  {
+    title: "8. Later Vedic Period – Society, Economy and Political Changes / பிற்கால வேதகாலம் – சமூகம், பொருளாதாரம் மற்றும் அரசியல் மாற்றங்கள்",
+
+    en: `The Later Vedic Period witnessed important changes in political organisation, agriculture, social structure and religious practices. The geographical focus gradually expanded from the north-west towards the western Ganga-Yamuna plains.
+
+1. Period:
+The Later Vedic Period is generally dated to approximately 1000 BCE–600 BCE.
+
+2. Main Sources:
+Important literary sources include:
+- Sama Veda
+- Yajur Veda
+- Atharva Veda
+- Later portions of the Rig Veda
+- Brahmanas
+- Aranyakas
+- Upanishads
+
+3. Geographical Expansion:
+Vedic communities expanded towards the western Ganga-Yamuna Doab.
+The Kuru and Panchala regions became important political and cultural centres.
+Agriculture and settled village life became increasingly important.
+
+4. Political Changes:
+- Tribal kingdoms gradually developed into larger territorial states.
+- The position of the king became stronger.
+- Hereditary kingship became more prominent.
+- Administrative functions became more organised.
+- Taxes and tribute became more important.
+- Assemblies such as Sabha and Samiti gradually lost some of their earlier influence.
+
+5. Important Royal Rituals:
+Royal sacrifices were used to demonstrate authority and political status.
+- Rajasuya — royal consecration ceremony.
+- Ashvamedha — horse sacrifice associated with royal supremacy.
+- Vajapeya — important royal ritual associated with prestige and power.
+
+6. Agriculture:
+Agriculture became the principal economic activity in many regions.
+- Rice cultivation expanded in the Ganga plains.
+- Barley and other crops continued to be cultivated.
+- Iron tools gradually helped agricultural expansion in parts of northern India.
+- Permanent settlements increased.
+
+7. Iron:
+Iron became increasingly important during this period.
+It is referred to as Shyama Ayas or Krishna Ayas in certain Vedic contexts. The spread of iron technology contributed to changes in farming and settlement, although its adoption varied by region.
+
+8. Social Structure:
+The Varna system became more clearly defined.
+The four broad categories were:
+- Brahmana — priests and teachers.
+- Kshatriya — rulers and warriors.
+- Vaishya — cultivators, herders and traders.
+- Shudra — service-related occupations.
+Social distinctions became more pronounced. The later caste system developed through a long historical process.
+
+9. Position of Women:
+The position of women generally became more restricted in certain social and ritual contexts. Their participation in public and intellectual life appears to have declined compared with some earlier Vedic references. However, women continued to be associated with important philosophical discussions and religious traditions.
+
+10. Religion:
+Rituals and sacrifices became increasingly elaborate.
+Priests gained importance because of their role in performing complex ceremonies.
+Prajapati, Vishnu and Rudra became more prominent in later Vedic religious thought.
+
+11. Philosophical Development:
+Questions about the self, ultimate reality, life and liberation became important. These discussions are particularly visible in the Upanishads.
+
+12. Importance:
+The Later Vedic Period marks the transition towards more complex political institutions, settled agricultural society and new philosophical ideas.
+
+TNPSC revision:
+Later Vedic Period — approximately 1000–600 BCE.
+Kuru and Panchala — important regions.
+Iron — increasing use.
+Rajasuya — royal consecration.
+Ashvamedha — horse sacrifice.
+Four Varnas — Brahmana, Kshatriya, Vaishya and Shudra.`,
+
+    ta: `பிற்கால வேதகாலத்தில் அரசியல் அமைப்பு, வேளாண்மை, சமூக அமைப்பு மற்றும் மத நடைமுறைகளில் பல முக்கிய மாற்றங்கள் ஏற்பட்டன. வடமேற்குப் பகுதிகளிலிருந்து கங்கை–யமுனை சமவெளியின் மேற்குப் பகுதிகளுக்கு வேதகால மக்களின் குடியேற்றம் விரிவடைந்தது.
+
+1. காலம்:
+பிற்கால வேதகாலம் பொதுவாக கி.மு. 1000 முதல் கி.மு. 600 வரை எனக் கணிக்கப்படுகிறது.
+
+2. முக்கிய ஆதாரங்கள்:
+முக்கியமான இலக்கிய ஆதாரங்கள்:
+- சாம வேதம்
+- யஜுர் வேதம்
+- அதர்வண வேதம்
+- ரிக் வேதத்தின் பிற்காலப் பகுதிகள்
+- பிராமணங்கள்
+- ஆரண்யகங்கள்
+- உபநிடதங்கள்
+
+3. புவியியல் விரிவாக்கம்:
+வேதகால மக்கள் மேற்கு கங்கை–யமுனை சமவெளிப் பகுதிகளுக்கு விரிவடைந்தனர்.
+குரு மற்றும் பாஞ்சாலப் பகுதிகள் முக்கிய அரசியல் மற்றும் பண்பாட்டு மையங்களாக வளர்ந்தன.
+வேளாண்மையும் நிலையான கிராம வாழ்க்கையும் அதிக முக்கியத்துவம் பெற்றன.
+
+4. அரசியல் மாற்றங்கள்:
+- பழங்குடி அரசுகள் பெரிய நிலப்பரப்பு அரசுகளாக வளர்ந்தன.
+- மன்னரின் அதிகாரம் வலுப்பெற்றது.
+- பரம்பரை மன்னராட்சி முக்கியத்துவம் பெற்றது.
+- நிர்வாகச் செயல்பாடுகள் ஒழுங்கமைக்கப்பட்டன.
+- வரி மற்றும் காணிக்கைகளின் முக்கியத்துவம் அதிகரித்தது.
+- சபா, சமிதி போன்ற அமைப்புகளின் முந்தைய செல்வாக்கு படிப்படியாகக் குறைந்தது.
+
+5. முக்கிய அரச சடங்குகள்:
+மன்னரின் அதிகாரத்தையும் அரசியல் நிலையையும் வெளிப்படுத்த அரச வேள்விகள் நடத்தப்பட்டன.
+- ராஜசூயம் — மன்னரின் பட்டமேற்பு மற்றும் அதிகாரத்தை வெளிப்படுத்தும் சடங்கு.
+- அஸ்வமேதம் — மன்னரின் மேலாதிக்கத்துடன் தொடர்புடைய குதிரை வேள்வி.
+- வாஜபேயம் — பெருமை மற்றும் அதிகாரத்துடன் தொடர்புடைய முக்கிய அரச சடங்கு.
+
+6. வேளாண்மை:
+பல பகுதிகளில் வேளாண்மை முக்கிய பொருளாதாரத் தொழிலாக மாறியது.
+- கங்கைச் சமவெளியில் நெல் சாகுபடி விரிவடைந்தது.
+- பார்லி மற்றும் பிற பயிர்கள் தொடர்ந்து பயிரிடப்பட்டன.
+- வட இந்தியாவின் சில பகுதிகளில் இரும்புக் கருவிகள் வேளாண்மை விரிவடைய உதவின.
+- நிரந்தரக் குடியிருப்புகள் அதிகரித்தன.
+
+7. இரும்பு:
+இக்காலத்தில் இரும்பின் பயன்பாடு அதிகரித்தது.
+சில வேதக் குறிப்புகளில் இரும்பு சியாம அயஸ் அல்லது கிருஷ்ண அயஸ் என்று குறிப்பிடப்படுகிறது. இரும்புத் தொழில்நுட்பத்தின் வளர்ச்சி விவசாயம் மற்றும் குடியேற்றங்களில் மாற்றங்களை ஏற்படுத்தியது. இருப்பினும் அதன் பயன்பாடு எல்லாப் பகுதிகளிலும் ஒரே நேரத்தில் பரவவில்லை.
+
+8. சமூக அமைப்பு:
+வர்ண அமைப்பு தெளிவாக உருவெடுத்தது.
+நான்கு முக்கியப் பிரிவுகள்:
+- பிராமணர் — பூசாரிகள் மற்றும் ஆசிரியர்கள்.
+- சத்திரியர் — ஆட்சியாளர்கள் மற்றும் போர்வீரர்கள்.
+- வைசியர் — விவசாயிகள், கால்நடை வளர்ப்போர் மற்றும் வணிகர்கள்.
+- சூத்திரர் — சேவை சார்ந்த தொழில்களில் ஈடுபட்டவர்கள்.
+சமூக வேறுபாடுகள் அதிகரித்தன. பிற்கால சாதி அமைப்பு நீண்ட வரலாற்றுச் செயல்முறையின் மூலம் வளர்ந்தது.
+
+9. பெண்களின் நிலை:
+சில சமூக மற்றும் மதச் சூழல்களில் பெண்களின் நிலை மேலும் கட்டுப்படுத்தப்பட்டது. முந்தைய வேதகாலத்துடன் ஒப்பிடும்போது பொதுவாழ்க்கை மற்றும் அறிவுசார் நடவடிக்கைகளில் பெண்களின் பங்கேற்பு குறைந்ததாகத் தெரிகிறது. இருப்பினும் தத்துவ விவாதங்கள் மற்றும் மத மரபுகளில் பெண்கள் தொடர்ந்து பங்கு வகித்தனர்.
+
+10. மதம்:
+யாகங்களும் சடங்குகளும் மேலும் விரிவானதாக மாறின.
+சிக்கலான சடங்குகளை நடத்துவதில் பூசாரிகளின் பங்கு அதிகரித்தது.
+பிரஜாபதி, விஷ்ணு மற்றும் ருத்ரன் ஆகியோர் பிற்கால வேத மத சிந்தனையில் முக்கியத்துவம் பெற்றனர்.
+
+11. தத்துவ வளர்ச்சி:
+ஆன்மா, பரம்பொருள், வாழ்க்கை மற்றும் முக்தி பற்றிய கேள்விகள் முக்கியத்துவம் பெற்றன. இத்தகைய சிந்தனைகள் உபநிடதங்களில் தெளிவாகக் காணப்படுகின்றன.
+
+12. முக்கியத்துவம்:
+சிக்கலான அரசியல் அமைப்புகள், நிலையான வேளாண்மைச் சமூகம் மற்றும் புதிய தத்துவச் சிந்தனைகள் உருவாகிய மாற்றக் காலமாகப் பிற்கால வேதகாலம் விளங்கியது.
+
+TNPSC மறுபார்வை:
+பிற்கால வேதகாலம் — கி.மு. 1000–600.
+குரு மற்றும் பாஞ்சாலம் — முக்கியப் பகுதிகள்.
+இரும்பு — அதிகரித்த பயன்பாடு.
+ராஜசூயம் — பட்டமேற்புச் சடங்கு.
+அஸ்வமேதம் — குதிரை வேள்வி.
+நான்கு வர்ணங்கள் — பிராமணர், சத்திரியர், வைசியர், சூத்திரர்.`,
+
+    points: [
+      "Later Vedic Period — approximately 1000–600 BCE",
+      "Important regions — Kuru and Panchala",
+      "Iron — increasing use",
+      "Rajasuya — Royal consecration",
+      "Ashvamedha — Horse sacrifice",
+      "Four Varnas — Brahmana, Kshatriya, Vaishya, Shudra"
+    ]
+  },
+
+  {
+    title: "9. Vedic Literature – Four Vedas, Brahmanas, Aranyakas and Upanishads / வேத இலக்கியங்கள் – நான்கு வேதங்கள், பிராமணங்கள், ஆரண்யகங்கள் மற்றும் உபநிடதங்கள்",
+
+    en: `Vedic literature is among the oldest literary traditions of India. It is an important source for understanding early Indian religion, society, philosophy, language and culture.
+
+1. The Four Vedas:
+The word Veda means knowledge. The four Vedas are Rig Veda, Sama Veda, Yajur Veda and Atharva Veda.
+
+2. Rig Veda:
+- It is the oldest Veda.
+- It contains hymns dedicated to various deities.
+- It has 10 Mandalas.
+- The commonly accepted arrangement contains 1,028 hymns.
+- It provides information about the Early Vedic Period.
+
+3. Sama Veda:
+- It is mainly associated with melodies and musical chants.
+- Many verses are derived from the Rig Veda.
+- It was used during religious performances.
+- It is important for understanding the musical traditions of Vedic rituals.
+
+4. Yajur Veda:
+- It contains sacrificial formulas and instructions.
+- It explains the procedures associated with yajnas.
+- It has two major traditions: Shukla Yajur Veda and Krishna Yajur Veda.
+
+5. Atharva Veda:
+- It contains hymns, prayers and formulas.
+- It includes material related to everyday life, healing, protection and household concerns.
+- It provides information about popular beliefs and social practices.
+
+6. Brahmanas:
+Brahmanas are prose texts that explain Vedic rituals and sacrifices.
+They describe the meaning and procedures of religious ceremonies and the role of priests.
+
+Examples:
+- Aitareya Brahmana — associated with the Rig Veda.
+- Shatapatha Brahmana — associated with the Shukla Yajur Veda.
+- Panchavimsha Brahmana — associated with the Sama Veda.
+
+7. Aranyakas:
+The word Aranyaka is associated with the forest.
+These texts form a transition between ritual explanations and philosophical reflection.
+They discuss symbolic meanings of rituals and spiritual ideas.
+
+8. Upanishads:
+The Upanishads are philosophical texts that explore fundamental questions about existence.
+Important themes include:
+- Atman — the self or inner principle.
+- Brahman — ultimate reality.
+- Karma — action and its consequences.
+- Samsara — cycle of birth and rebirth.
+- Moksha — liberation.
+They form the philosophical foundation of Vedanta traditions.
+
+9. Important Upanishads:
+Some important Upanishads include:
+- Brihadaranyaka Upanishad.
+- Chandogya Upanishad.
+- Katha Upanishad.
+- Kena Upanishad.
+- Isha Upanishad.
+- Mundaka Upanishad.
+- Mandukya Upanishad.
+- Taittiriya Upanishad.
+- Aitareya Upanishad.
+- Prashna Upanishad.
+
+10. Vedangas:
+Vedangas are six auxiliary disciplines developed to help preserve and understand the Vedas.
+They are:
+- Shiksha — pronunciation and phonetics.
+- Kalpa — rituals and procedures.
+- Vyakarana — grammar.
+- Nirukta — etymology and explanation of words.
+- Chandas — metre.
+- Jyotisha — astronomy and calendrical calculations.
+
+11. Importance:
+Vedic literature provides information about religious beliefs, rituals, social organisation, philosophical ideas, language and cultural development in ancient India.
+
+TNPSC revision:
+Rig Veda — Hymns.
+Sama Veda — Music and melodies.
+Yajur Veda — Sacrificial formulas.
+Atharva Veda — Prayers and everyday concerns.
+Brahmanas — Ritual explanations.
+Aranyakas — Forest texts.
+Upanishads — Philosophy.
+Six Vedangas — Shiksha, Kalpa, Vyakarana, Nirukta, Chandas and Jyotisha.`,
+
+    ta: `வேத இலக்கியங்கள் இந்தியாவின் மிகப் பழமையான இலக்கிய மரபுகளில் ஒன்றாகும். பண்டைய இந்தியாவின் மதம், சமூகம், தத்துவம், மொழி மற்றும் பண்பாட்டைப் புரிந்துகொள்ள இவை முக்கிய ஆதாரங்களாக உள்ளன.
+
+1. நான்கு வேதங்கள்:
+வேதம் என்ற சொல்லுக்கு அறிவு என்று பொருள். நான்கு வேதங்கள் ரிக் வேதம், சாம வேதம், யஜுர் வேதம் மற்றும் அதர்வண வேதம் ஆகும்.
+
+2. ரிக் வேதம்:
+- நான்கு வேதங்களில் பழமையானது.
+- பல்வேறு தெய்வங்களைப் போற்றும் பாடல்களைக் கொண்டது.
+- இதில் 10 மண்டலங்கள் உள்ளன.
+- பொதுவாக ஏற்றுக்கொள்ளப்பட்ட தொகுப்பில் 1,028 பாடல்கள் உள்ளன.
+- தொடக்க வேதகாலத்தைப் பற்றிய தகவல்களை வழங்குகிறது.
+
+3. சாம வேதம்:
+- இசை மற்றும் இனிய ஓசையுடன் பாடப்படும் வேதப் பாடல்களுடன் தொடர்புடையது.
+- இதன் பல பாடல்கள் ரிக் வேதத்திலிருந்து பெறப்பட்டவை.
+- மதச் சடங்குகளின்போது பயன்படுத்தப்பட்டது.
+- வேதகால இசை மரபுகளைப் புரிந்துகொள்ள உதவுகிறது.
+
+4. யஜுர் வேதம்:
+- யாகங்களுக்கான மந்திரங்களையும் வழிமுறைகளையும் கொண்டுள்ளது.
+- வேள்விகளை நடத்தும் முறைகளை விளக்குகிறது.
+- சுக்ல யஜுர் வேதம் மற்றும் கிருஷ்ண யஜுர் வேதம் என இரண்டு முக்கிய மரபுகள் உள்ளன.
+
+5. அதர்வண வேதம்:
+- பாடல்கள், பிரார்த்தனைகள் மற்றும் மந்திரங்களைக் கொண்டுள்ளது.
+- அன்றாட வாழ்க்கை, நோய் குணப்படுத்துதல், பாதுகாப்பு மற்றும் குடும்ப வாழ்க்கை தொடர்பான செய்திகள் இடம்பெற்றுள்ளன.
+- மக்களின் நம்பிக்கைகள் மற்றும் சமூக நடைமுறைகளை அறிய உதவுகிறது.
+
+6. பிராமணங்கள்:
+பிராமணங்கள் வேதச் சடங்குகள் மற்றும் வேள்விகளை விளக்கும் உரைநடை நூல்களாகும்.
+மதச் சடங்குகளின் பொருள், செயல்முறை மற்றும் பூசாரிகளின் பங்கு ஆகியவற்றை விளக்குகின்றன.
+
+உதாரணங்கள்:
+- ஐதரேய பிராமணம் — ரிக் வேதத்துடன் தொடர்புடையது.
+- சதபத பிராமணம் — சுக்ல யஜுர் வேதத்துடன் தொடர்புடையது.
+- பஞ்சவிம்ச பிராமணம் — சாம வேதத்துடன் தொடர்புடையது.
+
+7. ஆரண்யகங்கள்:
+ஆரண்யகம் என்ற சொல் காடு என்பதுடன் தொடர்புடையது.
+சடங்குகளின் விளக்கத்திலிருந்து தத்துவச் சிந்தனைக்குச் செல்லும் இடைநிலை நூல்களாக இவை அமைந்துள்ளன.
+சடங்குகளின் குறியீட்டு அர்த்தங்களையும் ஆன்மிகக் கருத்துகளையும் விவரிக்கின்றன.
+
+8. உபநிடதங்கள்:
+உபநிடதங்கள் அடிப்படைத் தத்துவக் கேள்விகளை ஆராயும் நூல்களாகும்.
+முக்கியக் கருத்துகள்:
+- ஆத்மன் — தன்மையைக் குறிக்கும் ஆன்மா அல்லது உள்ளார்ந்த தத்துவம்.
+- பிரம்மம் — பரம்பொருள் அல்லது இறுதி உண்மை.
+- கர்மம் — செயலும் அதன் விளைவுகளும்.
+- சம்சாரம் — பிறப்பு மற்றும் மறுபிறப்புச் சுழற்சி.
+- மோட்சம் — விடுதலை.
+
+9. முக்கிய உபநிடதங்கள்:
+- பிருஹதாரண்யக உபநிடதம்.
+- சாந்தோக்ய உபநிடதம்.
+- கட உபநிடதம்.
+- கேன உபநிடதம்.
+- ஈச உபநிடதம்.
+- முண்டக உபநிடதம்.
+- மாண்டூக்ய உபநிடதம்.
+- தைத்திரிய உபநிடதம்.
+- ஐதரேய உபநிடதம்.
+- பிரச்ன உபநிடதம்.
+
+10. வேதாங்கங்கள்:
+வேதங்களைப் பாதுகாக்கவும் புரிந்துகொள்ளவும் உருவாக்கப்பட்ட ஆறு துணைத் துறைகள் வேதாங்கங்கள் எனப்படும்.
+அவை:
+- சிக்ஷா — உச்சரிப்பு மற்றும் ஒலியியல்.
+- கல்பம் — சடங்குகள் மற்றும் நடைமுறைகள்.
+- வியாகரணம் — இலக்கணம்.
+- நிருக்தம் — சொற்பிறப்பியல் மற்றும் சொற்களின் விளக்கம்.
+- சந்தஸ் — யாப்பு அல்லது செய்யுள் அளவு.
+- ஜோதிடம் — வானியல் மற்றும் காலக்கணிப்பு.
+
+11. முக்கியத்துவம்:
+பண்டைய இந்தியாவின் மத நம்பிக்கைகள், சடங்குகள், சமூக அமைப்பு, தத்துவச் சிந்தனைகள், மொழி மற்றும் பண்பாட்டு வளர்ச்சியை வேத இலக்கியங்கள் விளக்குகின்றன.
+
+TNPSC மறுபார்வை:
+ரிக் வேதம் — பாடல்கள்.
+சாம வேதம் — இசை.
+யஜுர் வேதம் — வேள்வி மந்திரங்கள்.
+அதர்வண வேதம் — பிரார்த்தனைகள் மற்றும் அன்றாட வாழ்க்கை.
+பிராமணங்கள் — சடங்கு விளக்கங்கள்.
+ஆரண்யகங்கள் — காட்டு நூல்கள்.
+உபநிடதங்கள் — தத்துவம்.
+ஆறு வேதாங்கங்கள் — சிக்ஷா, கல்பம், வியாகரணம், நிருக்தம், சந்தஸ், ஜோதிடம்.`,
+
+    points: [
+      "Rig Veda — Oldest Veda",
+      "Sama Veda — Music and melodies",
+      "Yajur Veda — Sacrificial formulas",
+      "Atharva Veda — Prayers and everyday life",
+      "Brahmanas — Ritual explanations",
+      "Aranyakas — Forest texts",
+      "Upanishads — Philosophical texts",
+      "Six Vedangas — Shiksha, Kalpa, Vyakarana, Nirukta, Chandas, Jyotisha"
+    ]
+  }
+
+);
+
+
