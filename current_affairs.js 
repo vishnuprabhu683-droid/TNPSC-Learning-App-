@@ -949,3 +949,189 @@ mcqs:[{q:"UGC draft regulations concern which sector?",options:["Higher educatio
 ];
 
 tnpscCurrentAffairsLessons.push(...january2025Batch2);
+
+const february2025Batch1 = [
+  {
+    title: "February 2025 – 1. India Adds Four New Ramsar Sites",
+    en: `India added four new Ramsar sites: Sakkarakottai Bird Sanctuary and Therthangal Bird Sanctuary in Tamil Nadu, Khecheopalri Wetland in Sikkim, and Udhwa Lake in Jharkhand. India's total reached 89. Tamil Nadu became the state with the highest number of Ramsar sites, with 20.`,
+    ta: `இந்தியாவில் நான்கு புதிய ராம்சர் தளங்கள் சேர்க்கப்பட்டன. தமிழ்நாட்டின் சக்கரக்கோட்டை மற்றும் தேர்த்தங்கல் பறவைகள் சரணாலயங்கள், சிக்கிமின் கெச்சியோபல்ரி ஈரநிலம், ஜார்க்கண்டின் உத்வா ஏரி ஆகியவை இதில் அடங்கும். இதன் மூலம் இந்தியாவின் ராம்சர் தளங்களின் எண்ணிக்கை 89 ஆனது. 20 தளங்களுடன் தமிழ்நாடு முதலிடத்தைப் பெற்றது.`,
+    points: ["World Wetlands Day: 2 February", "2025 theme: Protecting Wetlands for Our Common Future", "Tamil Nadu: 20 Ramsar sites"]
+  },
+  {
+    title: "February 2025 – 2. New Delhi World Book Fair",
+    en: `The New Delhi World Book Fair 2025 began on 1 February at Bharat Mandapam. Its theme was “We the People of India”, marking 75 years of the Republic. Russia was the focus country, and the fair brought together publishers and participants from many countries.`,
+    ta: `2025 ஆம் ஆண்டுக்கான புதுதில்லி உலகப் புத்தகக் கண்காட்சி பிப்ரவரி 1 அன்று பாரத் மண்டபத்தில் தொடங்கியது. இந்தியக் குடியரசின் 75 ஆண்டுகளைக் குறிக்கும் வகையில் “We the People of India” என்பது கருப்பொருளாக அமைந்தது. ரஷ்யா சிறப்பு நாடாகக் கவனம் பெற்றது.`,
+    points: ["Venue: Bharat Mandapam, New Delhi", "Theme: We the People of India", "Focus country: Russia"]
+  },
+  {
+    title: "February 2025 – 3. Niger Eliminates River Blindness",
+    en: `Niger became the first country in the WHO African Region to eliminate onchocerciasis, commonly known as river blindness. The disease is caused by the parasite Onchocerca volvulus and is transmitted through the bites of infected blackflies.`,
+    ta: `ஆப்பிரிக்கப் பிராந்தியத்தில் ஒன்கோசெர்கியாசிஸ் எனப்படும் நதிக்குருட்டுத்தன்மையை ஒழித்த முதல் நாடாக நைஜர் அறிவிக்கப்பட்டது. Onchocerca volvulus என்ற ஒட்டுண்ணியால் ஏற்படும் இந்த நோய், பாதிக்கப்பட்ட கருப்பு ஈக்களின் கடியால் பரவுகிறது.`,
+    points: ["Disease: Onchocerciasis", "Common name: River blindness", "Vector: Blackfly"]
+  },
+  {
+    title: "February 2025 – 4. Indian Coast Guard Raising Day",
+    en: `The Indian Coast Guard celebrated its 49th Raising Day on 1 February 2025. It was established on 18 August 1978 under the Coast Guard Act, 1978. Its responsibilities include maritime safety, search and rescue, and prevention of smuggling.`,
+    ta: `இந்திய கடலோரக் காவல்படை 2025 பிப்ரவரி 1 அன்று தனது 49வது தொடக்க நாளைக் கொண்டாடியது. இது 1978 ஆகஸ்ட் 18 அன்று கடலோரக் காவல்படைச் சட்டத்தின் கீழ் நிறுவப்பட்டது. கடல் பாதுகாப்பு, தேடுதல் மற்றும் மீட்பு, கடத்தலைத் தடுப்பது ஆகியவை இதன் பணிகளாகும்.`,
+    points: ["Raising Day: 1 February", "Established: 18 August 1978", "Law: Coast Guard Act, 1978"]
+  },
+  {
+    title: "February 2025 – 5. Supreme Court on PG Medical Reservation",
+    en: `The Supreme Court held that residence-based reservation in postgraduate medical courses is unconstitutional. It observed that such reservation conflicts with equality and the idea of one citizenship. The Court distinguished residence from the constitutional concept of domicile.`,
+    ta: `முதுநிலை மருத்துவப் படிப்புகளில் வசிப்பிட அடிப்படையிலான இடஒதுக்கீடு அரசியலமைப்புக்கு முரணானது என்று உச்சநீதிமன்றம் தீர்ப்பளித்தது. இது சமத்துவக் கொள்கைக்கும் ஒரே குடியுரிமை என்ற கருத்துக்கும் முரணாக இருப்பதாகக் குறிப்பிட்டது. வசிப்பிடம் மற்றும் சட்டரீதியான நிரந்தரக் குடியுரிமை இருப்பிடம் ஆகியவற்றை நீதிமன்றம் வேறுபடுத்தியது.`,
+    points: ["Relevant principle: Equality", "Constitutional idea: One citizenship", "Court: Supreme Court of India"]
+  },
+  {
+    title: "February 2025 – 6. International Pashmina Festival",
+    en: `The first International Pashmina Festival and Exhibition was organised in Kathmandu, Nepal. Pashmina is obtained from the fine undercoat of the Chyangra goat. Nepali Pashmina is marketed under the name “Chyangra Pashmina”.`,
+    ta: `முதல் சர்வதேச பஷ்மினா திருவிழா மற்றும் கண்காட்சி நேபாளத்தின் காத்மாண்டுவில் நடைபெற்றது. சியாங்ரா ஆட்டின் மென்மையான உட்புற ரோமத்திலிருந்து பஷ்மினா பெறப்படுகிறது. நேபாள பஷ்மினா “Chyangra Pashmina” என்ற பெயரில் விற்பனை செய்யப்படுகிறது.`,
+    points: ["Venue: Kathmandu, Nepal", "Source animal: Chyangra goat", "Product: Pashmina"]
+  },
+  {
+    title: "February 2025 – 7. ISRO's 100th Launch from Sriharikota",
+    en: `ISRO launched the GSLV-F15 carrying the NVS-02 navigation satellite on 29 January 2025. It marked the 100th launch from the Satish Dhawan Space Centre at Sriharikota. NVS-02 is part of India's NavIC navigation satellite system.`,
+    ta: `ISRO நிறுவனம் 2025 ஜனவரி 29 அன்று NVS-02 வழிசெலுத்தல் செயற்கைக்கோளை GSLV-F15 ராக்கெட் மூலம் விண்ணில் செலுத்தியது. இது ஸ்ரீஹரிகோட்டாவில் உள்ள சதீஷ் தவான் விண்வெளி மையத்தின் 100வது ஏவுதலாகும். NVS-02 இந்தியாவின் NavIC வழிசெலுத்தல் செயற்கைக்கோள் அமைப்பின் ஒரு பகுதியாகும்.`,
+    points: ["Launch vehicle: GSLV-F15", "Satellite: NVS-02", "Launch centre: Satish Dhawan Space Centre", "Milestone: 100th launch"]
+  },
+  {
+    title: "February 2025 – 8. Namdapha National Park",
+    en: `An elephant was camera-trapped in Namdapha National Park and Tiger Reserve in Arunachal Pradesh after a gap of 12 years. The park is located in Changlang district and is known for its rich biodiversity.`,
+    ta: `அருணாச்சலப் பிரதேசத்தின் நம்தபா தேசியப் பூங்கா மற்றும் புலிகள் காப்பகத்தில் 12 ஆண்டுகளுக்குப் பிறகு யானை ஒன்று கேமராவில் பதிவானது. இது சாங்லாங் மாவட்டத்தில் அமைந்துள்ளது மற்றும் வளமான பல்லுயிர் தன்மைக்குப் பெயர் பெற்றது.`,
+    points: ["State: Arunachal Pradesh", "District: Changlang", "Protected area: National Park and Tiger Reserve"]
+  },
+  {
+    title: "February 2025 – 9. Olive Ridley Turtles",
+    en: `Rushikulya river mouth in Odisha is an important mass-nesting site for Olive Ridley turtles. The mass nesting event is known as “Arribada”. Other important nesting locations in Odisha include Gahirmatha and the Devi river mouth.`,
+    ta: `ஒடிசாவில் உள்ள ருஷிகுல்யா ஆற்றின் முகத்துவாரம் ஆலிவ் ரிட்லி ஆமைகளின் முக்கியமான கூட்டமாக முட்டையிடும் இடமாகும். இந்த நிகழ்வு “அரிபாடா” என்று அழைக்கப்படுகிறது. கஹிர்மாதா மற்றும் தேவி ஆற்றின் முகத்துவாரமும் ஒடிசாவின் முக்கிய முட்டையிடும் இடங்களாகும்.`,
+    points: ["Species: Olive Ridley turtle", "Mass nesting: Arribada", "Important locations: Rushikulya and Gahirmatha"]
+  },
+  {
+    title: "February 2025 – 10. Apple Man of India",
+    en: `Hariman Sharma of Himachal Pradesh, popularly known as the Apple Man of India, received the Padma Shri. He developed the HRMN-99 apple variety, which can grow in warmer regions and lower-altitude areas.`,
+    ta: `இமாச்சலப் பிரதேசத்தைச் சேர்ந்த ஹரிமன் சர்மா, “இந்தியாவின் ஆப்பிள் மனிதர்” என்று அழைக்கப்படுகிறார். இவர் HRMN-99 என்ற ஆப்பிள் ரகத்தை உருவாக்கினார். இந்த ரகம் வெப்பமான பகுதிகளிலும் குறைந்த உயரமுள்ள இடங்களிலும் வளரக்கூடியது. இவருக்கு பத்மஸ்ரீ விருது வழங்கப்பட்டது.`,
+    points: ["Person: Hariman Sharma", "Award: Padma Shri", "Apple variety: HRMN-99"]
+  },
+  {
+    title: "February 2025 – 11. Libia Lobo Sardesai",
+    en: `Goan freedom fighter Libia Lobo Sardesai received the Padma Shri for her contribution to Goa's liberation movement. She and Vaman Sardesai operated an underground radio station during the struggle against Portuguese rule.`,
+    ta: `கோவா விடுதலைப் போராட்டத்தில் பங்களித்த லிபியா லோபோ சர்தேசாய்க்கு பத்மஸ்ரீ விருது வழங்கப்பட்டது. போர்த்துகீசிய ஆட்சிக்கு எதிரான போராட்டக் காலத்தில் இவர் வாமன் சர்தேசாயுடன் இணைந்து ரகசிய வானொலி நிலையத்தை நடத்தினார்.`,
+    points: ["State: Goa", "Award: Padma Shri", "Contribution: Goa liberation movement"]
+  },
+  {
+    title: "February 2025 – 12. Tamil Nadu's Share in Central Taxes",
+    en: `The Union Budget 2025–26 estimated Tamil Nadu's share in the divisible pool of central taxes at ₹58,021.50 crore. The state's share was fixed at 4.079% under the recommendations of the Fifteenth Finance Commission.`,
+    ta: `2025–26 மத்திய பட்ஜெட்டில் மத்திய வரிப் பகிர்வில் தமிழ்நாட்டிற்கான பங்கு ₹58,021.50 கோடியாக மதிப்பிடப்பட்டது. 15வது நிதி ஆணையத்தின் பரிந்துரைப்படி தமிழ்நாட்டின் பங்கு 4.079 சதவீதமாக நிர்ணயிக்கப்பட்டது.`,
+    points: ["Tamil Nadu tax share: 4.079%", "Estimated amount: ₹58,021.50 crore", "Commission: Fifteenth Finance Commission"]
+  },
+  {
+    title: "February 2025 – 13. Tamil Nadu Paddy Procurement",
+    en: `Tamil Nadu's civil supplies authorities procured nearly eight lakh tonnes of paddy from farmers. Cauvery delta districts contributed a major share, with Thanjavur leading the procurement.`,
+    ta: `தமிழ்நாட்டில் அரசின் நுகர்பொருள் வழங்கல் அமைப்புகள் விவசாயிகளிடமிருந்து சுமார் எட்டு லட்சம் டன் நெல் கொள்முதல் செய்தன. காவிரி டெல்டா மாவட்டங்கள் அதிக பங்களிப்பு செய்தன. தஞ்சாவூர் மாவட்டம் கொள்முதலில் முன்னிலை வகித்தது.`,
+    points: ["Major region: Cauvery delta", "Leading district: Thanjavur", "Sector: Agriculture and procurement"]
+  },
+  {
+    title: "February 2025 – 14. Turtle Excluder Devices in Tamil Nadu",
+    en: `The National Green Tribunal's Southern Bench examined the issue of Olive Ridley turtle deaths along the Chennai and Chengalpattu coasts. Turtle Excluder Devices are designed to allow turtles to escape from fishing nets and reduce accidental capture.`,
+    ta: `சென்னை மற்றும் செங்கல்பட்டு கடற்கரைகளில் ஆலிவ் ரிட்லி ஆமைகள் உயிரிழந்தது தொடர்பாக தேசிய பசுமைத் தீர்ப்பாயத்தின் தெற்கு அமர்வு விசாரணை மேற்கொண்டது. மீன்பிடி வலைகளில் சிக்கிய ஆமைகள் வெளியேற உதவும் கருவியே Turtle Excluder Device ஆகும்.`,
+    points: ["Tribunal: National Green Tribunal", "Device: Turtle Excluder Device (TED)", "Purpose: Reduce accidental turtle capture"]
+  },
+  {
+    title: "February 2025 – 15. India's Budget 2025–26",
+    en: `The Union Budget 2025–26 was presented by Finance Minister Nirmala Sitharaman on 1 February 2025. The budget focused on agriculture, MSMEs, investment, exports and inclusive development.`,
+    ta: `2025–26 மத்திய பட்ஜெட்டை நிதியமைச்சர் நிர்மலா சீதாராமன் 2025 பிப்ரவரி 1 அன்று தாக்கல் செய்தார். வேளாண்மை, குறு சிறு மற்றும் நடுத்தரத் தொழில்கள், முதலீடு, ஏற்றுமதி மற்றும் உள்ளடக்கிய வளர்ச்சி ஆகியவற்றுக்கு முக்கியத்துவம் அளிக்கப்பட்டது.`,
+    points: ["Presented: 1 February 2025", "Finance Minister: Nirmala Sitharaman", "Budget year: 2025–26"]
+  },
+  {
+    title: "February 2025 – 16. PM Dhan-Dhaanya Krishi Yojana",
+    en: `The Union Budget announced the PM Dhan-Dhaanya Krishi Yojana for 100 districts with low agricultural productivity. It aims to improve productivity, irrigation, crop diversification and access to agricultural credit, benefiting an estimated 1.7 crore farmers.`,
+    ta: `குறைந்த வேளாண் உற்பத்தித்திறன் கொண்ட 100 மாவட்டங்களில் பிரதம மந்திரி தன்-தான்ய கிருஷி யோஜனா திட்டம் செயல்படுத்தப்படும் என பட்ஜெட்டில் அறிவிக்கப்பட்டது. உற்பத்தித்திறன், பாசனம், பயிர் பல்வகைப்படுத்தல் மற்றும் விவசாயக் கடன் வசதிகளை மேம்படுத்துவது இதன் நோக்கமாகும். சுமார் 1.7 கோடி விவசாயிகள் பயனடைவார்கள்.`,
+    points: ["Coverage: 100 districts", "Beneficiaries: 1.7 crore farmers", "Focus: Agricultural productivity"]
+  },
+  {
+    title: "February 2025 – 17. Insurance FDI Limit",
+    en: `The Union Budget 2025–26 proposed increasing the foreign direct investment limit in the insurance sector from 74% to 100%, subject to conditions. The proposal aims to attract more investment into India's insurance industry.`,
+    ta: `2025–26 மத்திய பட்ஜெட்டில் காப்பீட்டுத் துறையில் அந்நிய நேரடி முதலீட்டு உச்சவரம்பை 74 சதவீதத்திலிருந்து 100 சதவீதமாக உயர்த்த முன்மொழியப்பட்டது. இந்திய காப்பீட்டுத் துறையில் கூடுதல் முதலீட்டை ஈர்ப்பது இதன் நோக்கமாகும்.`,
+    points: ["Sector: Insurance", "Earlier FDI limit: 74%", "Proposed limit: 100%"]
+  },
+  {
+    title: "February 2025 – 18. National Manufacturing Mission",
+    en: `The Union Budget announced a National Manufacturing Mission to support small, medium and large industries. It is intended to strengthen domestic manufacturing and advance the Make in India initiative.`,
+    ta: `சிறு, நடுத்தர மற்றும் பெரிய தொழில்களை ஆதரிப்பதற்காக தேசிய உற்பத்தி இயக்கம் அறிவிக்கப்பட்டது. உள்நாட்டு உற்பத்தியை வலுப்படுத்தி மேக் இன் இந்தியா திட்டத்தை முன்னேற்றுவது இதன் நோக்கமாகும்.`,
+    points: ["Mission: National Manufacturing Mission", "Related initiative: Make in India", "Focus: Domestic manufacturing"]
+  },
+  {
+    title: "February 2025 – 19. Atal Tinkering Labs",
+    en: `The Union Budget announced the establishment of 50,000 Atal Tinkering Labs in government schools over five years. The initiative aims to encourage innovation, creativity and scientific thinking among students.`,
+    ta: `அடுத்த ஐந்து ஆண்டுகளில் அரசு பள்ளிகளில் 50,000 அடல் டிங்கரிங் ஆய்வகங்கள் அமைக்கப்படும் என மத்திய பட்ஜெட்டில் அறிவிக்கப்பட்டது. மாணவர்களிடையே புதுமை, படைப்பாற்றல் மற்றும் அறிவியல் சிந்தனையை வளர்ப்பது இதன் நோக்கமாகும்.`,
+    points: ["Number of labs: 50,000", "Period: Five years", "Purpose: Innovation and scientific learning"]
+  },
+  {
+    title: "February 2025 – 20. Jal Jeevan Mission Extension",
+    en: `The Union Budget announced the extension of the Jal Jeevan Mission until 2028. The programme aims to provide functional household tap connections to rural households across India.`,
+    ta: `ஜல் ஜீவன் இயக்கம் 2028 ஆம் ஆண்டு வரை நீட்டிக்கப்படும் என மத்திய பட்ஜெட்டில் அறிவிக்கப்பட்டது. இந்தியாவின் கிராமப்புற வீடுகளுக்கு செயல்படும் குடிநீர் குழாய் இணைப்புகளை வழங்குவதே இத்திட்டத்தின் நோக்கமாகும்.`,
+    points: ["Mission: Jal Jeevan Mission", "Extended until: 2028", "Objective: Rural household tap water"]
+  },
+  {
+    title: "February 2025 – 21. Makhana Board in Bihar",
+    en: `The Union Budget announced the establishment of a Makhana Board in Bihar. It is intended to improve production, processing, value addition and marketing of makhana, also known as fox nuts.`,
+    ta: `பீகாரில் மகானா வாரியம் அமைக்கப்படும் என மத்திய பட்ஜெட்டில் அறிவிக்கப்பட்டது. தாமரை விதை எனவும் அழைக்கப்படும் மகானாவின் உற்பத்தி, பதப்படுத்துதல், மதிப்புக் கூட்டுதல் மற்றும் சந்தைப்படுத்தலை மேம்படுத்துவது இதன் நோக்கமாகும்.`,
+    points: ["State: Bihar", "Product: Makhana / Fox nuts", "Focus: Production and marketing"]
+  },
+  {
+    title: "February 2025 – 22. Ad Hoc Judges in High Courts",
+    en: `The Supreme Court permitted High Courts to appoint ad hoc judges under Article 224A to help clear the backlog of pending criminal cases. The permitted number is generally two to five, subject to the ceiling specified by the Court.`,
+    ta: `நிலுவையில் உள்ள குற்றவியல் வழக்குகளைக் குறைப்பதற்காக அரசியலமைப்புச் சட்டப்பிரிவு 224A-ன் கீழ் தற்காலிக நீதிபதிகளை நியமிக்க உயர்நீதிமன்றங்களுக்கு உச்சநீதிமன்றம் அனுமதி வழங்கியது. நீதிமன்றம் குறிப்பிட்ட எண்ணிக்கை மற்றும் வரம்புகளுக்கு உட்பட்டு இந்த நியமனம் மேற்கொள்ளப்படும்.`,
+    points: ["Article: 224A", "Institution: High Courts", "Purpose: Reduce case backlog"]
+  },
+  {
+    title: "February 2025 – 23. Occupational Shortage Index",
+    en: `The Ministry of Labour and Employment introduced the Occupational Shortage Index to identify occupations facing shortages of workers. The index is intended to help match job seekers' skills with labour market requirements.`,
+    ta: `தொழிலாளர் பற்றாக்குறை நிலவும் பணித்துறைகளை அடையாளம் காண தொழிலாளர் மற்றும் வேலைவாய்ப்பு அமைச்சகம் Occupational Shortage Index-ஐ அறிமுகப்படுத்தியது. வேலை தேடுவோரின் திறன்களையும் தொழில்துறையின் தேவைகளையும் பொருத்த உதவுவது இதன் நோக்கமாகும்.`,
+    points: ["Ministry: Labour and Employment", "Index: Occupational Shortage Index", "Purpose: Skill and job matching"]
+  },
+  {
+    title: "February 2025 – 24. e-Shram Microsites",
+    en: `The government introduced multilingual, state-specific e-Shram microsites integrated with the national e-Shram database. They are intended to help unorganised workers access welfare schemes, employment information and skill development opportunities.`,
+    ta: `தேசிய e-Shram தரவுத்தளத்துடன் இணைக்கப்பட்ட பல்மொழி மாநில அளவிலான e-Shram சிறு இணையதளங்கள் அறிமுகப்படுத்தப்பட்டன. அமைப்புசாரா தொழிலாளர்கள் நலத்திட்டங்கள், வேலைவாய்ப்பு தகவல்கள் மற்றும் திறன் மேம்பாட்டு வாய்ப்புகளைப் பெற உதவுவதே இதன் நோக்கமாகும்.`,
+    points: ["Platform: e-Shram", "Beneficiaries: Unorganised workers", "Services: Welfare, jobs and skilling"]
+  },
+  {
+    title: "February 2025 – 25. Shubhanshu Shukla and Axiom-4",
+    en: `Group Captain Shubhanshu Shukla was selected as the pilot for the Axiom Mission 4 to the International Space Station. The mission is a collaboration involving Axiom Space, NASA and international partners. Shukla was expected to become the first Indian to visit the ISS.`,
+    ta: `குரூப் கேப்டன் சுபான்ஷு சுக்லா சர்வதேச விண்வெளி நிலையத்திற்குச் செல்லும் Axiom Mission 4 திட்டத்தின் விமானியாகத் தேர்வு செய்யப்பட்டார். Axiom Space, NASA மற்றும் சர்வதேச கூட்டாளர்கள் இணைந்து இந்தத் திட்டத்தை மேற்கொண்டனர். சர்வதேச விண்வெளி நிலையத்திற்குச் செல்லும் முதல் இந்தியர் என்ற பெருமையைப் பெற அவர் தேர்வு செய்யப்பட்டார்.`,
+    points: ["Astronaut: Shubhanshu Shukla", "Mission: Axiom-4", "Destination: International Space Station"]
+  },
+  {
+    title: "February 2025 – 26. World Wetlands Day",
+    en: `World Wetlands Day is observed on 2 February to mark the adoption of the Convention on Wetlands in 1971. The 2025 theme was “Protecting Wetlands for Our Common Future”.`,
+    ta: `ஈரநிலங்கள் தொடர்பான சர்வதேச ஒப்பந்தம் 1971 பிப்ரவரி 2 அன்று ஏற்றுக்கொள்ளப்பட்டதை நினைவுகூரும் வகையில் உலக ஈரநிலங்கள் தினம் பிப்ரவரி 2 அன்று கடைப்பிடிக்கப்படுகிறது. 2025 ஆம் ஆண்டின் கருப்பொருள் “Protecting Wetlands for Our Common Future” என்பதாகும்.`,
+    points: ["Date: 2 February", "Convention adopted: 1971", "2025 theme: Protecting Wetlands for Our Common Future"]
+  },
+  {
+    title: "February 2025 – 27. World Cancer Day",
+    en: `World Cancer Day is observed on 4 February to raise awareness about cancer prevention, early detection and treatment. The theme for 2025–2027 was “United by Unique”.`,
+    ta: `புற்றுநோய் தடுப்பு, ஆரம்பகால கண்டறிதல் மற்றும் சிகிச்சை குறித்த விழிப்புணர்வை ஏற்படுத்த உலக புற்றுநோய் தினம் பிப்ரவரி 4 அன்று கடைப்பிடிக்கப்படுகிறது. 2025–2027 காலத்திற்கான கருப்பொருள் “United by Unique” என்பதாகும்.`,
+    points: ["Date: 4 February", "Theme 2025–2027: United by Unique", "Focus: Prevention and early detection"]
+  },
+  {
+    title: "February 2025 – 28. DeepSeek AI Models",
+    en: `Chinese AI company DeepSeek attracted international attention with its DeepSeek-V3 and DeepSeek-R1 models. DeepSeek-R1 was presented as a reasoning-focused model and prompted global discussion about AI development and competition.`,
+    ta: `சீனாவின் DeepSeek நிறுவனம் உருவாக்கிய DeepSeek-V3 மற்றும் DeepSeek-R1 செயற்கை நுண்ணறிவு மாதிரிகள் சர்வதேச கவனத்தைப் பெற்றன. DeepSeek-R1 தர்க்கரீதியான சிந்தனைக்காக வடிவமைக்கப்பட்ட மாதிரியாக அறிமுகப்படுத்தப்பட்டது. இது உலகளாவிய AI போட்டி குறித்த விவாதத்தைத் தூண்டியது.`,
+    points: ["Company: DeepSeek", "Country: China", "Models: DeepSeek-V3 and DeepSeek-R1"]
+  },
+  {
+    title: "February 2025 – 29. TEAM Initiative for MSMEs",
+    en: `The Ministry of Micro, Small and Medium Enterprises launched the Trade Enablement and Marketing (TEAM) Initiative under the RAMP programme. It aims to help MSMEs participate in digital commerce and expand their markets.`,
+    ta: `குறு, சிறு மற்றும் நடுத்தரத் தொழில்கள் அமைச்சகம் RAMP திட்டத்தின் கீழ் Trade Enablement and Marketing (TEAM) முன்னெடுப்பை அறிமுகப்படுத்தியது. MSME நிறுவனங்கள் மின்னணு வணிகத்தில் பங்கேற்று தங்கள் சந்தையை விரிவுபடுத்த உதவுவது இதன் நோக்கமாகும்.`,
+    points: ["Initiative: TEAM", "Full form: Trade Enablement and Marketing", "Parent programme: RAMP"]
+  },
+  {
+    title: "February 2025 – 30. Jal Jeevan Mission",
+    en: `The Jal Jeevan Mission was launched in August 2019 with the objective of providing functional tap water connections to every rural household. The 2025–26 Budget extended the mission until 2028.`,
+    ta: `ஒவ்வொரு கிராமப்புற வீட்டிற்கும் செயல்படும் குடிநீர் குழாய் இணைப்பை வழங்கும் நோக்கத்துடன் ஜல் ஜீவன் இயக்கம் 2019 ஆகஸ்ட் மாதம் தொடங்கப்பட்டது. 2025–26 பட்ஜெட்டில் இத்திட்டம் 2028 வரை நீட்டிக்கப்பட்டது.`,
+    points: ["Launched: August 2019", "Objective: Tap water to rural households", "Extension: 2028"]
+  }
+];
+
+tnpscCurrentAffairsLessons.push(...february2025Batch1);
+
