@@ -122,6 +122,9 @@ const tnpscLessons = {
 if (typeof tnpscPolityLessons !== "undefined") {
   tnpscLessons["Indian Polity"] = tnpscPolityLessons;
 }
+if (typeof tnpscHistoryLessons !== "undefined") {
+  tnpscLessons["Indian History"] = tnpscHistoryLessons;
+}
 
 function openTNPSCStudy(subject, language = "ta") {
   
