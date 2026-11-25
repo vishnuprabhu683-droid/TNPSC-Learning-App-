@@ -1796,5 +1796,678 @@ TNPSC முக்கிய குறிப்புகள்:
 
 );
 
+tnpscHistoryLessons.push(
 
+  {
+    title: "13. Buddhism – Gautama Buddha, Teachings and Councils / பௌத்தம் – கௌதம புத்தர், போதனைகள் மற்றும் மாநாடுகள்",
 
+    en: `Buddhism was one of the major religious movements that emerged in northern India during the 6th century BCE. It was founded by Gautama Buddha. Buddhism emphasised compassion, non-violence, moral conduct, meditation and liberation from suffering.
+
+GAUTAMA BUDDHA – EARLY LIFE:
+- Original name: Siddhartha Gautama.
+- Born at Lumbini, traditionally dated to around 563 BCE.
+- His father was Suddhodana, a chief of the Shakya clan.
+- His mother was Maya Devi.
+- His foster mother was Mahapajapati Gotami.
+- His wife was Yashodhara.
+- His son was Rahula.
+- He belonged to the Shakya clan.
+- His childhood and early life were associated with Kapilavastu.
+
+THE FOUR GREAT EVENTS:
+1. Birth – Lumbini.
+2. Enlightenment – Bodh Gaya, under the Bodhi tree.
+3. First sermon – Sarnath, near Varanasi.
+4. Mahaparinirvana – Kushinagar.
+
+RENUNCIATION AND ENLIGHTENMENT:
+- Siddhartha left his palace at the age of 29 in search of truth. This event is known as Mahabhinishkramana.
+- He practised meditation and severe austerities.
+- He attained enlightenment at Bodh Gaya at the age of 35, according to traditional accounts.
+- After enlightenment, he became known as the Buddha, meaning the Enlightened One.
+- He delivered his first sermon at Sarnath. This event is called Dharmachakra Pravartana.
+- He spent many years teaching in the Ganga valley.
+- He attained Mahaparinirvana at Kushinagar, traditionally at the age of 80.
+
+THE FOUR NOBLE TRUTHS:
+1. Dukkha – Life involves suffering and dissatisfaction.
+2. Samudaya – Craving or desire is a major cause of suffering.
+3. Nirodha – Suffering can cease.
+4. Magga – The path leading to the end of suffering is the Noble Eightfold Path.
+
+THE NOBLE EIGHTFOLD PATH:
+1. Right View.
+2. Right Intention.
+3. Right Speech.
+4. Right Action.
+5. Right Livelihood.
+6. Right Effort.
+7. Right Mindfulness.
+8. Right Concentration.
+
+THE MIDDLE PATH:
+Buddha rejected both extreme luxury and extreme self-mortification. He recommended the Middle Path, which promotes balance and disciplined living.
+
+OTHER IMPORTANT TEACHINGS:
+- Ahimsa or non-violence.
+- Compassion and kindness towards all living beings.
+- Avoiding greed, hatred and ignorance.
+- Karma and rebirth.
+- Impermanence (Anicca): Everything conditioned changes.
+- No permanent self (Anatta): There is no unchanging independent self.
+- Dependent origination (Paticcasamuppada): Phenomena arise due to causes and conditions.
+- Nirvana: Liberation from craving, ignorance and the cycle of suffering.
+
+BUDDHIST SCRIPTURES – TRIPITAKA:
+The Buddhist scriptures are traditionally classified into three Pitakas.
+
+1. Vinaya Pitaka:
+   - Rules and discipline for monks and nuns.
+
+2. Sutta Pitaka:
+   - Discourses and teachings of Buddha.
+
+3. Abhidhamma Pitaka:
+   - Philosophical and analytical teachings.
+
+The Tripitaka was preserved in Pali in the Theravada tradition. Buddhist literature also developed in Sanskrit and other languages.
+
+BUDDHIST COUNCILS:
+
+1. First Buddhist Council:
+   - Traditionally held at Rajagriha.
+   - Associated with King Ajatashatru.
+   - Presided over by Mahakassapa.
+   - Ananda is traditionally associated with reciting Buddha's discourses.
+   - Upali is associated with reciting monastic rules.
+
+2. Second Buddhist Council:
+   - Traditionally held at Vaishali.
+   - Associated with King Kalasoka.
+   - Concerned with disagreements over monastic discipline.
+   - Traditionally connected with the early division between different Buddhist groups.
+
+3. Third Buddhist Council:
+   - Traditionally held at Pataliputra.
+   - Associated with Emperor Ashoka.
+   - Presided over by Moggaliputta Tissa in Theravada accounts.
+   - Associated with the purification and consolidation of the Buddhist community and missionary activities.
+
+4. Fourth Buddhist Council:
+   - In northern Buddhist traditions, associated with Kashmir during the reign of Kanishka.
+   - Vasumitra is traditionally associated with its leadership.
+   - Buddhist philosophical literature developed during this period.
+   - Some Theravada traditions identify a different Fourth Council in Sri Lanka, so the numbering depends on the tradition.
+
+SPREAD OF BUDDHISM:
+- Buddhism spread across India and later to Sri Lanka, Central Asia, China, Korea, Japan and Southeast Asia.
+- Emperor Ashoka played an important role in promoting Buddhism.
+- Buddhist missionaries travelled to different regions.
+- Mahinda and Sanghamitta are traditionally associated with the spread of Buddhism in Sri Lanka.
+- Monasteries and universities such as Nalanda became important centres of Buddhist learning.
+
+MAJOR BUDDHIST SCHOOLS:
+1. Theravada – Preserves an early Buddhist tradition and is prominent in Sri Lanka and Southeast Asia.
+2. Mahayana – Emphasises the Bodhisattva ideal and developed widely in Central and East Asia.
+3. Vajrayana – Developed ritual and esoteric practices and became influential in Tibet and Himalayan regions.
+
+IMPORTANT TNPSC FACTS:
+- Buddha's original name – Siddhartha Gautama.
+- Birthplace – Lumbini.
+- Enlightenment – Bodh Gaya.
+- First sermon – Sarnath.
+- Mahaparinirvana – Kushinagar.
+- Four Noble Truths – Core Buddhist teaching.
+- Noble Eightfold Path – Path to end suffering.
+- First Council – Rajagriha.
+- Second Council – Vaishali.
+- Third Council – Pataliputra.
+- Ashoka – Important patron of Buddhism.
+- Tripitaka – Vinaya, Sutta and Abhidhamma Pitakas.`,
+
+    ta: `கி.மு. 6ஆம் நூற்றாண்டில் வட இந்தியாவில் தோன்றிய முக்கியமான சமய இயக்கங்களில் பௌத்தமும் ஒன்றாகும். கௌதம புத்தர் இதனை நிறுவினார். கருணை, அகிம்சை, நல்லொழுக்கம், தியானம் மற்றும் துன்பத்திலிருந்து விடுதலை ஆகியவற்றை பௌத்தம் வலியுறுத்துகிறது.
+
+கௌதம புத்தர் – தொடக்க வாழ்க்கை:
+- இயற்பெயர்: சித்தார்த்த கௌதமர்.
+- பிறந்த இடம்: லும்பினி. பாரம்பரியமாக கி.மு. 563ஆம் ஆண்டு எனக் குறிப்பிடப்படுகிறது.
+- தந்தை: சுத்தோதனர். இவர் சாக்கிய குலத்தின் தலைவராக இருந்தார்.
+- தாய்: மாயாதேவி.
+- வளர்ப்புத் தாய்: மகாபஜாபதி கோதமி.
+- மனைவி: யசோதரை.
+- மகன்: ராகுலர்.
+- சாக்கிய குலத்தைச் சேர்ந்தவர்.
+- இவரது இளமைக்கால வாழ்க்கை கபிலவஸ்துவுடன் தொடர்புடையது.
+
+புத்தரின் வாழ்க்கையின் நான்கு முக்கிய நிகழ்வுகள்:
+
+1. பிறப்பு – லும்பினி.
+2. ஞானம் பெற்ற இடம் – போத்கயா; போதி மரத்தின் கீழ்.
+3. முதல் போதனை – சாரநாத், வாரணாசிக்கு அருகில்.
+4. மகாபரிநிர்வாணம் – குஷிநகர்.
+
+துறவு மற்றும் ஞானம்:
+- உண்மையைத் தேடி சித்தார்த்தர் தனது 29ஆம் வயதில் அரண்மனை வாழ்க்கையைத் துறந்தார். இது மகாபிநிஷ்கிரமணம் எனப்படுகிறது.
+- தியானம் மற்றும் கடுமையான தவங்களை மேற்கொண்டார்.
+- பாரம்பரியக் குறிப்புகளின்படி 35ஆம் வயதில் போத்கயாவில் ஞானம் பெற்றார்.
+- ஞானம் பெற்ற பிறகு புத்தர் என்று அழைக்கப்பட்டார். புத்தர் என்பதற்கு ஞானம் பெற்றவர் என்று பொருள்.
+- சாரநாத்தில் முதல் போதனையை வழங்கினார். இது தர்மசக்கரப் பிரவர்த்தனம் எனப்படுகிறது.
+- கங்கைச் சமவெளிப் பகுதிகளில் பல ஆண்டுகள் போதனை செய்தார்.
+- பாரம்பரியமாக 80ஆம் வயதில் குஷிநகரில் மகாபரிநிர்வாணம் அடைந்தார்.
+
+நான்கு உயரிய உண்மைகள்:
+
+1. துக்கம் – வாழ்க்கையில் துன்பமும் நிறைவின்மையும் காணப்படுகின்றன.
+2. துக்க சமுதயம் – ஆசை அல்லது பற்றுதலே துன்பத்தின் முக்கியக் காரணமாகும்.
+3. துக்க நிரோதம் – துன்பத்தை முடிவுக்குக் கொண்டுவர முடியும்.
+4. துக்க நிரோத காமினி மார்க்கம் – துன்பத்தை முடிவுக்குக் கொண்டுவரும் வழி எண்வகை நன்னெறிப் பாதையாகும்.
+
+எண்வகை நன்னெறிப் பாதை:
+
+1. நற்காட்சி.
+2. நல்நோக்கம்.
+3. நல்வாய்மை.
+4. நற்செயல்.
+5. நல்வாழ்க்கை.
+6. நன்முயற்சி.
+7. நற்கடைப்பிடி.
+8. நற்தியானம்.
+
+நடுநிலைப் பாதை:
+புத்தர் அளவுக்கு மீறிய ஆடம்பர வாழ்க்கையையும் கடுமையான உடல் வருத்தத்தையும் நிராகரித்தார். இவ்விரண்டிற்கும் இடையிலான சமநிலையான வாழ்க்கை முறையை நடுநிலைப் பாதை என்று போதித்தார்.
+
+பிற முக்கியக் கொள்கைகள்:
+- அகிம்சை.
+- அனைத்து உயிர்களிடத்திலும் கருணை மற்றும் அன்பு.
+- பேராசை, வெறுப்பு, அறியாமை ஆகியவற்றைத் தவிர்த்தல்.
+- கர்ம வினை மற்றும் மறுபிறப்பு.
+- அநித்தியம்: காரணங்களால் உருவான அனைத்தும் மாற்றமடைகின்றன.
+- அனாத்மா: மாறாத, நிரந்தரமான தனித்த ஆன்மா இல்லை என்ற கோட்பாடு.
+- பிரதீத்ய சமுத்பாதம்: அனைத்தும் காரணங்கள் மற்றும் சூழ்நிலைகளின் அடிப்படையில் உருவாகின்றன.
+- நிர்வாணம்: ஆசை, அறியாமை மற்றும் துன்பச் சுழற்சியிலிருந்து விடுதலை.
+
+பௌத்த நூல்கள் – திரிபிடகம்:
+
+பௌத்த சமய நூல்கள் பாரம்பரியமாக மூன்று பிரிவுகளாகப் பிரிக்கப்படுகின்றன.
+
+1. விநய பிடகம்:
+   - பௌத்தத் துறவிகள் மற்றும் துறவியர்களுக்கான ஒழுக்க விதிகள்.
+
+2. சுத்த பிடகம்:
+   - புத்தரின் உரைகள் மற்றும் போதனைகள்.
+
+3. அபிதம்ம பிடகம்:
+   - தத்துவம் மற்றும் ஆழமான விளக்கக் கருத்துகள்.
+
+தேரவாத மரபில் திரிபிடகம் பாலி மொழியில் பாதுகாக்கப்பட்டது. பௌத்த இலக்கியங்கள் சமஸ்கிருதம் உள்ளிட்ட பிற மொழிகளிலும் வளர்ச்சி பெற்றன.
+
+பௌத்த மாநாடுகள்:
+
+1. முதல் பௌத்த மாநாடு:
+   - பாரம்பரியமாக ராஜகிரகத்தில் நடைபெற்றது.
+   - அஜாதசத்ரு மன்னருடன் தொடர்புடையது.
+   - மகாகாசியபர் தலைமையில் நடைபெற்றதாகக் கூறப்படுகிறது.
+   - புத்தரின் போதனைகளை ஆனந்தர் எடுத்துரைத்ததாக மரபு கூறுகிறது.
+   - துறவிகளுக்கான ஒழுக்க விதிகளை உபாலி எடுத்துரைத்ததாகக் கூறப்படுகிறது.
+
+2. இரண்டாவது பௌத்த மாநாடு:
+   - பாரம்பரியமாக வைசாலியில் நடைபெற்றது.
+   - காலசோக மன்னருடன் தொடர்புடையது.
+   - துறவிகளின் ஒழுக்க விதிகள் தொடர்பான கருத்து வேறுபாடுகள் குறித்து விவாதிக்கப்பட்டன.
+   - ஆரம்பகால பௌத்தக் குழுக்களின் பிரிவுகளுடன் தொடர்புபடுத்தப்படுகிறது.
+
+3. மூன்றாவது பௌத்த மாநாடு:
+   - பாரம்பரியமாக பாடலிபுத்திரத்தில் நடைபெற்றது.
+   - அசோகப் பேரரசருடன் தொடர்புடையது.
+   - தேரவாத மரபின்படி மொக்கலிபுத்த திஸ்ஸர் தலைமையில் நடைபெற்றது.
+   - பௌத்த சங்கத்தைச் சீரமைத்தல் மற்றும் சமயப் பரப்புப் பணிகளுடன் தொடர்புடையது.
+
+4. நான்காவது பௌத்த மாநாடு:
+   - வட இந்தியப் பௌத்த மரபில் கனிஷ்கர் ஆட்சிக்காலத்தில் காஷ்மீரில் நடைபெற்றதாகக் கூறப்படுகிறது.
+   - வசுமித்திரர் இதன் தலைமையுடன் தொடர்புபடுத்தப்படுகிறார்.
+   - இந்தக் காலத்தில் பௌத்த தத்துவ நூல்கள் வளர்ச்சி பெற்றன.
+   - சில தேரவாத மரபுகள் இலங்கையில் நடைபெற்ற வேறொரு மாநாட்டை நான்காவது மாநாடாகக் குறிப்பிடுகின்றன. எனவே மரபுக்கு ஏற்ப மாநாடுகளின் எண்ணிக்கை மாறுபடலாம்.
+
+பௌத்த சமயத்தின் பரவல்:
+- இந்தியா முழுவதும் பரவியதுடன் இலங்கை, மத்திய ஆசியா, சீனா, கொரியா, ஜப்பான் மற்றும் தென்கிழக்கு ஆசிய நாடுகளுக்கும் பரவியது.
+- அசோகர் பௌத்த சமய வளர்ச்சிக்கு முக்கிய ஆதரவு அளித்தார்.
+- பௌத்த சமயப் பரப்பாளர்கள் பல்வேறு பகுதிகளுக்குச் சென்றனர்.
+- மகிந்தர் மற்றும் சங்கமித்திரை இலங்கையில் பௌத்தம் பரவியதுடன் பாரம்பரியமாகத் தொடர்புடையவர்கள்.
+- நாளந்தா போன்ற மடாலயங்களும் கல்வி மையங்களும் பௌத்தக் கல்வியின் முக்கிய மையங்களாக விளங்கின.
+
+பௌத்தத்தின் முக்கியப் பிரிவுகள்:
+
+1. தேரவாதம் – தொடக்ககால பௌத்த மரபைப் பாதுகாக்கும் பிரிவு. இலங்கை மற்றும் தென்கிழக்கு ஆசிய நாடுகளில் முக்கியத்துவம் பெற்றது.
+2. மகாயானம் – போதிசத்துவர் கொள்கைக்கு முக்கியத்துவம் அளித்து மத்திய மற்றும் கிழக்கு ஆசியாவில் பரவியது.
+3. வஜ்ரயானம் – சடங்குகள் மற்றும் மறைபொருள் சார்ந்த ஆன்மீகப் பயிற்சிகளைக் கொண்டது. திபெத் மற்றும் இமயமலைப் பகுதிகளில் செல்வாக்கு பெற்றது.
+
+TNPSC முக்கிய குறிப்புகள்:
+- புத்தரின் இயற்பெயர் – சித்தார்த்த கௌதமர்.
+- பிறந்த இடம் – லும்பினி.
+- ஞானம் பெற்ற இடம் – போத்கயா.
+- முதல் போதனை வழங்கிய இடம் – சாரநாத்.
+- மகாபரிநிர்வாணம் – குஷிநகர்.
+- நான்கு உயரிய உண்மைகள் – பௌத்தத்தின் அடிப்படைப் போதனை.
+- எண்வகை நன்னெறிப் பாதை – துன்பத்தை முடிவுக்குக் கொண்டுவரும் வழி.
+- முதல் மாநாடு – ராஜகிரகம்.
+- இரண்டாவது மாநாடு – வைசாலி.
+- மூன்றாவது மாநாடு – பாடலிபுத்திரம்.
+- அசோகர் – பௌத்த சமயத்தின் முக்கிய ஆதரவாளர்.
+- திரிபிடகம் – விநய, சுத்த, அபிதம்ம பிடகங்கள்.`,
+
+    points: [
+      "Buddha – Siddhartha Gautama",
+      "Birth – Lumbini",
+      "Enlightenment – Bodh Gaya",
+      "First sermon – Sarnath",
+      "Mahaparinirvana – Kushinagar",
+      "Four Noble Truths",
+      "Noble Eightfold Path",
+      "First Council – Rajagriha",
+      "Second Council – Vaishali",
+      "Third Council – Pataliputra",
+      "Tripitaka – Vinaya, Sutta, Abhidhamma",
+      "அசோகர் – பௌத்த சமய ஆதரவாளர்",
+      "புத்தரின் பிறந்த இடம் – லும்பினி",
+      "ஞானம் பெற்ற இடம் – போத்கயா",
+      "முதல் போதனை – சாரநாத்",
+      "மகாபரிநிர்வாணம் – குஷிநகர்",
+      "முதல் மாநாடு – ராஜகிரகம்",
+      "இரண்டாவது மாநாடு – வைசாலி",
+      "மூன்றாவது மாநாடு – பாடலிபுத்திரம்",
+      "திரிபிடகம் – விநய, சுத்த, அபிதம்ம"
+    ]
+  },
+
+  {
+    title: "14. Jainism and Buddhism – Comparative Study / சமணம் மற்றும் பௌத்தம் – ஒப்பீட்டு ஆய்வு",
+
+    en: `Jainism and Buddhism were two major religious movements that emerged in northern India around the 6th century BCE. Both questioned certain established religious practices and emphasised ethical living, self-discipline and liberation.
+
+COMMON FEATURES:
+1. Both emerged during the period of the Mahajanapadas.
+2. Both challenged the exclusive religious authority of Vedic ritual traditions.
+3. Both used languages understood by ordinary people in their early teachings.
+4. Both emphasised moral conduct and self-control.
+5. Both taught karma and rebirth.
+6. Both developed organised communities of monks and followers.
+7. Both received support from merchants and rulers.
+8. Both spread beyond India.
+
+IMPORTANT DIFFERENCES:
+
+1. Founder:
+   - Jainism: Mahavira is regarded as the 24th Tirthankara and a central teacher of Jainism.
+   - Buddhism: Founded by Gautama Buddha.
+
+2. Spiritual tradition:
+   - Jainism recognises 24 Tirthankaras.
+   - Buddhism follows the teachings of Buddha and developed different schools.
+
+3. Soul:
+   - Jainism accepts the existence of individual souls (Jiva).
+   - Buddhism teaches Anatta, the absence of a permanent independent self.
+
+4. Asceticism:
+   - Jainism gives great importance to strict ascetic discipline and austerities.
+   - Buddhism recommends the Middle Path and rejects extreme self-mortification.
+
+5. Ahimsa:
+   - Jainism makes non-violence an exceptionally strict central principle.
+   - Buddhism also teaches non-violence and compassion, but its practical rules differ.
+
+6. Liberation:
+   - Jainism: Moksha is achieved by freeing the soul from karmic bondage.
+   - Buddhism: Nirvana is the cessation of craving, ignorance and suffering.
+
+7. Important texts:
+   - Jainism: Agamas and other Jain scriptures.
+   - Buddhism: Tripitaka and other Buddhist texts.
+
+8. Major sects:
+   - Jainism: Digambara and Shvetambara.
+   - Buddhism: Theravada, Mahayana and Vajrayana are major traditions.
+
+9. Important teachers:
+   - Jainism: Rishabhanatha, Parshvanatha and Mahavira.
+   - Buddhism: Gautama Buddha.
+
+10. Important places:
+   - Jainism: Kundagrama, Pavapuri, Shravanabelagola and Sittannavasal.
+   - Buddhism: Lumbini, Bodh Gaya, Sarnath, Kushinagar and Nalanda.
+
+CONTRIBUTIONS TO INDIAN CULTURE:
+- Both contributed to philosophy, literature and ethical thought.
+- Both encouraged the construction of monasteries and religious monuments.
+- Buddhist stupas and cave monasteries became important architectural forms.
+- Jain temples, sculptures and cave paintings enriched Indian art.
+- Both influenced Indian languages and regional literature.
+- Their emphasis on compassion and ethical behaviour influenced Indian society.
+
+IMPORTANCE IN TAMIL NADU:
+- Jainism had a strong historical presence in Tamil Nadu.
+- Jain inscriptions, beds and cave paintings are found in several hill sites.
+- Sittannavasal is an important Jain art centre.
+- Buddhism also influenced Tamil culture and literature.
+- Kaveripoompattinam, Nagapattinam and Kanchipuram are associated with Buddhist history.
+- Manimekalai is an important Tamil Buddhist literary work.
+- Tamil Nadu's religious history reflects interaction among Jain, Buddhist and other traditions.
+
+IMPORTANT TNPSC REVISION:
+- Mahavira – Jainism.
+- Gautama Buddha – Buddhism.
+- Jainism – 24 Tirthankaras.
+- Buddhism – Four Noble Truths and Eightfold Path.
+- Jainism – Three Jewels.
+- Jainism – Jiva or soul.
+- Buddhism – Anatta or no permanent self.
+- Jainism – Digambara and Shvetambara.
+- Buddhism – Theravada, Mahayana and Vajrayana.
+- Sittannavasal – Jain paintings.
+- Manimekalai – Buddhist Tamil epic.`,
+
+    ta: `கி.மு. 6ஆம் நூற்றாண்டில் வட இந்தியாவில் தோன்றிய முக்கியமான சமய இயக்கங்கள் சமணமும் பௌத்தமும் ஆகும். இவை அக்காலத்தில் நிலவிய சில சமய நடைமுறைகளைப் பற்றி புதிய சிந்தனைகளை முன்வைத்து, அறநெறி, சுயக்கட்டுப்பாடு மற்றும் ஆன்ம விடுதலையை வலியுறுத்தின.
+
+பொதுவான அம்சங்கள்:
+
+1. இரண்டும் மகாஜனபதங்கள் வளர்ந்த காலத்தில் தோன்றின.
+2. இரண்டும் வேதச் சடங்குகளின் தனிப்பட்ட சமய அதிகாரத்தை ஏற்கவில்லை.
+3. தொடக்ககால போதனைகளில் சாதாரண மக்கள் புரிந்துகொள்ளக்கூடிய மொழிகளைப் பயன்படுத்தின.
+4. நல்லொழுக்கம் மற்றும் சுயக்கட்டுப்பாட்டை வலியுறுத்தின.
+5. கர்ம வினை மற்றும் மறுபிறப்புக் கொள்கைகளை எடுத்துரைத்தன.
+6. துறவிகள் மற்றும் பின்பற்றுபவர்களைக் கொண்ட அமைப்புகளை உருவாக்கின.
+7. வணிகர்கள் மற்றும் மன்னர்களின் ஆதரவைப் பெற்றன.
+8. இந்தியாவைத் தாண்டியும் பரவின.
+
+முக்கிய வேறுபாடுகள்:
+
+1. நிறுவியவர்:
+   - சமணம்: மகாவீரர் 24வது தீர்த்தங்கரராகவும் முக்கிய சமண ஆசிரியராகவும் கருதப்படுகிறார்.
+   - பௌத்தம்: கௌதம புத்தரால் நிறுவப்பட்டது.
+
+2. ஆன்மீக மரபு:
+   - சமணம் 24 தீர்த்தங்கரர்களை ஏற்றுக்கொள்கிறது.
+   - பௌத்தம் புத்தரின் போதனைகளைப் பின்பற்றுகிறது; பின்னர் பல்வேறு பிரிவுகளாக வளர்ந்தது.
+
+3. ஆன்மா:
+   - சமணம் தனிப்பட்ட ஆன்மா அல்லது ஜீவன் இருப்பதை ஏற்றுக்கொள்கிறது.
+   - பௌத்தம் நிரந்தரமான தனித்த ஆன்மா இல்லை என்ற அனாத்மா கொள்கையை வலியுறுத்துகிறது.
+
+4. துறவறம்:
+   - சமணம் கடுமையான துறவறத்திற்கும் தவத்திற்கும் முக்கியத்துவம் அளிக்கிறது.
+   - பௌத்தம் நடுநிலைப் பாதையை வலியுறுத்தி அளவுக்கு மீறிய உடல் வருத்தத்தை நிராகரிக்கிறது.
+
+5. அகிம்சை:
+   - சமணத்தில் அகிம்சை மிகவும் கடுமையான அடிப்படைக் கொள்கையாகும்.
+   - பௌத்தமும் அகிம்சை மற்றும் கருணையை வலியுறுத்துகிறது. ஆனால் நடைமுறை விதிகளில் வேறுபாடுகள் உள்ளன.
+
+6. விடுதலை:
+   - சமணம்: கர்ம வினைப் பிணைப்பிலிருந்து ஆன்மாவை விடுவிப்பதே மோட்சம்.
+   - பௌத்தம்: ஆசை, அறியாமை மற்றும் துன்பம் முடிவடைவதே நிர்வாணம்.
+
+7. முக்கிய நூல்கள்:
+   - சமணம்: ஆகமங்கள் மற்றும் பிற சமண சமய நூல்கள்.
+   - பௌத்தம்: திரிபிடகம் மற்றும் பிற பௌத்த நூல்கள்.
+
+8. முக்கியப் பிரிவுகள்:
+   - சமணம்: திகம்பரர் மற்றும் சுவேதாம்பரர்.
+   - பௌத்தம்: தேரவாதம், மகாயானம் மற்றும் வஜ்ரயானம்.
+
+9. முக்கிய ஆன்மீக ஆசிரியர்கள்:
+   - சமணம்: ரிஷபநாதர், பார்சுவநாதர் மற்றும் மகாவீரர்.
+   - பௌத்தம்: கௌதம புத்தர்.
+
+இந்தியக் கலாச்சாரத்திற்கு அளித்த பங்களிப்புகள்:
+- இரண்டும் தத்துவம், இலக்கியம் மற்றும் அறநெறிச் சிந்தனைகளுக்கு பங்களித்தன.
+- மடாலயங்கள் மற்றும் சமய நினைவுச் சின்னங்கள் உருவாக ஊக்கமளித்தன.
+- பௌத்த ஸ்தூபிகள் மற்றும் குகை மடாலயங்கள் முக்கியமான கட்டடக்கலை வடிவங்களாக வளர்ந்தன.
+- சமணக் கோயில்கள், சிற்பங்கள் மற்றும் குகை ஓவியங்கள் இந்தியக் கலையை வளப்படுத்தின.
+- இந்திய மொழிகள் மற்றும் பிராந்திய இலக்கியங்களில் தாக்கத்தை ஏற்படுத்தின.
+- கருணை மற்றும் நல்லொழுக்கத்தை வலியுறுத்தி சமூகத்தில் தாக்கத்தை ஏற்படுத்தின.
+
+தமிழ்நாட்டில் முக்கியத்துவம்:
+
+- தமிழ்நாட்டில் சமணம் நீண்டகால வரலாற்றுப் பின்னணியைக் கொண்டுள்ளது.
+- பல மலைப்பகுதிகளில் சமணக் கல்வெட்டுகள், படுக்கைகள் மற்றும் குகை ஓவியங்கள் காணப்படுகின்றன.
+- சித்தன்னவாசல் முக்கியமான சமணக் கலை மையமாகும்.
+- பௌத்தமும் தமிழ் கலாச்சாரம் மற்றும் இலக்கியத்தில் தாக்கத்தை ஏற்படுத்தியது.
+- காவிரிப்பூம்பட்டினம், நாகப்பட்டினம் மற்றும் காஞ்சிபுரம் ஆகியவை பௌத்த வரலாற்றுடன் தொடர்புடையவை.
+- மணிமேகலை முக்கியமான தமிழ் பௌத்தக் காப்பியமாகும்.
+- தமிழ்நாட்டின் சமய வரலாறு சமணம், பௌத்தம் மற்றும் பிற சமய மரபுகளின் தொடர்புகளைக் காட்டுகிறது.
+
+TNPSC முக்கிய மறுபார்வை:
+- மகாவீரர் – சமணம்.
+- கௌதம புத்தர் – பௌத்தம்.
+- சமணம் – 24 தீர்த்தங்கரர்கள்.
+- பௌத்தம் – நான்கு உயரிய உண்மைகள் மற்றும் எண்வகை நன்னெறிப் பாதை.
+- சமணம் – மும்மணிகள்.
+- சமணம் – ஜீவன் அல்லது ஆன்மா.
+- பௌத்தம் – அனாத்மா அல்லது நிரந்தர ஆன்மா மறுப்பு.
+- சமணம் – திகம்பரர், சுவேதாம்பரர்.
+- பௌத்தம் – தேரவாதம், மகாயானம், வஜ்ரயானம்.
+- சித்தன்னவாசல் – சமண ஓவியங்கள்.
+- மணிமேகலை – பௌத்தத் தமிழ் காப்பியம்.`,
+
+    points: [
+      "Jainism – Mahavira",
+      "Buddhism – Gautama Buddha",
+      "Jainism – 24 Tirthankaras",
+      "Buddhism – Four Noble Truths",
+      "Jainism – Three Jewels",
+      "Jainism – Jiva",
+      "Buddhism – Anatta",
+      "Jain sects – Digambara and Shvetambara",
+      "Buddhist traditions – Theravada, Mahayana, Vajrayana",
+      "Sittannavasal – Jain art",
+      "Manimekalai – Buddhist Tamil epic",
+      "சமணம் – மகாவீரர்",
+      "பௌத்தம் – கௌதம புத்தர்",
+      "சமணம் – 24 தீர்த்தங்கரர்கள்",
+      "பௌத்தம் – நான்கு உயரிய உண்மைகள்",
+      "சமணம் – மும்மணிகள்",
+      "சமணம் – ஜீவன்",
+      "பௌத்தம் – அனாத்மா",
+      "சித்தன்னவாசல் – சமணக் கலை",
+      "மணிமேகலை – பௌத்தத் தமிழ் காப்பியம்"
+    ]
+  },
+
+  {
+    title: "15. Persian and Greek Invasions of India / இந்தியாவின் மீது பாரசீக மற்றும் கிரேக்கப் படையெடுப்புகள்",
+
+    en: `The north-western region of the Indian subcontinent was connected with Central Asia and West Asia through important mountain passes and trade routes. This geographical position attracted Persian and Greek powers.
+
+PERSIAN INVASIONS:
+
+1. Cyrus II:
+   - Cyrus II was the founder of the Achaemenid Persian Empire.
+   - He expanded Persian influence towards the north-western regions of the Indian subcontinent.
+   - Some north-western territories came under Persian influence during the Achaemenid expansion.
+
+2. Darius I:
+   - Darius I expanded Persian control into the north-western Indian region around the late 6th century BCE.
+   - Gandhara and the Indus region were associated with the Persian Empire.
+   - The region known as Hindush became an important part of the Persian imperial system.
+   - Indian territories contributed tribute to the Persian Empire.
+   - Herodotus, the Greek historian, referred to the wealth and tribute of the Indian region.
+
+EFFECTS OF PERSIAN CONTACT:
+- Increased contact between India and West Asia.
+- Development of trade and diplomatic connections.
+- Persian administrative practices influenced some north-western regions.
+- Kharosthi script, written from right to left, is generally associated with the north-western cultural sphere and developed under strong Iranian influence.
+- Persian artistic and architectural features influenced later north-western Indian art.
+- The Achaemenid Empire provided an important background for later Greek expansion.
+
+ALEXANDER'S INVASION:
+
+WHO WAS ALEXANDER?
+- Alexander III of Macedon, commonly known as Alexander the Great.
+- Son of Philip II of Macedon.
+- Became king in 336 BCE.
+- His teacher was the Greek philosopher Aristotle.
+- Built a vast empire through military campaigns in Asia.
+
+ALEXANDER'S CAMPAIGN IN INDIA:
+- Alexander crossed into the north-western Indian subcontinent in 327–326 BCE.
+- He entered through the region of the Hindu Kush.
+- He encountered resistance from local rulers and tribal groups.
+- King Ambhi of Taxila formed an alliance with Alexander according to traditional accounts.
+
+BATTLE OF HYDASPES:
+- Fought in 326 BCE near the Hydaspes River, now known as the Jhelum.
+- Alexander fought against King Porus.
+- Porus displayed strong resistance and courage.
+- Alexander won the battle, but was impressed by Porus.
+- According to classical accounts, Alexander allowed Porus to continue ruling his territory under Macedonian authority.
+
+ALEXANDER AND THE BEAS RIVER:
+- Alexander advanced towards the Beas River.
+- His soldiers refused to march farther east.
+- They were exhausted after years of campaigning.
+- They had heard reports of powerful kingdoms and large armies in the Ganga plains, especially the Nanda kingdom.
+- Alexander turned back in 326 BCE.
+
+RETURN AND DEATH:
+- Alexander divided his forces and began the return journey.
+- Part of his army travelled by sea under Nearchus.
+- Alexander returned through difficult regions.
+- He died at Babylon in 323 BCE at the age of 32.
+
+EFFECTS OF ALEXANDER'S INVASION:
+1. Increased contact between the Indian subcontinent and the Greek world.
+2. Strengthened trade and cultural exchange.
+3. Greek accounts provided information about north-western India.
+4. Some north-western territories came under Macedonian control for a limited period.
+5. The campaigns contributed to political changes in the north-west.
+6. Greek artistic influence later became visible in the Gandhara school of art, along with other cultural influences.
+7. The invasion did not establish Greek rule over the whole Indian subcontinent.
+
+IMPORTANT GREEK HISTORIANS AND ACCOUNTS:
+- Megasthenes later served as ambassador to the Mauryan court of Chandragupta Maurya.
+- Arrian, Plutarch and other classical writers recorded accounts of Alexander's campaigns.
+- Their writings are important sources, but they were written from different perspectives and sometimes much later than the events.
+
+IMPORTANT TNPSC FACTS:
+- Cyrus II – Founder of the Achaemenid Persian Empire.
+- Darius I – Expanded Persian control into north-western India.
+- Hindush – Name associated with the Indian province under Persian rule.
+- Alexander – King of Macedon from 336 BCE.
+- Battle of Hydaspes – 326 BCE.
+- Hydaspes – Jhelum River.
+- Alexander fought King Porus.
+- Alexander's army stopped at the Beas River.
+- Alexander returned from India in 326 BCE.
+- Alexander died at Babylon in 323 BCE.
+- Alexander's invasion increased Indo-Greek contacts.`,
+
+    ta: `இந்தியத் துணைக்கண்டத்தின் வடமேற்குப் பகுதி முக்கியமான மலைக் கணவாய்கள் மற்றும் வணிகப் பாதைகள் மூலம் மத்திய ஆசியா மற்றும் மேற்கு ஆசியாவுடன் இணைக்கப்பட்டிருந்தது. இந்த புவியியல் அமைப்பு பாரசீக மற்றும் கிரேக்க அரசுகளின் கவனத்தை ஈர்த்தது.
+
+பாரசீகப் படையெடுப்புகள்:
+
+1. இரண்டாம் சைரஸ்:
+   - இரண்டாம் சைரஸ் அக்கிமெனிட் பாரசீகப் பேரரசை நிறுவியவர்.
+   - இந்தியத் துணைக்கண்டத்தின் வடமேற்குப் பகுதிகளை நோக்கிப் பாரசீகச் செல்வாக்கை விரிவுபடுத்தினார்.
+   - அக்கிமெனிட் பேரரசின் விரிவாக்கத்தின்போது வடமேற்குப் பகுதிகளில் சில பாரசீகச் செல்வாக்கின் கீழ் வந்தன.
+
+2. முதலாம் டேரியஸ்:
+   - கி.மு. 6ஆம் நூற்றாண்டின் இறுதியில் வடமேற்கு இந்தியப் பகுதிகளில் பாரசீகக் கட்டுப்பாட்டை விரிவுபடுத்தினார்.
+   - காந்தாரம் மற்றும் சிந்து நதிப் பகுதிகள் பாரசீகப் பேரரசுடன் தொடர்புடையவையாக இருந்தன.
+   - ஹிந்துஷ் என அழைக்கப்பட்ட பகுதி பாரசீகப் பேரரசின் முக்கிய மாகாணங்களில் ஒன்றாக விளங்கியது.
+   - இந்தியப் பகுதிகள் பாரசீகப் பேரரசுக்கு கப்பம் செலுத்தின.
+   - கிரேக்க வரலாற்றாசிரியர் ஹெரோடோட்டஸ் இந்தியப் பகுதியின் செல்வம் மற்றும் கப்பம் பற்றிக் குறிப்பிட்டுள்ளார்.
+
+பாரசீகத் தொடர்பின் விளைவுகள்:
+- இந்தியாவுக்கும் மேற்கு ஆசியாவுக்கும் இடையிலான தொடர்பு அதிகரித்தது.
+- வணிக மற்றும் தூதரக உறவுகள் வளர்ச்சி பெற்றன.
+- பாரசீக நிர்வாக நடைமுறைகள் வடமேற்குப் பகுதிகளில் சில தாக்கங்களை ஏற்படுத்தின.
+- வலமிருந்து இடமாக எழுதப்படும் கரோஷ்டி எழுத்துமுறை வடமேற்கு இந்தியக் கலாச்சாரப் பகுதியில் வளர்ந்தது. இது ஈரானிய எழுத்து மரபுகளின் வலுவான தாக்கத்தைக் கொண்டிருந்தது.
+- பாரசீகக் கலை மற்றும் கட்டடக்கலை அம்சங்கள் பின்னர் வடமேற்கு இந்தியக் கலையில் தாக்கத்தை ஏற்படுத்தின.
+- அக்கிமெனிட் பேரரசின் விரிவாக்கம் பின்னர் கிரேக்கப் படையெடுப்புகளுக்கான வரலாற்றுப் பின்னணியாக அமைந்தது.
+
+அலெக்சாண்டரின் படையெடுப்பு:
+
+அலெக்சாண்டர் யார்?
+- மூன்றாம் அலெக்சாண்டர், பொதுவாக அலெக்சாண்டர் தி கிரேட் என்று அழைக்கப்படுகிறார்.
+- மாசிடோனிய மன்னர் இரண்டாம் பிலிப்பின் மகன்.
+- கி.மு. 336ஆம் ஆண்டு மன்னரானார்.
+- கிரேக்கத் தத்துவஞானி அரிஸ்டாட்டில் இவருக்கு ஆசிரியராக இருந்தார்.
+- ஆசியாவில் பல படையெடுப்புகள் மூலம் பெரிய பேரரசை உருவாக்கினார்.
+
+இந்தியாவில் அலெக்சாண்டரின் படையெடுப்பு:
+- கி.மு. 327–326 காலப்பகுதியில் வடமேற்கு இந்தியத் துணைக்கண்டத்திற்குள் நுழைந்தார்.
+- இந்து குஷ் மலைப் பகுதி வழியாக வந்தார்.
+- உள்ளூர் மன்னர்கள் மற்றும் பழங்குடியினரிடமிருந்து எதிர்ப்பைச் சந்தித்தார்.
+- பாரம்பரியக் குறிப்புகளின்படி தட்சசீலத்தை ஆண்ட அம்பி மன்னர் அலெக்சாண்டருடன் கூட்டணி அமைத்தார்.
+
+ஹைடாஸ்பஸ் போர்:
+- கி.மு. 326ஆம் ஆண்டு ஹைடாஸ்பஸ் நதிக்கரையில் நடைபெற்றது. இன்றைய ஜீலம் நதியே ஹைடாஸ்பஸ் என அழைக்கப்பட்டது.
+- அலெக்சாண்டர் மன்னர் புருஷோத்தமர் அல்லது போரஸை எதிர்த்துப் போரிட்டார்.
+- போரஸ் வலிமையான எதிர்ப்பையும் வீரத்தையும் வெளிப்படுத்தினார்.
+- அலெக்சாண்டர் போரில் வெற்றி பெற்றார். ஆனால் போரஸின் வீரத்தால் ஈர்க்கப்பட்டார்.
+- கிரேக்க வரலாற்றுக் குறிப்புகளின்படி, போரஸை அவரது பகுதியை ஆளத் தொடர்ந்து அனுமதித்தார்.
+
+பியாஸ் நதியில் அலெக்சாண்டரின் படை:
+- அலெக்சாண்டர் பியாஸ் நதியை நோக்கி முன்னேறினார்.
+- அவரது படைவீரர்கள் அதற்கு மேல் கிழக்கே செல்ல மறுத்தனர்.
+- பல ஆண்டுகளாகத் தொடர்ந்து நடைபெற்ற போர்களால் அவர்கள் சோர்வடைந்திருந்தனர்.
+- கங்கைச் சமவெளியில் இருந்த நந்தப் பேரரசு போன்ற வலிமையான அரசுகள் மற்றும் பெரிய படைகள் குறித்த தகவல்களும் அவர்களிடம் இருந்தன.
+- கி.மு. 326ஆம் ஆண்டு அலெக்சாண்டர் திரும்பிச் செல்ல முடிவு செய்தார்.
+
+திரும்புதல் மற்றும் இறப்பு:
+- அலெக்சாண்டர் தனது படைகளைப் பிரித்து திரும்பும் பயணத்தைத் தொடங்கினார்.
+- அவரது படையின் ஒரு பகுதி நியார்க்கஸ் தலைமையில் கடல் வழியாகச் சென்றது.
+- அலெக்சாண்டர் கடினமான நிலப்பகுதிகள் வழியாகத் திரும்பினார்.
+- கி.மு. 323ஆம் ஆண்டு பாபிலோனில் தனது 32ஆம் வயதில் இறந்தார்.
+
+அலெக்சாண்டரின் படையெடுப்பின் விளைவுகள்:
+
+1. இந்தியாவுக்கும் கிரேக்க உலகத்திற்கும் இடையிலான தொடர்பு அதிகரித்தது.
+2. வணிகம் மற்றும் கலாச்சாரப் பரிமாற்றம் வளர்ந்தது.
+3. கிரேக்கக் குறிப்புகள் வடமேற்கு இந்திய வரலாற்றைப் புரிந்துகொள்ள உதவின.
+4. வடமேற்குப் பகுதிகளில் சில இடங்கள் குறுகிய காலத்திற்கு மாசிடோனியக் கட்டுப்பாட்டின் கீழ் வந்தன.
+5. படையெடுப்புகள் வடமேற்கு இந்தியாவின் அரசியல் மாற்றங்களுக்கு வழிவகுத்தன.
+6. பிற கலாச்சாரத் தாக்கங்களுடன் கிரேக்கக் கலை அம்சங்களும் பின்னர் காந்தாரக் கலை வளர்ச்சியில் காணப்பட்டன.
+7. அலெக்சாண்டர் இந்தியத் துணைக்கண்டம் முழுவதையும் கைப்பற்றவில்லை.
+
+முக்கிய கிரேக்க வரலாற்றாசிரியர்கள் மற்றும் குறிப்புகள்:
+- மெகஸ்தனிஸ் பின்னர் சந்திரகுப்த மௌரியரின் அரசவைக்கு தூதராக வந்தார்.
+- அர்ரியன், புளூட்டார்க் உள்ளிட்ட கிரேக்க மற்றும் ரோமானிய எழுத்தாளர்கள் அலெக்சாண்டரின் படையெடுப்பைப் பற்றிக் குறிப்பிட்டுள்ளனர்.
+- இக்குறிப்புகள் முக்கிய வரலாற்று ஆதாரங்களாக இருந்தாலும், அவை வெவ்வேறு காலங்களிலும் பார்வைகளிலும் எழுதப்பட்டவை.
+
+TNPSC முக்கிய குறிப்புகள்:
+- இரண்டாம் சைரஸ் – அக்கிமெனிட் பாரசீகப் பேரரசை நிறுவியவர்.
+- முதலாம் டேரியஸ் – வடமேற்கு இந்தியாவில் பாரசீக ஆட்சியை விரிவுபடுத்தியவர்.
+- ஹிந்துஷ் – பாரசீக ஆட்சியின் கீழிருந்த இந்திய மாகாணத்தின் பெயர்.
+- அலெக்சாண்டர் – கி.மு. 336ஆம் ஆண்டு மாசிடோனிய மன்னரானார்.
+- ஹைடாஸ்பஸ் போர் – கி.மு. 326.
+- ஹைடாஸ்பஸ் – ஜீலம் நதி.
+- அலெக்சாண்டர் போரஸுடன் போரிட்டார்.
+- அலெக்சாண்டரின் படை பியாஸ் நதியில் முன்னேற மறுத்தது.
+- அலெக்சாண்டர் கி.மு. 326ஆம் ஆண்டு இந்தியாவிலிருந்து திரும்பினார்.
+- அலெக்சாண்டர் கி.மு. 323ஆம் ஆண்டு பாபிலோனில் இறந்தார்.
+- அலெக்சாண்டரின் படையெடுப்பு இந்திய-கிரேக்கத் தொடர்புகளை அதிகரித்தது.`,
+
+    points: [
+      "Cyrus II – Founder of Achaemenid Persian Empire",
+      "Darius I – Persian expansion into north-west India",
+      "Hindush – Persian Indian province",
+      "Alexander – King of Macedon in 336 BCE",
+      "Battle of Hydaspes – 326 BCE",
+      "Hydaspes – Jhelum River",
+      "Alexander fought Porus",
+      "Alexander's army stopped at Beas",
+      "Alexander died at Babylon in 323 BCE",
+      "Megasthenes – Ambassador to Chandragupta Maurya",
+      "இரண்டாம் சைரஸ் – பாரசீகப் பேரரசை நிறுவியவர்",
+      "முதலாம் டேரியஸ் – பாரசீக ஆட்சியை விரிவுபடுத்தியவர்",
+      "ஹிந்துஷ் – பாரசீக இந்திய மாகாணம்",
+      "ஹைடாஸ்பஸ் போர் – கி.மு. 326",
+      "ஹைடாஸ்பஸ் – ஜீலம் நதி",
+      "அலெக்சாண்டர் – போரஸ் போர்",
+      "பியாஸ் நதி – அலெக்சாண்டரின் படை திரும்பிய இடம்",
+      "அலெக்சாண்டர் இறப்பு – கி.மு. 323, பாபிலோன்",
+      "மெகஸ்தனிஸ் – சந்திரகுப்த மௌரியரின் அரசவைக்கு வந்த தூதர்"
+    ]
+  }
+
+);
