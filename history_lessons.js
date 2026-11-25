@@ -3816,3 +3816,595 @@ points:[
 }
 
 );
+
+tnpscHistoryLessons.push(
+
+{
+title: "Page 31: Gandhara and Mathura Schools of Art / காந்தார மற்றும் மதுரா கலைப் பள்ளிகள்",
+en: `During the ancient period, two important schools of sculpture developed in India: Gandhara and Mathura. Both contributed significantly to Buddhist art and religious sculpture.
+
+1. Gandhara School:
+- Developed mainly in the northwestern region of the Indian subcontinent.
+- Flourished particularly under Kushana patronage.
+- It combined Indian Buddhist themes with strong Greco-Roman artistic influences.
+- Grey schist stone was commonly used.
+- Sculptures often displayed realistic body forms, wavy hair and detailed robes.
+- The Buddha was represented in human form.
+
+2. Mathura School:
+- Developed around Mathura in present-day Uttar Pradesh.
+- Used red sandstone extensively.
+- Had strong indigenous Indian artistic traditions.
+- Produced sculptures of Buddha, Jain Tirthankaras and Hindu deities.
+- Images often displayed a more powerful and symbolic Indian style.
+
+3. Differences:
+- Gandhara: Greco-Roman influence and grey stone.
+- Mathura: Indigenous Indian influence and red sandstone.
+
+4. Historical Importance:
+Both schools contributed to the development of religious sculpture and the representation of Buddha in human form.
+
+TNPSC Important Facts:
+- Gandhara – Greco-Roman influence.
+- Mathura – Red sandstone.
+- Kushana period – Important period for both schools.
+- Buddha images – Major contribution of both traditions.`,
+ta: `பண்டைய இந்தியாவில் காந்தார மற்றும் மதுரா எனப்படும் இரண்டு முக்கிய சிற்பக்கலைப் பள்ளிகள் வளர்ச்சி பெற்றன. இவை பௌத்தக் கலை மற்றும் சமயச் சிற்ப வளர்ச்சிக்குப் பெரும் பங்களிப்பு செய்தன.
+
+1. காந்தாரக் கலை:
+- இந்தியத் துணைக்கண்டத்தின் வடமேற்குப் பகுதியில் வளர்ச்சி பெற்றது.
+- குறிப்பாக குஷாணர் ஆதரவின்கீழ் செழித்தது.
+- இந்திய பௌத்தக் கருத்துகளுடன் கிரேக்க மற்றும் ரோமானியக் கலைத் தாக்கங்கள் இணைந்தன.
+- சாம்பல் நிற ஸ்கிஸ்ட் கல் பயன்படுத்தப்பட்டது.
+- இயல்பான உடல் அமைப்பு, சுருள் முடி மற்றும் மடிப்புகளுடன் கூடிய ஆடைகள் காணப்பட்டன.
+- புத்தர் மனித உருவில் சிற்பமாக வடிவமைக்கப்பட்டார்.
+
+2. மதுராக் கலை:
+- இன்றைய உத்தரப் பிரதேசத்தில் உள்ள மதுராவை மையமாகக் கொண்டு வளர்ந்தது.
+- சிவப்பு மணற்கல் அதிகமாகப் பயன்படுத்தப்பட்டது.
+- இந்திய நாட்டுப்புறக் கலை மரபுகளின் தாக்கம் காணப்பட்டது.
+- புத்தர், சமண தீர்த்தங்கரர்கள் மற்றும் இந்துக் கடவுள்களின் சிற்பங்கள் உருவாக்கப்பட்டன.
+- இந்தியக் கலை மரபுக்கே உரிய வலிமையான உருவ அமைப்புகள் காணப்பட்டன.
+
+3. வேறுபாடுகள்:
+- காந்தாரம் – கிரேக்க, ரோமானியக் கலைத் தாக்கம்; சாம்பல் கல்.
+- மதுரா – இந்தியக் கலைத் தாக்கம்; சிவப்பு மணற்கல்.
+
+4. வரலாற்று முக்கியத்துவம்:
+இரு கலைப் பள்ளிகளும் சமயச் சிற்ப வளர்ச்சிக்கும் புத்தரை மனித உருவில் வடிவமைக்கும் மரபுக்கும் பங்களித்தன.
+
+TNPSC முக்கிய குறிப்புகள்:
+- காந்தாரம் – கிரேக்க ரோமானியக் கலைத் தாக்கம்.
+- மதுரா – சிவப்பு மணற்கல்.
+- குஷாணர் காலம் – இரு கலைப் பள்ளிகளின் வளர்ச்சிக் காலம்.
+- புத்தர் சிற்பங்கள் – இரு மரபுகளின் முக்கியப் பங்களிப்பு.`,
+points:[
+"Gandhara – Greco-Roman influence",
+"Mathura – Red sandstone",
+"Gandhara – Grey schist",
+"Kushana period – Artistic development",
+"Both schools – Buddha images",
+"காந்தாரம் – கிரேக்க ரோமானியத் தாக்கம்",
+"மதுரா – சிவப்பு மணற்கல்",
+"காந்தாரம் – சாம்பல் நிற ஸ்கிஸ்ட் கல்"
+]
+},
+
+{
+title: "Page 32: Satavahana Dynasty / சாதவாகன வம்சம்",
+en: `The Satavahanas were an important ancient Indian dynasty that ruled large parts of the Deccan. Their rule helped connect northern and southern India through trade, administration and cultural exchange.
+
+1. Foundation:
+- The Satavahana dynasty emerged in the Deccan after the decline of Mauryan power.
+- Simuka is generally regarded as its founder.
+- Their early political centre was associated with the Deccan region.
+- Pratishthana, modern Paithan in Maharashtra, became an important capital.
+
+2. Important Rulers:
+- Simuka – Founder.
+- Satakarni I – An important early ruler.
+- Gautamiputra Satakarni – One of the most powerful Satavahana rulers.
+- Vashishtiputra Pulumavi – Important successor.
+- Yajna Sri Satakarni – Associated with later Satavahana power.
+
+3. Gautamiputra Satakarni:
+- Remembered for his military achievements.
+- His achievements are described in the Nasik inscription of his mother Gautami Balashri.
+- He fought against the Western Kshatrapas, including Nahapana.
+- He strengthened Satavahana political power.
+
+4. Administration and Society:
+- The kingdom was divided into administrative units.
+- Local officials and subordinate rulers helped administer territories.
+- Land grants were made to religious institutions.
+- Matronymics, names referring to mothers, appear in royal names.
+
+5. Economy and Trade:
+- Agriculture was an important economic activity.
+- Inland and overseas trade developed.
+- Roman coins and trade connections are evidence of commercial contacts.
+- Important trade routes connected the Deccan with coastal ports.
+
+6. Religion and Art:
+- The Satavahanas supported Brahmanical traditions and also made donations to Buddhist institutions.
+- Amaravati became an important centre of Buddhist art.
+- Cave monasteries and stupas developed.
+
+TNPSC Important Facts:
+- Founder – Simuka.
+- Powerful ruler – Gautamiputra Satakarni.
+- Nasik inscription – Gautami Balashri.
+- Important capital – Pratishthana.
+- Amaravati – Buddhist art.`,
+ta: `சாதவாகனர்கள் தக்காணத்தின் பெரும்பகுதியை ஆட்சி செய்த முக்கியமான பண்டைய இந்திய வம்சத்தினர் ஆவர். வட இந்தியாவையும் தென் இந்தியாவையும் வணிகம், நிர்வாகம் மற்றும் பண்பாட்டின் மூலம் இணைப்பதில் இவர்கள் முக்கியப் பங்கு வகித்தனர்.
+
+1. தோற்றம்:
+- மௌரியர்களின் வீழ்ச்சிக்குப் பிறகு தக்காணத்தில் சாதவாகன வம்சம் உருவானது.
+- சிமுகர் இவ்வம்சத்தின் நிறுவனராகப் பொதுவாகக் கருதப்படுகிறார்.
+- இவர்களின் ஆரம்பகால அரசியல் மையம் தக்காணப் பகுதியில் அமைந்திருந்தது.
+- இன்றைய மகாராஷ்டிராவின் பைத்தான் எனப்படும் பிரதிஷ்டானம் முக்கியத் தலைநகரமாக விளங்கியது.
+
+2. முக்கிய மன்னர்கள்:
+- சிமுகர் – நிறுவனர்.
+- முதலாம் சாதகர்ணி – முக்கியமான தொடக்ககால மன்னர்.
+- கௌதமிபுத்திர சாதகர்ணி – வலிமையான சாதவாகன மன்னர்களில் ஒருவர்.
+- வசிஷ்டிபுத்திர புலுமாவி – முக்கிய வாரிசு.
+- யக்ஞ ஸ்ரீ சாதகர்ணி – பிற்கால சாதவாகன ஆட்சியுடன் தொடர்புடையவர்.
+
+3. கௌதமிபுத்திர சாதகர்ணி:
+- இராணுவ வெற்றிகளுக்காக நினைவுகூரப்படுகிறார்.
+- இவரது சாதனைகள் தாயார் கௌதமி பாலஸ்ரீயின் நாசிக் கல்வெட்டில் குறிப்பிடப்படுகின்றன.
+- நஹபானா உள்ளிட்ட மேற்கு சத்ரபர்களை எதிர்த்துப் போரிட்டார்.
+- சாதவாகன அரசியல் அதிகாரத்தை வலுப்படுத்தினார்.
+
+4. நிர்வாகமும் சமூகமும்:
+- அரசு பல நிர்வாகப் பிரிவுகளாகப் பிரிக்கப்பட்டிருந்தது.
+- உள்ளூர் அதிகாரிகளும் கீழ்நிலை ஆட்சியாளர்களும் நிர்வாகத்திற்கு உதவினர்.
+- சமய நிறுவனங்களுக்கு நிலங்கள் வழங்கப்பட்டன.
+- அரசர்களின் பெயர்களில் தாயைக் குறிக்கும் பெயரமைப்புகள் காணப்படுகின்றன.
+
+5. பொருளாதாரமும் வணிகமும்:
+- வேளாண்மை முக்கியத் தொழிலாக இருந்தது.
+- உள்நாட்டு மற்றும் கடல்கடந்த வணிகம் வளர்ச்சி பெற்றது.
+- ரோமானிய நாணயங்கள் வணிகத் தொடர்புகளுக்குச் சான்றாக உள்ளன.
+- தக்காணத்தையும் கடற்கரைத் துறைமுகங்களையும் இணைக்கும் வணிகப் பாதைகள் இருந்தன.
+
+6. மதமும் கலையும்:
+- சாதவாகனர்கள் பிராமணிய மரபுகளுக்கு ஆதரவளித்ததுடன் பௌத்த நிறுவனங்களுக்கும் நன்கொடைகள் வழங்கினர்.
+- அமராவதி பௌத்தக் கலைக்கான முக்கிய மையமாக வளர்ந்தது.
+- குகை மடங்கள் மற்றும் ஸ்தூபிகள் வளர்ச்சி பெற்றன.
+
+TNPSC முக்கிய குறிப்புகள்:
+- நிறுவனர் – சிமுகர்.
+- வலிமையான மன்னர் – கௌதமிபுத்திர சாதகர்ணி.
+- நாசிக் கல்வெட்டு – கௌதமி பாலஸ்ரீ.
+- முக்கியத் தலைநகரம் – பிரதிஷ்டானம்.
+- அமராவதி – பௌத்தக் கலை மையம்.`,
+points:[
+"Founder – Simuka",
+"Powerful ruler – Gautamiputra Satakarni",
+"Nasik inscription – Gautami Balashri",
+"Capital – Pratishthana",
+"Amaravati – Buddhist art",
+"Roman trade – Satavahana period",
+"சிமுகர் – சாதவாகன நிறுவனர்",
+"கௌதமிபுத்திர சாதகர்ணி – முக்கிய மன்னர்",
+"நாசிக் கல்வெட்டு – கௌதமி பாலஸ்ரீ",
+"அமராவதி – பௌத்தக் கலை"
+]
+},
+
+{
+title: "Page 33: Sangam Age – Sources and Political History / சங்க காலம் – ஆதாரங்களும் அரசியல் வரலாறும்",
+en: `The Sangam Age is an important period in ancient Tamil history. It is associated with early Tamil literature, the three crowned kings and active trade with overseas regions.
+
+1. Meaning of Sangam:
+- Sangam refers to an assembly or gathering of poets and scholars.
+- Tamil literary tradition remembers three Sangams.
+- The surviving Sangam literature mainly represents the later Sangam literary corpus.
+- The exact historical details and chronology of the Sangams remain subjects of scholarly discussion.
+
+2. Literary Sources:
+Important Sangam works include:
+- Ettuthokai – Eight Anthologies.
+- Pattuppattu – Ten Idylls.
+- Tolkappiyam – Ancient Tamil grammatical and literary work.
+- Pathinenkilkanakku – Eighteen Minor Works, associated with the later post-Sangam period.
+- Silappathikaram and Manimekalai belong to the post-Sangam epic tradition.
+
+3. Three Crowned Kings – Muvendar:
+- Cheras – Associated with the bow symbol.
+- Cholas – Associated with the tiger symbol.
+- Pandyas – Associated with the fish symbol.
+
+4. Cheras:
+- Ruled parts of present-day Kerala and western Tamil regions.
+- Vanji is traditionally associated with their capital.
+- Senguttuvan Chera is a famous Chera ruler.
+- The Cheras were involved in inland and overseas trade.
+
+5. Cholas:
+- Ruled the Kaveri region and parts of eastern Tamil country.
+- Uraiyur and Kaveripattinam (Puhar) were important centres.
+- Karikala Chola is one of the famous early Chola rulers.
+- He is traditionally associated with the construction or strengthening of the Kallanai across the Kaveri.
+
+6. Pandyas:
+- Ruled the southern Tamil region.
+- Madurai was their important political and cultural centre.
+- Korkai was an important port associated with pearl fisheries.
+- The Pandyas supported Tamil literary traditions.
+
+7. Other Chieftains:
+- Velir chiefs controlled smaller territories.
+- Pari, Ori, Adiyaman and other chieftains are remembered in Sangam poems.
+- Their generosity and bravery are celebrated in literature.
+
+TNPSC Important Facts:
+- Cheras – Bow.
+- Cholas – Tiger.
+- Pandyas – Fish.
+- Madurai – Pandya centre.
+- Puhar – Chola port city.
+- Korkai – Pearl fishery.`,
+ta: `சங்க காலம் பண்டைய தமிழர் வரலாற்றின் முக்கியமான காலகட்டமாகும். இக்காலம் தொடக்ககால தமிழ் இலக்கியம், மூவேந்தர்கள் மற்றும் வெளிநாடுகளுடனான வணிகத் தொடர்புகளுடன் தொடர்புடையது.
+
+1. சங்கம் என்பதன் பொருள்:
+- சங்கம் என்பது புலவர்கள் மற்றும் அறிஞர்கள் கூடும் அவையைக் குறிக்கும்.
+- தமிழ் இலக்கிய மரபு மூன்று சங்கங்களை நினைவுகூர்கிறது.
+- தற்போது கிடைக்கும் சங்க இலக்கியங்கள் பெரும்பாலும் பிற்காலச் சங்க இலக்கியத் தொகுப்புகளைச் சார்ந்தவை.
+- சங்கங்களின் துல்லியமான வரலாறு மற்றும் காலவரிசை குறித்து அறிஞர்களிடையே விவாதங்கள் உள்ளன.
+
+2. இலக்கிய ஆதாரங்கள்:
+முக்கிய சங்க இலக்கிய நூல்கள்:
+- எட்டுத்தொகை – எட்டு நூல்களின் தொகுப்பு.
+- பத்துப்பாட்டு – பத்து நீண்ட பாடல் நூல்கள்.
+- தொல்காப்பியம் – பழமையான தமிழ் இலக்கண மற்றும் இலக்கிய நூல்.
+- பதினெண்கீழ்க்கணக்கு – பிற்காலச் சங்க காலத்துடன் தொடர்புடைய பதினெட்டு சிற்றிலக்கியங்கள்.
+- சிலப்பதிகாரம், மணிமேகலை ஆகியவை பிற்காலக் காப்பிய மரபைச் சேர்ந்தவை.
+
+3. மூவேந்தர்கள்:
+- சேரர்கள் – வில் சின்னம்.
+- சோழர்கள் – புலி சின்னம்.
+- பாண்டியர்கள் – மீன் சின்னம்.
+
+4. சேரர்கள்:
+- இன்றைய கேரளா மற்றும் மேற்கு தமிழகப் பகுதிகளை ஆட்சி செய்தனர்.
+- வஞ்சி இவர்களின் தலைநகரமாக மரபில் குறிப்பிடப்படுகிறது.
+- செங்குட்டுவன் சேரன் புகழ்பெற்ற சேர மன்னர்.
+- உள்நாட்டு மற்றும் வெளிநாட்டு வணிகத்தில் ஈடுபட்டனர்.
+
+5. சோழர்கள்:
+- காவிரி பகுதி மற்றும் கிழக்குத் தமிழகத்தின் சில பகுதிகளை ஆட்சி செய்தனர்.
+- உறையூர் மற்றும் காவிரிப்பூம்பட்டினம் (புகார்) முக்கிய மையங்களாக இருந்தன.
+- கரிகால சோழன் புகழ்பெற்ற தொடக்ககாலச் சோழ மன்னர்.
+- காவிரியின் குறுக்கே கல்லணையைக் கட்டிய அல்லது வலுப்படுத்திய மன்னராக மரபில் குறிப்பிடப்படுகிறார்.
+
+6. பாண்டியர்கள்:
+- தென் தமிழகத்தை ஆட்சி செய்தனர்.
+- மதுரை முக்கிய அரசியல் மற்றும் பண்பாட்டு மையமாக இருந்தது.
+- கொற்கை முத்து மீன்பிடித் தொழிலுக்குப் புகழ்பெற்ற துறைமுகமாக இருந்தது.
+- தமிழ் இலக்கிய மரபுகளுக்கு ஆதரவளித்தனர்.
+
+7. குறுநில மன்னர்கள்:
+- வேளிர் தலைவர்கள் சிறிய நிலப்பகுதிகளை ஆட்சி செய்தனர்.
+- பாரி, ஓரி, அதியமான் போன்ற தலைவர்கள் சங்கப் பாடல்களில் போற்றப்படுகின்றனர்.
+- அவர்களின் கொடை மற்றும் வீரச் செயல்கள் இலக்கியங்களில் இடம்பெற்றுள்ளன.
+
+TNPSC முக்கிய குறிப்புகள்:
+- சேரர் – வில்.
+- சோழர் – புலி.
+- பாண்டியர் – மீன்.
+- மதுரை – பாண்டியர் மையம்.
+- புகார் – சோழர் துறைமுகம்.
+- கொற்கை – முத்துத் தொழில்.`,
+points:[
+"Ettuthokai – Eight Anthologies",
+"Pattuppattu – Ten Idylls",
+"Tolkappiyam – Grammar and literary work",
+"Cheras – Bow",
+"Cholas – Tiger",
+"Pandyas – Fish",
+"Karikala Chola – Kallanai tradition",
+"Korkai – Pearl fishery",
+"எட்டுத்தொகை – எட்டு நூல்கள்",
+"பத்துப்பாட்டு – பத்து நூல்கள்",
+"சேரர் – வில்",
+"சோழர் – புலி",
+"பாண்டியர் – மீன்",
+"கொற்கை – முத்துத் தொழில்"
+]
+},
+
+{
+title: "Page 34: Sangam Society and Economy / சங்ககாலச் சமூகம் மற்றும் பொருளாதாரம்",
+en: `Sangam literature provides valuable information about the society, occupations, trade, agriculture, food, clothing and everyday life of ancient Tamil people.
+
+1. Five Thinai Landscapes:
+Sangam literature classifies landscapes into five ecological regions called Thinai.
+
+- Kurinji – Mountain region; hunting and gathering; Murugan.
+- Mullai – Forest and pastoral region; cattle rearing; Mayon (Vishnu).
+- Marutham – Agricultural plains; farming; Indra.
+- Neithal – Coastal region; fishing and salt production; Varunan.
+- Palai – Arid or drought-affected landscape; travel and hardship; Kotravai.
+
+2. Occupations:
+- Agriculture was a major occupation.
+- Fishing and pearl diving were important coastal activities.
+- Weaving, pottery, metalworking and jewellery making developed.
+- Cattle rearing was important in pastoral regions.
+- Salt production was carried out in coastal areas.
+
+3. Agriculture:
+- Paddy was an important crop.
+- Sugarcane, millets and other crops were cultivated.
+- Irrigation and water management supported agriculture.
+- The Kaveri river basin was an important agricultural region.
+
+4. Trade:
+- Internal trade took place between different ecological regions.
+- Coastal ports connected Tamil regions with overseas markets.
+- Important ports included Puhar, Korkai and Muchiri.
+- Roman trade is supported by archaeological discoveries, including coins and material remains.
+- Pepper, pearls, textiles and other goods were traded.
+
+5. Society:
+- Society included farmers, merchants, fishermen, pastoralists, artisans, warriors and poets.
+- Women participated in literary and social life.
+- Avvaiyar is an important woman poet remembered in Tamil literary tradition.
+- Hospitality, generosity, bravery and honour were valued.
+
+6. Food and Clothing:
+- Food habits varied according to ecological regions and occupations.
+- Rice, millet, fish, meat, fruits and dairy products were consumed.
+- Cotton clothing and ornaments were used.
+
+7. Religion and Beliefs:
+- Worship of Murugan, Mayon, Kotravai and other deities appears in Sangam literature.
+- Hero stones called Nadukal were erected in memory of fallen warriors.
+- Nature and landscape were closely associated with religious and cultural life.
+
+TNPSC Important Facts:
+- Kurinji – Mountain.
+- Mullai – Pastoral land.
+- Marutham – Agricultural land.
+- Neithal – Coastal land.
+- Palai – Arid land.
+- Puhar, Korkai and Muchiri – Important ports.`,
+ta: `சங்க இலக்கியங்கள் பண்டைய தமிழர்களின் சமூகம், தொழில்கள், வணிகம், வேளாண்மை, உணவு, உடை மற்றும் அன்றாட வாழ்க்கை பற்றிய முக்கியமான தகவல்களை வழங்குகின்றன.
+
+1. ஐந்திணை:
+சங்க இலக்கியம் நிலப்பரப்பை ஐந்து திணைகளாகப் பிரிக்கிறது.
+
+- குறிஞ்சி – மலைப்பகுதி; வேட்டையாடுதல்; முருகன்.
+- முல்லை – காடும் மேய்ச்சல் நிலமும்; கால்நடை வளர்ப்பு; மாயோன்.
+- மருதம் – வயல் மற்றும் சமவெளி; வேளாண்மை; இந்திரன்.
+- நெய்தல் – கடற்கரைப் பகுதி; மீன்பிடித்தல் மற்றும் உப்பு உற்பத்தி; வருணன்.
+- பாலை – வறண்ட நிலம்; பயணம் மற்றும் துன்பங்கள்; கொற்றவை.
+
+2. தொழில்கள்:
+- வேளாண்மை முக்கியத் தொழிலாக இருந்தது.
+- மீன்பிடித்தல் மற்றும் முத்துக்குளித்தல் கடற்கரைத் தொழில்களாக இருந்தன.
+- நெசவு, மண்பாண்டம், உலோக வேலை மற்றும் அணிகலன் தயாரித்தல் வளர்ச்சி பெற்றன.
+- மேய்ச்சல் நிலங்களில் கால்நடை வளர்ப்பு முக்கியமாக இருந்தது.
+- கடற்கரைப் பகுதிகளில் உப்பு உற்பத்தி நடைபெற்றது.
+
+3. வேளாண்மை:
+- நெல் முக்கியப் பயிராக இருந்தது.
+- கரும்பு, சிறுதானியங்கள் மற்றும் பிற பயிர்களும் பயிரிடப்பட்டன.
+- பாசனம் மற்றும் நீர் மேலாண்மை வேளாண்மைக்கு உதவின.
+- காவிரி ஆற்றுப் பகுதி முக்கிய வேளாண் நிலமாக இருந்தது.
+
+4. வணிகம்:
+- பல்வேறு திணைப் பகுதிகளுக்கு இடையே உள்நாட்டு வணிகம் நடைபெற்றது.
+- கடற்கரைத் துறைமுகங்கள் வெளிநாட்டு வணிகத்தை இணைத்தன.
+- புகார், கொற்கை, முசிறி ஆகியவை முக்கியத் துறைமுகங்கள்.
+- ரோமானிய நாணயங்கள் மற்றும் தொல்லியல் பொருட்கள் வெளிநாட்டு வணிகத் தொடர்புகளுக்குச் சான்றாக உள்ளன.
+- மிளகு, முத்து, துணிகள் உள்ளிட்ட பொருட்கள் வணிகம் செய்யப்பட்டன.
+
+5. சமூகம்:
+- உழவர்கள், வணிகர்கள், மீனவர்கள், ஆயர்கள், கைவினைஞர்கள், வீரர்கள் மற்றும் புலவர்கள் சமூகத்தில் இடம்பெற்றனர்.
+- பெண்கள் இலக்கிய மற்றும் சமூக வாழ்க்கையில் பங்கேற்றனர்.
+- அவ்வையார் புகழ்பெற்ற பெண் புலவராக நினைவுகூரப்படுகிறார்.
+- விருந்தோம்பல், கொடை, வீரம் மற்றும் மானம் ஆகியவை மதிக்கப்பட்டன.
+
+6. உணவும் உடையும்:
+- நிலம் மற்றும் தொழிலுக்கு ஏற்ப உணவுப் பழக்கங்கள் மாறுபட்டன.
+- அரிசி, சிறுதானியங்கள், மீன், இறைச்சி, பழங்கள் மற்றும் பால் பொருட்கள் பயன்படுத்தப்பட்டன.
+- பருத்தி ஆடைகள் மற்றும் அணிகலன்கள் பயன்பாட்டில் இருந்தன.
+
+7. சமயமும் நம்பிக்கைகளும்:
+- முருகன், மாயோன், கொற்றவை போன்ற தெய்வ வழிபாடுகள் சங்க இலக்கியங்களில் இடம்பெற்றுள்ளன.
+- போரில் உயிரிழந்த வீரர்களின் நினைவாக நடுகற்கள் அமைக்கப்பட்டன.
+- இயற்கையும் நிலப்பரப்பும் சமய மற்றும் பண்பாட்டு வாழ்க்கையுடன் தொடர்புடையவையாக இருந்தன.
+
+TNPSC முக்கிய குறிப்புகள்:
+- குறிஞ்சி – மலை.
+- முல்லை – மேய்ச்சல் நிலம்.
+- மருதம் – வேளாண் நிலம்.
+- நெய்தல் – கடற்கரை.
+- பாலை – வறண்ட நிலம்.
+- புகார், கொற்கை, முசிறி – முக்கியத் துறைமுகங்கள்.`,
+points:[
+"Kurinji – Mountain",
+"Mullai – Pastoral land",
+"Marutham – Agricultural land",
+"Neithal – Coastal land",
+"Palai – Arid land",
+"Puhar – Chola port",
+"Korkai – Pearl trade",
+"Muchiri – Important port",
+"குறிஞ்சி – மலை",
+"முல்லை – மேய்ச்சல் நிலம்",
+"மருதம் – வயல்",
+"நெய்தல் – கடற்கரை",
+"பாலை – வறண்ட நிலம்",
+"நடுகல் – வீரர் நினைவுச் சின்னம்"
+]
+},
+
+{
+title: "Page 35: Sangam Literature and Tamil Culture / சங்க இலக்கியமும் தமிழர் பண்பாடும்",
+en: `Sangam literature is one of the most important sources for understanding ancient Tamil language, society, politics, economy and culture. It contains poems about love, war, generosity, nature and everyday life.
+
+1. Major Sangam Collections:
+- Ettuthokai – Eight Anthologies.
+- Pattuppattu – Ten Idylls.
+- Tolkappiyam – Important work on Tamil grammar and poetics.
+- Pathinenkilkanakku – Eighteen Minor Works, generally associated with the post-Sangam period.
+
+2. Ettuthokai:
+The Eight Anthologies include:
+- Natrinai.
+- Kuruntokai.
+- Ainkurunuru.
+- Pathitrupathu.
+- Paripadal.
+- Kalithokai.
+- Akananuru.
+- Purananuru.
+
+3. Pattuppattu:
+The Ten Idylls include:
+- Tirumurukarruppatai.
+- Porunararruppatai.
+- Sirupanarruppatai.
+- Perumpanarruppatai.
+- Mullaippattu.
+- Maduraikkanchi.
+- Nedunalvadai.
+- Kurinjippattu.
+- Pattinappalai.
+- Malaipadukadam.
+
+4. Akam and Puram:
+- Akam deals with love, personal feelings and family life.
+- Puram deals with war, heroism, kingship, generosity and public life.
+- These two themes are central to classical Sangam poetry.
+
+5. Tolkappiyam:
+- Traditionally attributed to Tolkappiyar.
+- Deals with Tamil grammar, phonology, words, meaning and poetic conventions.
+- Contains three major sections: Ezhuttatikaram, Sollatikaram and Porulatikaram.
+
+6. Important Poets:
+- Kapilar – Important Sangam poet.
+- Paranar – Famous poet.
+- Avvaiyar – Celebrated woman poet.
+- Nakkirar – Important literary figure.
+- Kaniyan Pungundranar – Known for the poem beginning with 'Yaadhum Oore Yaavarum Kelir'.
+
+7. Tamil Culture:
+- Sangam poems describe music, dance, warfare, trade and hospitality.
+- The concepts of Thinai connect geography with human emotions and occupations.
+- Hero stones preserve memories of warriors.
+- Tamil maritime trade connected the region with overseas societies.
+
+8. Later Tamil Epics:
+- Silappathikaram – Traditionally attributed to Ilango Adigal.
+- Manimekalai – Traditionally attributed to Sattanar.
+- These are important post-Sangam Tamil epics.
+
+TNPSC Important Facts:
+- Ettuthokai – Eight Anthologies.
+- Pattuppattu – Ten Idylls.
+- Tolkappiyam – Tamil grammar and poetics.
+- Akam – Love and inner life.
+- Puram – War and public life.
+- Silappathikaram – Ilango Adigal.
+- Manimekalai – Sattanar.`,
+ta: `சங்க இலக்கியம் பண்டைய தமிழர்களின் மொழி, சமூகம், அரசியல், பொருளாதாரம் மற்றும் பண்பாட்டைப் புரிந்துகொள்ள உதவும் முக்கியமான ஆதாரமாகும். காதல், போர், கொடை, இயற்கை மற்றும் அன்றாட வாழ்க்கையைப் பற்றிய பாடல்கள் இதில் இடம்பெற்றுள்ளன.
+
+1. முக்கிய சங்க இலக்கியத் தொகுப்புகள்:
+- எட்டுத்தொகை – எட்டு நூல்களின் தொகுப்பு.
+- பத்துப்பாட்டு – பத்து நீண்ட பாடல் நூல்கள்.
+- தொல்காப்பியம் – தமிழ் இலக்கணம் மற்றும் செய்யுளியல் தொடர்பான முக்கிய நூல்.
+- பதினெண்கீழ்க்கணக்கு – பொதுவாகப் பிற்காலச் சங்க காலத்துடன் தொடர்புடைய பதினெட்டு நூல்கள்.
+
+2. எட்டுத்தொகை:
+எட்டுத்தொகையில் இடம்பெறும் நூல்கள்:
+- நற்றிணை.
+- குறுந்தொகை.
+- ஐங்குறுநூறு.
+- பதிற்றுப்பத்து.
+- பரிபாடல்.
+- கலித்தொகை.
+- அகநானூறு.
+- புறநானூறு.
+
+3. பத்துப்பாட்டு:
+பத்துப்பாட்டில் இடம்பெறும் நூல்கள்:
+- திருமுருகாற்றுப்படை.
+- பொருநராற்றுப்படை.
+- சிறுபாணாற்றுப்படை.
+- பெரும்பாணாற்றுப்படை.
+- முல்லைப்பாட்டு.
+- மதுரைக்காஞ்சி.
+- நெடுநல்வாடை.
+- குறிஞ்சிப்பாட்டு.
+- பட்டினப்பாலை.
+- மலைபடுகடாம்.
+
+4. அகம் மற்றும் புறம்:
+- அகம் என்பது காதல், தனிப்பட்ட உணர்வுகள் மற்றும் குடும்ப வாழ்க்கையைப் பற்றியது.
+- புறம் என்பது போர், வீரம், மன்னராட்சி, கொடை மற்றும் பொதுவாழ்க்கையைப் பற்றியது.
+- இவ்விரு கருத்துகளும் சங்க இலக்கியத்தின் அடிப்படையாக உள்ளன.
+
+5. தொல்காப்பியம்:
+- தொல்காப்பியருக்கு மரபாக உரியதாகக் கருதப்படுகிறது.
+- தமிழ் எழுத்து, சொல், பொருள் மற்றும் செய்யுள் மரபுகளை விளக்குகிறது.
+- எழுத்ததிகாரம், சொல்லதிகாரம், பொருளதிகாரம் என மூன்று முக்கியப் பிரிவுகளைக் கொண்டது.
+
+6. முக்கியப் புலவர்கள்:
+- கபிலர் – முக்கிய சங்கப் புலவர்.
+- பரணர் – புகழ்பெற்ற புலவர்.
+- அவ்வையார் – புகழ்பெற்ற பெண் புலவர்.
+- நக்கீரர் – முக்கிய இலக்கிய ஆளுமை.
+- கணியன் பூங்குன்றனார் – 'யாதும் ஊரே யாவரும் கேளிர்' என்ற பாடலால் புகழ்பெற்றவர்.
+
+7. தமிழர் பண்பாடு:
+- சங்கப் பாடல்கள் இசை, நடனம், போர், வணிகம் மற்றும் விருந்தோம்பலை விளக்குகின்றன.
+- திணைக் கோட்பாடு நில அமைப்பையும் மனித உணர்வுகள் மற்றும் தொழில்களையும் இணைக்கிறது.
+- வீரர்களின் நினைவாக நடுகற்கள் அமைக்கப்பட்டன.
+- கடல்வழி வணிகம் தமிழ்ப் பகுதிகளை வெளிநாட்டு சமூகங்களுடன் இணைத்தது.
+
+8. பிற்காலத் தமிழ் காப்பியங்கள்:
+- சிலப்பதிகாரம் – மரபின்படி இளங்கோ அடிகள் இயற்றிய நூல்.
+- மணிமேகலை – மரபின்படி சீத்தலைச் சாத்தனார் இயற்றிய நூல்.
+- இவை முக்கியமான பிற்காலத் தமிழ் காப்பியங்களாகும்.
+
+TNPSC முக்கிய குறிப்புகள்:
+- எட்டுத்தொகை – எட்டு நூல்கள்.
+- பத்துப்பாட்டு – பத்து நூல்கள்.
+- தொல்காப்பியம் – தமிழ் இலக்கணம் மற்றும் செய்யுளியல்.
+- அகம் – காதல் மற்றும் அக வாழ்க்கை.
+- புறம் – போர் மற்றும் பொதுவாழ்க்கை.
+- சிலப்பதிகாரம் – இளங்கோ அடிகள்.
+- மணிமேகலை – சீத்தலைச் சாத்தனார்.`,
+points:[
+"Ettuthokai – Eight Anthologies",
+"Pattuppattu – Ten Idylls",
+"Tolkappiyam – Tamil grammar",
+"Akam – Love and inner life",
+"Puram – War and public life",
+"Kapilar – Sangam poet",
+"Avvaiyar – Woman poet",
+"Kaniyan Pungundranar – Yaadhum Oore",
+"Silappathikaram – Ilango Adigal",
+"Manimekalai – Sattanar",
+"எட்டுத்தொகை – எட்டு நூல்கள்",
+"பத்துப்பாட்டு – பத்து நூல்கள்",
+"தொல்காப்பியம் – தமிழ் இலக்கணம்",
+"அகம் – காதல்",
+"புறம் – வீரம் மற்றும் போர்",
+"கபிலர் – சங்கப் புலவர்",
+"அவ்வையார் – பெண் புலவர்",
+"சிலப்பதிகாரம் – இளங்கோ அடிகள்",
+"மணிமேகலை – சாத்தனார்"
+]
+}
+
+);
+
