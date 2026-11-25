@@ -59,7 +59,7 @@ const tnpscPolityLessons = [
     en: "Articles 14 to 18 deal with the Right to Equality. They provide equality before law, prohibit discrimination on specified grounds, ensure equality of opportunity in public employment, abolish untouchability and abolish titles except military and academic distinctions.",
     ta: "14 முதல் 18 வரையிலான சரத்துகள் சமத்துவ உரிமையைப் பற்றிக் கூறுகின்றன. சட்டத்தின் முன் சமத்துவம், குறிப்பிட்ட காரணங்களின் அடிப்படையில் பாகுபாடு தடை, அரசுப் பணியில் சம வாய்ப்பு, தீண்டாமை ஒழிப்பு மற்றும் ராணுவம், கல்வி சார்ந்த சிறப்புப் பட்டங்களைத் தவிர பிற பட்டங்கள் ஒழிப்பு ஆகியவற்றை இவை வழங்குகின்றன.",
     points: ["Article 14 – Equality before law", "Article 15 – Prohibition of discrimination", "Article 16 – Equality in public employment", "Article 17 – Abolition of untouchability", "Article 18 – Abolition of titles"]
-  }
+  },
 
   {
     title: "11. Right to Freedom / சுதந்திர உரிமை",
@@ -120,7 +120,7 @@ const tnpscPolityLessons = [
     en: "The Prime Minister heads the Union Council of Ministers. Article 74 provides for the Council of Ministers to aid and advise the President. Article 75 deals with appointment and collective responsibility to the Lok Sabha.",
     ta: "பிரதமர் மத்திய அமைச்சரவைக்குத் தலைமை வகிக்கிறார். 74வது சரத்து குடியரசுத் தலைவருக்கு உதவி மற்றும் ஆலோசனை வழங்கும் அமைச்சரவையைப் பற்றிக் கூறுகிறது. 75வது சரத்து அமைச்சர்களின் நியமனம் மற்றும் மக்களவைக்கான கூட்டுப் பொறுப்பைப் பற்றிக் கூறுகிறது.",
     points: ["Article 74 – Council of Ministers", "Article 75 – Appointment of Ministers", "Collective responsibility to Lok Sabha"]
-  }
+  },
 
   {
     title: "21. Indian Parliament / இந்திய நாடாளுமன்றம்",
@@ -500,6 +500,6 @@ const tnpscPolityLessons = [
     "District administration is headed by the District Collector.",
     "Local bodies play an important role in sanitation, drinking water, roads and local development."
   ]
-}
+  }
 ];
 
