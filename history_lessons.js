@@ -1260,4 +1260,541 @@ TNPSC மறுபார்வை:
 
 );
 
+tnpscHistoryLessons.push(
+
+  {
+    title: "10. Mahajanapadas – Sixteen Great Kingdoms / மகாஜனபதங்கள் – பதினாறு பெரும் நாடுகள்",
+
+    en: `By the 6th century BCE, major political changes took place in northern India. Small tribal territories gradually developed into larger states called Janapadas and Mahajanapadas.
+
+The word Janapada means the territory where a Jana or tribe settled. Mahajanapada means a great or powerful territorial state.
+
+The Buddhist text Anguttara Nikaya mentions sixteen Mahajanapadas. Jain texts also provide lists, although some names differ.
+
+THE SIXTEEN MAHAJANAPADAS:
+
+1. Anga – Capital: Champa. Located in present-day eastern Bihar and adjoining Bengal. It was eventually conquered by Magadha.
+
+2. Magadha – Early capital: Rajagriha (Rajgir); later capital: Pataliputra. It became the most powerful kingdom in northern India.
+
+3. Kasi – Capital: Varanasi. It was an important centre of trade and political activity.
+
+4. Kosala – Important capitals: Shravasti and Ayodhya. King Prasenajit was an important ruler.
+
+5. Vajji – Capital: Vaishali. It was a confederacy that included the Licchavis and other clans. It followed a republican or gana-sangha form of government.
+
+6. Malla – Important centres: Kushinara and Pava. It was another gana-sangha political organisation. Buddha attained Mahaparinirvana at Kushinara.
+
+7. Chedi – Capital: Suktimati. It was located in the Bundelkhand region.
+
+8. Vatsa – Capital: Kaushambi. King Udayana was an important ruler.
+
+9. Kuru – Capital: Indraprastha. It was associated with the region around present-day Delhi and Haryana.
+
+10. Panchala – Important centres: Ahichchhatra in the north and Kampilya in the south. It occupied parts of present-day Uttar Pradesh.
+
+11. Matsya – Capital: Viratanagara, generally identified with the region around present-day Bairat in Rajasthan.
+
+12. Surasena – Capital: Mathura. It was an important centre of trade and culture.
+
+13. Assaka or Asmaka – Located in the Godavari valley. It was the only Mahajanapada generally placed south of the Vindhya region.
+
+14. Avanti – Important centres: Ujjain and Mahishmati. King Pradyota was an important ruler.
+
+15. Gandhara – Capital: Taxila. It was an important centre of education, trade and cultural exchange.
+
+16. Kamboja – Located in the north-western region. Rajapura is mentioned as its capital in some traditional accounts.
+
+POLITICAL SYSTEMS:
+The Mahajanapadas had different forms of government:
+- Monarchical states were ruled by kings.
+- Gana-sanghas were governed by assemblies of clan leaders or representatives.
+- Vajji and Malla are important examples of republican-style political organisations.
+
+WHY WERE MAHAJANAPADAS IMPORTANT?
+- They encouraged the growth of cities and towns.
+- Agriculture expanded with the use of iron tools.
+- Trade and commerce developed.
+- Punch-marked coins came into circulation.
+- Roads and trade routes connected different regions.
+- New religious movements such as Buddhism and Jainism developed during this period.
+
+IMPORTANT TNPSC FACTS:
+- The Anguttara Nikaya mentions sixteen Mahajanapadas.
+- Magadha eventually became the most powerful Mahajanapada.
+- Taxila was the capital of Gandhara.
+- Mathura was the capital of Surasena.
+- Vaishali was associated with the Vajji confederacy.
+- Kaushambi was the capital of Vatsa.
+- Assaka was located in the Godavari valley.
+- Buddha attained Mahaparinirvana at Kushinara, in the Malla territory.`,
+
+    ta: `கி.மு. 6ஆம் நூற்றாண்டில் வட இந்தியாவில் முக்கியமான அரசியல் மாற்றங்கள் ஏற்பட்டன. சிறிய பழங்குடியினர் வாழ்ந்த பகுதிகள் படிப்படியாகப் பெரிய அரசுகளாக வளர்ந்தன. இவை ஜனபதங்கள் மற்றும் மகாஜனபதங்கள் என்று அழைக்கப்பட்டன.
+
+ஜனபதம் என்பது ஒரு பழங்குடியினர் குடியேறி வாழ்ந்த பகுதியைக் குறிக்கும். மகாஜனபதம் என்பது பெரிய அல்லது வலிமையான நிலப்பரப்பு அரசைக் குறிக்கும்.
+
+பௌத்த நூலான அங்குத்தர நிகாயம் பதினாறு மகாஜனபதங்களைக் குறிப்பிடுகிறது. சமண நூல்களிலும் பட்டியல்கள் காணப்படுகின்றன. சில பெயர்களில் வேறுபாடுகள் உள்ளன.
+
+பதினாறு மகாஜனபதங்கள்:
+
+1. அங்கம் – தலைநகரம்: சம்பா. இன்றைய பீகாரின் கிழக்குப் பகுதி மற்றும் வங்காளத்தை ஒட்டிய பகுதிகளில் அமைந்திருந்தது. பின்னர் மகதத்தால் கைப்பற்றப்பட்டது.
+
+2. மகதம் – தொடக்கத் தலைநகரம்: ராஜகிரகம் (ராஜ்கிர்); பின்னர்: பாடலிபுத்திரம். வட இந்தியாவின் மிக வலிமையான அரசாக வளர்ந்தது.
+
+3. காசி – தலைநகரம்: வாரணாசி. வணிகம் மற்றும் அரசியல் நடவடிக்கைகளின் முக்கிய மையமாக இருந்தது.
+
+4. கோசலம் – முக்கியத் தலைநகரங்கள்: சிராவஸ்தி மற்றும் அயோத்தி. பிரசேனஜித் முக்கியமான மன்னர்.
+
+5. வஜ்ஜி – தலைநகரம்: வைசாலி. லிச்சாவிகள் உள்ளிட்ட பல குலங்களை உள்ளடக்கிய கூட்டமைப்பாக இருந்தது. கணசங்க அல்லது குடியரசு முறையிலான ஆட்சியைக் கொண்டிருந்தது.
+
+6. மல்லம் – முக்கிய மையங்கள்: குஷிநகர் மற்றும் பாவா. இதுவும் கணசங்க ஆட்சி முறையைக் கொண்டிருந்தது. புத்தர் குஷிநகரில் மகாபரிநிர்வாணம் அடைந்தார்.
+
+7. சேதி – தலைநகரம்: சுக்திமதி. புந்தேல்கண்ட் பகுதியில் அமைந்திருந்தது.
+
+8. வத்சம் – தலைநகரம்: கௌசாம்பி. உதயனன் முக்கியமான மன்னர்.
+
+9. குரு – தலைநகரம்: இந்திரப்பிரஸ்தம். இன்றைய டெல்லி மற்றும் ஹரியானாவைச் சுற்றிய பகுதிகளுடன் தொடர்புடையது.
+
+10. பாஞ்சாலம் – வடக்கில் அகிச்சத்திரம், தெற்கில் காம்பில்யம் ஆகியவை முக்கிய மையங்களாக இருந்தன. இன்றைய உத்தரப் பிரதேசத்தின் சில பகுதிகளை உள்ளடக்கியது.
+
+11. மத்சியம் – தலைநகரம்: விராடநகரம். இன்றைய ராஜஸ்தானின் பைராட் பகுதியுடன் பொதுவாக அடையாளப்படுத்தப்படுகிறது.
+
+12. சூரசேனம் – தலைநகரம்: மதுரா. வணிகம் மற்றும் கலாச்சாரத்தின் முக்கிய மையமாக இருந்தது.
+
+13. அசகா அல்லது அஸ்மகம் – கோதாவரி ஆற்றுப் பள்ளத்தாக்கில் அமைந்திருந்தது. விந்திய மலைக்கு தெற்கே அமைந்திருந்ததாகக் குறிப்பிடப்படும் மகாஜனபதம் இதுவாகும்.
+
+14. அவந்தி – முக்கிய மையங்கள்: உஜ்ஜயினி மற்றும் மகிஷ்மதி. பிரத்யோதன் முக்கியமான மன்னர்.
+
+15. காந்தாரம் – தலைநகரம்: தட்சசீலம். கல்வி, வணிகம் மற்றும் கலாச்சாரப் பரிமாற்றத்தின் முக்கிய மையமாக இருந்தது.
+
+16. காம்போஜம் – வடமேற்குப் பகுதியில் அமைந்திருந்தது. சில பாரம்பரியக் குறிப்புகளில் ராஜபுரம் தலைநகரமாகக் குறிப்பிடப்படுகிறது.
+
+ஆட்சிமுறைகள்:
+- முடியாட்சி: மன்னர்கள் ஆட்சி செய்தனர்.
+- கணசங்க ஆட்சி: குலத் தலைவர்கள் அல்லது பிரதிநிதிகளைக் கொண்ட சபைகள் மூலம் ஆட்சி நடைபெற்றது.
+- வஜ்ஜி மற்றும் மல்லம் ஆகியவை குடியரசு முறையிலான அமைப்புகளுக்கு எடுத்துக்காட்டுகள்.
+
+மகாஜனபதங்களின் முக்கியத்துவம்:
+- நகரங்களின் வளர்ச்சி ஏற்பட்டது.
+- இரும்புக் கருவிகளின் பயன்பாட்டால் விவசாயம் விரிவடைந்தது.
+- வணிகமும் வர்த்தகமும் வளர்ச்சி பெற்றன.
+- முத்திரை பொறிக்கப்பட்ட நாணயங்கள் பயன்பாட்டுக்கு வந்தன.
+- சாலைகள் மற்றும் வணிகப் பாதைகள் வளர்ந்தன.
+- பௌத்தம், சமணம் போன்ற புதிய சமய இயக்கங்கள் வளர்ச்சி பெற்றன.
+
+TNPSC முக்கிய குறிப்புகள்:
+- அங்குத்தர நிகாயம் பதினாறு மகாஜனபதங்களைக் குறிப்பிடுகிறது.
+- மகதம் பின்னர் மிகவும் வலிமையான அரசாக உருவெடுத்தது.
+- தட்சசீலம் காந்தாரத்தின் தலைநகரம்.
+- மதுரா சூரசேனத்தின் தலைநகரம்.
+- வைசாலி வஜ்ஜி கூட்டமைப்புடன் தொடர்புடையது.
+- கௌசாம்பி வத்சத்தின் தலைநகரம்.
+- அசகம் கோதாவரி பள்ளத்தாக்கில் அமைந்திருந்தது.
+- புத்தர் மல்ல நாட்டிலுள்ள குஷிநகரில் மகாபரிநிர்வாணம் அடைந்தார்.`,
+
+    points: [
+      "Anguttara Nikaya – Sixteen Mahajanapadas",
+      "Magadha – Rajagriha and later Pataliputra",
+      "Gandhara – Taxila",
+      "Surasena – Mathura",
+      "Vajji – Vaishali",
+      "Vatsa – Kaushambi",
+      "Assaka – Godavari valley",
+      "Malla – Kushinara and Pava",
+      "அங்குத்தர நிகாயம் – பதினாறு மகாஜனபதங்கள்",
+      "காந்தாரம் – தட்சசீலம்",
+      "சூரசேனம் – மதுரா",
+      "வஜ்ஜி – வைசாலி",
+      "வத்சம் – கௌசாம்பி",
+      "அசகம் – கோதாவரி பள்ளத்தாக்கு"
+    ]
+  },
+
+  {
+    title: "11. Rise of Magadha – Haryanka, Shishunaga and Nanda Dynasties / மகதத்தின் எழுச்சி – ஹரியங்க, சிசுநாக மற்றும் நந்த வம்சங்கள்",
+
+    en: `Magadha emerged as the most powerful kingdom among the sixteen Mahajanapadas. Its rise began around the 6th century BCE and laid the foundation for the Mauryan Empire.
+
+GEOGRAPHICAL ADVANTAGES:
+1. Fertile Ganga plains supported agriculture and generated surplus food.
+2. Iron ore resources in nearby regions helped the production of weapons and agricultural tools.
+3. Forests supplied timber and elephants for military purposes.
+4. Rivers such as the Ganga and Son provided transport and trade routes.
+5. Its location supported trade and communication with eastern and northern India.
+
+A. HARYANKA DYNASTY
+
+Bimbisara:
+- An important early ruler of the Haryanka dynasty.
+- Ruled from Rajagriha.
+- Expanded Magadha through military campaigns and marriage alliances.
+- Married into the royal families of Kosala, the Licchavis and Madra, according to traditional accounts.
+- Conquered Anga, which strengthened Magadha's position in eastern India.
+- Was a contemporary of Gautama Buddha and Mahavira in traditional historical accounts.
+
+Ajatashatru:
+- Son and successor of Bimbisara.
+- Expanded Magadha through wars against Kosala and the Vajji confederacy.
+- Used military technology and strategic methods during conflicts.
+- Fortified Pataligrama, an important settlement near the Ganga and Son rivers.
+- The First Buddhist Council is traditionally associated with Rajagriha during his reign.
+
+Udayin:
+- Traditionally associated with shifting the capital from Rajagriha to Pataliputra.
+- Pataliputra later became a major political and administrative centre.
+
+B. SHISHUNAGA DYNASTY
+
+- Shishunaga founded the Shishunaga dynasty after the Haryanka line.
+- The dynasty expanded Magadha's influence.
+- Avanti was annexed, ending a long-standing rivalry between Magadha and Avanti.
+- Kalasoka is associated in Buddhist tradition with the Second Buddhist Council at Vaishali.
+- The dynasty helped consolidate Magadha's power.
+
+C. NANDA DYNASTY
+
+Mahapadma Nanda:
+- Traditionally regarded as the founder of the Nanda dynasty.
+- Expanded Magadha's territory.
+- Ancient accounts describe him as a powerful conqueror.
+
+Dhana Nanda:
+- Commonly identified as the last Nanda ruler.
+- Greek accounts refer to a powerful ruler and a wealthy kingdom in the region of the Gangaridai and Prasii, though identifying every detail with Dhana Nanda requires caution.
+- His reign ended when Chandragupta Maurya established the Mauryan dynasty, traditionally dated around 322 or 321 BCE.
+
+ALEXANDER AND MAGADHA:
+Alexander invaded north-western India in 326 BCE. His army refused to advance further east after reaching the Beas River, partly because of exhaustion and reports of powerful kingdoms and large armies beyond it. The Nandas ruled Magadha at this time, although Alexander did not invade Magadha.
+
+HISTORICAL IMPORTANCE:
+- Magadha's expansion created political unity over large parts of northern India.
+- Its military and administrative strength supported the rise of the Mauryan Empire.
+- Pataliputra became one of ancient India's most important cities.
+- The transition from Mahajanapadas to large empires began with Magadha's expansion.
+
+IMPORTANT TNPSC FACTS:
+- Bimbisara – Haryanka dynasty.
+- Bimbisara's capital – Rajagriha.
+- Ajatashatru – Son of Bimbisara.
+- Udayin – Traditionally associated with Pataliputra becoming the capital.
+- Shishunaga – Founder of the Shishunaga dynasty.
+- Avanti – Annexed under the Shishunaga dynasty.
+- Kalasoka – Associated with the Second Buddhist Council.
+- Mahapadma Nanda – Founder of the Nanda dynasty.
+- Dhana Nanda – Last Nanda ruler.
+- Chandragupta Maurya – Overthrew the Nandas and founded the Mauryan Empire.
+- Alexander reached the Beas River in 326 BCE.`,
+
+    ta: `பதினாறு மகாஜனபதங்களில் மகதம் மிகவும் வலிமையான அரசாக உருவெடுத்தது. கி.மு. 6ஆம் நூற்றாண்டில் தொடங்கிய அதன் எழுச்சி பின்னர் மௌரியப் பேரரசு உருவாக அடித்தளமிட்டது.
+
+மகதத்தின் புவியியல் நன்மைகள்:
+
+1. வளமான கங்கைச் சமவெளி விவசாய வளர்ச்சிக்கும் அதிக உணவு உற்பத்திக்கும் உதவியது.
+2. அருகிலுள்ள பகுதிகளில் கிடைத்த இரும்புத் தாது ஆயுதங்கள் மற்றும் விவசாயக் கருவிகள் தயாரிக்க உதவியது.
+3. காடுகள் மரவளத்தையும் போருக்குத் தேவையான யானைகளையும் வழங்கின.
+4. கங்கை மற்றும் சோன் போன்ற ஆறுகள் போக்குவரத்துக்கும் வணிகத்துக்கும் உதவின.
+5. கிழக்கு மற்றும் வட இந்தியப் பகுதிகளுடன் தொடர்பு கொள்ள ஏற்ற இடத்தில் மகதம் அமைந்திருந்தது.
+
+அ. ஹரியங்க வம்சம்
+
+பிம்பிசாரர்:
+- ஹரியங்க வம்சத்தின் முக்கியமான தொடக்ககால மன்னர்.
+- ராஜகிரகத்தைத் தலைநகரமாகக் கொண்டு ஆட்சி செய்தார்.
+- போர்கள் மற்றும் திருமணக் கூட்டணிகள் மூலம் மகதத்தின் ஆட்சிப் பகுதியை விரிவுபடுத்தினார்.
+- கோசலம், லிச்சாவி மற்றும் மத்ர அரச குடும்பங்களுடன் திருமண உறவுகளை ஏற்படுத்தியதாகப் பாரம்பரியக் குறிப்புகள் கூறுகின்றன.
+- அங்க நாட்டைக் கைப்பற்றினார். இதனால் கிழக்கு இந்தியாவில் மகதத்தின் செல்வாக்கு அதிகரித்தது.
+- பாரம்பரிய வரலாற்றுக் குறிப்புகளின்படி கௌதம புத்தர் மற்றும் மகாவீரரின் சமகாலத்தவராகக் கருதப்படுகிறார்.
+
+அஜாதசத்ரு:
+- பிம்பிசாரரின் மகனும் அவருக்குப் பின் ஆட்சி செய்தவரும் ஆவார்.
+- கோசலம் மற்றும் வஜ்ஜி கூட்டமைப்புக்கு எதிரான போர்களின் மூலம் மகதத்தை விரிவுபடுத்தினார்.
+- போர்களில் புதிய ஆயுதங்களையும் தந்திரங்களையும் பயன்படுத்தினார்.
+- கங்கை மற்றும் சோன் ஆறுகள் அருகிலிருந்த பாடலிகிராமத்தைப் பாதுகாப்பான இடமாக வலுப்படுத்தினார்.
+- இவரது ஆட்சிக்காலத்தில் ராஜகிரகத்தில் முதல் பௌத்த மாநாடு நடைபெற்றதாகப் பாரம்பரியமாகக் கூறப்படுகிறது.
+
+உதயின்:
+- ராஜகிரகத்திலிருந்து பாடலிபுத்திரத்திற்கு தலைநகரை மாற்றியவராகப் பாரம்பரியமாகக் கருதப்படுகிறார்.
+- பின்னர் பாடலிபுத்திரம் முக்கியமான அரசியல் மற்றும் நிர்வாக மையமாக வளர்ந்தது.
+
+ஆ. சிசுநாக வம்சம்
+
+- ஹரியங்க வம்சத்திற்குப் பின்னர் சிசுநாகர் சிசுநாக வம்சத்தை நிறுவினார்.
+- இந்த வம்சம் மகதத்தின் செல்வாக்கை விரிவுபடுத்தியது.
+- மகதத்திற்கும் அவந்திக்கும் இடையிலான நீண்டகாலப் போட்டிக்கு முடிவுகட்டி அவந்தி இணைக்கப்பட்டது.
+- காலசோகர் வைசாலியில் நடைபெற்றதாகக் கூறப்படும் இரண்டாவது பௌத்த மாநாட்டுடன் தொடர்புடையவர்.
+- மகதத்தின் அரசியல் வலிமையை உறுதிப்படுத்துவதில் இந்த வம்சம் பங்கு வகித்தது.
+
+இ. நந்த வம்சம்
+
+மகாபத்ம நந்தர்:
+- நந்த வம்சத்தை நிறுவியவராகப் பாரம்பரியமாகக் கருதப்படுகிறார்.
+- மகதத்தின் ஆட்சிப் பகுதியை விரிவுபடுத்தினார்.
+- பண்டைய நூல்கள் அவரை வலிமையான வெற்றியாளராக விவரிக்கின்றன.
+
+தன நந்தர்:
+- நந்த வம்சத்தின் கடைசி மன்னராகப் பொதுவாக அடையாளப்படுத்தப்படுகிறார்.
+- கங்கைச் சமவெளிப் பகுதியில் செல்வமும் பெரிய படையும் கொண்ட வலிமையான அரசர் ஆட்சி செய்ததாக கிரேக்கக் குறிப்புகள் தெரிவிக்கின்றன. அந்த விவரங்கள் அனைத்தையும் தன நந்தருடன் உறுதியாக இணைப்பதில் வரலாற்று எச்சரிக்கை தேவை.
+- சந்திரகுப்த மௌரியர் நந்தர்களை வீழ்த்தி மௌரிய வம்சத்தை நிறுவினார். இது பொதுவாக கி.மு. 322 அல்லது 321ஆம் ஆண்டாகக் குறிப்பிடப்படுகிறது.
+
+அலெக்சாண்டர் மற்றும் மகதம்:
+அலெக்சாண்டர் கி.மு. 326ஆம் ஆண்டு வடமேற்கு இந்தியாவில் படையெடுத்தார். அவரது படைகள் பியாஸ் நதியை அடைந்தபோது மேலும் கிழக்கே செல்ல மறுத்தன. நீண்ட பயணத்தால் ஏற்பட்ட சோர்வும், கிழக்கே இருந்த வலிமையான அரசுகள் மற்றும் பெரிய படைகள் பற்றிய தகவல்களும் இதற்குக் காரணங்களாகக் கூறப்படுகின்றன. அக்காலத்தில் மகதத்தை நந்தர்கள் ஆட்சி செய்தனர். ஆனால் அலெக்சாண்டர் மகதத்தின் மீது படையெடுக்கவில்லை.
+
+வரலாற்று முக்கியத்துவம்:
+- மகதத்தின் விரிவாக்கம் வட இந்தியாவின் பெரும் பகுதிகளில் அரசியல் ஒருங்கிணைப்புக்கு வழிவகுத்தது.
+- அதன் படை மற்றும் நிர்வாக வலிமை மௌரியப் பேரரசின் எழுச்சிக்கு உதவியது.
+- பாடலிபுத்திரம் பண்டைய இந்தியாவின் முக்கிய நகரங்களில் ஒன்றாக வளர்ந்தது.
+- மகாஜனபதங்களிலிருந்து பெரிய பேரரசுகளாக மாறும் அரசியல் வளர்ச்சி மகதத்தின் எழுச்சியால் வேகமடைந்தது.
+
+TNPSC முக்கிய குறிப்புகள்:
+- பிம்பிசாரர் – ஹரியங்க வம்சம்.
+- பிம்பிசாரரின் தலைநகரம் – ராஜகிரகம்.
+- அஜாதசத்ரு – பிம்பிசாரரின் மகன்.
+- உதயின் – பாடலிபுத்திரத்தைத் தலைநகரமாக்கியவராகப் பாரம்பரியமாகக் கருதப்படுகிறார்.
+- சிசுநாகர் – சிசுநாக வம்சத்தை நிறுவியவர்.
+- அவந்தி – சிசுநாக வம்சத்தின் காலத்தில் மகதத்துடன் இணைக்கப்பட்டது.
+- காலசோகர் – இரண்டாவது பௌத்த மாநாட்டுடன் தொடர்புடையவர்.
+- மகாபத்ம நந்தர் – நந்த வம்சத்தை நிறுவியவர்.
+- தன நந்தர் – கடைசி நந்த மன்னர்.
+- சந்திரகுப்த மௌரியர் – நந்தர்களை வீழ்த்தி மௌரியப் பேரரசை நிறுவியவர்.
+- அலெக்சாண்டர் கி.மு. 326ஆம் ஆண்டு பியாஸ் நதியை அடைந்தார்.`,
+
+    points: [
+      "Magadha – Most powerful Mahajanapada",
+      "Bimbisara – Haryanka dynasty",
+      "Rajagriha – Capital of Bimbisara",
+      "Ajatashatru – Son of Bimbisara",
+      "Udayin – Associated with Pataliputra",
+      "Shishunaga – Founded Shishunaga dynasty",
+      "Kalasoka – Second Buddhist Council tradition",
+      "Mahapadma Nanda – Founder of Nanda dynasty",
+      "Dhana Nanda – Last Nanda ruler",
+      "Chandragupta Maurya – Overthrew the Nandas",
+      "மகதம் – வலிமையான மகாஜனபதம்",
+      "பிம்பிசாரர் – ஹரியங்க வம்சம்",
+      "ராஜகிரகம் – பிம்பிசாரரின் தலைநகரம்",
+      "அஜாதசத்ரு – பிம்பிசாரரின் மகன்",
+      "உதயின் – பாடலிபுத்திரத்துடன் தொடர்புடையவர்",
+      "மகாபத்ம நந்தர் – நந்த வம்சத்தை நிறுவியவர்",
+      "சந்திரகுப்த மௌரியர் – நந்தர்களை வீழ்த்தியவர்"
+    ]
+  },
+
+  {
+    title: "12. Jainism – Mahavira, Teachings and Councils / சமணம் – மகாவீரர், கொள்கைகள் மற்றும் மாநாடுகள்",
+
+    en: `Jainism was one of the important religious movements that developed in northern India around the 6th century BCE. It emphasised non-violence, self-discipline, truth and liberation from the cycle of birth and death.
+
+THE TWENTY-FOUR TIRTHANKARAS:
+Jain tradition recognises twenty-four Tirthankaras, spiritual teachers who show the path to liberation.
+
+- Rishabhanatha (Adinatha) – First Tirthankara.
+- Parshvanatha – Twenty-third Tirthankara.
+- Mahavira – Twenty-fourth and last Tirthankara of the present cycle according to Jain tradition.
+
+MAHAVIRA:
+- Born at Kundagrama near Vaishali, traditionally dated to 599 BCE.
+- His father was Siddhartha and his mother was Trishala, according to Jain tradition.
+- Belonged to the Jnatrika or Naya clan.
+- His birth name is traditionally given as Vardhamana.
+- He renounced worldly life at the age of 30.
+- Practised severe austerities and meditation.
+- Attained Kevala Jnana, or perfect knowledge, after approximately twelve and a half years of spiritual practice, according to Jain tradition.
+- Preached in regions including Magadha and the Vajji area.
+- Attained Nirvana at Pavapuri. Traditional dates vary, and the chronology of Mahavira's life remains debated by historians.
+
+FIVE GREAT VOWS (MAHAVRATAS):
+1. Ahimsa – Non-violence: Avoid harming living beings.
+2. Satya – Truthfulness: Speak the truth.
+3. Asteya – Non-stealing: Do not take what is not given.
+4. Brahmacharya – Celibacy or control of sensual desires.
+5. Aparigraha – Non-possession: Avoid attachment to material possessions.
+
+Parshvanatha is traditionally associated with four vows: non-violence, truthfulness, non-stealing and non-possession. Mahavira added celibacy as a separate fifth vow.
+
+THREE JEWELS (TRIRATNA):
+1. Samyak Darshana – Right faith or right perception.
+2. Samyak Jnana – Right knowledge.
+3. Samyak Charitra – Right conduct.
+
+These three are regarded as the path to liberation (Moksha).
+
+IMPORTANT TEACHINGS:
+- Ahimsa is central to Jain philosophy.
+- All living beings are believed to possess a soul (Jiva).
+- Karma binds the soul to the cycle of birth and death.
+- Liberation is achieved by removing karmic bondage through right faith, knowledge and conduct.
+- Jainism rejects the authority of the Vedas as the ultimate religious authority.
+- It places importance on asceticism, meditation and self-control.
+- Anekantavada teaches that reality has many aspects and cannot be fully understood from a single viewpoint.
+- Syadvada expresses conditional or qualified statements about reality.
+
+JAIN SECTS:
+1. Digambara – Traditionally associated with the ideal of complete renunciation; monks follow strict rules of non-possession.
+2. Shvetambara – Monks traditionally wear white garments.
+
+The division developed over time, and the two traditions differ on certain religious texts and practices.
+
+JAIN COUNCILS:
+1. Pataliputra tradition:
+   - Associated with the preservation and organisation of Jain teachings.
+   - Sthulabhadra is traditionally connected with this council.
+   - Accounts of its date and details vary.
+
+2. Vallabhi Council:
+   - Traditionally associated with the 5th century CE.
+   - Devardhigani Kshamashramana is associated with the compilation and written preservation of the Shvetambara scriptures.
+   - It played an important role in preserving Jain religious literature.
+
+SPREAD OF JAINISM:
+- Jainism spread through parts of Bihar, Uttar Pradesh, Gujarat, Rajasthan and other regions.
+- It received support from merchants and some rulers.
+- Jain traditions became important in Karnataka and Tamil Nadu.
+- Jain monks and scholars contributed to Indian literature, philosophy, art and architecture.
+- Jainism influenced ethical ideas concerning non-violence and compassion.
+
+JAINISM IN TAMIL NADU:
+- Jainism had an important historical presence in Tamil Nadu.
+- Jain monks lived in natural caverns and hill shelters.
+- Tamil-Brahmi inscriptions are found in several Jain-associated sites.
+- Sittannavasal is famous for its Jain cave paintings.
+- Jain scholars contributed to Tamil literature and grammar.
+- Important Tamil works associated with Jain authors or traditions include Silappathikaram, Naladiyar and several grammatical and ethical works. The authorship and religious identity of some texts are subjects of scholarly discussion.
+- Jain influence is visible in Tamil ethical literature.
+
+IMPORTANT TNPSC FACTS:
+- First Tirthankara – Rishabhanatha.
+- Twenty-third Tirthankara – Parshvanatha.
+- Twenty-fourth Tirthankara – Mahavira.
+- Mahavira's traditional birth name – Vardhamana.
+- Mahavira's birthplace – Kundagrama near Vaishali.
+- Mahavira attained Nirvana at – Pavapuri.
+- Five vows – Ahimsa, Satya, Asteya, Brahmacharya and Aparigraha.
+- Three Jewels – Right faith, right knowledge and right conduct.
+- Two major sects – Digambara and Shvetambara.
+- Vallabhi Council – Associated with Devardhigani Kshamashramana.
+- Sittannavasal – Famous for Jain cave paintings in Tamil Nadu.`,
+
+    ta: `கி.மு. 6ஆம் நூற்றாண்டில் வட இந்தியாவில் வளர்ச்சியடைந்த முக்கியமான சமய இயக்கங்களில் சமணமும் ஒன்றாகும். அகிம்சை, சுயக்கட்டுப்பாடு, உண்மை மற்றும் பிறப்பு இறப்புச் சுழற்சியிலிருந்து விடுதலை பெறுதல் ஆகியவற்றை சமணம் வலியுறுத்துகிறது.
+
+இருபத்து நான்கு தீர்த்தங்கரர்கள்:
+சமண மரபின்படி, ஆன்மீக விடுதலைக்கான வழியைக் காட்டும் இருபத்து நான்கு தீர்த்தங்கரர்கள் உள்ளனர்.
+
+- ரிஷபநாதர் (ஆதிநாதர்) – முதல் தீர்த்தங்கரர்.
+- பார்சுவநாதர் – இருபத்தி மூன்றாவது தீர்த்தங்கரர்.
+- மகாவீரர் – தற்போதைய காலச் சுழற்சியின் இருபத்தி நான்காவது மற்றும் கடைசி தீர்த்தங்கரர் என்று சமண மரபு கூறுகிறது.
+
+மகாவீரர்:
+- வைசாலிக்கு அருகிலுள்ள குந்தகிராமத்தில் பிறந்தார். பாரம்பரியமாக அவரது பிறந்த ஆண்டு கி.மு. 599 எனக் குறிப்பிடப்படுகிறது.
+- தந்தை சித்தார்த்தர்; தாய் திரிசலை என்று சமண மரபு கூறுகிறது.
+- ஞாத்ரிகர் அல்லது நயர் குலத்தைச் சேர்ந்தவர்.
+- இவரது பிறப்புப் பெயர் வர்த்தமானர் எனக் குறிப்பிடப்படுகிறது.
+- தனது 30ஆம் வயதில் உலக வாழ்க்கையைத் துறந்தார்.
+- கடுமையான தவம் மற்றும் தியானத்தில் ஈடுபட்டார்.
+- சுமார் 12½ ஆண்டுகள் ஆன்மீகப் பயிற்சிக்குப் பிறகு கேவல ஞானம் எனப்படும் முழுமையான ஞானத்தை அடைந்ததாக சமண மரபு கூறுகிறது.
+- மகதம் மற்றும் வஜ்ஜி பகுதிகள் உள்ளிட்ட இடங்களில் சமணக் கொள்கைகளைப் போதித்தார்.
+- பாவாபுரியில் நிர்வாணம் அடைந்தார். அவரது வாழ்க்கைக்கான பாரம்பரிய காலக்கணக்குகள் வேறுபடுகின்றன; வரலாற்றாசிரியர்களிடையே கால நிர்ணயம் குறித்த விவாதங்கள் உள்ளன.
+
+ஐந்து பெரும் விரதங்கள்:
+
+1. அகிம்சை – உயிர்களுக்குத் தீங்கு செய்யாமை.
+2. சத்தியம் – உண்மையைப் பேசுதல்.
+3. அஸ்தேயம் – பிறர் பொருளைத் திருடாமை.
+4. பிரம்மச்சரியம் – புலனடக்கம் மற்றும் காம உணர்வுகளைக் கட்டுப்படுத்துதல்.
+5. அபரிக்ரகம் – பொருட்களின் மீதான பற்றின்மையும் உடைமைகளைக் குறைத்தலும்.
+
+பார்சுவநாதர் நான்கு விரதங்களை வலியுறுத்தியதாக மரபு கூறுகிறது: அகிம்சை, சத்தியம், அஸ்தேயம் மற்றும் அபரிக்ரகம். மகாவீரர் பிரம்மச்சரியத்தைத் தனியான ஐந்தாவது விரதமாகச் சேர்த்தார்.
+
+மும்மணிகள் (திரிரத்னம்):
+
+1. சம்யக் தரிசனம் – நற்காட்சி அல்லது சரியான நம்பிக்கை.
+2. சம்யக் ஞானம் – நல்ஞானம்.
+3. சம்யக் சரித்திரம் – நல்லொழுக்கம்.
+
+இந்த மூன்றும் மோட்சம் எனப்படும் ஆன்ம விடுதலைக்கான பாதையாகக் கருதப்படுகின்றன.
+
+சமணத்தின் முக்கியக் கொள்கைகள்:
+- அகிம்சை சமணத்தின் அடிப்படைக் கொள்கையாகும்.
+- அனைத்து உயிர்களுக்கும் ஆன்மா (ஜீவன்) உண்டு எனக் கருதப்படுகிறது.
+- கர்ம வினைகள் ஆன்மாவைப் பிறப்பு இறப்புச் சுழற்சியில் கட்டுப்படுத்துகின்றன.
+- நற்காட்சி, நல்ஞானம், நல்லொழுக்கம் ஆகியவற்றின் மூலம் கர்ம வினைப் பிணைப்புகளை நீக்கி ஆன்ம விடுதலை அடையலாம்.
+- வேதங்களின் அதிகாரத்தைச் சமணம் இறுதியான சமய அதிகாரமாக ஏற்றுக்கொள்ளவில்லை.
+- தவம், தியானம் மற்றும் சுயக்கட்டுப்பாட்டிற்கு முக்கியத்துவம் அளிக்கிறது.
+- அநேகாந்தவாதம் என்பது உண்மை பல பரிமாணங்களைக் கொண்டது; ஒரே பார்வையில் முழுமையாகப் புரிந்துகொள்ள முடியாது என்பதாகும்.
+- ஸ்யாத்வாதம் என்பது ஒரு கருத்தை நிபந்தனைக்குட்பட்ட அல்லது குறிப்பிட்ட பார்வையின் அடிப்படையில் விளக்குவதாகும்.
+
+சமணத்தின் இரு முக்கியப் பிரிவுகள்:
+
+1. திகம்பரர் – முழுமையான துறவறத்தையும் உடைமைப் பற்றின்மையையும் வலியுறுத்தும் பிரிவு. துறவிகள் கடுமையான பற்றின்மை விதிகளைப் பின்பற்றுகின்றனர்.
+2. சுவேதாம்பரர் – சமணத் துறவிகள் வெள்ளை ஆடைகளை அணியும் மரபைக் கொண்ட பிரிவு.
+
+இந்த இரு பிரிவுகளும் காலப்போக்கில் தனித்தனியாக வளர்ந்தன. சமய நூல்கள் மற்றும் சில வழிபாட்டு நடைமுறைகளில் வேறுபாடுகள் உள்ளன.
+
+சமண மாநாடுகள்:
+
+1. பாடலிபுத்திர மாநாடு:
+   - சமணக் கொள்கைகளைப் பாதுகாத்து ஒழுங்குபடுத்திய மரபுடன் தொடர்புடையது.
+   - ஸ்தூலபத்திரர் இந்த மாநாட்டுடன் பாரம்பரியமாகத் தொடர்புபடுத்தப்படுகிறார்.
+   - இதன் காலம் மற்றும் விவரங்கள் குறித்து பல்வேறு கருத்துகள் உள்ளன.
+
+2. வல்லபி மாநாடு:
+   - பொதுவாக கி.பி. 5ஆம் நூற்றாண்டுடன் தொடர்புபடுத்தப்படுகிறது.
+   - தேவார்த்திகணி க்ஷமாஸ்ரமணர் சுவேதாம்பர சமண நூல்களைத் தொகுத்து எழுத்து வடிவில் பாதுகாத்த மரபுடன் தொடர்புடையவர்.
+   - சமண சமய இலக்கியங்களைப் பாதுகாப்பதில் முக்கியப் பங்கு வகித்தது.
+
+சமண சமயத்தின் பரவல்:
+- பீகார், உத்தரப் பிரதேசம், குஜராத், ராஜஸ்தான் உள்ளிட்ட பகுதிகளில் சமணம் பரவியது.
+- வணிகர்களும் சில மன்னர்களும் ஆதரவு அளித்தனர்.
+- கர்நாடகம் மற்றும் தமிழ்நாட்டிலும் சமண மரபுகள் முக்கியத்துவம் பெற்றன.
+- சமணத் துறவிகளும் அறிஞர்களும் இந்திய இலக்கியம், தத்துவம், கலை மற்றும் கட்டடக்கலை வளர்ச்சிக்குப் பங்களித்தனர்.
+- அகிம்சை மற்றும் உயிர்களிடத்தில் இரக்கம் போன்ற அறநெறிக் கருத்துகளின் வளர்ச்சியில் சமணம் தாக்கத்தை ஏற்படுத்தியது.
+
+தமிழ்நாட்டில் சமணம்:
+- தமிழ்நாட்டில் சமணம் நீண்டகால வரலாற்றுப் பின்னணியைக் கொண்டுள்ளது.
+- சமணத் துறவிகள் இயற்கைக் குகைகள் மற்றும் மலைப்பகுதிகளில் வாழ்ந்தனர்.
+- பல சமணத் தலங்களில் தமிழ்-பிராமி கல்வெட்டுகள் காணப்படுகின்றன.
+- சித்தன்னவாசல் சமணக் குகை ஓவியங்களுக்குப் புகழ்பெற்றது.
+- சமண அறிஞர்கள் தமிழ் இலக்கியம் மற்றும் இலக்கண வளர்ச்சிக்குப் பங்களித்தனர்.
+- சிலப்பதிகாரம், நாலடியார் போன்ற தமிழ் நூல்கள் சமண ஆசிரியர்கள் அல்லது சமண மரபுகளுடன் தொடர்புபடுத்தப்படுகின்றன. சில நூல்களின் ஆசிரியர் மற்றும் சமய அடையாளம் குறித்து அறிஞர்களிடையே விவாதங்கள் உள்ளன.
+- தமிழ் அற இலக்கியங்களில் சமணத்தின் தாக்கத்தைக் காணலாம்.
+
+TNPSC முக்கிய குறிப்புகள்:
+- முதல் தீர்த்தங்கரர் – ரிஷபநாதர்.
+- 23வது தீர்த்தங்கரர் – பார்சுவநாதர்.
+- 24வது தீர்த்தங்கரர் – மகாவீரர்.
+- மகாவீரரின் பிறப்புப் பெயர் – வர்த்தமானர்.
+- மகாவீரர் பிறந்த இடம் – வைசாலிக்கு அருகிலுள்ள குந்தகிராமம்.
+- மகாவீரர் நிர்வாணம் அடைந்த இடம் – பாவாபுரி.
+- ஐந்து விரதங்கள் – அகிம்சை, சத்தியம், அஸ்தேயம், பிரம்மச்சரியம், அபரிக்ரகம்.
+- மும்மணிகள் – நற்காட்சி, நல்ஞானம், நல்லொழுக்கம்.
+- சமணத்தின் இரு முக்கியப் பிரிவுகள் – திகம்பரர், சுவேதாம்பரர்.
+- வல்லபி மாநாடு – தேவார்த்திகணி க்ஷமாஸ்ரமணருடன் தொடர்புடையது.
+- சித்தன்னவாசல் – தமிழ்நாட்டின் புகழ்பெற்ற சமணக் குகை ஓவியத் தலம்.`,
+
+    points: [
+      "First Tirthankara – Rishabhanatha",
+      "23rd Tirthankara – Parshvanatha",
+      "24th Tirthankara – Mahavira",
+      "Mahavira – Vardhamana",
+      "Birthplace – Kundagrama near Vaishali",
+      "Nirvana – Pavapuri",
+      "Five vows – Ahimsa, Satya, Asteya, Brahmacharya, Aparigraha",
+      "Three Jewels – Right faith, right knowledge, right conduct",
+      "Sects – Digambara and Shvetambara",
+      "Vallabhi Council – Devardhigani Kshamashramana",
+      "Sittannavasal – Jain cave paintings",
+      "முதல் தீர்த்தங்கரர் – ரிஷபநாதர்",
+      "23வது தீர்த்தங்கரர் – பார்சுவநாதர்",
+      "24வது தீர்த்தங்கரர் – மகாவீரர்",
+      "மகாவீரரின் பிறப்புப் பெயர் – வர்த்தமானர்",
+      "பிறந்த இடம் – குந்தகிராமம்",
+      "நிர்வாணம் அடைந்த இடம் – பாவாபுரி",
+      "மும்மணிகள் – நற்காட்சி, நல்ஞானம், நல்லொழுக்கம்",
+      "சமணப் பிரிவுகள் – திகம்பரர், சுவேதாம்பரர்",
+      "சித்தன்னவாசல் – சமணக் குகை ஓவியங்கள்"
+    ]
+  }
+
+);
+
+
 
