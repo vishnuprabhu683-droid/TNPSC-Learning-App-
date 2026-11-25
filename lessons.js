@@ -138,6 +138,9 @@ const lessons = tnpscLessons[subject];
   if (!lessons) {
     area.innerHTML = `
       <div class="card">
+<button onclick="closeTNPSCStudy()">
+  ← Back / பின்செல்
+</button>
         <h2>Study Materials / பாடங்கள்</h2>
         <p>Choose a subject / பாடத்தைத் தேர்வு செய்யவும்</p>
         ${Object.keys(tnpscLessons).map(s =>
