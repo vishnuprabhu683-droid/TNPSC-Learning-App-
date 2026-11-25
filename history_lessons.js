@@ -5357,4 +5357,129 @@ points:["Dantidurga – Rashtrakuta founder","Manyakheta – Capital","Krishna I
 
 );
 
+tnpscHistoryLessons.push(
+  {
+    title: "Page 47: Chola Dynasty – Early and Imperial Cholas / சோழர் வம்சம் – முற்கால மற்றும் பேரரசுச் சோழர்கள்",
+    en: `The Cholas were one of the three major Tamil dynasties, along with the Cheras and Pandyas. The tiger was their royal emblem. Early Cholas are mentioned in Sangam literature, including the works of Pattinappalai and Purananuru. Karikala Chola was an important early ruler traditionally associated with the construction of the Kallanai across the Kaveri River. The Cholas later became a powerful imperial dynasty under Vijayalaya Chola, who captured Thanjavur in the ninth century CE. Aditya I expanded Chola power by defeating the Pallavas. Parantaka I extended Chola influence but faced defeat at the Battle of Takkolam during the reign of his successor's generation. The imperial Cholas developed a strong navy, efficient administration, temple architecture and overseas commercial relations. Their political influence extended across much of South India and, at its height, into Sri Lanka and Southeast Asia.`,
+    ta: `சேரர், பாண்டியர் ஆகியோருடன் சோழர்களும் தமிழின் மூவேந்தர்களில் ஒருவராக விளங்கினர். புலி சோழர்களின் அரசச் சின்னமாகும். சங்க இலக்கியங்களில் முற்காலச் சோழர்கள் பற்றிய செய்திகள் காணப்படுகின்றன. பட்டினப்பாலை, புறநானூறு போன்ற நூல்கள் சோழர்களைப் பற்றிக் குறிப்பிடுகின்றன. கரிகாலச் சோழர் முக்கியமான முற்கால மன்னர். காவிரி ஆற்றின் குறுக்கே கல்லணையைக் கட்டியவர் என்ற மரபுச் சிறப்பு அவருக்கு உண்டு. ஒன்பதாம் நூற்றாண்டில் விஜயாலயச் சோழர் தஞ்சாவூரைக் கைப்பற்றி இடைக்காலப் பேரரசுச் சோழர்களின் எழுச்சிக்கு அடித்தளம் அமைத்தார். முதலாம் ஆதித்தர் பல்லவர்களைத் தோற்கடித்து சோழ நாட்டை விரிவுபடுத்தினார். முதலாம் பராந்தகர் சோழ ஆதிக்கத்தை மேலும் விரிவுபடுத்தினார். பின்னர் தக்கோலப் போர் சோழர்களுக்கு முக்கியமான பின்னடைவாக அமைந்தது. பேரரசுச் சோழர்கள் வலிமையான கடற்படை, சிறந்த நிர்வாகம், கோயில் கட்டடக்கலை மற்றும் வெளிநாட்டு வணிகத் தொடர்புகளுக்குப் புகழ்பெற்றனர்.`,
+    points: [
+      "Chola royal emblem – Tiger / சோழர்களின் அரசச் சின்னம் – புலி",
+      "Vijayalaya Chola captured Thanjavur in the ninth century CE / விஜயாலயர் ஒன்பதாம் நூற்றாண்டில் தஞ்சாவூரைக் கைப்பற்றினார்",
+      "Karikala Chola is traditionally associated with Kallanai / கல்லணையுடன் தொடர்புடைய முற்கால மன்னர் கரிகாலர்",
+      "Aditya I defeated the Pallavas / முதலாம் ஆதித்தர் பல்லவர்களைத் தோற்கடித்தார்",
+      "The Cholas developed naval and overseas trade power / சோழர்கள் கடற்படை மற்றும் கடல்கடந்த வணிகத்தை வளர்த்தனர்"
+    ]
+  },
+  {
+    title: "Page 48: Rajaraja I – Conquests and Administration / முதலாம் இராஜராஜன் – வெற்றிகளும் நிர்வாகமும்",
+    en: `Rajaraja I ruled from approximately 985 to 1014 CE and transformed the Chola kingdom into a major imperial power. He expanded Chola territory through campaigns against the Pandyas, Cheras and other regional powers. He conquered parts of northern Sri Lanka and strengthened Chola influence over the Indian Ocean. His reign saw the development of an effective administrative system, land surveys and revenue arrangements. He reorganised the army and navy and supported trade. Rajaraja I was also a major patron of religion and architecture. He built the Brihadisvara Temple at Thanjavur, also known as Rajarajesvaram, which was completed around 1010 CE. The temple is an outstanding example of Chola architecture and is now part of the UNESCO Great Living Chola Temples World Heritage property. His inscriptions provide valuable information about administration, land grants, taxation, temple management and society.`,
+    ta: `முதலாம் இராஜராஜன் கி.பி. சுமார் 985 முதல் 1014 வரை ஆட்சி செய்தார். சோழ நாட்டை வலிமையான பேரரசாக மாற்றிய முக்கிய மன்னர் ஆவார். பாண்டியர்கள், சேரர்கள் மற்றும் பிற அரசுகளுக்கு எதிராகப் போர் செய்து சோழ நாட்டின் எல்லைகளை விரிவுபடுத்தினார். இலங்கையின் வடபகுதியைக் கைப்பற்றி இந்தியப் பெருங்கடல் பகுதியில் சோழர்களின் செல்வாக்கை வலுப்படுத்தினார். இவரது ஆட்சியில் நில அளவை, வரி வசூல் மற்றும் நிர்வாக அமைப்புகள் மேம்பட்டன. படை மற்றும் கடற்படையும் வலுப்படுத்தப்பட்டன. முதலாம் இராஜராஜன் கலை, சமயம் மற்றும் கட்டடக்கலையின் சிறந்த ஆதரவாளராக இருந்தார். தஞ்சாவூரில் பிரகதீஸ்வரர் கோயிலை, இராஜராஜேஸ்வரம் என்றும் அழைக்கப்படும் இக்கோயிலை, கட்டினார். இது சுமார் கி.பி. 1010 இல் நிறைவடைந்தது. சோழர் கட்டடக்கலையின் தலைசிறந்த படைப்பாக இது விளங்குகிறது. இவரது கல்வெட்டுகள் நிலம், வரி, கோயில் நிர்வாகம் மற்றும் சமூக வாழ்க்கை பற்றிய முக்கிய தகவல்களை வழங்குகின்றன.`,
+    points: [
+      "Reign: approximately 985–1014 CE / ஆட்சிக்காலம்: சுமார் கி.பி. 985–1014",
+      "Built Brihadisvara Temple at Thanjavur / தஞ்சாவூரில் பிரகதீஸ்வரர் கோயிலைக் கட்டினார்",
+      "Temple completed around 1010 CE / கோயில் சுமார் கி.பி. 1010 இல் நிறைவடைந்தது",
+      "Expanded Chola influence into northern Sri Lanka / இலங்கையின் வடபகுதியில் சோழர் செல்வாக்கை விரிவுபடுத்தினார்",
+      "Inscriptions are important sources for Chola history / சோழர் வரலாற்றிற்கு கல்வெட்டுகள் முக்கிய ஆதாரங்கள்"
+    ]
+  },
+  {
+    title: "Page 49: Rajendra I – Overseas Expeditions and Gangaikonda Cholapuram / முதலாம் இராஜேந்திரன் – கடல்கடந்த படையெடுப்புகளும் கங்கைகொண்ட சோழபுரமும்",
+    en: `Rajendra I, son and successor of Rajaraja I, ruled approximately from 1014 to 1044 CE. He continued the expansion of the Chola Empire and led military expeditions into northern India. His northern campaign reached the Ganga region, and he adopted the title Gangaikonda Chola, meaning the Chola who conquered the Ganga region. To commemorate this achievement, he established Gangaikonda Cholapuram as his new capital and constructed a grand Shiva temple there. Rajendra I also organised a major naval expedition against Srivijaya in Southeast Asia, demonstrating Chola maritime power. The campaign affected important trading centres and sea routes. He maintained influence in Sri Lanka and other regions. His reign represents one of the high points of Chola imperial power, naval activity and international trade.`,
+    ta: `முதலாம் இராஜராஜனின் மகனும் வாரிசுமான முதலாம் இராஜேந்திரன் சுமார் கி.பி. 1014 முதல் 1044 வரை ஆட்சி செய்தார். சோழப் பேரரசின் விரிவாக்கத்தைத் தொடர்ந்து மேற்கொண்டார். வடஇந்தியாவை நோக்கிப் படையெடுத்து கங்கைப் பகுதி வரை சென்றார். இதன் நினைவாக கங்கைகொண்ட சோழன் என்ற பட்டத்தைப் பெற்றார். தனது வெற்றியை நினைவுகூர கங்கைகொண்ட சோழபுரத்தை புதிய தலைநகராக அமைத்து அங்கு பெரிய சிவன் கோயிலைக் கட்டினார். தென்கிழக்கு ஆசியாவில் ஸ்ரீவிஜய அரசுக்கு எதிராகப் பெரிய கடற்படைப் படையெடுப்பையும் மேற்கொண்டார். இது சோழர்களின் கடல்சார் வலிமையை எடுத்துக்காட்டுகிறது. முக்கியமான கடல் வணிக மையங்கள் மற்றும் வணிகப் பாதைகளில் சோழர்களின் செல்வாக்கு அதிகரித்தது. இலங்கை உள்ளிட்ட பகுதிகளிலும் சோழர்களின் ஆதிக்கம் தொடர்ந்தது. இவரது ஆட்சிக்காலம் சோழப் பேரரசின் உச்சகட்ட வலிமையை எடுத்துக்காட்டுகிறது.`,
+    points: [
+      "Son and successor of Rajaraja I / முதலாம் இராஜராஜனின் மகனும் வாரிசும்",
+      "Title: Gangaikonda Chola / பட்டம்: கங்கைகொண்ட சோழன்",
+      "Founded Gangaikonda Cholapuram / கங்கைகொண்ட சோழபுரத்தை நிறுவினார்",
+      "Led a naval expedition against Srivijaya / ஸ்ரீவிஜயத்திற்கு எதிராகக் கடற்படைப் படையெடுப்பு நடத்தினார்",
+      "His reign represents the height of Chola maritime power / சோழர்களின் கடல்சார் வலிமையின் உச்சகட்டம்"
+    ]
+  },
+  {
+    title: "Page 50: Chola Administration – Ur, Sabha and Nagaram / சோழர் நிர்வாகம் – ஊர், சபை மற்றும் நகரம்",
+    en: `The Chola Empire developed a well-organised system of central, provincial and local administration. The king was the head of the state, assisted by officials, military commanders and ministers. The empire was divided into administrative units such as mandalams, valanadus, nadus and villages, although arrangements changed over time. Local self-government was an important feature of Chola administration. Ur was the assembly of an ordinary village, Sabha or Mahasabha was the assembly of a Brahmadeya village, and Nagaram was an organisation of merchants and townspeople. The Uttaramerur inscriptions of Parantaka I's period describe procedures for selecting members of village committees through the Kudavolai system. Eligibility rules, qualifications and disqualifications were specified. Committees managed irrigation, gardens, roads, justice and financial affairs. These inscriptions are important evidence of local administration, but they should not be interpreted as modern universal democracy.`,
+    ta: `சோழப் பேரரசில் மத்திய, மாகாண மற்றும் உள்ளாட்சி நிர்வாகம் சிறப்பாக அமைந்திருந்தது. மன்னர் அரசின் தலைவராக இருந்து அமைச்சர்கள், அதிகாரிகள் மற்றும் படைத்தலைவர்களின் உதவியுடன் ஆட்சி செய்தார். மண்டலம், வளநாடு, நாடு, ஊர் போன்ற நிர்வாகப் பிரிவுகள் இருந்தன. காலத்திற்கேற்ப இவற்றில் மாற்றங்கள் ஏற்பட்டன. உள்ளாட்சி அமைப்புகள் சோழர் நிர்வாகத்தின் முக்கிய அம்சமாகும். சாதாரண கிராமத்தின் நிர்வாகக் குழு ஊர் எனப்பட்டது. பிரம்மதேயக் கிராமத்தின் சபை அல்லது மகாசபை முக்கிய நிர்வாக அமைப்பாக இருந்தது. வணிகர்கள் மற்றும் நகர மக்களின் அமைப்பு நகரம் எனப்பட்டது. முதலாம் பராந்தகரின் காலத்தைச் சேர்ந்த உத்திரமேரூர் கல்வெட்டுகள் குடவோலை முறையை விளக்குகின்றன. குழு உறுப்பினர்களைத் தேர்ந்தெடுப்பதற்கான தகுதிகள் மற்றும் தகுதியின்மைகள் குறிப்பிடப்பட்டுள்ளன. நீர்ப்பாசனம், தோட்டங்கள், சாலைகள், நீதி மற்றும் நிதி போன்ற பணிகளை குழுக்கள் கவனித்தன. இக்கல்வெட்டுகள் உள்ளாட்சி நிர்வாகத்தைப் புரிந்துகொள்ள முக்கிய ஆதாரங்களாகும். எனினும் இதனை நவீன கால அனைவருக்கும் சமமான ஜனநாயகமாகக் கருதக்கூடாது.`,
+    points: [
+      "Ur – Assembly of an ordinary village / ஊர் – சாதாரண கிராமத்தின் நிர்வாக அமைப்பு",
+      "Sabha – Assembly of a Brahmadeya village / சபை – பிரம்மதேயக் கிராமத்தின் நிர்வாக அமைப்பு",
+      "Nagaram – Organisation of merchants and townspeople / நகரம் – வணிகர்கள் மற்றும் நகர மக்களின் அமைப்பு",
+      "Uttaramerur inscriptions explain local administration / உத்திரமேரூர் கல்வெட்டுகள் உள்ளாட்சி நிர்வாகத்தை விளக்குகின்றன",
+      "Kudavolai – Method of selecting committee members / குடவோலை – குழு உறுப்பினர்களைத் தேர்ந்தெடுக்கும் முறை"
+    ]
+  },
+  {
+    title: "Page 51: Chola Economy, Society and Trade / சோழர் பொருளாதாரம், சமூகம் மற்றும் வணிகம்",
+    en: `Agriculture was the foundation of the Chola economy. The fertile Kaveri delta supported intensive cultivation of rice and other crops. Irrigation tanks, canals, channels and river embankments helped agricultural production. Land surveys and assessments supported the revenue system. Land revenue was an important source of state income. Craftsmen produced bronze images, textiles, metal goods, jewellery and pottery. Temples were major economic institutions: they received land grants, employed workers, supported festivals and participated in local economic activity. Merchant organisations such as Ainnurruvar, Manigramam and Anjuvannam played an important role in internal and overseas trade. Chola merchants maintained commercial connections with Sri Lanka, Southeast Asia and other Indian Ocean regions. Ports such as Nagapattinam and Kaveripattinam were important in different periods. Society included cultivators, artisans, merchants, religious specialists and service groups. Inscriptions provide evidence of donations, trade activities, taxes, land ownership and social relationships.`,
+    ta: `சோழர்களின் பொருளாதாரத்தின் அடிப்படை வேளாண்மையாகும். வளமான காவிரி டெல்டா பகுதியில் நெல் மற்றும் பல பயிர்கள் பயிரிடப்பட்டன. ஏரிகள், கால்வாய்கள், நீர்வழிகள் மற்றும் ஆற்றங்கரைகள் மூலம் நீர்ப்பாசனம் மேம்படுத்தப்பட்டது. நில அளவை மற்றும் நிலவரி மதிப்பீடு அரசின் வருவாய் முறைக்கு உதவின. கைவினைஞர்கள் வெண்கலச் சிலைகள், துணிகள், உலோகப் பொருட்கள், நகைகள் மற்றும் மண்பாண்டங்களைத் தயாரித்தனர். கோயில்கள் நிலக்கொடைகளைப் பெற்று, தொழிலாளர்களுக்கு வேலை வழங்கி, திருவிழாக்களை நடத்தி, பொருளாதார நடவடிக்கைகளில் முக்கிய பங்கு வகித்தன. ஐந்நூற்றுவர், மணிக்கிராமம், அஞ்சுவண்ணம் போன்ற வணிகக் குழுக்கள் உள்நாட்டு மற்றும் வெளிநாட்டு வணிகத்தில் சிறந்து விளங்கின. இலங்கை, தென்கிழக்கு ஆசியா மற்றும் இந்தியப் பெருங்கடல் பகுதிகளுடன் சோழ வணிகர்கள் தொடர்பு கொண்டிருந்தனர். நாகப்பட்டினம் மற்றும் காவிரிப்பூம்பட்டினம் போன்ற துறைமுகங்கள் வெவ்வேறு காலங்களில் முக்கியத்துவம் பெற்றன. கல்வெட்டுகள் கொடைகள், வரிகள், வணிகம், நில உரிமை மற்றும் சமூக உறவுகள் பற்றிய தகவல்களை வழங்குகின்றன.`,
+    points: [
+      "Agriculture was the economic foundation / வேளாண்மை பொருளாதாரத்தின் அடிப்படை",
+      "Kaveri delta supported intensive cultivation / காவிரி டெல்டா தீவிர வேளாண்மைக்கு உதவியது",
+      "Ainnurruvar was an important merchant organisation / ஐந்நூற்றுவர் முக்கிய வணிக அமைப்பாகும்",
+      "Manigramam and Anjuvannam were merchant groups / மணிக்கிராமம், அஞ்சுவண்ணம் வணிகக் குழுக்கள்",
+      "Temples were important economic institutions / கோயில்கள் முக்கிய பொருளாதார நிறுவனங்களாக இருந்தன"
+    ]
+  },
+  {
+    title: "Page 52: Chola Art and Architecture – Brihadisvara Temples / சோழர் கலை மற்றும் கட்டடக்கலை – பிரகதீஸ்வரர் கோயில்கள்",
+    en: `Chola art and architecture reached a remarkable level of development. The Cholas built large structural temples mainly in the Dravidian style, with vimanas, mandapas, sculptural decoration and inscriptions. The Brihadisvara Temple at Thanjavur was built by Rajaraja I. The Gangaikondacholisvaram Temple was built by Rajendra I at Gangaikonda Cholapuram. Airavatesvara Temple at Darasuram is associated with Rajaraja II. These three temples are collectively known as the Great Living Chola Temples and are recognised as a UNESCO World Heritage property. Chola bronze sculpture is especially famous for its technical excellence and expressive forms. The image of Nataraja, Shiva as the cosmic dancer, is one of the best-known examples. The lost-wax technique was used to produce bronze images. Temple inscriptions also record donations, festivals, musicians, dancers and administrative arrangements.`,
+    ta: `சோழர் காலக் கலை மற்றும் கட்டடக்கலை சிறப்பான வளர்ச்சியைப் பெற்றன. திராவிடக் கட்டடக்கலை முறையில் விமானம், மண்டபம், சிற்ப அலங்காரம் மற்றும் கல்வெட்டுகளுடன் பெரிய கற்கோயில்கள் கட்டப்பட்டன. தஞ்சாவூரில் உள்ள பிரகதீஸ்வரர் கோயிலை முதலாம் இராஜராஜன் கட்டினார். கங்கைகொண்ட சோழபுரத்தில் உள்ள கங்கைகொண்ட சோழீஸ்வரர் கோயிலை முதலாம் இராஜேந்திரன் கட்டினார். தாராசுரத்தில் உள்ள ஐராவதேஸ்வரர் கோயில் இரண்டாம் இராஜராஜனுடன் தொடர்புடையது. இந்த மூன்று கோயில்களும் பெரிய வாழும் சோழர் கோயில்கள் என அழைக்கப்படுகின்றன. இவை யுனெஸ்கோ உலகப் பாரம்பரியச் சொத்தாக அங்கீகரிக்கப்பட்டுள்ளன. சோழர் வெண்கலச் சிற்பங்கள் தொழில்நுட்பத் திறனுக்கும் அழகிய வடிவமைப்புக்கும் புகழ்பெற்றவை. சிவபெருமானின் பிரபஞ்ச நடன வடிவமான நடராஜர் சிற்பம் மிகவும் புகழ்பெற்றது. மெழுகு அச்சு முறையைப் பயன்படுத்தி வெண்கலச் சிலைகள் உருவாக்கப்பட்டன. கோயில் கல்வெட்டுகள் கொடைகள், விழாக்கள், இசைக்கலைஞர்கள், நடனக் கலைஞர்கள் மற்றும் நிர்வாகம் பற்றிய தகவல்களையும் வழங்குகின்றன.`,
+    points: [
+      "Brihadisvara Temple, Thanjavur – Rajaraja I / தஞ்சைப் பிரகதீஸ்வரர் – முதலாம் இராஜராஜன்",
+      "Gangaikondacholisvaram – Rajendra I / கங்கைகொண்ட சோழீஸ்வரம் – முதலாம் இராஜேந்திரன்",
+      "Airavatesvara Temple, Darasuram – Rajaraja II / தாராசுரம் ஐராவதேஸ்வரர் – இரண்டாம் இராஜராஜன்",
+      "Three temples form the Great Living Chola Temples / மூன்று கோயில்களும் பெரிய வாழும் சோழர் கோயில்கள்",
+      "Nataraja is a famous Chola bronze image / நடராஜர் புகழ்பெற்ற சோழர் வெண்கலச் சிற்பம்"
+    ]
+  },
+  {
+    title: "Page 53: Pandya Dynasty – Early and Medieval Pandyas / பாண்டியர் வம்சம் – முற்கால மற்றும் இடைக்காலப் பாண்டியர்கள்",
+    en: `The Pandyas were one of the ancient Tamil dynasties and their royal emblem was the fish. Madurai was an important political and cultural centre, while Korkai was an important ancient port associated with pearl fishing and maritime trade. Sangam literature provides information about early Pandya rulers and their society. The Pandyas participated in trade across the Indian Ocean and maintained connections with foreign merchants. The dynasty experienced periods of expansion and decline. In the medieval period, the Pandyas regained power and became influential in South India. Jatavarman Sundara Pandya I was one of the most powerful later Pandya rulers in the thirteenth century. He expanded Pandya influence and made important donations to temples. The later Pandya kingdom faced internal succession struggles and external invasions, including the campaigns associated with the Delhi Sultanate in the early fourteenth century. These developments contributed to political changes in the region.`,
+    ta: `பாண்டியர்கள் தமிழின் தொன்மையான அரச வம்சங்களில் ஒன்றாகும். மீன் இவர்களின் அரசச் சின்னமாகும். மதுரை முக்கிய அரசியல் மற்றும் பண்பாட்டு மையமாக விளங்கியது. முத்துக்குளித்தல் மற்றும் கடல் வணிகத்திற்குப் புகழ்பெற்ற தொன்மையான துறைமுகமாகக் கொற்கை விளங்கியது. சங்க இலக்கியங்கள் முற்காலப் பாண்டிய மன்னர்கள் மற்றும் அவர்களின் சமூக வாழ்க்கை பற்றிய தகவல்களை வழங்குகின்றன. இந்தியப் பெருங்கடல் வணிகத்தில் பாண்டியர்கள் முக்கிய பங்கு வகித்தனர். பாண்டியர் வம்சம் பல காலங்களில் எழுச்சியையும் வீழ்ச்சியையும் சந்தித்தது. இடைக்காலத்தில் பாண்டியர்கள் மீண்டும் வலிமை பெற்று தென்னிந்தியாவில் செல்வாக்கு செலுத்தினர். பதின்மூன்றாம் நூற்றாண்டில் முதலாம் ஜடாவர்மன் சுந்தர பாண்டியன் மிகவும் வலிமையான பாண்டிய மன்னர்களில் ஒருவராக விளங்கினார். பாண்டிய நாட்டின் எல்லைகளை விரிவுபடுத்தி கோயில்களுக்கு நன்கொடைகள் வழங்கினார். பின்னர் வாரிசுரிமைப் போட்டிகள் மற்றும் பதினான்காம் நூற்றாண்டின் தொடக்கத்தில் தில்லி சுல்தானகப் படையெடுப்புகள் உள்ளிட்ட வெளிப்புறத் தாக்குதல்களால் பாண்டிய அரசின் அரசியல் நிலை மாறியது.`,
+    points: [
+      "Pandya royal emblem – Fish / பாண்டியர்களின் அரசச் சின்னம் – மீன்",
+      "Madurai – Important Pandya capital / மதுரை – முக்கிய பாண்டியத் தலைநகர்",
+      "Korkai – Ancient port associated with pearl fishing / கொற்கை – முத்துக்குளித்தலுடன் தொடர்புடைய துறைமுகம்",
+      "Jatavarman Sundara Pandya I was a powerful thirteenth-century ruler / முதலாம் ஜடாவர்மன் சுந்தர பாண்டியன் பதின்மூன்றாம் நூற்றாண்டின் வலிமையான மன்னர்",
+      "Pandya power faced succession conflicts and invasions / பாண்டியர்கள் வாரிசுரிமைப் போட்டிகளையும் படையெடுப்புகளையும் சந்தித்தனர்"
+    ]
+  },
+  {
+    title: "Page 54: Chera Dynasty and Kerala History / சேரர் வம்சமும் கேரள வரலாறும்",
+    en: `The Cheras were one of the three crowned Tamil dynasties of ancient Tamilakam. Their traditional royal emblem was the bow. Sangam works such as the Pathitrupathu provide information about Chera rulers. The Cheras were associated with western Tamilakam and the Malabar region. Their territory included important trade centres connected to the Arabian Sea. The ancient port of Muziris, often identified with the region around present-day Kodungallur, was a major centre of Indo-Roman trade. Pepper, spices, pearls and other goods were traded. The Cheras maintained commercial and cultural connections with the Roman world and West Asia. Senguttuvan Chera is remembered in Tamil literary tradition and is associated with the Pattini or Kannagi cult. In the medieval period, the Chera Perumal rulers played an important role in Kerala's political history. The development of regional languages, temple institutions and maritime trade shaped the history of Kerala.`,
+    ta: `பண்டைய தமிழகம் எனப்பட்ட பகுதியில் சேரர்கள் மூவேந்தர்களில் ஒருவராக விளங்கினர். வில் இவர்களின் அரசச் சின்னமாகும். பதிற்றுப்பத்து போன்ற சங்க இலக்கியங்கள் சேர மன்னர்களைப் பற்றிய தகவல்களை வழங்குகின்றன. சேரர்கள் மேற்கு தமிழகத்துடனும் மலபார் பகுதியுடனும் தொடர்புடையவர்கள். அரபிக்கடல் வழி வணிகத்துடன் தொடர்புடைய முக்கிய மையங்கள் இவர்களின் ஆட்சிப் பகுதியில் இருந்தன. முசிறி என்ற தொன்மையான துறைமுகம், இன்றைய கொடுங்கல்லூர் பகுதியுடன் பொதுவாக அடையாளப்படுத்தப்படுகிறது. இது இந்திய-ரோமானிய வணிகத்தின் முக்கிய மையமாக இருந்தது. மிளகு, நறுமணப் பொருட்கள், முத்துகள் மற்றும் பிற பொருட்கள் வணிகம் செய்யப்பட்டன. ரோமானிய உலகம் மற்றும் மேற்கு ஆசியாவுடன் சேரர்கள் வணிக மற்றும் பண்பாட்டுத் தொடர்புகளைப் பேணினர். செங்குட்டுவன் சேரன் தமிழ் இலக்கிய மரபில் புகழ்பெற்றவர். கண்ணகி அல்லது பத்தினி வழிபாட்டு மரபுடன் இவர் தொடர்புபடுத்தப்படுகிறார். இடைக்காலத்தில் சேரப் பெருமாள் ஆட்சியாளர்கள் கேரள வரலாற்றில் முக்கிய பங்கு வகித்தனர்.`,
+    points: [
+      "Chera royal emblem – Bow / சேரர்களின் அரசச் சின்னம் – வில்",
+      "Pathitrupathu is an important source for Chera history / பதிற்றுப்பத்து சேரர் வரலாற்றிற்கான முக்கிய ஆதாரம்",
+      "Muziris was an important Indo-Roman trade port / முசிறி இந்திய-ரோமானிய வணிகத்தின் முக்கியத் துறைமுகம்",
+      "Pepper and spices were important trade goods / மிளகு மற்றும் நறுமணப் பொருட்கள் முக்கிய வணிகப் பொருட்கள்",
+      "Senguttuvan is associated with the Pattini tradition / செங்குட்டுவன் பத்தினி வழிபாட்டு மரபுடன் தொடர்புடையவர்"
+    ]
+  },
+  {
+    title: "Page 55: Bhakti Movement – Alvars and Nayanmars / பக்தி இயக்கம் – ஆழ்வார்களும் நாயன்மார்களும்",
+    en: `The Bhakti movement emphasised personal devotion to God. In Tamilakam, the early medieval Bhakti tradition became influential through the devotional hymns of the Nayanmars and Alvars. The Nayanmars were Shaiva devotees who worshipped Shiva. Tradition recognises sixty-three Nayanmars. Important figures include Appar, Sambandar, Sundarar and Manikkavachakar, though Manikkavachakar is not always counted among the canonical sixty-three. Their hymns were later compiled in the twelve-volume Shaiva Tirumurai. The Alvars were Vaishnava devotees who worshipped Vishnu. Tradition recognises twelve Alvars, including Poigai, Bhutam, Pey, Nammalvar, Periyalvar, Andal and Tirumangai Alvar. Their hymns were compiled as the Nalayira Divya Prabandham. The Bhakti saints composed in Tamil and encouraged devotion through songs, pilgrimage and temple worship. Their traditions influenced Tamil literature, music, religious institutions and temple culture.`,
+    ta: `பக்தி இயக்கம் இறைவனிடம் தனிப்பட்ட அன்பு மற்றும் பக்தியை வலியுறுத்தியது. முற்கால இடைக்காலத் தமிழகத்தில் நாயன்மார்கள் மற்றும் ஆழ்வார்களின் பக்திப் பாடல்கள் பெரும் செல்வாக்கைப் பெற்றன. நாயன்மார்கள் சிவபெருமானை வழிபட்ட சைவ அடியார்கள் ஆவர். மரபின்படி அறுபத்து மூன்று நாயன்மார்கள் போற்றப்படுகின்றனர். அப்பர், சம்பந்தர், சுந்தரர் ஆகியோர் முக்கியமானவர்கள். மாணிக்கவாசகர் சைவ பக்தி மரபில் சிறப்பிடம் பெற்றவர்; ஆனால் அவர் அறுபத்து மூன்று நாயன்மார்களின் பட்டியலில் எப்போதும் சேர்க்கப்படுவதில்லை. நாயன்மார்களின் பாடல்கள் பின்னர் பன்னிரு திருமுறைகளாகத் தொகுக்கப்பட்டன. ஆழ்வார்கள் திருமாலை வழிபட்ட வைணவ அடியார்கள் ஆவர். மரபின்படி பன்னிரண்டு ஆழ்வார்கள் உள்ளனர். பொய்கையாழ்வார், பூதத்தாழ்வார், பேயாழ்வார், நம்மாழ்வார், பெரியாழ்வார், ஆண்டாள் மற்றும் திருமங்கையாழ்வார் ஆகியோர் முக்கியமானவர்கள். இவர்களின் பாடல்கள் நாலாயிர திவ்யப் பிரபந்தம் எனத் தொகுக்கப்பட்டன. பக்தி இயக்கம் தமிழ் இலக்கியம், இசை, திருத்தலப் பயணம் மற்றும் கோயில் வழிபாட்டில் ஆழமான தாக்கத்தை ஏற்படுத்தியது.`,
+    points: [
+      "Nayanmars – Shaiva devotees / நாயன்மார்கள் – சைவ அடியார்கள்",
+      "Traditional number of Nayanmars – 63 / நாயன்மார்கள் மரபு எண்ணிக்கை – 63",
+      "Alvars – Vaishnava devotees / ஆழ்வார்கள் – வைணவ அடியார்கள்",
+      "Traditional number of Alvars – 12 / ஆழ்வார்கள் மரபு எண்ணிக்கை – 12",
+      "Nayanmar hymns – Tirumurai / நாயன்மார் பாடல்கள் – திருமுறை",
+      "Alvar hymns – Nalayira Divya Prabandham / ஆழ்வார் பாடல்கள் – நாலாயிர திவ்யப் பிரபந்தம்"
+    ]
+  },
+  {
+    title: "Page 56: Tamil Bhakti Literature and Temple Culture / தமிழ் பக்தி இலக்கியமும் கோயில் பண்பாடும்",
+    en: `Tamil Bhakti literature played a major role in shaping religious and cultural life in South India. The twelve Tirumurai volumes contain Shaiva devotional hymns and other sacred compositions. The Tevaram consists mainly of hymns by Appar, Sambandar and Sundarar. The Tiruvasagam, composed by Manikkavachakar, is a major work of Shaiva devotional literature. The Nalayira Divya Prabandham contains the devotional compositions of the Alvars and is highly important in the Sri Vaishnava tradition. Temple culture expanded through royal patronage, land grants, festivals, music, dance and educational activities. Temples became centres of worship as well as economic and cultural institutions. The Bhakti tradition encouraged the use of Tamil in religious expression and helped preserve local sacred traditions. The relationship between devotional literature, temple inscriptions, sculpture, music and architecture is an important topic in the study of Tamil history.`,
+    ta: `தென்னிந்தியாவின் சமய மற்றும் பண்பாட்டு வாழ்க்கையை உருவாக்குவதில் தமிழ் பக்தி இலக்கியம் முக்கிய பங்கு வகித்தது. பன்னிரு திருமுறைகளில் சைவ பக்திப் பாடல்களும் பிற புனிதப் பாடல்களும் இடம்பெற்றுள்ளன. அப்பர், சம்பந்தர், சுந்தரர் ஆகியோரின் பாடல்கள் தேவாரமாகப் போற்றப்படுகின்றன. மாணிக்கவாசகர் இயற்றிய திருவாசகம் சைவ பக்தி இலக்கியத்தின் முக்கிய நூலாகும். ஆழ்வார்களின் பக்திப் பாடல்கள் நாலாயிர திவ்யப் பிரபந்தத்தில் தொகுக்கப்பட்டுள்ளன. இது ஸ்ரீவைணவ மரபில் மிகுந்த முக்கியத்துவம் பெற்றது. அரசர்களின் ஆதரவு, நிலக்கொடைகள், திருவிழாக்கள், இசை, நடனம் மற்றும் கல்விச் செயல்பாடுகள் மூலம் கோயில் பண்பாடு வளர்ச்சி பெற்றது. கோயில்கள் வழிபாட்டுத் தலங்களாக மட்டுமின்றி பொருளாதார மற்றும் பண்பாட்டு மையங்களாகவும் விளங்கின. சமய வெளிப்பாட்டில் தமிழின் பயன்பாட்டை பக்தி மரபு ஊக்குவித்தது. பக்தி இலக்கியம், கோயில் கல்வெட்டுகள், சிற்பம், இசை மற்றும் கட்டடக்கலை ஆகியவற்றின் தொடர்பு தமிழ் வரலாற்றில் முக்கியமானதாகும்.`,
+    points: [
+      "Tevaram – Hymns of Appar, Sambandar and Sundarar / தேவாரம் – அப்பர், சம்பந்தர், சுந்தரர் பாடல்கள்",
+      "Tiruvasagam – Manikkavachakar / திருவாசகம் – மாணிக்கவாசகர்",
+      "Tirumurai – Twelve-volume Shaiva collection / திருமுறை – பன்னிரு சைவ நூல் தொகுப்பு",
+      "Nalayira Divya Prabandham – Alvar hymns / நாலாயிர திவ்யப் பிரபந்தம் – ஆழ்வார் பாடல்கள்",
+      "Temples served as religious, economic and cultural centres / கோயில்கள் சமய, பொருளாதார மற்றும் பண்பாட்டு மையங்களாக விளங்கின"
+    ]
+  }
+);
+
+
 
