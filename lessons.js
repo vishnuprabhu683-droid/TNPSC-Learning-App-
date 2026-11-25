@@ -119,6 +119,9 @@ const tnpscLessons = {
     }
   ]
 };
+if (typeof tnpscPolityLessons !== "undefined") {
+  tnpscLessons["Indian Polity"] = tnpscPolityLessons;
+}
 
 function openTNPSCStudy(subject, language = "ta") {
   
