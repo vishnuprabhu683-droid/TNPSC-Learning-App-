@@ -3441,3 +3441,378 @@ points:["Agriculture – Economic foundation","Punch-marked coins – Currency",
 
 );
 
+
+tnpscHistoryLessons.push(
+
+{
+title: "Page 26: Decline of the Mauryan Empire and Later Mauryan Rulers / மௌரியப் பேரரசின் வீழ்ச்சி",
+en: `The Mauryan Empire began to decline after Ashoka's death around 232 BCE. Several political, administrative and economic factors contributed to its decline.
+
+1. Later Mauryan Rulers:
+- Dasharatha succeeded Ashoka according to traditional accounts.
+- Samprati is remembered in Jain traditions.
+- Brihadratha was the last Mauryan ruler.
+
+2. Causes of Decline:
+- Weak successors after Ashoka.
+- Difficulty administering a vast empire.
+- Growth of provincial independence.
+- Financial and administrative difficulties.
+- Emergence of powerful regional kingdoms.
+- Military and political changes.
+
+3. End of the Mauryan Dynasty:
+Pushyamitra Shunga, the commander of the Mauryan army, killed Brihadratha around 185 BCE and established the Shunga dynasty.
+
+4. Historical Importance:
+The decline of the Mauryas marked the emergence of several regional powers in northern and central India.
+
+TNPSC Important Facts:
+- Ashoka died around 232 BCE.
+- Brihadratha was the last Mauryan ruler.
+- Pushyamitra Shunga founded the Shunga dynasty around 185 BCE.`,
+ta: `கி.மு. 232 ஆம் ஆண்டைச் சுற்றி அசோகர் மறைந்த பிறகு மௌரியப் பேரரசு வீழ்ச்சியடையத் தொடங்கியது. பல்வேறு அரசியல், நிர்வாக மற்றும் பொருளாதாரக் காரணங்கள் இதற்குக் காரணமாக அமைந்தன.
+
+1. பிற்கால மௌரிய மன்னர்கள்:
+- பாரம்பரியக் குறிப்புகளின்படி அசோகருக்குப் பிறகு தசரதர் ஆட்சி செய்தார்.
+- சம்ரதி சமண மரபில் நினைவுகூரப்படுகிறார்.
+- பிருகத்ரதன் கடைசி மௌரிய மன்னராக இருந்தார்.
+
+2. வீழ்ச்சிக்கான காரணங்கள்:
+- அசோகருக்குப் பிறகு வலிமையான வாரிசுகள் இல்லாமை.
+- மிகப்பெரிய பேரரசை நிர்வகிப்பதில் ஏற்பட்ட சிரமம்.
+- மாகாணங்களின் சுயாட்சி அதிகரித்தல்.
+- பொருளாதார மற்றும் நிர்வாகச் சிக்கல்கள்.
+- பிராந்திய அரசுகளின் எழுச்சி.
+- இராணுவ மற்றும் அரசியல் மாற்றங்கள்.
+
+3. மௌரிய வம்சத்தின் முடிவு:
+மௌரியப் படைத்தளபதி புஷ்யமித்திர சுங்கர், கி.மு. 185 ஆம் ஆண்டைச் சுற்றி பிருகத்ரதனைக் கொன்று சுங்க வம்சத்தை நிறுவினார்.
+
+4. வரலாற்று முக்கியத்துவம்:
+மௌரியப் பேரரசின் வீழ்ச்சிக்குப் பிறகு வட மற்றும் மத்திய இந்தியாவில் பல பிராந்திய அரசுகள் உருவாயின.
+
+TNPSC முக்கிய குறிப்புகள்:
+- அசோகரின் மறைவு – கி.மு. 232.
+- கடைசி மௌரிய மன்னர் – பிருகத்ரதன்.
+- சுங்க வம்ச நிறுவனர் – புஷ்யமித்திர சுங்கர்.`,
+points:[
+"Ashoka's death – c. 232 BCE",
+"Last Mauryan ruler – Brihadratha",
+"Shunga founder – Pushyamitra Shunga",
+"End of Mauryan dynasty – c. 185 BCE",
+"கடைசி மௌரிய மன்னர் – பிருகத்ரதன்",
+"சுங்க வம்ச நிறுவனர் – புஷ்யமித்திர சுங்கர்"
+]
+},
+
+{
+title: "Page 27: Shunga and Kanva Dynasties / சுங்க மற்றும் கண்வ வம்சங்கள்",
+en: `After the Mauryan Empire, several regional dynasties emerged in India. The Shunga and Kanva dynasties were important political powers in northern India.
+
+1. Shunga Dynasty:
+- Founded by Pushyamitra Shunga around 185 BCE.
+- Pushyamitra had served as commander-in-chief under the Mauryas.
+- Agnimitra was an important Shunga ruler.
+- The Shungas ruled parts of northern and central India.
+- Their period witnessed developments in sculpture and religious architecture.
+
+2. Important Historical and Literary References:
+- Kalidasa's play Malavikagnimitram features Agnimitra.
+- Bharhut is known for its Buddhist sculptures and railings.
+- Sanchi witnessed important architectural developments during this broad period.
+
+3. Kanva Dynasty:
+- The Kanva dynasty succeeded the Shungas around 73 BCE.
+- Vasudeva Kanva was its founder.
+- Bhumimitra, Narayana and Susarman are associated with the dynasty.
+- The Kanva dynasty was relatively short-lived.
+
+4. Historical Importance:
+These dynasties illustrate the political changes that followed the decline of the Mauryan Empire.
+
+TNPSC Important Facts:
+- Shunga founder – Pushyamitra Shunga.
+- Important Shunga ruler – Agnimitra.
+- Kanva founder – Vasudeva.
+- Malavikagnimitram – Kalidasa.`,
+ta: `மௌரியப் பேரரசின் வீழ்ச்சிக்குப் பிறகு இந்தியாவில் பல பிராந்திய வம்சங்கள் உருவாயின. வட இந்தியாவின் முக்கிய அரசியல் சக்திகளாக சுங்கர் மற்றும் கண்வர் வம்சங்கள் விளங்கின.
+
+1. சுங்க வம்சம்:
+- கி.மு. 185 ஆம் ஆண்டைச் சுற்றி புஷ்யமித்திர சுங்கர் இவ்வம்சத்தை நிறுவினார்.
+- இவர் மௌரியர்களிடம் படைத்தளபதியாகப் பணியாற்றியவர்.
+- அக்னிமித்திரன் முக்கியமான சுங்க மன்னர்.
+- சுங்கர்கள் வட மற்றும் மத்திய இந்தியாவின் சில பகுதிகளை ஆட்சி செய்தனர்.
+- இக்காலத்தில் சிற்பக்கலை மற்றும் சமயக் கட்டடக்கலை வளர்ச்சி பெற்றன.
+
+2. வரலாற்று மற்றும் இலக்கியக் குறிப்புகள்:
+- காளிதாசரின் மாளவிகாக்னிமித்திரம் நாடகத்தில் அக்னிமித்திரன் இடம்பெறுகிறார்.
+- பர்ஹுத் பௌத்தச் சிற்பங்கள் மற்றும் கல் வேலிகளுக்குப் புகழ்பெற்றது.
+- சாஞ்சியில் இக்காலத்தில் முக்கியமான கட்டடக்கலை வளர்ச்சிகள் நிகழ்ந்தன.
+
+3. கண்வ வம்சம்:
+- கி.மு. 73 ஆம் ஆண்டைச் சுற்றி கண்வ வம்சம் சுங்கர்களுக்குப் பிறகு ஆட்சிக்கு வந்தது.
+- வாசுதேவர் கண்வர் இதன் நிறுவனர்.
+- பூமிமித்திரர், நாராயணர் மற்றும் சுசர்மன் ஆகியோர் இவ்வம்சத்துடன் தொடர்புடையவர்கள்.
+- கண்வ வம்சம் குறுகிய காலமே ஆட்சி செய்தது.
+
+4. வரலாற்று முக்கியத்துவம்:
+மௌரியப் பேரரசின் வீழ்ச்சிக்குப் பிறகு ஏற்பட்ட அரசியல் மாற்றங்களை இவ்வம்சங்கள் எடுத்துக்காட்டுகின்றன.
+
+TNPSC முக்கிய குறிப்புகள்:
+- சுங்க வம்ச நிறுவனர் – புஷ்யமித்திர சுங்கர்.
+- முக்கிய சுங்க மன்னர் – அக்னிமித்திரன்.
+- கண்வ வம்ச நிறுவனர் – வாசுதேவர்.
+- மாளவிகாக்னிமித்திரம் – காளிதாசர்.`,
+points:[
+"Shunga dynasty founder – Pushyamitra",
+"Agnimitra – Important Shunga ruler",
+"Kanva dynasty founder – Vasudeva",
+"Malavikagnimitram – Kalidasa",
+"Bharhut – Buddhist art",
+"சுங்க வம்சம் – புஷ்யமித்திரர்",
+"கண்வ வம்சம் – வாசுதேவர்",
+"மாளவிகாக்னிமித்திரம் – காளிதாசர்"
+]
+},
+
+{
+title: "Page 28: Indo-Greek Kingdoms and Menander / இந்தோ-கிரேக்க அரசுகளும் மிலிந்தரும்",
+en: `The Indo-Greeks were Greek rulers who established kingdoms in northwestern parts of the Indian subcontinent after the campaigns of Alexander and the decline of the Mauryan Empire.
+
+1. Background:
+- Alexander invaded northwestern India in 326 BCE.
+- After his death, Greek successor kingdoms developed in the western regions.
+- Indo-Greek rulers later established political authority in parts of Afghanistan and northwestern India.
+
+2. Important Indo-Greek Rulers:
+- Demetrius is associated with the expansion of Indo-Greek power into northwestern India.
+- Menander, also known as Milinda, was one of the best-known Indo-Greek kings.
+- Menander's kingdom included parts of the northwestern Indian subcontinent.
+
+3. Menander and Buddhism:
+- Menander is associated with the Buddhist text Milindapanha.
+- The text presents a dialogue between King Milinda and the Buddhist monk Nagasena.
+- The discussion covers Buddhist philosophy and important questions about human life.
+
+4. Coins:
+- Indo-Greek rulers issued coins with portraits.
+- Many coins carried Greek and local-language inscriptions.
+- Their coins provide valuable historical information.
+
+5. Cultural Contributions:
+- Greek artistic and cultural influences interacted with Indian traditions.
+- Indo-Greek contact contributed to cultural exchange in northwestern India.
+
+TNPSC Important Facts:
+- Menander's other name – Milinda.
+- Milindapanha – Dialogue between Milinda and Nagasena.
+- Indo-Greek coins – Portraits and bilingual inscriptions.`,
+ta: `இந்தோ-கிரேக்கர்கள் அலெக்சாண்டரின் படையெடுப்பிற்குப் பின்னரும் மௌரியப் பேரரசின் வீழ்ச்சிக்குப் பின்னரும் இந்தியத் துணைக்கண்டத்தின் வடமேற்குப் பகுதிகளில் அரசுகளை நிறுவிய கிரேக்க ஆட்சியாளர்கள் ஆவர்.
+
+1. பின்னணி:
+- அலெக்சாண்டர் கி.மு. 326 ஆம் ஆண்டு வடமேற்கு இந்தியா மீது படையெடுத்தார்.
+- அவரது மறைவுக்குப் பிறகு மேற்குப் பகுதிகளில் கிரேக்க வாரிசு அரசுகள் உருவாயின.
+- பின்னர் இந்தோ-கிரேக்கர்கள் ஆப்கானிஸ்தான் மற்றும் வடமேற்கு இந்தியாவின் சில பகுதிகளில் ஆட்சி நிறுவினர்.
+
+2. முக்கிய இந்தோ-கிரேக்க மன்னர்கள்:
+- டெமெட்ரியஸ் வடமேற்கு இந்தியாவில் இந்தோ-கிரேக்க ஆட்சியின் விரிவாக்கத்துடன் தொடர்புடையவர்.
+- மெனாண்டர் அல்லது மிலிந்தர் புகழ்பெற்ற இந்தோ-கிரேக்க மன்னர்களில் ஒருவர்.
+- இவரது ஆட்சிப் பகுதிகள் வடமேற்கு இந்தியத் துணைக்கண்டத்தின் சில பகுதிகளை உள்ளடக்கியிருந்தன.
+
+3. மெனாண்டரும் பௌத்தமும்:
+- மெனாண்டர் மிலிந்தபஞ்ஹா என்ற பௌத்த நூலுடன் தொடர்புடையவர்.
+- இதில் மிலிந்த மன்னருக்கும் நாகசேனர் என்ற பௌத்தத் துறவிக்கும் இடையிலான உரையாடல் இடம்பெறுகிறது.
+- பௌத்தத் தத்துவம் மற்றும் மனித வாழ்க்கை தொடர்பான கேள்விகள் இதில் விவாதிக்கப்படுகின்றன.
+
+4. நாணயங்கள்:
+- இந்தோ-கிரேக்க மன்னர்கள் தங்கள் உருவங்கள் பொறிக்கப்பட்ட நாணயங்களை வெளியிட்டனர்.
+- பல நாணயங்களில் கிரேக்க மற்றும் உள்ளூர் மொழிகளிலான எழுத்துகள் காணப்படுகின்றன.
+- இந்நாணயங்கள் வரலாற்றுத் தகவல்களை வழங்குகின்றன.
+
+5. பண்பாட்டுப் பங்களிப்பு:
+- கிரேக்கக் கலை மற்றும் பண்பாட்டு மரபுகள் இந்திய மரபுகளுடன் தொடர்பு கொண்டன.
+- வடமேற்கு இந்தியாவில் பண்பாட்டுப் பரிமாற்றம் வளர்ந்தது.
+
+TNPSC முக்கிய குறிப்புகள்:
+- மெனாண்டரின் மற்றொரு பெயர் – மிலிந்தர்.
+- மிலிந்தபஞ்ஹா – மிலிந்தர் மற்றும் நாகசேனர் உரையாடல்.
+- இந்தோ-கிரேக்க நாணயங்கள் – மன்னர்களின் உருவங்கள் மற்றும் இருமொழிக் குறிப்புகள்.`,
+points:[
+"Menander – Milinda",
+"Milindapanha – Milinda and Nagasena",
+"Demetrius – Indo-Greek expansion",
+"Indo-Greek coins – Portraits",
+"Alexander's invasion – 326 BCE",
+"மெனாண்டர் – மிலிந்தர்",
+"மிலிந்தபஞ்ஹா – நாகசேனர் உரையாடல்",
+"அலெக்சாண்டர் படையெடுப்பு – கி.மு. 326"
+]
+},
+
+{
+title: "Page 29: Shakas, Parthians and Kushanas / சாகர்கள், பார்த்தியர்கள் மற்றும் குஷாணர்கள்",
+en: `After the Indo-Greek rulers, several Central Asian groups established kingdoms in northwestern India. The Shakas, Parthians and Kushanas played important roles in Indian political and cultural history.
+
+1. Shakas:
+- The Shakas are also known as Indo-Scythians.
+- They established kingdoms in northwestern and western India.
+- Rudradaman I was an important Western Kshatrapa ruler.
+- His Junagadh inscription is an important historical record.
+- It is famous as an early long Sanskrit inscription.
+
+2. Parthians:
+- The Parthians also established political authority in parts of northwestern India.
+- Gondophares was an important Indo-Parthian ruler.
+- Their rule formed part of the wider political changes in northwestern India.
+
+3. Kushanas:
+- The Kushanas emerged from the Yuezhi groups of Central Asia.
+- Kujula Kadphises is associated with the establishment of Kushana power.
+- Vima Kadphises expanded Kushana influence.
+- Kanishka became one of the most famous Kushana emperors.
+
+4. Trade and Economy:
+- Kushana territory connected important trade routes between Central Asia and India.
+- Trade with regions to the west, including the Roman world, developed.
+- Gold coins were issued by Kushana rulers.
+
+5. Cultural Contributions:
+- Buddhism received royal patronage under important Kushana rulers.
+- Gandhara and Mathura schools of art developed during this broad period.
+
+TNPSC Important Facts:
+- Rudradaman I – Junagadh inscription.
+- Gondophares – Indo-Parthian ruler.
+- Kujula Kadphises – Early Kushana ruler.
+- Kanishka – Famous Kushana emperor.`,
+ta: `இந்தோ-கிரேக்கர்களுக்குப் பிறகு மத்திய ஆசியாவைச் சேர்ந்த பல குழுக்கள் வடமேற்கு இந்தியாவில் அரசுகளை நிறுவின. சாகர்கள், பார்த்தியர்கள் மற்றும் குஷாணர்கள் இந்திய அரசியல் மற்றும் பண்பாட்டு வரலாற்றில் முக்கியப் பங்கு வகித்தனர்.
+
+1. சாகர்கள்:
+- சாகர்கள் இந்தோ-ஸ்கிதியர்கள் என்றும் அழைக்கப்படுகின்றனர்.
+- வடமேற்கு மற்றும் மேற்கு இந்தியாவில் ஆட்சி அமைத்தனர்.
+- முதலாம் ருத்ரதாமன் மேற்கு சத்ரபர்களின் முக்கிய மன்னராக இருந்தார்.
+- இவரது ஜூனாகத் கல்வெட்டு முக்கியமான வரலாற்று ஆவணமாகும்.
+- இது ஆரம்பகால நீண்ட சமஸ்கிருதக் கல்வெட்டுகளில் ஒன்றாகப் புகழ்பெற்றது.
+
+2. பார்த்தியர்கள்:
+- வடமேற்கு இந்தியாவின் சில பகுதிகளில் பார்த்தியர்கள் ஆட்சி செய்தனர்.
+- கோண்டோபர்னஸ் முக்கியமான இந்தோ-பார்த்திய மன்னர்.
+- இவர்களின் ஆட்சி வடமேற்கு இந்தியாவின் அரசியல் மாற்றங்களின் ஒரு பகுதியாகும்.
+
+3. குஷாணர்கள்:
+- மத்திய ஆசியாவின் யூஎழி குழுக்களிலிருந்து குஷாணர்கள் உருவாயினர்.
+- குஜுல கட்பிசஸ் குஷாண அதிகாரத்தை நிறுவியவராகக் கருதப்படுகிறார்.
+- விம கட்பிசஸ் குஷாணர்களின் செல்வாக்கை விரிவுபடுத்தினார்.
+- கனிஷ்கர் புகழ்பெற்ற குஷாணப் பேரரசராக விளங்கினார்.
+
+4. வணிகமும் பொருளாதாரமும்:
+- குஷாணப் பகுதிகள் மத்திய ஆசியா மற்றும் இந்தியாவை இணைக்கும் வணிகப் பாதைகளைக் கொண்டிருந்தன.
+- ரோமானிய உலகம் உள்ளிட்ட மேற்குப் பகுதிகளுடன் வணிகம் வளர்ச்சி பெற்றது.
+- குஷாண மன்னர்கள் தங்க நாணயங்களை வெளியிட்டனர்.
+
+5. பண்பாட்டுப் பங்களிப்பு:
+- முக்கிய குஷாண மன்னர்களின் ஆதரவால் பௌத்தம் வளர்ச்சி பெற்றது.
+- காந்தார மற்றும் மதுரா கலைப் பள்ளிகள் இக்காலத்தில் வளர்ச்சியடைந்தன.
+
+TNPSC முக்கிய குறிப்புகள்:
+- முதலாம் ருத்ரதாமன் – ஜூனாகத் கல்வெட்டு.
+- கோண்டோபர்னஸ் – இந்தோ-பார்த்திய மன்னர்.
+- குஜுல கட்பிசஸ் – ஆரம்பகால குஷாண மன்னர்.
+- கனிஷ்கர் – புகழ்பெற்ற குஷாணப் பேரரசர்.`,
+points:[
+"Shakas – Indo-Scythians",
+"Rudradaman I – Junagadh inscription",
+"Gondophares – Indo-Parthian ruler",
+"Kujula Kadphises – Kushana ruler",
+"Kanishka – Kushana emperor",
+"கல்வெட்டு – ஜூனாகத்",
+"முதலாம் ருத்ரதாமன் – சாக மன்னர்",
+"கனிஷ்கர் – குஷாணப் பேரரசர்"
+]
+},
+
+{
+title: "Page 30: Kanishka and Buddhist Councils / கனிஷ்கரும் பௌத்த சங்கங்களும்",
+en: `Kanishka was one of the most famous rulers of the Kushana dynasty. His reign is generally placed in the second century CE, although the exact accession date remains debated.
+
+1. Kanishka's Empire:
+- Kanishka ruled a large territory covering parts of Central Asia and northern India.
+- Purushapura, modern Peshawar, was an important Kushana centre.
+- Mathura was another major centre of his empire.
+
+2. Patronage of Buddhism:
+- Kanishka is traditionally associated with the patronage of Buddhism.
+- Buddhist scholars and monks received support.
+- Buddhist ideas and institutions spread across Central Asia.
+
+3. Fourth Buddhist Council:
+- Buddhist tradition associates Kanishka with the Fourth Buddhist Council.
+- It is traditionally said to have been held in Kashmir.
+- Vasumitra is associated with its leadership in many accounts.
+- Ashvaghosha is another important Buddhist scholar associated with the Kushana period.
+- The details of the council vary between Buddhist traditions.
+
+4. Buddhist Literature:
+- Scholarly discussions and commentaries on Buddhist teachings developed.
+- Sanskrit became important in some Buddhist literary traditions.
+
+5. Trade and Culture:
+- Kushana territory connected India with Central Asia through trade routes.
+- Buddhism spread along these routes.
+- Gandhara and Mathura became important centres of art.
+
+TNPSC Important Facts:
+- Kanishka – Kushana ruler.
+- Purushapura – Modern Peshawar.
+- Fourth Buddhist Council – Traditionally associated with Kashmir and Kanishka.
+- Vasumitra – Associated with the council.
+- Ashvaghosha – Buddhist scholar.`,
+ta: `கனிஷ்கர் குஷாண வம்சத்தின் புகழ்பெற்ற மன்னர்களில் ஒருவர். இவரது ஆட்சிக்காலம் பொதுவாக கி.பி. இரண்டாம் நூற்றாண்டில் அமைக்கப்படுகிறது. ஆனால் இவர் அரியணை ஏறிய சரியான ஆண்டு குறித்து அறிஞர்களிடையே கருத்து வேறுபாடு உள்ளது.
+
+1. கனிஷ்கரின் பேரரசு:
+- மத்திய ஆசியா மற்றும் வட இந்தியாவின் சில பகுதிகளை உள்ளடக்கிய பரந்த நிலப்பரப்பை ஆட்சி செய்தார்.
+- இன்றைய பெஷாவர் எனப்படும் புருஷபுரம் முக்கியமான குஷாண மையமாக இருந்தது.
+- மதுராவும் முக்கியமான நகரமாக விளங்கியது.
+
+2. பௌத்த சமய ஆதரவு:
+- கனிஷ்கர் பாரம்பரியமாக பௌத்த சமயத்தின் ஆதரவாளராகக் கருதப்படுகிறார்.
+- பௌத்த அறிஞர்களுக்கும் துறவிகளுக்கும் ஆதரவு அளிக்கப்பட்டது.
+- மத்திய ஆசியாவில் பௌத்தக் கருத்துகளும் நிறுவனங்களும் பரவின.
+
+3. நான்காவது பௌத்த சங்கம்:
+- பௌத்த மரபின்படி கனிஷ்கர் நான்காவது பௌத்த சங்கத்துடன் தொடர்புடையவர்.
+- இது பாரம்பரியமாக காஷ்மீரில் நடைபெற்றதாகக் கூறப்படுகிறது.
+- பல குறிப்புகளில் வசுமித்திரர் இதற்குத் தலைமை தாங்கியதாகக் கூறப்படுகிறது.
+- அசுவகோஷர் குஷாணர் காலத்தின் மற்றொரு முக்கிய பௌத்த அறிஞர்.
+- இந்தச் சங்கம் பற்றிய விவரங்கள் பௌத்த மரபுகளுக்கு இடையே மாறுபடுகின்றன.
+
+4. பௌத்த இலக்கியம்:
+- பௌத்த போதனைகள் பற்றிய அறிஞர்களின் விவாதங்களும் உரைகளும் வளர்ச்சி பெற்றன.
+- சில பௌத்த இலக்கிய மரபுகளில் சமஸ்கிருதம் முக்கியத்துவம் பெற்றது.
+
+5. வணிகமும் பண்பாடும்:
+- குஷாணப் பேரரசின் வணிகப் பாதைகள் இந்தியாவையும் மத்திய ஆசியாவையும் இணைத்தன.
+- இப்பாதைகள் வழியாக பௌத்தம் பரவியது.
+- காந்தாரமும் மதுராவும் முக்கியக் கலை மையங்களாக விளங்கின.
+
+TNPSC முக்கிய குறிப்புகள்:
+- கனிஷ்கர் – குஷாண மன்னர்.
+- புருஷபுரம் – இன்றைய பெஷாவர்.
+- நான்காவது பௌத்த சங்கம் – பாரம்பரியமாக காஷ்மீர் மற்றும் கனிஷ்கருடன் தொடர்புடையது.
+- வசுமித்திரர் – சங்கத்துடன் தொடர்புடையவர்.
+- அசுவகோஷர் – பௌத்த அறிஞர்.`,
+points:[
+"Kanishka – Kushana emperor",
+"Purushapura – Modern Peshawar",
+"Fourth Buddhist Council – Traditionally Kashmir",
+"Vasumitra – Associated with Fourth Council",
+"Ashvaghosha – Buddhist scholar",
+"கனிஷ்கர் – குஷாண மன்னர்",
+"புருஷபுரம் – பெஷாவர்",
+"நான்காவது பௌத்த சங்கம் – காஷ்மீர் மரபு",
+"வசுமித்திரர் – பௌத்த அறிஞர்"
+]
+}
+
+);
