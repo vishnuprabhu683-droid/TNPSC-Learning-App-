@@ -131,6 +131,9 @@ document.querySelectorAll("main > *:not(#content)").forEach(el => {
 });
 
 const lessons = tnpscLessons[subject];
+if (subject === "General Studies") {
+  window.tnpscReturnToSubjects = false;
+}
 
 
   if (!area) return;
@@ -145,7 +148,7 @@ const lessons = tnpscLessons[subject];
         <p>Choose a subject / பாடத்தைத் தேர்வு செய்யவும்</p>
         ${Object.keys(tnpscLessons).map(s =>
           `<button style="width:100%;margin:5px 0"
-          onclick="window.tnpscReturnToSubjects = true; openTNPSCStudy('${s}','${language}')">${s}</button>`
+          onclick="openTNPSCStudy('${s}','${language}'); window.tnpscReturnToSubjects = true;">${s}</button>`
         ).join("")}
       </div>`;
     area.scrollIntoView({behavior:"smooth"});
@@ -177,10 +180,9 @@ function closeTNPSCStudy() {
   const area = document.getElementById("content");
 
   if (window.tnpscReturnToSubjects) {
-    window.tnpscReturnToSubjects = false;
-    openTNPSCStudy("General Studies", localStorage.getItem("tnpscLanguage") || "ta");
-    return;
-  }
+  openTNPSCStudy("General Studies", localStorage.getItem("tnpscLanguage") || "ta");
+  return;
+}
 
   Array.from(area.parentElement.children).forEach(el => {
     el.style.display = "";
