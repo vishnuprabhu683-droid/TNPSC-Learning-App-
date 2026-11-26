@@ -1135,3 +1135,190 @@ const february2025Batch1 = [
 
 tnpscCurrentAffairsLessons.push(...february2025Batch1);
 
+
+const february2025Batch2Fixed = [
+  {
+    title: "February 2025 – 31. Gyanesh Kumar Becomes Chief Election Commissioner",
+    en: `Gyanesh Kumar assumed office as the 26th Chief Election Commissioner of India on 19 February 2025. He succeeded Rajiv Kumar. The Election Commission of India is a constitutional body responsible for conducting elections to Parliament, State Legislatures and the offices of the President and Vice-President.`,
+    ta: `ஞானேஷ் குமார் 2025 பிப்ரவரி 19 அன்று இந்தியாவின் 26வது தலைமைத் தேர்தல் ஆணையராகப் பொறுப்பேற்றார். இவர் ராஜீவ் குமாருக்குப் பின் பதவியேற்றார். நாடாளுமன்றம், மாநில சட்டமன்றங்கள், குடியரசுத் தலைவர் மற்றும் துணைக் குடியரசுத் தலைவர் தேர்தல்களை நடத்துவது இந்தியத் தேர்தல் ஆணையத்தின் முக்கியப் பணியாகும்.`,
+    points: ["26th Chief Election Commissioner", "Assumed office: 19 February 2025", "Predecessor: Rajiv Kumar"]
+  },
+  {
+    title: "February 2025 – 32. Vivek Joshi Appointed Election Commissioner",
+    en: `Dr Vivek Joshi was appointed as an Election Commissioner of India through a notification dated 17 February 2025. He joined the Election Commission on 19 February 2025. He is a 1989-batch IAS officer of the Haryana cadre.`,
+    ta: `டாக்டர் விவேக் ஜோஷி 2025 பிப்ரவரி 17 தேதியிட்ட அறிவிப்பின் மூலம் இந்தியத் தேர்தல் ஆணையராக நியமிக்கப்பட்டார். அவர் பிப்ரவரி 19 அன்று பொறுப்பேற்றார். இவர் 1989ஆம் ஆண்டு ஹரியானா பிரிவைச் சேர்ந்த இந்திய ஆட்சிப் பணி அதிகாரி ஆவார்.`,
+    points: ["Name: Dr Vivek Joshi", "Joined: 19 February 2025", "IAS batch: 1989", "Cadre: Haryana"]
+  },
+  {
+    title: "February 2025 – 33. Rekha Gupta Becomes Delhi Chief Minister",
+    en: `Rekha Gupta was sworn in as the Chief Minister of Delhi on 20 February 2025 after the BJP won the Delhi Assembly election. She became the fourth woman to serve as Chief Minister of Delhi.`,
+    ta: `டெல்லி சட்டமன்றத் தேர்தலில் பாஜக வெற்றி பெற்றதைத் தொடர்ந்து ரேகா குப்தா 2025 பிப்ரவரி 20 அன்று டெல்லி முதலமைச்சராகப் பதவியேற்றார். டெல்லியின் நான்காவது பெண் முதலமைச்சர் என்ற பெருமையைப் பெற்றார்.`,
+    points: ["Chief Minister: Rekha Gupta", "Oath: 20 February 2025", "Political party: BJP"]
+  },
+  {
+    title: "February 2025 – 34. President's Rule Imposed in Manipur",
+    en: `President's Rule was imposed in Manipur on 13 February 2025 under Article 356 of the Constitution. The decision followed the resignation of Chief Minister N. Biren Singh. The Manipur Legislative Assembly was placed under suspended animation.`,
+    ta: `மணிப்பூரில் 2025 பிப்ரவரி 13 அன்று அரசியலமைப்புச் சட்டப்பிரிவு 356ன் கீழ் குடியரசுத் தலைவர் ஆட்சி அமல்படுத்தப்பட்டது. முதலமைச்சர் என். பைரேன் சிங் பதவி விலகியதைத் தொடர்ந்து இந்த நடவடிக்கை எடுக்கப்பட்டது. மணிப்பூர் சட்டமன்றம் இடைநிறுத்தப்பட்ட நிலையில் வைக்கப்பட்டது.`,
+    points: ["State: Manipur", "Date: 13 February 2025", "Constitutional provision: Article 356", "Former Chief Minister: N. Biren Singh"]
+  },
+  {
+    title: "February 2025 – 35. RBI Reduces Repo Rate to 6.25%",
+    en: `The Reserve Bank of India's Monetary Policy Committee reduced the policy repo rate by 25 basis points, from 6.50% to 6.25%, on 7 February 2025. It was the first reduction since May 2020. The committee retained a neutral policy stance.`,
+    ta: `இந்திய ரிசர்வ் வங்கியின் நாணயக் கொள்கைக் குழு 2025 பிப்ரவரி 7 அன்று ரெப்போ வட்டி விகிதத்தை 6.50 சதவீதத்திலிருந்து 6.25 சதவீதமாக 25 அடிப்படைப் புள்ளிகள் குறைத்தது. மே 2020க்குப் பிறகு செய்யப்பட்ட முதல் குறைப்பு இதுவாகும். நடுநிலையான நாணயக் கொள்கை நிலைப்பாடு தொடரப்பட்டது.`,
+    points: ["Repo rate: 6.25%", "Reduction: 25 basis points", "Date: 7 February 2025", "Institution: RBI"]
+  },
+  {
+    title: "February 2025 – 36. RBI Announces Bank.in and Fin.in Domains",
+    en: `The Reserve Bank of India announced exclusive internet domains, bank.in for banks and fin.in for other entities in the financial sector, in its February 2025 policy statement. The initiative aims to improve trust in digital financial services and reduce phishing and online payment fraud.`,
+    ta: `இந்திய ரிசர்வ் வங்கி 2025 பிப்ரவரி நாணயக் கொள்கை அறிக்கையில் வங்கிகளுக்கு bank.in என்றும் நிதித்துறையின் பிற நிறுவனங்களுக்கு fin.in என்றும் தனிப்பட்ட இணையதள முகவரிகளை அறிமுகப்படுத்துவதாக அறிவித்தது. டிஜிட்டல் நிதிச் சேவைகளில் நம்பிக்கையை அதிகரித்து இணைய மோசடிகளைக் குறைப்பது இதன் நோக்கமாகும்.`,
+    points: ["Banks: .bank.in", "Other financial entities: .fin.in", "Purpose: Cybersecurity and fraud prevention"]
+  },
+  {
+    title: "February 2025 – 37. AI Action Summit Held in Paris",
+    en: `The AI Action Summit was held in Paris, France, on 10 and 11 February 2025. Prime Minister Narendra Modi and French President Emmanuel Macron co-chaired the summit. Discussions focused on responsible, inclusive and trustworthy artificial intelligence and international cooperation.`,
+    ta: `செயற்கை நுண்ணறிவு நடவடிக்கை உச்சி மாநாடு 2025 பிப்ரவரி 10 மற்றும் 11 ஆகிய தேதிகளில் பிரான்சின் பாரிஸில் நடைபெற்றது. இந்தியப் பிரதமர் நரேந்திர மோடியும் பிரான்ஸ் அதிபர் இம்மானுவேல் மேக்ரானும் இணைந்து மாநாட்டிற்குத் தலைமை தாங்கினர். பொறுப்பான, அனைவரையும் உள்ளடக்கிய மற்றும் நம்பகமான செயற்கை நுண்ணறிவு குறித்து விவாதிக்கப்பட்டது.`,
+    points: ["Venue: Paris, France", "Dates: 10–11 February 2025", "Co-chairs: Narendra Modi and Emmanuel Macron"]
+  },
+  {
+    title: "February 2025 – 38. Prime Minister's Visit to France",
+    en: `Prime Minister Narendra Modi visited France from 10 to 12 February 2025. He co-chaired the AI Action Summit with French President Emmanuel Macron. The visit also included discussions on strengthening India-France strategic cooperation in technology, defence and other areas.`,
+    ta: `பிரதமர் நரேந்திர மோடி 2025 பிப்ரவரி 10 முதல் 12 வரை பிரான்சுக்கு பயணம் மேற்கொண்டார். பிரான்ஸ் அதிபர் இம்மானுவேல் மேக்ரானுடன் இணைந்து AI Action Summit மாநாட்டிற்குத் தலைமை தாங்கினார். தொழில்நுட்பம், பாதுகாப்பு உள்ளிட்ட துறைகளில் இந்தியா–பிரான்ஸ் ஒத்துழைப்பை வலுப்படுத்துவது குறித்தும் விவாதிக்கப்பட்டது.`,
+    points: ["Country visited: France", "Dates: 10–12 February 2025", "French President: Emmanuel Macron"]
+  },
+  {
+    title: "February 2025 – 39. Prime Minister Visits the United States",
+    en: `Prime Minister Narendra Modi visited the United States and met President Donald Trump in Washington, DC, on 13 February 2025. The leaders discussed defence, trade, technology, energy and the wider India-US strategic partnership.`,
+    ta: `பிரதமர் நரேந்திர மோடி 2025 பிப்ரவரி 13 அன்று அமெரிக்காவின் வாஷிங்டன் டி.சி. நகரில் அதிபர் டொனால்ட் டிரம்பைச் சந்தித்தார். பாதுகாப்பு, வர்த்தகம், தொழில்நுட்பம், எரிசக்தி மற்றும் இந்தியா–அமெரிக்க மூலோபாய உறவுகள் குறித்து இரு தலைவர்களும் விவாதித்தனர்.`,
+    points: ["US President: Donald Trump", "Meeting date: 13 February 2025", "Venue: Washington, DC"]
+  },
+  {
+    title: "February 2025 – 40. US-India COMPACT Initiative",
+    en: `India and the United States launched the US-India COMPACT initiative during Prime Minister Narendra Modi's February 2025 visit. COMPACT stands for Catalyzing Opportunities for Military Partnership, Accelerated Commerce and Technology. It aims to strengthen cooperation in defence, commerce and technology.`,
+    ta: `பிரதமர் நரேந்திர மோடியின் 2025 பிப்ரவரி அமெரிக்கப் பயணத்தின் போது US-India COMPACT முன்னெடுப்பு தொடங்கப்பட்டது. COMPACT என்பதன் விரிவாக்கம் Catalyzing Opportunities for Military Partnership, Accelerated Commerce and Technology என்பதாகும். பாதுகாப்பு, வர்த்தகம் மற்றும் தொழில்நுட்ப ஒத்துழைப்பை வலுப்படுத்துவது இதன் நோக்கமாகும்.`,
+    points: ["Initiative: US-India COMPACT", "Military partnership", "Accelerated commerce", "Technology cooperation"]
+  },
+  {
+    title: "February 2025 – 41. India and Qatar Elevate Ties to Strategic Partnership",
+    en: `During the State Visit of Qatar's Amir Sheikh Tamim bin Hamad Al Thani to India on 17–18 February 2025, both countries agreed to elevate bilateral relations to a strategic partnership. Cooperation includes trade, investment, energy, food security, health and culture.`,
+    ta: `கத்தார் அமீர் ஷேக் தமீம் பின் ஹமத் அல் தானி 2025 பிப்ரவரி 17–18 தேதிகளில் இந்தியாவிற்கு அரசுமுறைப் பயணம் மேற்கொண்டார். அப்போது இந்தியா–கத்தார் உறவை மூலோபாயக் கூட்டாண்மை நிலைக்கு உயர்த்த இரு நாடுகளும் ஒப்புக்கொண்டன. வர்த்தகம், முதலீடு, எரிசக்தி, உணவுப் பாதுகாப்பு, சுகாதாரம் மற்றும் கலாச்சாரம் ஆகிய துறைகளில் ஒத்துழைப்பு விரிவுபடுத்தப்பட்டது.`,
+    points: ["Country: Qatar", "Amir: Sheikh Tamim bin Hamad Al Thani", "Visit: 17–18 February 2025", "Outcome: Strategic partnership"]
+  },
+  {
+    title: "February 2025 – 42. Chikkaiah Naicker College Bill Receives Presidential Assent",
+    en: `The Ministry of Home Affairs reported that the President of India assented to the Chikkaiah Naicker College, Erode (Transfer and Vesting) Bill, 2022 during February 2025. The legislation concerns Chikkaiah Naicker College in Erode, Tamil Nadu.`,
+    ta: `ஈரோட்டில் உள்ள சிக்கையா நாயக்கர் கல்லூரி தொடர்பான Chikkaiah Naicker College, Erode (Transfer and Vesting) Bill, 2022க்கு 2025 பிப்ரவரியில் இந்தியக் குடியரசுத் தலைவர் ஒப்புதல் அளித்ததாக மத்திய உள்துறை அமைச்சகம் தெரிவித்தது.`,
+    points: ["State: Tamil Nadu", "Location: Erode", "Bill: Chikkaiah Naicker College, Erode (Transfer and Vesting) Bill, 2022"]
+  },
+  {
+    title: "February 2025 – 43. 38th National Games Conclude in Uttarakhand",
+    en: `The 38th National Games of India concluded on 14 February 2025. The Games were held across venues in Uttarakhand from 28 January to 14 February. Athletes from States, Union Territories and institutional teams participated in the national sporting event.`,
+    ta: `இந்தியாவின் 38வது தேசிய விளையாட்டுப் போட்டிகள் 2025 பிப்ரவரி 14 அன்று நிறைவடைந்தன. உத்தரகண்ட் மாநிலத்தின் பல்வேறு இடங்களில் ஜனவரி 28 முதல் பிப்ரவரி 14 வரை போட்டிகள் நடைபெற்றன. மாநிலங்கள், யூனியன் பிரதேசங்கள் மற்றும் நிறுவன அணிகளைச் சேர்ந்த வீரர்கள் பங்கேற்றனர்.`,
+    points: ["Edition: 38th National Games", "Host state: Uttarakhand", "Dates: 28 January–14 February 2025"]
+  },
+  {
+    title: "February 2025 – 44. Services Sports Control Board Tops National Games",
+    en: `The Services Sports Control Board topped the medal table at the 38th National Games. It won 68 gold, 26 silver and 27 bronze medals. Maharashtra finished as the first runner-up with 54 gold medals, while Haryana finished second runner-up.`,
+    ta: `38வது தேசிய விளையாட்டுப் போட்டிகளின் பதக்கப் பட்டியலில் சர்வீசஸ் ஸ்போர்ட்ஸ் கண்ட்ரோல் போர்டு முதலிடம் பிடித்தது. அது 68 தங்கம், 26 வெள்ளி மற்றும் 27 வெண்கலப் பதக்கங்களை வென்றது. மகாராஷ்டிரா 54 தங்கப் பதக்கங்களுடன் இரண்டாம் இடத்தையும், ஹரியானா மூன்றாம் இடத்தையும் பெற்றன.`,
+    points: ["Top team: Services Sports Control Board", "Gold medals: 68", "Maharashtra: 54 gold medals"]
+  },
+  {
+    title: "February 2025 – 45. Meghalaya to Host 39th National Games",
+    en: `At the closing ceremony of the 38th National Games, Meghalaya was announced as the host of the 39th National Games in 2026. This announcement marked the next stage in India's national multi-sport competition.`,
+    ta: `38வது தேசிய விளையாட்டுப் போட்டிகளின் நிறைவு விழாவில், 2026ஆம் ஆண்டில் நடைபெறவுள்ள 39வது தேசிய விளையாட்டுப் போட்டிகளை மேகாலயா நடத்தும் என அறிவிக்கப்பட்டது. இந்தியாவின் தேசிய அளவிலான பல்விளையாட்டுப் போட்டிகளின் அடுத்த கட்டமாக இது அமைந்தது.`,
+    points: ["Next edition: 39th National Games", "Host: Meghalaya", "Year: 2026"]
+  },
+  {
+    title: "February 2025 – 46. Praggnanandhaa Wins Tata Steel Chess Masters",
+    en: `Indian Grandmaster R. Praggnanandhaa won the 2025 Tata Steel Chess Masters tournament held in Wijk aan Zee, Netherlands. He defeated reigning world champion D. Gukesh in the final tie-break to secure the title.`,
+    ta: `இந்திய கிராண்ட்மாஸ்டர் ஆர். பிரக்ஞானந்தா நெதர்லாந்தின் விஜ்க் ஆன் ஸீ நகரில் நடைபெற்ற 2025 டாடா ஸ்டீல் செஸ் மாஸ்டர்ஸ் போட்டியில் வெற்றி பெற்றார். இறுதிப் போட்டியின் டைபிரேக்கரில் உலக சாம்பியன் டி. குகேஷை வீழ்த்தி பட்டத்தை வென்றார்.`,
+    points: ["Winner: R. Praggnanandhaa", "Tournament: Tata Steel Chess Masters 2025", "Venue: Wijk aan Zee, Netherlands", "Opponent in final tie-break: D. Gukesh"]
+  },
+  {
+    title: "February 2025 – 47. Chandrika Tandon Wins Grammy Award",
+    en: `Indian-American musician Chandrika Tandon won the 2025 Grammy Award for Best New Age, Ambient or Chant Album. She shared the award with Wouter Kellerman and Eru Matsumoto for the album Triveni at the 67th Annual Grammy Awards.`,
+    ta: `இந்திய வம்சாவளியைச் சேர்ந்த அமெரிக்க இசைக் கலைஞர் சந்திரிகா டாண்டன் 2025 கிராமி விருதைப் பெற்றார். 67வது கிராமி விருது விழாவில் Wouter Kellerman மற்றும் Eru Matsumoto ஆகியோருடன் இணைந்து Triveni ஆல்பத்திற்காக Best New Age, Ambient or Chant Album பிரிவில் விருது பெற்றார்.`,
+    points: ["Artist: Chandrika Tandon", "Album: Triveni", "Award: Best New Age, Ambient or Chant Album", "Ceremony: 67th Grammy Awards"]
+  },
+  {
+    title: "February 2025 – 48. ICC Champions Trophy 2025 Begins",
+    en: `The ICC Men's Champions Trophy 2025 began on 19 February 2025. Pakistan was the official host, while India's matches were played in Dubai under a hybrid arrangement. Eight teams competed in the tournament.`,
+    ta: `2025 ஐசிசி ஆண்கள் சாம்பியன்ஸ் டிராபி கிரிக்கெட் போட்டி பிப்ரவரி 19 அன்று தொடங்கியது. பாகிஸ்தான் அதிகாரப்பூர்வ போட்டி நடத்தும் நாடாக இருந்தது. கலப்பு ஏற்பாட்டின் கீழ் இந்தியாவின் போட்டிகள் துபாயில் நடைபெற்றன. மொத்தம் எட்டு அணிகள் போட்டியில் பங்கேற்றன.`,
+    points: ["Tournament: ICC Men's Champions Trophy 2025", "Start date: 19 February 2025", "Official host: Pakistan", "India's matches: Dubai"]
+  },
+  {
+    title: "February 2025 – 49. Virat Kohli Crosses 14,000 ODI Runs",
+    en: `Virat Kohli crossed 14,000 runs in One Day International cricket during India's Champions Trophy match against Pakistan on 23 February 2025. He became only the third batter in ODI history to reach this milestone, after Sachin Tendulkar and Kumar Sangakkara.`,
+    ta: `2025 பிப்ரவரி 23 அன்று பாகிஸ்தானுக்கு எதிரான சாம்பியன்ஸ் டிராபி போட்டியில் விராட் கோலி ஒருநாள் சர்வதேச கிரிக்கெட்டில் 14,000 ரன்களைக் கடந்தார். சச்சின் டெண்டுல்கர் மற்றும் குமார் சங்கக்கராவுக்குப் பிறகு இந்தச் சாதனையைப் படைத்த மூன்றாவது வீரர் ஆனார்.`,
+    points: ["Player: Virat Kohli", "Milestone: 14,000 ODI runs", "Date: 23 February 2025", "Earlier players: Sachin Tendulkar and Kumar Sangakkara"]
+  },
+  {
+    title: "February 2025 – 50. World Cancer Day",
+    en: `World Cancer Day was observed on 4 February 2025. The campaign theme for 2025–2027 was “United by Unique”. The campaign highlights the importance of placing people and their individual needs at the centre of cancer care.`,
+    ta: `உலக புற்றுநோய் தினம் 2025 பிப்ரவரி 4 அன்று கடைப்பிடிக்கப்பட்டது. 2025–2027 காலத்திற்கான கருப்பொருள் “United by Unique” என்பதாகும். புற்றுநோய் சிகிச்சையில் ஒவ்வொரு நபரின் தனிப்பட்ட தேவைகளுக்கும் முக்கியத்துவம் அளிப்பதே இந்தப் பிரச்சாரத்தின் நோக்கமாகும்.`,
+    points: ["Date: 4 February", "Theme 2025–2027: United by Unique", "Organisation: Union for International Cancer Control"]
+  },
+  {
+    title: "February 2025 – 51. World Pulses Day",
+    en: `World Pulses Day was observed on 10 February 2025. The Food and Agriculture Organization announced the theme “Pulses: Bringing diversity to agrifood systems”. Pulses are important sources of protein and support sustainable agriculture and soil health.`,
+    ta: `உலகப் பயறு வகைகள் தினம் 2025 பிப்ரவரி 10 அன்று கடைப்பிடிக்கப்பட்டது. “Pulses: Bringing diversity to agrifood systems” என்பது 2025ஆம் ஆண்டின் கருப்பொருளாகும். பயறு வகைகள் புரதச்சத்திற்கான முக்கிய ஆதாரமாகவும் நிலையான வேளாண்மை மற்றும் மண் வளத்தை மேம்படுத்தவும் உதவுகின்றன.`,
+    points: ["Date: 10 February", "Theme: Pulses: Bringing diversity to agrifood systems", "Organisation: FAO"]
+  },
+  {
+    title: "February 2025 – 52. International Day of Women and Girls in Science",
+    en: `The International Day of Women and Girls in Science was observed on 11 February 2025. The United Nations established this observance to promote equal access and participation for women and girls in science, technology, engineering and mathematics.`,
+    ta: `அறிவியலில் பெண்கள் மற்றும் சிறுமிகளுக்கான சர்வதேச தினம் 2025 பிப்ரவரி 11 அன்று கடைப்பிடிக்கப்பட்டது. அறிவியல், தொழில்நுட்பம், பொறியியல் மற்றும் கணிதத் துறைகளில் பெண்களுக்கும் சிறுமிகளுக்கும் சமமான வாய்ப்புகளையும் பங்கேற்பையும் ஊக்குவிப்பதே ஐக்கிய நாடுகள் சபையின் இந்த நாளின் நோக்கமாகும்.`,
+    points: ["Date: 11 February", "Organisation: United Nations", "Focus: Women in STEM"]
+  },
+  {
+    title: "February 2025 – 53. Safer Internet Day",
+    en: `Safer Internet Day was observed on 11 February 2025 under the theme “Together for a Better Internet”. In Tamil Nadu, the National Informatics Centre organised awareness activities at 30 locations and reached 2,889 participants. The campaign promoted cyber hygiene and responsible internet use.`,
+    ta: `பாதுகாப்பான இணைய தினம் 2025 பிப்ரவரி 11 அன்று “Together for a Better Internet” என்ற கருப்பொருளில் கடைப்பிடிக்கப்பட்டது. தமிழ்நாட்டில் தேசிய தகவல் மையம் 30 இடங்களில் விழிப்புணர்வு நிகழ்ச்சிகளை நடத்தியது. இதில் 2,889 பேர் பங்கேற்றனர். இணையப் பாதுகாப்பு மற்றும் பொறுப்பான இணையப் பயன்பாடு குறித்து விழிப்புணர்வு ஏற்படுத்தப்பட்டது.`,
+    points: ["Date: 11 February 2025", "Theme: Together for a Better Internet", "Tamil Nadu locations: 30", "Participants: 2,889"]
+  },
+  {
+    title: "February 2025 – 54. World Radio Day",
+    en: `World Radio Day was observed on 13 February 2025. The day recognises radio as an important medium for information, education, public communication and emergency awareness. UNESCO proclaimed World Radio Day in 2011, and the United Nations General Assembly endorsed it in 2012.`,
+    ta: `உலக வானொலி தினம் 2025 பிப்ரவரி 13 அன்று கடைப்பிடிக்கப்பட்டது. தகவல், கல்வி, பொதுத் தொடர்பு மற்றும் அவசரகால விழிப்புணர்வில் வானொலியின் முக்கியத்துவத்தை எடுத்துரைப்பதே இந்த நாளின் நோக்கமாகும். UNESCO 2011ஆம் ஆண்டு உலக வானொலி தினத்தை அறிவித்தது; ஐக்கிய நாடுகள் பொதுச் சபை 2012ஆம் ஆண்டு இதனை ஏற்றுக்கொண்டது.`,
+    points: ["Date: 13 February", "Proclaimed by: UNESCO in 2011", "UN endorsement: 2012"]
+  },
+  {
+    title: "February 2025 – 55. World Day of Social Justice",
+    en: `World Day of Social Justice was observed on 20 February 2025. The United Nations uses this day to promote efforts to address poverty, exclusion, unemployment and inequality and to advance social justice and decent work for all.`,
+    ta: `உலக சமூக நீதி தினம் 2025 பிப்ரவரி 20 அன்று கடைப்பிடிக்கப்பட்டது. வறுமை, சமூகப் புறக்கணிப்பு, வேலைவாய்ப்பின்மை மற்றும் சமத்துவமின்மை போன்ற பிரச்சினைகளைத் தீர்த்து அனைவருக்கும் சமூக நீதி மற்றும் கண்ணியமான வேலைவாய்ப்பை மேம்படுத்துவது இந்த நாளின் நோக்கமாகும்.`,
+    points: ["Date: 20 February", "Organisation: United Nations", "Focus: Equality, inclusion and decent work"]
+  },
+  {
+    title: "February 2025 – 56. International Mother Language Day",
+    en: `International Mother Language Day was observed on 21 February 2025. UNESCO first proclaimed the day in 1999, and it has been observed worldwide since 2000. It promotes linguistic and cultural diversity and multilingual education.`,
+    ta: `சர்வதேச தாய்மொழி தினம் 2025 பிப்ரவரி 21 அன்று கடைப்பிடிக்கப்பட்டது. UNESCO 1999ஆம் ஆண்டு இந்த நாளை அறிவித்தது. 2000ஆம் ஆண்டு முதல் உலகம் முழுவதும் கடைப்பிடிக்கப்பட்டு வருகிறது. மொழி மற்றும் கலாச்சாரப் பன்மைத்துவத்தையும் பல்மொழிக் கல்வியையும் ஊக்குவிப்பதே இதன் நோக்கமாகும்.`,
+    points: ["Date: 21 February", "Proclaimed by: UNESCO in 1999", "Observed since: 2000", "Focus: Linguistic diversity"]
+  },
+  {
+    title: "February 2025 – 57. National Science Day",
+    en: `National Science Day was observed in India on 28 February 2025. It commemorates the discovery of the Raman Effect by Sir C. V. Raman in 1928. The 2025 theme was “Empowering Indian Youth for Global Leadership in Science & Innovation for Viksit Bharat”.`,
+    ta: `இந்தியாவில் தேசிய அறிவியல் தினம் 2025 பிப்ரவரி 28 அன்று கடைப்பிடிக்கப்பட்டது. 1928ஆம் ஆண்டு சர் சி.வி. ராமன் கண்டறிந்த ராமன் விளைவை நினைவுகூரும் வகையில் இந்நாள் கடைப்பிடிக்கப்படுகிறது. 2025ஆம் ஆண்டின் கருப்பொருள் “Empowering Indian Youth for Global Leadership in Science & Innovation for Viksit Bharat” என்பதாகும்.`,
+    points: ["Date: 28 February", "Scientist: Sir C. V. Raman", "Discovery: Raman Effect", "Discovery year: 1928"]
+  },
+  {
+    title: "February 2025 – 58. World NGO Day",
+    en: `World NGO Day was observed on 27 February 2025. It recognises the contribution of non-governmental organisations and civil society groups to social development, humanitarian assistance, education, health and environmental protection.`,
+    ta: `உலக அரசு சாரா அமைப்புகள் தினம் 2025 பிப்ரவரி 27 அன்று கடைப்பிடிக்கப்பட்டது. சமூக மேம்பாடு, மனிதநேய உதவி, கல்வி, சுகாதாரம் மற்றும் சுற்றுச்சூழல் பாதுகாப்பு ஆகிய துறைகளில் அரசு சாரா அமைப்புகள் மற்றும் குடிமைச் சமூகக் குழுக்கள் ஆற்றும் பங்களிப்பை அங்கீகரிப்பதே இதன் நோக்கமாகும்.`,
+    points: ["Date: 27 February", "Abbreviation: NGO", "Focus: Civil society and social development"]
+  },
+  {
+    title: "February 2025 – 59. Munich Security Conference",
+    en: `The 61st Munich Security Conference was held in Germany from 14 to 16 February 2025. It brought together political leaders, diplomats, defence officials and experts to discuss international security, geopolitical tensions and global cooperation.`,
+    ta: `61வது முனிச் பாதுகாப்பு மாநாடு 2025 பிப்ரவரி 14 முதல் 16 வரை ஜெர்மனியில் நடைபெற்றது. சர்வதேச பாதுகாப்பு, புவிசார் அரசியல் பதற்றங்கள் மற்றும் உலகளாவிய ஒத்துழைப்பு குறித்து விவாதிக்க அரசியல் தலைவர்கள், தூதர்கள், பாதுகாப்பு அதிகாரிகள் மற்றும் நிபுணர்கள் பங்கேற்றனர்.`,
+    points: ["Edition: 61st", "Country: Germany", "Dates: 14–16 February 2025", "Focus: International security"]
+  },
+  {
+    title: "February 2025 – 60. World Government Summit",
+    en: `The World Government Summit 2025 was held in Dubai, United Arab Emirates, from 11 to 13 February. The summit brought together government leaders, policymakers and experts to discuss future governance, innovation, technology and international cooperation.`,
+    ta: `2025ஆம் ஆண்டுக்கான உலக அரசுகள் உச்சி மாநாடு ஐக்கிய அரபு அமீரகத்தின் துபாயில் பிப்ரவரி 11 முதல் 13 வரை நடைபெற்றது. எதிர்கால நிர்வாகம், புதுமை, தொழில்நுட்பம் மற்றும் சர்வதேச ஒத்துழைப்பு குறித்து விவாதிக்க அரசுத் தலைவர்கள், கொள்கை வகுப்பாளர்கள் மற்றும் நிபுணர்கள் பங்கேற்றனர்.`,
+    points: ["Venue: Dubai, UAE", "Dates: 11–13 February 2025", "Focus: Future governments and innovation"]
+  }
+];
+
+tnpscCurrentAffairsLessons.push(...february2025Batch2Fixed);
+
+
